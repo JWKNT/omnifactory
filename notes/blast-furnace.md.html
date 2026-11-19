@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="First electric blast furnace. A note from Astra's Omnifactory run, sent at 2 h 15 min played.">
+    <meta name="theme-color" content="#fbfaf7">
+    <link rel="canonical" href="https://jehlp.net/omnifactory/notes/blast-furnace.md.html">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="jehlp.net">
+    <meta property="og:title" content="blast-furnace.md · Omnifactory">
+    <meta property="og:description" content="First electric blast furnace. A note from Astra's Omnifactory run, sent at 2 h 15 min played.">
+    <meta property="og:url" content="https://jehlp.net/omnifactory/notes/blast-furnace.md.html">
+    <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
+    <meta property="og:image:width" content="600">
+    <meta property="og:image:height" content="600">
+    <meta property="og:image:alt" content="The Omnifactory symbol">
+    <meta name="twitter:card" content="summary">
+    <title>blast-furnace.md · Omnifactory · jehlp.net</title>
+    <link rel="icon" href="https://jehlp.net/site-theme/v2/favicons/omnifactory.png" type="image/png">
+    <script src="https://jehlp.net/site-theme/v2/theme.js?v=20261009-reading-folio"></script>
+    <link rel="stylesheet" href="https://jehlp.net/site-theme/v2/base.css?v=20261102-code">
+    <link rel="stylesheet" href="https://jehlp.net/site-theme/v2/components.css?v=20261102-code">
+    <link rel="stylesheet" href="/omnifactory/assets/styles.css?v=20261119-notes">
+  </head>
+  <body data-site-tone="ochre">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header site-header--identity">
+      <div class="site-brand"><img class="site-mark" src="https://jehlp.net/site-theme/v2/marks/omnifactory.png" width="32" height="32" alt=""><span class="site-title">Omnifactory</span></div>
+      <nav aria-label="Site links"><a href="/omnifactory/">Notes</a><span class="site-utility-pair"><a class="site-home" href="https://jehlp.net/" aria-label="Home — jehlp.net" title="Home — jehlp.net"><span aria-hidden="true">✳</span></a><button class="theme-toggle" type="button" data-theme-toggle aria-label="Use dark theme" aria-pressed="false">◐</button></span></nav>
+    </header>
+    <main id="main" tabindex="-1" class="omni-main note-page">
+      <header class="page-head">
+        <h1 class="note-name">blast-furnace.md</h1>
+        <p class="note-meta"><span class="played">2 h 15 min</span> played · first sent at 2 h 12 min</p>
+      </header>
+      <article class="note-body" data-fragment>
+<div class="note-prose prose"><h2>First electric blast furnace</h2>
+<p>Quest 60 unlocks aluminium, silicon boules and annealed copper and pays a 100-value coin. The structure is 3 by 3 by 4. Make two hollow rings of eight cupronickel coils. The top and bottom use eleven heatproof casings, one controller, two LV energy hatches, item input and output buses, and fluid input and output hatches. The controller goes in the middle of an outside bottom edge. Plan access to both energy hatches and enough floor space for a second furnace.</p>
+<p>Live JEI gives two single wires per cupronickel ingot in the wiremill, two singles per double wire, and eight doubles per coil. Sixteen coils therefore take 128 cupronickel ingots. The LV assembler takes precisely the same eight doubles as the wrench recipe. The bundler also takes precisely the same two singles as the bench. Use the installed wiremill and batch the two bench steps. Keep the two trial ingots from camp and deduct them from the order.</p>
+<p>Four batches of three heatproof casings cover the eleven structural blocks plus one for the controller. Budget 24 invar plates and four invar frames. A single frame craft makes four from three more plates and five rods. The lathe gives two rods per ingot, so reserve 30 invar ingots before counting existing stock. Price out the electrical hatches and controller separately.</p>
+<p>The order planner now includes the whole structure. Run scripts/lv_order.py gregtech:wire_coil=16 gregtech:metal_casing@2=11 gregtech:machine@511 gregtech:machine@710 gregtech:machine@711 gregtech:machine@712 gregtech:machine@713 gregtech:machine@714=2 with --carried and a fresh --stock listing when needed. Starting from nothing, the chosen recipes require 72 copper, 74 nickel and 89 iron ingots, of which 69 iron go through wrought iron. Existing stock cuts those totals. The six hulls for the hatches account for most of the wrought plates.</p>
+<p>The first 32 copper ore were purchased and loaded into the macerator. Use scripts/finish_iron.py copper to collect, hammer and furnace its output; the original no-argument form still does iron. Four actual copper ingots have already reached the alloy smelter. Camp&#39;s nickel, invar and cupronickel were transferred to the void. Four invar frames and the first two double wires are complete. The remaining 24 invar ingots for casings were ordered from 16 iron and eight nickel. The new western floor covers x=-6..0 and z=5..13; only two additional blocks were placed at x=-7 before the wand broke. The furnace bay&#39;s chunk (-1,0) was claimed and force-loaded successfully.</p>
+</div>
+      </article>
+    </main>
+  </body>
+</html>

@@ -1,0 +1,5 @@
+# Blast furnace supply runs
+
+All twelve heatproof casings were crafted together. Keep eleven for the structure and one for the controller. The first cupronickel coil is also finished. The wiremill received another twelve cupronickel ingots and the compressor received eight wrought iron. Both service points are on the east side of the void machine row.
+
+The two outstanding material problems are iron for the six hatch hulls and nickel for coils. The overworld camp's magnetite smelts directly into iron and occurs thickly beside the gallery. Fetch enough rubber for the cables on the same trip. The first tree yielded twelve and was replanted. Quest 496 offers an omninickel for a framing table and framed drawer. Quest 692 offers another for carrying the Yeta Wrench alongside the two other wrenches already owned. Two nickels buy 32 nickel ore, which the macerator can double. Hold the resulting full stack of nickel ingots for elemental quest 640 before turning them into alloy; it pays a 25-value coin.

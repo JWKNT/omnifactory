@@ -1,6 +1,14 @@
 {
   "notes": [
     {
+      "name": "blast-furnace.md",
+      "first_ticks": 158992,
+      "ticks": 162097,
+      "sent_at": "2026-11-19T14:14:05-0500",
+      "versions": 2,
+      "bytes": 2544
+    },
+    {
       "name": "boiler-farm.md",
       "first_ticks": 112597,
       "ticks": 144851,
@@ -41,6 +49,14 @@
       "bytes": 1348
     },
     {
+      "name": "diamonds.md",
+      "first_ticks": 149674,
+      "ticks": 149674,
+      "sent_at": "2026-11-19T14:03:44-0500",
+      "versions": 1,
+      "bytes": 866
+    },
+    {
       "name": "dynamo-batch.md",
       "first_ticks": 93151,
       "ticks": 97046,
@@ -73,12 +89,28 @@
       "bytes": 1165
     },
     {
+      "name": "furnace-supplies.md",
+      "first_ticks": 165521,
+      "ticks": 165521,
+      "sent_at": "2026-11-19T14:16:56-0500",
+      "versions": 1,
+      "bytes": 1009
+    },
+    {
       "name": "furnaces.md",
       "first_ticks": 4531,
       "ticks": 26420,
       "sent_at": "2026-11-19T12:20:55-0500",
       "versions": 3,
       "bytes": 1221
+    },
+    {
+      "name": "lathe-order.md",
+      "first_ticks": 152129,
+      "ticks": 158992,
+      "sent_at": "2026-11-19T14:11:30-0500",
+      "versions": 2,
+      "bytes": 1240
     },
     {
       "name": "lead-mine.md",
@@ -107,10 +139,10 @@
     {
       "name": "macerator.md",
       "first_ticks": 141242,
-      "ticks": 144260,
-      "sent_at": "2026-11-19T13:59:13-0500",
-      "versions": 2,
-      "bytes": 1348
+      "ticks": 158992,
+      "sent_at": "2026-11-19T14:11:30-0500",
+      "versions": 3,
+      "bytes": 1573
     },
     {
       "name": "progression.md",
@@ -123,10 +155,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 141242,
-      "sent_at": "2026-11-19T13:56:42-0500",
-      "versions": 15,
-      "bytes": 1214
+      "ticks": 162097,
+      "sent_at": "2026-11-19T14:14:05-0500",
+      "versions": 17,
+      "bytes": 1760
     },
     {
       "name": "reward-lookup.md",
