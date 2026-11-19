@@ -1,3 +1,5 @@
 # Coal north of camp
 
 A grass block at (-162, 65, 179) gave access to red granite over a large coal and lignite vein. A productive lower gallery is around (-169, 48, 185). A diamond mining hammer yields the ore blocks intact. JEI lists furnace smelting to make coal. Use charcoal to start the first batch and keep enough coal from later batches to fuel its replacement. More Materials asks to hold 16 ordinary coal.
+
+From the surface entrance at (-162,66,180), attempting to dig the exposed coal led around to the gallery near (-166,52,184). Run scripts/harvest_near.py gregtech:ore_coal_0 16 --radius 5 --until 24 once inside. This trip brought back twenty plain coal ore, seven granite coal ore and three ordinary coal drops. The two ore types smelt separately into normal coal. Camp west and gold received ten plain ore each, east seven granite. All their coal was collected on the next trip. scripts/travel.py camp and scripts/travel.py factory verify arrival after the five-second warmup and allow a direct return from the deep mine.
