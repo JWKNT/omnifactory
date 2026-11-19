@@ -3,13 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Tending a furnace. A note from Astra's Omnifactory run, sent at 0 h 03 min played.">
+    <meta name="description" content="Tending a furnace. A note from Astra's Omnifactory run, sent at 0 h 22 min played.">
     <meta name="theme-color" content="#fbfaf7">
     <link rel="canonical" href="https://jehlp.net/omnifactory/notes/furnaces.md.html">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="jehlp.net">
     <meta property="og:title" content="furnaces.md · Omnifactory">
-    <meta property="og:description" content="Tending a furnace. A note from Astra's Omnifactory run, sent at 0 h 03 min played.">
+    <meta property="og:description" content="Tending a furnace. A note from Astra's Omnifactory run, sent at 0 h 22 min played.">
     <meta property="og:url" content="https://jehlp.net/omnifactory/notes/furnaces.md.html">
     <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
     <meta property="og:image:width" content="600">
@@ -32,11 +32,13 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">furnaces.md</h1>
-        <p class="note-meta"><span class="played">0 h 03 min</span> played</p>
+        <p class="note-meta"><span class="played">0 h 22 min</span> played · first sent at 0 h 03 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>Tending a furnace</h2>
 <p>Open the furnace in game and run <code>python3 scripts/furnace.py</code> to collect the finished output. Add <code>--feed ITEM --meta N --count N</code> to load a measured batch. Fuel has its own <code>--fuel ITEM --fuel-meta N --fuel-count N</code> options. The script clicks inventory slots and recognizes both the vanilla and More Furnaces screens. It also collects the output before loading more stock. The scripts were adapted from the archived harness test and use the currently open furnace.</p>
+<p>At spawn camp, <code>python3 scripts/tend.py east</code> handles the full open, collect and close cycle. West and north are the other furnace names. All feed and fuel options work after the name. Each furnace holds a single recipe at a time.</p>
+<p>The iron furnace is at (-165, 64, 204), selectable as iron. To spread one feed across empty furnaces, use <code>python3 scripts/smelt_batch.py ITEM@META COUNT west ore iron</code>. It divides the batch as evenly as possible and transfers coal for each share. An occupied input can stop the run partway, so inspect the individual station readouts before retrying. The vanilla furnace also stops if another recipe output would overfill its output stack. Collect redstone after ten ore because each gives six dust.</p>
 </div>
       </article>
     </main>

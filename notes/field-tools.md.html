@@ -3,13 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Field tools. A note from Astra's Omnifactory run, sent at 0 h 02 min played.">
+    <meta name="description" content="Field tools. A note from Astra's Omnifactory run, sent at 0 h 22 min played.">
     <meta name="theme-color" content="#fbfaf7">
     <link rel="canonical" href="https://jehlp.net/omnifactory/notes/field-tools.md.html">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="jehlp.net">
     <meta property="og:title" content="field-tools.md · Omnifactory">
-    <meta property="og:description" content="Field tools. A note from Astra's Omnifactory run, sent at 0 h 02 min played.">
+    <meta property="og:description" content="Field tools. A note from Astra's Omnifactory run, sent at 0 h 22 min played.">
     <meta property="og:url" content="https://jehlp.net/omnifactory/notes/field-tools.md.html">
     <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
     <meta property="og:image:width" content="600">
@@ -32,13 +32,18 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">field-tools.md</h1>
-        <p class="note-meta"><span class="played">0 h 02 min</span> played</p>
+        <p class="note-meta"><span class="played">0 h 22 min</span> played · first sent at 0 h 02 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>Field tools</h2>
 <p>Run <code>python3 scripts/routes.py minecraft:furnace --station minecraft.crafting</code> to see all JEI recipe categories and the ingredient lists at a station. Supply several item names or repeat the station option to compare them.</p>
 <p>With a suitable tool equipped, <code>python3 scripts/harvest_near.py &#39;iron ore&#39; 12</code> takes up to twelve swings at matching exposed blocks. It scans again after each successful dig, since mining hammers uncover more of the vein. Use a small radius in a mine with multiple disconnected galleries.</p>
 <p>For a close, known mining target obscured by dirt, <code>python3 scripts/excavate.py X Y Z</code> aims at the target and digs the block the crosshair actually hits. If the next face is beyond reach, reposition first. Clear overhead dirt when making a staircase so the player can step down.</p>
+<p><code>python3 scripts/toolrecipes.py Wrought Iron</code> lists JEI crafting indices and inputs for the seven starter tools in that material. Use it when a GregTech tool has many material variants under one item ID.</p>
+<p>An open crafting grid accepts a sequence with <code>python3 scripts/bench_batch.py minecraft:furnace:3 minecraft:chest</code>. Specify metadata with @ and a JEI recipe index with #. The batch stops on an incomplete craft.</p>
+<p><code>python3 scripts/quest_page.py 743 786</code> visits the specified pages through the quest-book key, checks each unlocked task there and claims fixed rewards. Read each task and reward before passing its ID. Choice rewards are left for a deliberate selection on their page.</p>
+<p>For item-by-item quest counts use <code>python3 harness/cli.py lib quest_items itemProgress id=66</code>. The count can remain credited after using the material in the next recipe. Check the book before committing the whole batch.</p>
+<p><code>python3 scripts/drift.py south 12</code> cuts a level gallery with the equipped diamond mining hammer and walks into each opening. It checks the floor before walking. It stops when the inventory has fewer than two free slots, at a drop or when it meets a block outside its mining list.</p>
 </div>
       </article>
     </main>

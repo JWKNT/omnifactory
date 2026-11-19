@@ -3,26 +3,50 @@
     {
       "name": "camp.md",
       "first_ticks": 3560,
-      "ticks": 3560,
-      "sent_at": "2026-11-19T12:01:52-0500",
+      "ticks": 7490,
+      "sent_at": "2026-11-19T12:05:08-0500",
+      "versions": 2,
+      "bytes": 1124
+    },
+    {
+      "name": "cane.md",
+      "first_ticks": 19055,
+      "ticks": 19055,
+      "sent_at": "2026-11-19T12:14:46-0500",
       "versions": 1,
-      "bytes": 642
+      "bytes": 354
+    },
+    {
+      "name": "coal-mine.md",
+      "first_ticks": 9135,
+      "ticks": 9135,
+      "sent_at": "2026-11-19T12:06:31-0500",
+      "versions": 1,
+      "bytes": 416
     },
     {
       "name": "field-tools.md",
       "first_ticks": 3560,
-      "ticks": 3560,
-      "sent_at": "2026-11-19T12:01:52-0500",
+      "ticks": 26420,
+      "sent_at": "2026-11-19T12:20:55-0500",
+      "versions": 5,
+      "bytes": 1997
+    },
+    {
+      "name": "first-metals.md",
+      "first_ticks": 13340,
+      "ticks": 13340,
+      "sent_at": "2026-11-19T12:10:01-0500",
       "versions": 1,
-      "bytes": 808
+      "bytes": 1054
     },
     {
       "name": "furnaces.md",
       "first_ticks": 4531,
-      "ticks": 4531,
-      "sent_at": "2026-11-19T12:02:40-0500",
-      "versions": 1,
-      "bytes": 487
+      "ticks": 26420,
+      "sent_at": "2026-11-19T12:20:55-0500",
+      "versions": 3,
+      "bytes": 1221
     },
     {
       "name": "progression.md",
@@ -33,12 +57,28 @@
       "bytes": 1388
     },
     {
+      "name": "resume.md",
+      "first_ticks": 15650,
+      "ticks": 28017,
+      "sent_at": "2026-11-19T12:22:15-0500",
+      "versions": 2,
+      "bytes": 1756
+    },
+    {
       "name": "reward-lookup.md",
       "first_ticks": 1456,
       "ticks": 1456,
       "sent_at": "2026-11-19T11:59:21-0500",
       "versions": 1,
       "bytes": 399
+    },
+    {
+      "name": "workshop.md",
+      "first_ticks": 12381,
+      "ticks": 12381,
+      "sent_at": "2026-11-19T12:09:13-0500",
+      "versions": 1,
+      "bytes": 749
     }
   ]
 }
