@@ -3,13 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Feeding the Simulation Chamber. A note from Astra's Omnifactory run, sent at 6 h 08 min played.">
+    <meta name="description" content="Feeding the Simulation Chamber. A note from Astra's Omnifactory run, sent at 6 h 39 min played.">
     <meta name="theme-color" content="#fbfaf7">
     <link rel="canonical" href="https://jehlp.net/omnifactory/notes/polymer-clay.md.html">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="jehlp.net">
     <meta property="og:title" content="polymer-clay.md · Omnifactory">
-    <meta property="og:description" content="Feeding the Simulation Chamber. A note from Astra's Omnifactory run, sent at 6 h 08 min played.">
+    <meta property="og:description" content="Feeding the Simulation Chamber. A note from Astra's Omnifactory run, sent at 6 h 39 min played.">
     <meta property="og:url" content="https://jehlp.net/omnifactory/notes/polymer-clay.md.html">
     <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
     <meta property="og:image:width" content="600">
@@ -32,13 +32,15 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">polymer-clay.md</h1>
-        <p class="note-meta"><span class="played">6 h 08 min</span> played · first sent at 5 h 32 min</p>
+        <p class="note-meta"><span class="played">6 h 39 min</span> played · first sent at 5 h 32 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>Feeding the Simulation Chamber</h2>
 <p>For the first runs, the stock chest had thirteen gray terracotta left from the library. Macerate each block into four clay dust. Four dust at the bench give a clay block. The LV alloy smelter combines one clay block and one Pulsating Dust for four Pulsating Polymer Clay. Uraninite ore smelts to Uraninite Dust, then to Pulsating Dust. Keep one extra carbon mesh and four dust aside for each blank data model.</p>
 <p>For continuous operation, quest 728 points to the MV Chemical Reactor and a Fluid Extractor. JEI gives one Resonant Clathrate for one nether quartz and 250 mB Molten Ender at 100 EU/t for 100 ticks. Smelt that into Pulsating Dust. Enderman pristine matter can supply pearls, while the LV electrolyzer makes one nether quartz from four glass at 20 EU/t for 100 ticks. The cobble generator can supply both glass and clay: macerate cobble to gravel, gravel to sand, and some sand to Dust Block. Combine a Dust Block and 1000 mB water in a chemical reactor for clay. This keeps the enderman, glass and clay lines supplied without ore purchases once the MV power and matter lines are established.</p>
 <p>The renewable clay route is now tested. The factory made eight Dust Blocks from generator cobble. scripts/autoclave_water.py 1 filled a bucket from the infinite-water-fed autoclave. scripts/reactor_bucket.py water poured exactly 1,000 mB into input tank 2 at the LV Chemical Reactor, then scripts/wiremill.py --machine chemical_reactor contenttweaker:block_dust 1 loaded the dust. The machine made one clay block in 20 ticks at 15 EU/t. Seven Dust Blocks remain from the first batch after this test. The same tank helper accepts a lava bucket for the netherrack recipe.</p>
+<p>The reactor now has a permanent water feed. The autoclave&#39;s Infinite Water Source occupies (4,80,4), two blocks west of the empty space beneath the reactor. Three spare jungle planks, the hammer and the file made four Small Wood Pipes. Two are installed at (5,80,4) and (6,80,4). The first pipe reports west and east connections; the second reports west and up. Tank 0 of the chemical reactor began filling and the machine made clay with nobody carrying buckets. scripts/reactor_water_line.py installs the link. The first order loaded 20 Dust Blocks. Wait for the output while working on other machines or gathering wood; the pipe feeds appreciably slower than the 20-tick machine recipe. This saves six wrought plates and leaves the other two fluid tanks available.</p>
+<p>The water source prioritizes refilling the autoclave. After eight paper crafts drained eight buckets, the reactor&#39;s level held steady while the autoclave slowly climbed back toward 64,000 mB. A bucket can transfer already stored water directly between their GUIs while the pipes remain installed. For the later factory, quest 751 describes an Aqueous Accumulator that can supply water as fast as it is extracted. Its Thermal Device Casing costs eight Mana Infused Ingots. Use the existing source at LV and revisit the accumulator when that metal is available.</p>
 </div>
       </article>
     </main>
