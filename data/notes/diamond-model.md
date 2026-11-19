@@ -1,0 +1,7 @@
+# From the first simulation to diamond power
+
+The first chamber consumes four Pulsating Mesh. Each blank model needs another mesh, four electrical steel plates, three fine gold wires and a basic circuit. Budget these separately. The instance's JEI shows the Shulker Data Model crafts at Basic tier. A blank plus rotten flesh or a bone makes a starter model at the same tier, so Peaceful works. Start with whichever drop is already in camp storage. Each simulation also consumes Pulsating Polymer Clay. Feed the clay through the top and collect outputs through a side.
+
+JEI's manual route to seven Extraterrestrial Matter requires seven ender pearls and twenty-eight Hellish Matter. Each Hellish Matter takes four Overworldian Matter and a netherrack. If using only the starter model, budget 112 overworld simulations, 28 netherrack, seven pearls, a diamond and a second blank. Compare the intermediate model recipes and quest rewards before committing to that full bill.
+
+One Pristine Shulker Matter yields six diamonds in the Loot Fabricator. A Shulker simulation draws 512 RF/t according to the installed configuration. The two current steam turbines together peak at 320 RF/t, so a sustainable run needs another supply or a power upgrade. The Basic model's pristine chance starts at 5% and reaches 30% at the final tier. Reserve a diamond for the model and a stock of fuel for the early runs. The Numismatic Power quest asks for the dynamo and Lapidary Calibration augment together.
