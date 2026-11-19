@@ -3,10 +3,10 @@
     {
       "name": "boiler-farm.md",
       "first_ticks": 112597,
-      "ticks": 118028,
-      "sent_at": "2026-11-19T13:37:15-0500",
-      "versions": 2,
-      "bytes": 1718
+      "ticks": 144851,
+      "sent_at": "2026-11-19T13:59:43-0500",
+      "versions": 4,
+      "bytes": 2927
     },
     {
       "name": "camp.md",
@@ -89,12 +89,28 @@
       "bytes": 617
     },
     {
+      "name": "lv-orders.md",
+      "first_ticks": 131321,
+      "ticks": 131321,
+      "sent_at": "2026-11-19T13:48:27-0500",
+      "versions": 1,
+      "bytes": 1165
+    },
+    {
       "name": "lv-power.md",
       "first_ticks": 49647,
       "ticks": 49647,
       "sent_at": "2026-11-19T12:40:16-0500",
       "versions": 1,
       "bytes": 982
+    },
+    {
+      "name": "macerator.md",
+      "first_ticks": 141242,
+      "ticks": 144260,
+      "sent_at": "2026-11-19T13:59:13-0500",
+      "versions": 2,
+      "bytes": 1348
     },
     {
       "name": "progression.md",
@@ -107,10 +123,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 117404,
-      "sent_at": "2026-11-19T13:36:44-0500",
-      "versions": 13,
-      "bytes": 1271
+      "ticks": 141242,
+      "sent_at": "2026-11-19T13:56:42-0500",
+      "versions": 15,
+      "bytes": 1214
     },
     {
       "name": "reward-lookup.md",
@@ -127,6 +143,14 @@
       "sent_at": "2026-11-19T13:09:04-0500",
       "versions": 2,
       "bytes": 911
+    },
+    {
+      "name": "second-hour.md",
+      "first_ticks": 146526,
+      "ticks": 146526,
+      "sent_at": "2026-11-19T14:01:06-0500",
+      "versions": 1,
+      "bytes": 426
     },
     {
       "name": "steam-upgrade.md",
@@ -147,10 +171,10 @@
     {
       "name": "void-factory.md",
       "first_ticks": 85007,
-      "ticks": 88201,
-      "sent_at": "2026-11-19T13:12:24-0500",
-      "versions": 3,
-      "bytes": 2288
+      "ticks": 144260,
+      "sent_at": "2026-11-19T13:59:13-0500",
+      "versions": 4,
+      "bytes": 2657
     },
     {
       "name": "void-steam.md",
@@ -159,6 +183,14 @@
       "sent_at": "2026-11-19T13:32:44-0500",
       "versions": 2,
       "bytes": 1826
+    },
+    {
+      "name": "void-stores.md",
+      "first_ticks": 134951,
+      "ticks": 134951,
+      "sent_at": "2026-11-19T13:51:28-0500",
+      "versions": 1,
+      "bytes": 1260
     },
     {
       "name": "wiremill.md",

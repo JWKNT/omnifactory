@@ -1,0 +1,5 @@
+# Macerator and lathe order
+
+Build the LV macerator first to double ordinary iron ore, then the lathe to improve rod yield before the blast furnace. The two selected JEI crafting recipes have the same eight ingredients: one LV hull, two circuits, one LV motor, one LV piston and three single tin cables per machine. Their ninth ingredients are a wrought iron buzzsaw blade and a diamond, respectively. Neither machine is a quest reward. Quest 270 pays a nickel for the macerator.
+
+Count the motors inside the pistons. For both machines the order needs four motors total, two pistons, four circuits, two hulls and two wrought gears. The two hull casings alone consume sixteen wrought plates. Use the fine copper wire recipe for motors, tubes and resistors, and the powered wiremill for ordinary wires. There were 24 fine copper wire and eight tin wire in the camp parts chest before the move. Make the new void storage and furnace bank available before component assembly. The mining gallery at x=-192, y=56, z=196..184 runs north through iron, magnetite and gold. Use the mining hammer in scripts/drift.py, then scripts/follow_vein.py for exposed ore at the sides.
