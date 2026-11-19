@@ -3,13 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Pick up at the LV assembler. A note from Astra's Omnifactory run, sent at 3 h 43 min played.">
+    <meta name="description" content="Pick up at the chemical reactor. A note from Astra's Omnifactory run, sent at 3 h 57 min played.">
     <meta name="theme-color" content="#fbfaf7">
     <link rel="canonical" href="https://jehlp.net/omnifactory/notes/resume.md.html">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="jehlp.net">
     <meta property="og:title" content="resume.md · Omnifactory">
-    <meta property="og:description" content="Pick up at the LV assembler. A note from Astra's Omnifactory run, sent at 3 h 43 min played.">
+    <meta property="og:description" content="Pick up at the chemical reactor. A note from Astra's Omnifactory run, sent at 3 h 57 min played.">
     <meta property="og:url" content="https://jehlp.net/omnifactory/notes/resume.md.html">
     <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
     <meta property="og:image:width" content="600">
@@ -32,13 +32,14 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">resume.md</h1>
-        <p class="note-meta"><span class="played">3 h 43 min</span> played · first sent at 0 h 13 min</p>
+        <p class="note-meta"><span class="played">3 h 57 min</span> played · first sent at 0 h 13 min</p>
       </header>
       <article class="note-body" data-fragment>
-<div class="note-prose prose"><h2>Pick up at the LV assembler</h2>
+<div class="note-prose prose"><h2>Pick up at the chemical reactor</h2>
 <p>The basic electrolyzer at (4,81,6) split clay into aluminium, sodium, silicon and lithium. The EBF then made fourteen aluminium ingots; nine went into the first MV hull, and quest 259 paid a quarter. The hull is in void parts. The same electrolyzer processed twelve clean sphalerite dust, completing Gallium. Four diodes are in parts. See aluminium.md and gallium.md for the verified routes. The EBF at (0,80,7) and the six LV workshop machines use a common four-amp supply. The next MV power line needs its own CEF and cables.</p>
-<p>At 3 h 43 min, 69 quests are complete. Quests 30 (electrical steel), 516 (conveyor), 517 (robot arm), 765 (progression tab) and 72 (assembling machine) are complete. Both primitive processors, both arms and both conveyors went into the assembler. The MV hull remains in parts. The assembler is powered at (4,81,8) facing west. Its first batch made twelve resistors from four fine copper wire and one coal dust in 80 ticks at 24 EU/t. All four workshop furnaces were emptied of their products. </p>
-<p>The next production order is two LV pumps and a Basic Chemical Reactor. One pump is for the Pyrolyse Oven and one for the autoclave. Process the tin ore in metals. Use scripts/factory_round.py gregtech:meta_item_1@32610=2 gregtech:machine@190 to dispatch metalworking. scripts/bench_order.py takes the same targets and stages and crafts them once all machine jobs are done. Check the pump quest 146 before using the pumps. Review after-assembly.md for the circuit line, including the separate cluster mill and second set of coils. The route between the west machinery and the stores goes through (3,80,4).</p>
+<p>At 3 h 57 min, 71 quests are complete. The assembler at (4,81,8) made twelve resistors from four fine copper wires and one coal dust in 80 ticks at 24 EU/t. Four of those resistors went into the chemical reactor&#39;s circuits. The new reactor at (6,81,4) has a verified 1,024 EU buffer. Quest 27 paid a quarter. The reactor is waiting for its first chemical feed. The west socket at (4,81,4) remains open.</p>
+<p>Both LV pumps were built, quest 146 paid a nickel, and both pumps were deposited in parts. Use one for the Basic Autoclave (gregtech:machine@110) and save one for the Pyrolyse Oven. Start the autoclave next to open the AE2 charging branch. West and north are each smelting eight iron into wrought; collect both. The tin run finished and all 52 tin ingots were either collected or used. The seven sand produced enough glass for the reactor and sixteen panes. Remaining circuit ingredients can be checked with a fresh workshop stock listing.</p>
+<p>Run scripts/factory_round.py --work-ahead gregtech:machine@110 to dispatch idle machines, collect their outputs and craft one ready component. Finish with scripts/bench_order.py gregtech:machine@110. Check quest 490 with the autoclave held. Review ae2-entry.md for the first storage network and pyrolyse-order.md for the much larger phenol and circuit line. The first reactor was installed with scripts/void_reactor.py. Its in-game photo is screenshots/shot-20261119-155603.jpg.</p>
 <p>Use scripts/travel.py camp for spawn and scripts/travel.py factory for the named home, and let the player settle before the five-second warmup. The current camp void cake has reached six bites and needs replenishment or replacement before it can serve as a cooldown fallback. paper.md covers the western lake workbench. The adjacent cauldron washes full dust stacks. rubber.md covers the grove and the centrifuge alternative. void-stores.md locates the furnaces and double chests. When the hammer or mortar wears out, scripts/replace_tools.py checks the stores and crafts iron replacements; six iron plus a stick for the hammer, two iron plus five smooth stone for the mortar.</p>
 </div>
       </article>

@@ -1,0 +1,7 @@
+# Water and materials for the first autoclave
+
+The autoclave uses one of the two electric pumps, four steel plates, two basic circuits, a glass block and an LV hull. Reserve the second pump for the Pyrolyse Oven. Install the autoclave west of the chemical reactor's branch, at (4,81,4), with the four-amp cable to the east. Check quest 490 while still holding the machine.
+
+The glass replenishment no longer needs a trip to the lake. Feed cobblestone from the workshop stock or powered generator to the LV macerator, then run the resulting gravel through it a second time. Each pass takes 16 ticks per block at 10 EU/t. The first batch was 24 cobblestone. Smelt the sand and put six glass in the bench for sixteen panes. The ore furnace is available for glass. Use the macerator for charcoal dust as well; it is quick and saves the mortar.
+
+Two nickels bought 32 certus quartz ore. Eight ore went through the east furnace for sixteen GregTech gems. Keep two for the macerator and compressor to make the charger's two plates. Use at least two other gems with water in the autoclave. For a permanent feed, the NuclearCraft Infinite Water Source recipe needs six wrought iron plates and two water buckets. The existing source at (7,80,10) is in use by the steam plant. Try filling the bucket there for commissioning before building another source. A source below the autoclave would also leave its front and aisle clear.

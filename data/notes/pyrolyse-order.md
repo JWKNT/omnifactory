@@ -1,0 +1,7 @@
+# A budget for the second set of coils
+
+Quest 22 asks to see the controller, sixteen cupronickel coils, twelve ULV casings, a pair of LV item buses, two fluid hatches and one energy hatch. Keep these parts in inventory together for the book before placing the oven. Leave the assembled blast furnace standing. One of the two new pumps is reserved for the oven controller. The controller also consumes three primitive processors.
+
+From empty stores, the selected early recipes for those quest parts total 205 iron, 106 copper, 66 nickel, 19 tin, 74 rubber, 56 redstone, 50 paper and 98 glass panes, plus smaller inputs. This is a gross crafting bill; it includes one pump already built and parts already in the workshop. The twelve ULV casings alone consume 96 iron plates. The installed assembler cuts the coal and fine copper cost of resistors. The compressor is likely to be occupied for several minutes on plates; use the time to gather ore and supply the circuit line.
+
+Recalculate with scripts/lv_order.py and the targets gregtech:machine@514, gregtech:wire_coil=16, gregtech:machine@710, gregtech:machine@711, gregtech:machine@712, gregtech:machine@713, gregtech:machine@714 and gregtech:machine_casing=12. Add --assembled-resistors --stock FILE --carried with a fresh void stores listing. Compare coin purchases and surface ore before provisioning; include the time to double ores and smelt them. A nearby stack of magnetite can go directly into ordinary furnaces when the macerator is occupied.
