@@ -1,0 +1,9 @@
+# Void factory steam and LV service
+
+The three basic dynamos are installed and converted. The boiler at (6,80,10) faces north into a pressurized conduit at (6,80,9). The water source at (7,80,10) supplies the boiler directly. The turbine at (5,80,9) points up and the one at (6,81,9) points west. Both coils touch the 4A CEF at (5,81,9), whose EU output faces north. The boiler delivered 160 mB/t and both turbines generated electricity. Their displayed maximum is 160 RF/t apiece. The CEF filled from zero to 1,024 EU. Coal is the present fuel. scripts/power_fuel.py loads it from the south.
+
+Four conductive iron cables run straight north at x5, y81, z8 through z5. The LV machines to their east are the alloy smelter at z8, compressor at z7 and wiremill at z6, all x6, y81. Service from the east. The compressor and wiremill ran simultaneously, measured at 10 and 32 EU/t respectively. Four iron ingots and four conductive iron ingots were the commissioning batches. Collect plates and wire from the machines. There are no output chests in the void yet.
+
+scripts/wiremill.py and scripts/enable_lv.py select stations by dimension. scripts/camp.py bench opens the void crafting table when in the void. scripts/void_lv_row.py records the cable and machine placement sequence. The next power priority is a basic flux capacitor in the CEF, then a self-feeding Snad cane boiler.
+
+The basic flux capacitor is installed in the CEF. Its capacity now reads 2,501,024 EU, and actual stored energy rose from 1,024 to 77,184 EU while the new plant charged it. The paired turbine readings at that point were 160 and 158 RF/t. The installation tool is scripts/cef_battery.py. The four iron plates and eight conductive iron wires from the first two loads have been collected. Thirty-two more coal were loaded for the first battery charge.

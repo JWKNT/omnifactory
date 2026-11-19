@@ -1,0 +1,3 @@
+# Lead and silver under the north side of camp
+
+A natural cave exposes lead, galena and silver around (-186,40,165). The walk from camp snakes east before descending. From camp, a targeted dig toward (-186,43,167) followed the walkable cave to the vein in about 45 seconds; the stone at the end needed a separate swing. Two mining hammer strikes and three visible obstructions yielded six lead ore, twelve galena and two silver. Plain lead ore smelts directly to lead ingots. Hold the galena for later processing. The flux capacitor needs only two lead ingots, so this was cheaper than the three-nickel ore purchase.
