@@ -1,0 +1,9 @@
+# First wiremill batch
+
+The book detected all four electric motors on quest 53 before assembly. Each motor took four copper wires, two insulated tin cables, two iron rods and one magnetic iron rod. An iron rod plus four redstone makes the magnetic rod. Hand-cutting the wire consumed two ingots per wire. Once the wiremill is on the LV cable, use its direct ingot recipe for repeat orders.
+
+Batch Crafting In Style (13) is claimed. All four Crafting Stations are in the parts chest. Sawing eight rubber logs yielded the 32 planks needed for the three missing chests and two missing workbenches. Six books initially supplied four for stations and two for paper.
+
+For the two circuits, the parts chest supplied the two coated boards and two tubes; the bulk chest supplied the four resistors. The additional two tubes take eight glass panes, four paper and six copper wires. Twelve copper dust and 48 redstone gave the red alloy dust for six insulated red alloy cables. The hull and two circuits together need 13 wrought iron plates. The LV Compressor quest (489) requires LV Pistons (145) after the wiremill.
+
+The wiremill is installed at (-168, 66, 199). At the default LV overclock, it made two wires per copper ingot in 31 ticks at 32 EU/t, then stalled as its initial energy reserve ran out. Clicking LV in its GUI changed the button to X. Toggling the machine off with the Wood Soft Hammer, letting its buffer recharge, and toggling it on again allowed the already-running job to finish. The following fine wire batch ran at 8 EU/t with 992 EU stored. Fine Copper Wire (499) is claimed. Keep the overclock at X on the single-dynamo supply. Stand east of the wiremill at (-166, 65, 199) to reach it. Use scripts/wiremill.py to collect output, or add an input ID@metadata and count to collect and reload in one visit. A batch already in progress keeps its input slot.

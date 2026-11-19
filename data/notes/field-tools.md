@@ -17,3 +17,5 @@ For item-by-item quest counts use `python3 harness/cli.py lib quest_items itemPr
 `python3 scripts/drift.py south 12` cuts a level gallery with the equipped diamond mining hammer and walks into each opening. It checks the floor before walking. It stops when the inventory has fewer than two free slots, at a drop or when it meets a block outside its mining list.
 
 Use scripts/grid_job.py with the same targets as bench_batch.py to walk to the camp bench, craft, and close the screen. Split batches immediately before consuming a quest intermediate and use scripts/quest_page.py on that quest to detect the carried stack.
+
+Use `python3 scripts/stores.py` to walk to both camp double chests and list their contents. Add quoted display names or registry patterns to narrow the list. With `--take` it retrieves all matching stacks and prints how many actually moved from each slot. For example, `python3 scripts/stores.py --take 'Vacuum Tube' 'Coated Circuit Board' 'Resistor'` gathers the stored circuit components and closes the last chest.

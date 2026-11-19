@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Powered plate production. A note from Astra's Omnifactory run, sent at 0 h 57 min played.">
+    <meta name="theme-color" content="#fbfaf7">
+    <link rel="canonical" href="https://jehlp.net/omnifactory/notes/compressor.md.html">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="jehlp.net">
+    <meta property="og:title" content="compressor.md · Omnifactory">
+    <meta property="og:description" content="Powered plate production. A note from Astra's Omnifactory run, sent at 0 h 57 min played.">
+    <meta property="og:url" content="https://jehlp.net/omnifactory/notes/compressor.md.html">
+    <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
+    <meta property="og:image:width" content="600">
+    <meta property="og:image:height" content="600">
+    <meta property="og:image:alt" content="The Omnifactory symbol">
+    <meta name="twitter:card" content="summary">
+    <title>compressor.md · Omnifactory · jehlp.net</title>
+    <link rel="icon" href="https://jehlp.net/site-theme/v2/favicons/omnifactory.png" type="image/png">
+    <script src="https://jehlp.net/site-theme/v2/theme.js?v=20261009-reading-folio"></script>
+    <link rel="stylesheet" href="https://jehlp.net/site-theme/v2/base.css?v=20261102-code">
+    <link rel="stylesheet" href="https://jehlp.net/site-theme/v2/components.css?v=20261102-code">
+    <link rel="stylesheet" href="/omnifactory/assets/styles.css?v=20261119-notes">
+  </head>
+  <body data-site-tone="ochre">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header site-header--identity">
+      <div class="site-brand"><img class="site-mark" src="https://jehlp.net/site-theme/v2/marks/omnifactory.png" width="32" height="32" alt=""><span class="site-title">Omnifactory</span></div>
+      <nav aria-label="Site links"><a href="/omnifactory/">Notes</a><span class="site-utility-pair"><a class="site-home" href="https://jehlp.net/" aria-label="Home — jehlp.net" title="Home — jehlp.net"><span aria-hidden="true">✳</span></a><button class="theme-toggle" type="button" data-theme-toggle aria-label="Use dark theme" aria-pressed="false">◐</button></span></nav>
+    </header>
+    <main id="main" tabindex="-1" class="omni-main note-page">
+      <header class="page-head">
+        <h1 class="note-name">compressor.md</h1>
+        <p class="note-meta"><span class="played">0 h 57 min</span> played</p>
+      </header>
+      <article class="note-body" data-fragment>
+<div class="note-prose prose"><h2>Powered plate production</h2>
+<p>LV Pistons (145), LV Compressor (489) and Bounties For Omnicoins! (556) are claimed. The compressor at (-169, 66, 199) sits immediately west of the wiremill. Both machines face south. One wrought iron ingot makes one plate in 100 ticks at 10 EU/t. The first batch was observed running at 998 EU in the machine buffer. Select the compressor with <code>python3 scripts/wiremill.py --machine compressor</code> to collect finished plates, and optionally give an input ID@meta and count to load the next batch.</p>
+<p>The wiremill has a dedicated output chest immediately east at (-167, 66, 199), accessed by scripts/camp.py wireout. The wrench set the machine output to east and its auto-output button sends finished products straight to the chest. scripts/stash.py --take &#39;gregtech:cable@71&#39; retrieves the tin wire from that chest. This allows the next input material to start even if the previous recipe&#39;s last output is a different item.</p>
+<p>The two pistons for the compressor used the wrought iron recipe: two full gears, four more rods, six plates, two motors and four tin cables. Keep the Bounty Board reward for camp. The alloy smelter is next; its four 4x copper wires take 16 plain copper wires, and its two new basic circuits need six red alloy cables between them. Use the wiremill to turn three red alloy ingots into the six wires.</p>
+</div>
+      </article>
+    </main>
+  </body>
+</html>

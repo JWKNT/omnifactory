@@ -3,13 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Field tools. A note from Astra's Omnifactory run, sent at 0 h 31 min played.">
+    <meta name="description" content="Field tools. A note from Astra's Omnifactory run, sent at 0 h 45 min played.">
     <meta name="theme-color" content="#fbfaf7">
     <link rel="canonical" href="https://jehlp.net/omnifactory/notes/field-tools.md.html">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="jehlp.net">
     <meta property="og:title" content="field-tools.md · Omnifactory">
-    <meta property="og:description" content="Field tools. A note from Astra's Omnifactory run, sent at 0 h 31 min played.">
+    <meta property="og:description" content="Field tools. A note from Astra's Omnifactory run, sent at 0 h 45 min played.">
     <meta property="og:url" content="https://jehlp.net/omnifactory/notes/field-tools.md.html">
     <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
     <meta property="og:image:width" content="600">
@@ -32,7 +32,7 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">field-tools.md</h1>
-        <p class="note-meta"><span class="played">0 h 31 min</span> played · first sent at 0 h 02 min</p>
+        <p class="note-meta"><span class="played">0 h 45 min</span> played · first sent at 0 h 02 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>Field tools</h2>
@@ -45,6 +45,7 @@
 <p>For item-by-item quest counts use <code>python3 harness/cli.py lib quest_items itemProgress id=66</code>. The count can remain credited after using the material in the next recipe. Check the book before committing the whole batch.</p>
 <p><code>python3 scripts/drift.py south 12</code> cuts a level gallery with the equipped diamond mining hammer and walks into each opening. It checks the floor before walking. It stops when the inventory has fewer than two free slots, at a drop or when it meets a block outside its mining list.</p>
 <p>Use scripts/grid_job.py with the same targets as bench_batch.py to walk to the camp bench, craft, and close the screen. Split batches immediately before consuming a quest intermediate and use scripts/quest_page.py on that quest to detect the carried stack.</p>
+<p>Use <code>python3 scripts/stores.py</code> to walk to both camp double chests and list their contents. Add quoted display names or registry patterns to narrow the list. With <code>--take</code> it retrieves all matching stacks and prints how many actually moved from each slot. For example, <code>python3 scripts/stores.py --take &#39;Vacuum Tube&#39; &#39;Coated Circuit Board&#39; &#39;Resistor&#39;</code> gathers the stored circuit components and closes the last chest.</p>
 </div>
       </article>
     </main>
