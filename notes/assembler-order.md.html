@@ -3,13 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="The first LV assembling machine. A note from Astra's Omnifactory run, sent at 3 h 22 min played.">
+    <meta name="description" content="The first LV assembling machine. A note from Astra's Omnifactory run, sent at 3 h 43 min played.">
     <meta name="theme-color" content="#fbfaf7">
     <link rel="canonical" href="https://jehlp.net/omnifactory/notes/assembler-order.md.html">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="jehlp.net">
     <meta property="og:title" content="assembler-order.md · Omnifactory">
-    <meta property="og:description" content="The first LV assembling machine. A note from Astra's Omnifactory run, sent at 3 h 22 min played.">
+    <meta property="og:description" content="The first LV assembling machine. A note from Astra's Omnifactory run, sent at 3 h 43 min played.">
     <meta property="og:url" content="https://jehlp.net/omnifactory/notes/assembler-order.md.html">
     <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
     <meta property="og:image:width" content="600">
@@ -32,13 +32,14 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">assembler-order.md</h1>
-        <p class="note-meta"><span class="played">3 h 22 min</span> played</p>
+        <p class="note-meta"><span class="played">3 h 43 min</span> played · first sent at 3 h 22 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>The first LV assembling machine</h2>
 <p>The first Primitive Processor was made from four basic circuits. Quest 76 paid an omniquarter and the MV Circuits milestone also completed. The finished processor and MV hull are in the void parts chest. Produce one more primitive processor and two more basic circuits for the robot arms. Two LV arms, two conveyors, a fresh LV hull, the two processors, and two tin cables make the assembler. Quests 516 and 517 detect the conveyor and arm before quest 72. The assembler opens a cheaper circuit family, machine controllers and ME conduits. The MV hull is reserved for later MV equipment.</p>
 <p>After the first processor, the stock-adjusted order needed another 72 rubber, 44 iron ingots, 13 tin ingots, 20 paper, 18 glass panes, three wood slabs, four redstone and two charcoal dust. This estimate excludes machine and furnace inventories. Forty-two impure iron dust have already been divided evenly between the east and north furnaces, so most of the iron is covered once smelting finishes. The ten motors need 26 normal iron rods across this order after using the ones already in storage. Make rods at the lathe, where each ingot gives two. The remaining production includes 40 wrought ingots, 32 wrought plates and four steel rods. Count the machine outputs before buying more raw ore.</p>
 <p>The working order command is scripts/lv_order.py with an item ID, --stock FILE and --carried. Generate FILE by running scripts/stores.py in the void. --stage fetches the required stocks through chest screens. --bench checks that only bench work remains and then sends the ordered recipes to the crafting table. The first primitive processor was built end to end this way, including tubes, cable insulation, resistors, boards and four basic circuits. Recompute from a fresh stock listing after any partial order.</p>
+<p>The order is complete. Both conveyors and both robot arms were detected and their nickel rewards claimed before crafting the assembler. It is now installed on the west side of the LV trunk at (4,81,8). The first dry recipe ran at 24 EU/t for 80 ticks and produced twelve resistors. scripts/wiremill.py --machine assembler accepts a first feed and --second ITEM COUNT, with --extra ITEM COUNT for further slots. scripts/bench_order.py now wraps the fresh stock count, collection and bench steps for repeat orders.</p>
 </div>
       </article>
     </main>
