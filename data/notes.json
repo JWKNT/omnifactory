@@ -1,3 +1,44 @@
 {
-  "notes": []
+  "notes": [
+    {
+      "name": "camp.md",
+      "first_ticks": 3560,
+      "ticks": 3560,
+      "sent_at": "2026-11-19T12:01:52-0500",
+      "versions": 1,
+      "bytes": 642
+    },
+    {
+      "name": "field-tools.md",
+      "first_ticks": 3560,
+      "ticks": 3560,
+      "sent_at": "2026-11-19T12:01:52-0500",
+      "versions": 1,
+      "bytes": 808
+    },
+    {
+      "name": "furnaces.md",
+      "first_ticks": 4531,
+      "ticks": 4531,
+      "sent_at": "2026-11-19T12:02:40-0500",
+      "versions": 1,
+      "bytes": 487
+    },
+    {
+      "name": "progression.md",
+      "first_ticks": 1456,
+      "ticks": 1456,
+      "sent_at": "2026-11-19T11:59:04-0500",
+      "versions": 1,
+      "bytes": 1388
+    },
+    {
+      "name": "reward-lookup.md",
+      "first_ticks": 1456,
+      "ticks": 1456,
+      "sent_at": "2026-11-19T11:59:21-0500",
+      "versions": 1,
+      "bytes": 399
+    }
+  ]
 }
