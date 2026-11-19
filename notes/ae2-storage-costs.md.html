@@ -3,13 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="What follows the energy acceptor. A note from Astra's Omnifactory run, sent at 4 h 36 min played.">
+    <meta name="description" content="What follows the energy acceptor. A note from Astra's Omnifactory run, sent at 4 h 52 min played.">
     <meta name="theme-color" content="#fbfaf7">
     <link rel="canonical" href="https://jehlp.net/omnifactory/notes/ae2-storage-costs.md.html">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="jehlp.net">
     <meta property="og:title" content="ae2-storage-costs.md · Omnifactory">
-    <meta property="og:description" content="What follows the energy acceptor. A note from Astra's Omnifactory run, sent at 4 h 36 min played.">
+    <meta property="og:description" content="What follows the energy acceptor. A note from Astra's Omnifactory run, sent at 4 h 52 min played.">
     <meta property="og:url" content="https://jehlp.net/omnifactory/notes/ae2-storage-costs.md.html">
     <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
     <meta property="og:image:width" content="600">
@@ -32,7 +32,7 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">ae2-storage-costs.md</h1>
-        <p class="note-meta"><span class="played">4 h 36 min</span> played · first sent at 4 h 21 min</p>
+        <p class="note-meta"><span class="played">4 h 52 min</span> played · first sent at 4 h 21 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>What follows the energy acceptor</h2>
@@ -42,6 +42,8 @@
 <p>The terminal quest pays a nickel. The ME Chest and ME Drive quests each pay a quarter. Fit the terminal to AE2 glass cable. Reserve one pure crystal of each type for the chest. The small storage crate takes four ordinary chests, four planks and a wood casing. The casing takes another four planks, four sticks and one log. The crafting table makes four chests together from eight logs, and a rubber log makes four jungle planks. No quest lists dark steel ingots or the crate as a reward. Form each dark steel block at the bench from nine ingots.</p>
 <p>Terminal (62) is complete. Eight more fluix from four matched sets supplied the panel and cable. The first cable at (10,81,9) connects to the east face of the growth chamber; its north face carries the terminal. scripts/terminal_face.py verified that a player can open the ME monitor from (10,80,7). The cable leaves the charger&#39;s east output face accessible. The factory photo is screenshots/shot-20261119-163441.jpg.</p>
 <p>The next combined order is appliedenergistics2:chest and appliedenergistics2:storage_cell_1k. In addition to the four red alloy plates, basic circuit and four glass in the 1k component, the housing takes four electrical steel plates and four fine red alloy wires. scripts/lv_order.py now knows both recipes. scripts/factory_round.py --continuous --work-ahead can keep counting the chests, dispatching machine batches and working at the bench until it completes an order or runs out of available work. The terminal and cable were produced by this route. Verify the first cell by storing an item through the terminal, closing the screen, reopening and withdrawing it.</p>
+<p>The ME Chest is built and quest 63 paid a quarter. The casing used a single grove log, four planks and four sticks. Eight more logs made the four ordinary chests in one bench craft. The two dark steel blocks took eighteen ingots: four from stores and fourteen newly alloyed with quarry obsidian. The storage cell order uses four electrical steel (one steel and one silicon dust each). The low-voltage alloy recipe makes six red alloy from six copper and twelve redstone; both ingredients were available from the factory chests.</p>
+<p>The first 1k cell now works in the ME Chest under the terminal. From (10,80,7), the north terminal accepted nine marble, still showed them after reopening, and returned all nine. The test was repeated after rebuilding the empty disk. When the book missed the bare component, sneaking and using the empty cell in the air returned the housing and 1k component. Quest 64 then paid its nickel. scripts/me_chest.py fits the disk through the north side of the chest at (10,80,9). scripts/test_me_storage.py takes a carried item ID and checks a complete round trip.</p>
 </div>
       </article>
     </main>
