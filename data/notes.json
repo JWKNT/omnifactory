@@ -27,10 +27,10 @@
     {
       "name": "field-tools.md",
       "first_ticks": 3560,
-      "ticks": 26420,
-      "sent_at": "2026-11-19T12:20:55-0500",
-      "versions": 5,
-      "bytes": 1997
+      "ticks": 37920,
+      "sent_at": "2026-11-19T12:30:30-0500",
+      "versions": 6,
+      "bytes": 2255
     },
     {
       "name": "first-metals.md",
@@ -41,12 +41,28 @@
       "bytes": 1054
     },
     {
+      "name": "first-power.md",
+      "first_ticks": 31965,
+      "ticks": 31965,
+      "sent_at": "2026-11-19T12:25:32-0500",
+      "versions": 1,
+      "bytes": 1165
+    },
+    {
       "name": "furnaces.md",
       "first_ticks": 4531,
       "ticks": 26420,
       "sent_at": "2026-11-19T12:20:55-0500",
       "versions": 3,
       "bytes": 1221
+    },
+    {
+      "name": "lv-power.md",
+      "first_ticks": 49647,
+      "ticks": 49647,
+      "sent_at": "2026-11-19T12:40:16-0500",
+      "versions": 1,
+      "bytes": 982
     },
     {
       "name": "progression.md",
@@ -59,10 +75,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 28017,
-      "sent_at": "2026-11-19T12:22:15-0500",
-      "versions": 2,
-      "bytes": 1756
+      "ticks": 49647,
+      "sent_at": "2026-11-19T12:40:16-0500",
+      "versions": 4,
+      "bytes": 1927
     },
     {
       "name": "reward-lookup.md",
@@ -73,12 +89,20 @@
       "bytes": 399
     },
     {
+      "name": "rubber.md",
+      "first_ticks": 41148,
+      "ticks": 41148,
+      "sent_at": "2026-11-19T12:33:11-0500",
+      "versions": 1,
+      "bytes": 577
+    },
+    {
       "name": "workshop.md",
       "first_ticks": 12381,
-      "ticks": 12381,
-      "sent_at": "2026-11-19T12:09:13-0500",
-      "versions": 1,
-      "bytes": 749
+      "ticks": 37920,
+      "sent_at": "2026-11-19T12:30:30-0500",
+      "versions": 2,
+      "bytes": 1091
     }
   ]
 }

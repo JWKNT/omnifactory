@@ -15,3 +15,5 @@ An open crafting grid accepts a sequence with `python3 scripts/bench_batch.py mi
 For item-by-item quest counts use `python3 harness/cli.py lib quest_items itemProgress id=66`. The count can remain credited after using the material in the next recipe. Check the book before committing the whole batch.
 
 `python3 scripts/drift.py south 12` cuts a level gallery with the equipped diamond mining hammer and walks into each opening. It checks the floor before walking. It stops when the inventory has fewer than two free slots, at a drop or when it meets a block outside its mining list.
+
+Use scripts/grid_job.py with the same targets as bench_batch.py to walk to the camp bench, craft, and close the screen. Split batches immediately before consuming a quest intermediate and use scripts/quest_page.py on that quest to detect the carried stack.

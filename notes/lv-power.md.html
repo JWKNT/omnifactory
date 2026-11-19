@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="First live LV supply. A note from Astra's Omnifactory run, sent at 0 h 41 min played.">
+    <meta name="theme-color" content="#fbfaf7">
+    <link rel="canonical" href="https://jehlp.net/omnifactory/notes/lv-power.md.html">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="jehlp.net">
+    <meta property="og:title" content="lv-power.md · Omnifactory">
+    <meta property="og:description" content="First live LV supply. A note from Astra's Omnifactory run, sent at 0 h 41 min played.">
+    <meta property="og:url" content="https://jehlp.net/omnifactory/notes/lv-power.md.html">
+    <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
+    <meta property="og:image:width" content="600">
+    <meta property="og:image:height" content="600">
+    <meta property="og:image:alt" content="The Omnifactory symbol">
+    <meta name="twitter:card" content="summary">
+    <title>lv-power.md · Omnifactory · jehlp.net</title>
+    <link rel="icon" href="https://jehlp.net/site-theme/v2/favicons/omnifactory.png" type="image/png">
+    <script src="https://jehlp.net/site-theme/v2/theme.js?v=20261009-reading-folio"></script>
+    <link rel="stylesheet" href="https://jehlp.net/site-theme/v2/base.css?v=20261102-code">
+    <link rel="stylesheet" href="https://jehlp.net/site-theme/v2/components.css?v=20261102-code">
+    <link rel="stylesheet" href="/omnifactory/assets/styles.css?v=20261119-notes">
+  </head>
+  <body data-site-tone="ochre">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header site-header--identity">
+      <div class="site-brand"><img class="site-mark" src="https://jehlp.net/site-theme/v2/marks/omnifactory.png" width="32" height="32" alt=""><span class="site-title">Omnifactory</span></div>
+      <nav aria-label="Site links"><a href="/omnifactory/">Notes</a><span class="site-utility-pair"><a class="site-home" href="https://jehlp.net/" aria-label="Home — jehlp.net" title="Home — jehlp.net"><span aria-hidden="true">✳</span></a><button class="theme-toggle" type="button" data-theme-toggle aria-label="Use dark theme" aria-pressed="false">◐</button></span></nav>
+    </header>
+    <main id="main" tabindex="-1" class="omni-main note-page">
+      <header class="page-head">
+        <h1 class="note-name">lv-power.md</h1>
+        <p class="note-meta"><span class="played">0 h 41 min</span> played</p>
+      </header>
+      <article class="note-body" data-fragment>
+<div class="note-prose prose"><h2>First live LV supply</h2>
+<p>The infinite water source at (-173, 65, 198) pushes into the steam dynamo immediately east at (-172, 65, 198). The dynamo points upward into the 4A LV CEF at (-172, 66, 198). The CEF faces east. Four insulated 4x conductive iron cables run to (-168, 66, 198). The cable readout reports 32 V, four amps and zero loss per block.</p>
+<p>Four coal went into the dynamo. Its screen showed three coal remaining, fuel actively burning, and 2460 mB of water after the first fuel began to burn. The CEF&#39;s on-screen energy display rose to 1.9 kRF. The machine tool&#39;s client-side stored-EU value stayed zero during the check. The on-screen energy display is the better test here. Putting It All Together is claimed and LV Wiremill is open.</p>
+<p>Use <code>python3 scripts/power_fuel.py 4</code> for another measured coal load. The dynamo&#39;s inventory is container slot 38 in this layout. The script locates its fuel slot from the open screen. Base view: screenshots/shot-20261119-123956.jpg.</p>
+</div>
+      </article>
+    </main>
+  </body>
+</html>
