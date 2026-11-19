@@ -1,0 +1,5 @@
+# Feeding the Simulation Chamber
+
+For the first runs, the stock chest had thirteen gray terracotta left from the library. Macerate each block into four clay dust. Four dust at the bench give a clay block. The LV alloy smelter combines one clay block and one Pulsating Dust for four Pulsating Polymer Clay. Uraninite ore smelts to Uraninite Dust, then to Pulsating Dust. Keep one extra carbon mesh and four dust aside for each blank data model.
+
+For continuous operation, quest 728 points to the MV Chemical Reactor and a Fluid Extractor. JEI gives one Resonant Clathrate for one nether quartz and 250 mB Molten Ender at 100 EU/t for 100 ticks. Smelt that into Pulsating Dust. Enderman pristine matter can supply pearls, while the LV electrolyzer makes one nether quartz from four glass at 20 EU/t for 100 ticks. The cobble generator can supply both glass and clay: macerate cobble to gravel, gravel to sand, and some sand to Dust Block. Combine a Dust Block and 1000 mB water in a chemical reactor for clay. This keeps the enderman, glass and clay lines supplied without ore purchases once the MV power and matter lines are established.
