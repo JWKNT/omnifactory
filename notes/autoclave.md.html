@@ -32,13 +32,15 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">autoclave.md</h1>
-        <p class="note-meta"><span class="played">4 h 01 min</span> played</p>
+        <p class="note-meta"><span class="played">4 h 18 min</span> played · first sent at 4 h 01 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>Water and materials for the first autoclave</h2>
 <p>The autoclave uses one of the two electric pumps, four steel plates, two basic circuits, a glass block and an LV hull. Reserve the second pump for the Pyrolyse Oven. Install the autoclave west of the chemical reactor&#39;s branch, at (4,81,4), with the four-amp cable to the east. Check quest 490 while still holding the machine.</p>
 <p>The glass replenishment no longer needs a trip to the lake. Feed cobblestone from the workshop stock or powered generator to the LV macerator, then run the resulting gravel through it a second time. Each pass takes 16 ticks per block at 10 EU/t. The first batch was 24 cobblestone. Smelt the sand and put six glass in the bench for sixteen panes. The ore furnace is available for glass. Use the macerator for charcoal dust as well; it is quick and saves the mortar.</p>
 <p>Two nickels bought 32 certus quartz ore. Eight ore went through the east furnace for sixteen GregTech gems. Keep two for the macerator and compressor to make the charger&#39;s two plates. Use at least two other gems with water in the autoclave. For a permanent feed, the NuclearCraft Infinite Water Source recipe needs six wrought iron plates and two water buckets. The existing source at (7,80,10) is in use by the steam plant. Try filling the bucket there for commissioning before building another source. A source below the autoclave would also leave its front and aisle clear.</p>
+<p>The autoclave is built, powered and quest 490 paid its nickel. Clicking the south face of the steam plant&#39;s water source with an empty bucket left it empty. Two filled buckets from the western lake and six more wrought plates made a dedicated Infinite Water Source. It sits at (4,80,4) immediately below the autoclave. The tank filled automatically, and the first twelve-gem batch started producing AE2 Certus Quartz Crystals. The charger&#39;s two GregTech certus plates are already compressed. An LV electrolyzer batch of sixteen ordinary glass supplies the four nether quartz for the first fluix; JEI gives one nether quartz per four glass in 100 ticks at 20 EU/t.</p>
+<p>Both empty buckets were recovered and reused in the factory. scripts/autoclave_water.py 2 fills them from the autoclave tank via its GUI. The twelve-gem batch ran with no bucket handling after installation. Use scripts/wiremill.py --machine autoclave to collect or load, and the same helper with --machine electrolyzer to collect nether quartz.</p>
 </div>
       </article>
     </main>

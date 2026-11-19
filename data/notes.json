@@ -3,10 +3,18 @@
     {
       "name": "ae2-entry.md",
       "first_ticks": 283860,
-      "ticks": 288749,
-      "sent_at": "2026-11-19T15:59:38-0500",
-      "versions": 3,
-      "bytes": 1616
+      "ticks": 315958,
+      "sent_at": "2026-11-19T16:22:18-0500",
+      "versions": 6,
+      "bytes": 3260
+    },
+    {
+      "name": "ae2-storage-costs.md",
+      "first_ticks": 313565,
+      "ticks": 313565,
+      "sent_at": "2026-11-19T16:20:18-0500",
+      "versions": 1,
+      "bytes": 1524
     },
     {
       "name": "after-assembly.md",
@@ -35,10 +43,10 @@
     {
       "name": "autoclave.md",
       "first_ticks": 289698,
-      "ticks": 289698,
-      "sent_at": "2026-11-19T16:00:25-0500",
-      "versions": 1,
-      "bytes": 1418
+      "ticks": 310643,
+      "sent_at": "2026-11-19T16:17:52-0500",
+      "versions": 4,
+      "bytes": 2429
     },
     {
       "name": "blast-furnace.md",
@@ -145,6 +153,14 @@
       "bytes": 1165
     },
     {
+      "name": "fluix.md",
+      "first_ticks": 314566,
+      "ticks": 314566,
+      "sent_at": "2026-11-19T16:21:08-0500",
+      "versions": 1,
+      "bytes": 1047
+    },
+    {
       "name": "furnace-supplies.md",
       "first_ticks": 165521,
       "ticks": 178743,
@@ -217,12 +233,20 @@
       "bytes": 1573
     },
     {
+      "name": "obsidian.md",
+      "first_ticks": 298913,
+      "ticks": 298913,
+      "sent_at": "2026-11-19T16:08:06-0500",
+      "versions": 1,
+      "bytes": 1036
+    },
+    {
       "name": "paper.md",
       "first_ticks": 218432,
-      "ticks": 273508,
-      "sent_at": "2026-11-19T15:46:56-0500",
-      "versions": 3,
-      "bytes": 1800
+      "ticks": 312181,
+      "sent_at": "2026-11-19T16:19:09-0500",
+      "versions": 4,
+      "bytes": 2263
     },
     {
       "name": "progression.md",
@@ -251,10 +275,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 284975,
-      "sent_at": "2026-11-19T15:56:29-0500",
-      "versions": 31,
-      "bytes": 2666
+      "ticks": 315958,
+      "sent_at": "2026-11-19T16:22:18-0500",
+      "versions": 33,
+      "bytes": 2860
     },
     {
       "name": "reward-lookup.md",
@@ -307,10 +331,10 @@
     {
       "name": "void-steam.md",
       "first_ticks": 108613,
-      "ticks": 279525,
-      "sent_at": "2026-11-19T15:51:56-0500",
-      "versions": 3,
-      "bytes": 2320
+      "ticks": 305856,
+      "sent_at": "2026-11-19T16:13:53-0500",
+      "versions": 4,
+      "bytes": 3083
     },
     {
       "name": "void-stores.md",

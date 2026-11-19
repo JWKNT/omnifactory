@@ -1,0 +1,5 @@
+# Dark steel obsidian at the camp lava pool
+
+The western lake bench at (-207,64,196) is a suitable place to fill buckets. At the lava pool, stand on the north bank at (-192,64,236). Put water on the upper face of the stone at (-192,62,237); the source sits on the bank and the stream cools the exposed lava. A surface count found 23 obsidian almost immediately. The diamond mining hammer broke obsidian in 196 ticks from the bank. Its area strike broke several neighboring blocks too. Keep water flowing while mining so it can cool the next layer; approach the dropped stacks over cooled stone. The first collection yielded 19 obsidian and the player recovered both buckets of water.
+
+scripts/obsidian_bank.py uses visible surface targets and the player's hammer. Its first run yielded enough blocks for the dark steel batch. Water flowing over the damaged north bank made walking out awkward. The normal /spawn warm-up is a convenient way back to the camp chests once standing still. Check the current bank before placing water again.

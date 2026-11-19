@@ -1,0 +1,7 @@
+# What follows the energy acceptor
+
+One charger batch and four glass electrolysis batches supplied eight fluix. The acceptor needs four of those as compressed plates, four electrical steel plates and an LV hull. Keep at least one unpressed fluix crystal for quest 282. The powered charger's adjacent RF conduit has an open east face at (8,81,9) for the acceptor.
+
+Next, the Crystal Growth Chamber takes another LV hull, four charged certus and four dark steel bars. Three dark steel ingots at the lathe make six rods; six rods at the bench make eight bars. Its quest (1) asks for the chamber, three kinds of seed and all three pure crystals. Make at least two seeds of each type, preserve one of each for detection, and grow the others. One sand plus the appropriate certus, nether quartz or fluix dust makes two seeds. The LV macerator can make each dust from its corresponding crystal.
+
+An ME Chest will need two dark steel blocks, three different pure crystals, quartz glass, an illuminated panel and a small storage crate. An ME Drive then consumes that chest with an MV emitter, MV sensor, basic circuits and aluminium plates. A storage bus also reaches into MV: it consumes an MV piston and an ME Interface, whose bench route needs an MV hull with an MV robot arm. Prioritize producing repeatable circuits and more dark steel alongside the first AE2 network. The seven dark steel left after the charger covered the growth chamber rods and can cover the four controller plates; a chest needs a further eighteen ingots.

@@ -1,0 +1,5 @@
+# Fluix with the factory's own water and glass
+
+The site's renewable pool occupies x11..12 and z11..12 at y80 in the void. Its eight cobblestone side blocks sit on the existing floor. Two source buckets went into diagonally opposite corners. To fill buckets without visiting the lake, use scripts/autoclave_water.py 2 with two empties. It opens the autoclave, picks up a bucket, and clicks the water tank. Both empty buckets from crafting the water-source block were available to refill.
+
+JEI confirms one charged certus, one nether quartz and one redstone make two fluix together in water. Four matched sets yielded eight crystals. Use scripts/fluix_pool.py 4 with all three ingredients carried. It stands on the rim, drops each ingredient toward the same spot, then steps into the shallow pool to collect. Four of these first crystals were pressed for the Energy Acceptor, leaving others for quest detection and seeds. The electrolyzer produced the four nether quartz from sixteen glass while the autoclave made ordinary AE2 certus in parallel.
