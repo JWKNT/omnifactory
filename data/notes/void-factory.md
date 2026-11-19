@@ -15,3 +15,5 @@ The completed landing floor is 15 by 15, x=1..15 and z=1..15. A surface scan cou
 The original transit cake reached six bites. A fresh Void World Cake is now placed one block farther west at (-176,64,204). scripts/cake_trip.py automatically selects it when the first is spent. On the return cake the fuel must match the configured item exactly: two oak saplings reduced bites from five to three, while an acacia sapling caused a normal trip to camp.
 
 The only named home is now factory at (4,80,3) in the void. The redundant camp home was removed after repeated successful /spawn trips to (-172,64,205) beside the camp bench. Both /delhome camp and /sethome factory returned success. Use /spawn for camp, /home factory for the void, and the cakes during cooldowns.
+
+Both earlier camp cakes reached six bites. The repeatable quest 25 required checking the box on its page before choosing reward 2. The resulting fresh Void World Cake at (-177,64,204) reported zero bites and dimension 119. scripts/cake_trip.py checks all three positions. Return by /home factory whenever its warm-up is available.

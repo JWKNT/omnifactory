@@ -3,18 +3,18 @@
     {
       "name": "ae2-entry.md",
       "first_ticks": 283860,
-      "ticks": 315958,
-      "sent_at": "2026-11-19T16:22:18-0500",
-      "versions": 6,
-      "bytes": 3260
+      "ticks": 324611,
+      "sent_at": "2026-11-19T16:29:31-0500",
+      "versions": 7,
+      "bytes": 3791
     },
     {
       "name": "ae2-storage-costs.md",
       "first_ticks": 313565,
-      "ticks": 313565,
-      "sent_at": "2026-11-19T16:20:18-0500",
-      "versions": 1,
-      "bytes": 1524
+      "ticks": 331457,
+      "sent_at": "2026-11-19T16:35:13-0500",
+      "versions": 3,
+      "bytes": 3158
     },
     {
       "name": "after-assembly.md",
@@ -185,6 +185,14 @@
       "bytes": 1872
     },
     {
+      "name": "inscriber.md",
+      "first_ticks": 329873,
+      "ticks": 329873,
+      "sent_at": "2026-11-19T16:33:54-0500",
+      "versions": 1,
+      "bytes": 1106
+    },
+    {
       "name": "lathe-order.md",
       "first_ticks": 152129,
       "ticks": 158992,
@@ -235,18 +243,18 @@
     {
       "name": "obsidian.md",
       "first_ticks": 298913,
-      "ticks": 298913,
-      "sent_at": "2026-11-19T16:08:06-0500",
-      "versions": 1,
-      "bytes": 1036
+      "ticks": 336598,
+      "sent_at": "2026-11-19T16:39:30-0500",
+      "versions": 2,
+      "bytes": 1630
     },
     {
       "name": "paper.md",
       "first_ticks": 218432,
-      "ticks": 312181,
-      "sent_at": "2026-11-19T16:19:09-0500",
-      "versions": 4,
-      "bytes": 2263
+      "ticks": 327665,
+      "sent_at": "2026-11-19T16:32:03-0500",
+      "versions": 5,
+      "bytes": 2668
     },
     {
       "name": "progression.md",
@@ -275,10 +283,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 315958,
-      "sent_at": "2026-11-19T16:22:18-0500",
-      "versions": 33,
-      "bytes": 2860
+      "ticks": 338106,
+      "sent_at": "2026-11-19T16:40:45-0500",
+      "versions": 41,
+      "bytes": 4168
     },
     {
       "name": "reward-lookup.md",
@@ -323,10 +331,10 @@
     {
       "name": "void-factory.md",
       "first_ticks": 85007,
-      "ticks": 184543,
-      "sent_at": "2026-11-19T14:32:47-0500",
-      "versions": 5,
-      "bytes": 2972
+      "ticks": 335302,
+      "sent_at": "2026-11-19T16:38:25-0500",
+      "versions": 6,
+      "bytes": 3304
     },
     {
       "name": "void-steam.md",
