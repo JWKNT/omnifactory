@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="The first operational electric blast furnace">
+    <meta name="theme-color" content="#fbfaf7">
+    <link rel="canonical" href="https://jehlp.net/omnifactory/notes/ebf-running.md.html">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="jehlp.net">
+    <meta property="og:title" content="ebf-running.md · Omnifactory">
+    <meta property="og:description" content="The first operational electric blast furnace">
+    <meta property="og:url" content="https://jehlp.net/omnifactory/notes/ebf-running.md.html">
+    <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
+    <meta property="og:image:width" content="600">
+    <meta property="og:image:height" content="600">
+    <meta property="og:image:alt" content="The Omnifactory symbol">
+    <meta name="twitter:card" content="summary">
+    <title>ebf-running.md · Omnifactory · jehlp.net</title>
+    <link rel="icon" href="https://jehlp.net/site-theme/v2/favicons/omnifactory.png" type="image/png">
+    <script src="https://jehlp.net/site-theme/v2/theme.js?v=20261009-reading-folio"></script>
+    <link rel="stylesheet" href="https://jehlp.net/site-theme/v2/base.css?v=20261102-code">
+    <link rel="stylesheet" href="https://jehlp.net/site-theme/v2/components.css?v=20261102-code">
+    <link rel="stylesheet" href="/omnifactory/assets/styles.css?v=20261119-notes">
+  </head>
+  <body data-site-tone="ochre">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header site-header--identity">
+      <div class="site-brand"><img class="site-mark" src="https://jehlp.net/site-theme/v2/marks/omnifactory.png" width="32" height="32" alt=""><span class="site-title">Omnifactory</span></div>
+      <nav aria-label="Site links"><a href="/omnifactory/">Notes</a><span class="site-utility-pair"><a class="site-home" href="https://jehlp.net/" aria-label="Home — jehlp.net" title="Home — jehlp.net"><span aria-hidden="true">✳</span></a><button class="theme-toggle" type="button" data-theme-toggle aria-label="Use dark theme" aria-pressed="false">◐</button></span></nav>
+    </header>
+    <main id="main" tabindex="-1" class="omni-main note-page">
+      <header class="page-head">
+        <h1 class="note-name">ebf-running.md</h1>
+        <p class="note-meta"><span class="played">2 h 50 min</span> played</p>
+      </header>
+      <article class="note-body" data-fragment>
+<div class="note-prose prose"><h2>The first operational electric blast furnace</h2>
+<p>The controller at (0,80,7) faces west. The input bus is immediately north at (0,80,6), the output bus immediately south at (0,80,8). Fluid hatches occupy (1,80,6) and (1,80,8). Two LV energy hatches at (2,80,7) and (2,80,8) face east. There are two hollow rings of eight coils and nine heatproof casings across the roof. The remaining two structural casings are in the base. The three differences from the default JEI diagram are intentional. The controller reported formed, 128 V input and a 1,024 EU buffer. Blast Furnace Fun (60) paid its 100-value omnidollar.</p>
+<p>The first power branch used one 2A cable on the last leg. After briefly charging the second hatch, that cable disappeared and the branch stopped receiving energy. Replaced it with a 4A conductive iron cable. All four branch sections are now rated for four amps, the endpoint at (3,80,8) reports north and west connections, and both hatches reached 512 EU. scripts/blast_cable.py now installs the verified configuration.</p>
+<p>Four copper ingots plus four redstone produced eight red alloy ingots. The furnace ran at 120 EU/t for 315 ticks per pair of ingots. All eight ingots were collected from the output bus. With the 12 EU/t macerator also running, the controller briefly reported insufficient energy. The macerator was toggled off and then back on after the order. The combined 132 EU/t exceeds the CEF&#39;s 128 EU/t output; use scripts/enable_lv.py macerator off or on for a demanding run. The CEF still held over 1.70 million EU. A separate buffered feeder is worth considering for continuous parallel production.</p>
+<p>Use scripts/blast_job.py gregtech:meta_item_1@10018=4 minecraft:redstone=4 to load that recipe through the bus. With no arguments the script collects finished products. scripts/blast_shell.py and scripts/blast_steps.py record the actual construction. The south stair gives access to both rings and the roof. In-game photo: screenshots/shot-20261119-144749.jpg.</p>
+</div>
+      </article>
+    </main>
+  </body>
+</html>

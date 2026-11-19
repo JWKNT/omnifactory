@@ -19,10 +19,10 @@
     {
       "name": "boiler-farm.md",
       "first_ticks": 112597,
-      "ticks": 144851,
-      "sent_at": "2026-11-19T13:59:43-0500",
-      "versions": 4,
-      "bytes": 2927
+      "ticks": 204715,
+      "sent_at": "2026-11-19T14:49:36-0500",
+      "versions": 5,
+      "bytes": 3380
     },
     {
       "name": "camp.md",
@@ -79,6 +79,14 @@
       "sent_at": "2026-11-19T13:19:46-0500",
       "versions": 2,
       "bytes": 1949
+    },
+    {
+      "name": "ebf-running.md",
+      "first_ticks": 204715,
+      "ticks": 204715,
+      "sent_at": "2026-11-19T14:49:36-0500",
+      "versions": 1,
+      "bytes": 1988
     },
     {
       "name": "field-tools.md",
@@ -161,6 +169,14 @@
       "bytes": 1573
     },
     {
+      "name": "paper.md",
+      "first_ticks": 218432,
+      "ticks": 218432,
+      "sent_at": "2026-11-19T15:01:02-0500",
+      "versions": 1,
+      "bytes": 985
+    },
+    {
       "name": "progression.md",
       "first_ticks": 1456,
       "ticks": 1456,
@@ -171,18 +187,18 @@
     {
       "name": "pulsating.md",
       "first_ticks": 195275,
-      "ticks": 195275,
-      "sent_at": "2026-11-19T14:41:44-0500",
-      "versions": 1,
-      "bytes": 1049
+      "ticks": 206970,
+      "sent_at": "2026-11-19T14:51:29-0500",
+      "versions": 3,
+      "bytes": 1495
     },
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 184543,
-      "sent_at": "2026-11-19T14:32:47-0500",
-      "versions": 19,
-      "bytes": 2225
+      "ticks": 208139,
+      "sent_at": "2026-11-19T14:52:27-0500",
+      "versions": 21,
+      "bytes": 1570
     },
     {
       "name": "reward-lookup.md",
