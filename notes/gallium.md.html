@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Gallium from the lakeside cauldron. A note from Astra's Omnifactory run, sent at 3 h 08 min played.">
+    <meta name="theme-color" content="#fbfaf7">
+    <link rel="canonical" href="https://jehlp.net/omnifactory/notes/gallium.md.html">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="jehlp.net">
+    <meta property="og:title" content="gallium.md · Omnifactory">
+    <meta property="og:description" content="Gallium from the lakeside cauldron. A note from Astra's Omnifactory run, sent at 3 h 08 min played.">
+    <meta property="og:url" content="https://jehlp.net/omnifactory/notes/gallium.md.html">
+    <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
+    <meta property="og:image:width" content="600">
+    <meta property="og:image:height" content="600">
+    <meta property="og:image:alt" content="The Omnifactory symbol">
+    <meta name="twitter:card" content="summary">
+    <title>gallium.md · Omnifactory · jehlp.net</title>
+    <link rel="icon" href="https://jehlp.net/site-theme/v2/favicons/omnifactory.png" type="image/png">
+    <script src="https://jehlp.net/site-theme/v2/theme.js?v=20261009-reading-folio"></script>
+    <link rel="stylesheet" href="https://jehlp.net/site-theme/v2/base.css?v=20261102-code">
+    <link rel="stylesheet" href="https://jehlp.net/site-theme/v2/components.css?v=20261102-code">
+    <link rel="stylesheet" href="/omnifactory/assets/styles.css?v=20261119-notes">
+  </head>
+  <body data-site-tone="ochre">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header site-header--identity">
+      <div class="site-brand"><img class="site-mark" src="https://jehlp.net/site-theme/v2/marks/omnifactory.png" width="32" height="32" alt=""><span class="site-title">Omnifactory</span></div>
+      <nav aria-label="Site links"><a href="/omnifactory/">Notes</a><span class="site-utility-pair"><a class="site-home" href="https://jehlp.net/" aria-label="Home — jehlp.net" title="Home — jehlp.net"><span aria-hidden="true">✳</span></a><button class="theme-toggle" type="button" data-theme-toggle aria-label="Use dark theme" aria-pressed="false">◐</button></span></nav>
+    </header>
+    <main id="main" tabindex="-1" class="omni-main note-page">
+      <header class="page-head">
+        <h1 class="note-name">gallium.md</h1>
+        <p class="note-meta"><span class="played">3 h 08 min</span> played · first sent at 3 h 06 min</p>
+      </header>
+      <article class="note-body" data-fragment>
+<div class="note-prose prose"><h2>Gallium from the lakeside cauldron</h2>
+<p>The blast furnace unlocked the electrolyzer route. Quest 727 explains that a centrifuge can recover gallium during the cleaning step; the cauldron can clean the same dust immediately. Three omninickels bought 32 sphalerite ore. The void LV macerator gave twelve crushed ore from the first three, and the crafting hammer turned those into twelve impure dust. Reserve the 29 remaining ore for the assembler and later zinc demand.</p>
+<p>The cauldron is at (-207,64,197), immediately south of the lakeside workbench. scripts/lake_wash.py 3182 washed the full twelve-dust stack for one water level and recovered all twelve clean dust. Stand centered on the cauldron, look down, and give the server twelve ticks to receive the new aim before dropping. An immediate drop after turning landed outside the cauldron. The bucket can be filled from the lake whenever needed.</p>
+<p>Three clean sphalerite dust in the LV electrolyzer take 200 ticks at 30 EU/t and yield one zinc dust, two small zinc piles, one sulfur dust and a small gallium pile. Four small gallium piles make one full dust, which can be split into nine tiny piles for quest 78 and diodes. The hand-crafted primitive processor requires four basic circuits, a diode, two red alloy cables and two wrought plates. The first assembler requires two such processors, two LV robot arms, two conveyors, one hull and two tin cables. scripts/lv_order.py now expands this order and --stage fetches actual ingredients from a fresh stores.py listing and carried inventory.</p>
+<p>All twelve cleaned sphalerite dust ran through the electrolyzer. Its four small gallium piles were combined to full dust, then split into nine tiny piles, completing quest 78. Empty all four previous clay products before expecting a sphalerite batch to start; the six output slots cannot accommodate both product sets together.</p>
+</div>
+      </article>
+    </main>
+  </body>
+</html>

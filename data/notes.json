@@ -3,10 +3,18 @@
     {
       "name": "aluminium.md",
       "first_ticks": 182095,
-      "ticks": 195275,
-      "sent_at": "2026-11-19T14:41:44-0500",
-      "versions": 2,
-      "bytes": 1628
+      "ticks": 231268,
+      "sent_at": "2026-11-19T15:11:44-0500",
+      "versions": 4,
+      "bytes": 2774
+    },
+    {
+      "name": "assembler-order.md",
+      "first_ticks": 243491,
+      "ticks": 243491,
+      "sent_at": "2026-11-19T15:21:55-0500",
+      "versions": 1,
+      "bytes": 1832
     },
     {
       "name": "blast-furnace.md",
@@ -51,10 +59,10 @@
     {
       "name": "coal-mine.md",
       "first_ticks": 9135,
-      "ticks": 191898,
-      "sent_at": "2026-11-19T14:38:55-0500",
-      "versions": 2,
-      "bytes": 1039
+      "ticks": 240089,
+      "sent_at": "2026-11-19T15:19:05-0500",
+      "versions": 3,
+      "bytes": 1415
     },
     {
       "name": "compressor.md",
@@ -129,6 +137,14 @@
       "bytes": 1221
     },
     {
+      "name": "gallium.md",
+      "first_ticks": 223311,
+      "ticks": 226027,
+      "sent_at": "2026-11-19T15:07:21-0500",
+      "versions": 2,
+      "bytes": 1872
+    },
+    {
       "name": "lathe-order.md",
       "first_ticks": 152129,
       "ticks": 158992,
@@ -171,10 +187,10 @@
     {
       "name": "paper.md",
       "first_ticks": 218432,
-      "ticks": 218432,
-      "sent_at": "2026-11-19T15:01:02-0500",
-      "versions": 1,
-      "bytes": 985
+      "ticks": 240089,
+      "sent_at": "2026-11-19T15:19:05-0500",
+      "versions": 2,
+      "bytes": 1416
     },
     {
       "name": "progression.md",
@@ -195,10 +211,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 208139,
-      "sent_at": "2026-11-19T14:52:27-0500",
-      "versions": 21,
-      "bytes": 1570
+      "ticks": 244340,
+      "sent_at": "2026-11-19T15:22:37-0500",
+      "versions": 23,
+      "bytes": 2333
     },
     {
       "name": "reward-lookup.md",
@@ -211,10 +227,10 @@
     {
       "name": "rubber.md",
       "first_ticks": 41148,
-      "ticks": 84211,
-      "sent_at": "2026-11-19T13:09:04-0500",
-      "versions": 2,
-      "bytes": 911
+      "ticks": 230145,
+      "sent_at": "2026-11-19T15:10:47-0500",
+      "versions": 3,
+      "bytes": 1972
     },
     {
       "name": "second-hour.md",
