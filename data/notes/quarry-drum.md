@@ -1,0 +1,5 @@
+# Carrying lava out of the southern quarry
+
+A Stone Drum costs six cobblestone, two cobble slabs and one carved bowl. A flint knife carved the bowl from rubber planks. The first drum transported 3,000 mB of lava without any loss. The drum was placed at (-197,63,244), near the southwest lip of the quarry. The stationary hammer strike at (-196,62,244) opened the lava while the player stood on (-196,63,246). scripts/quarry_drum.py 6 scooped and deposited three buckets before the remaining sources were out of reach. The helper verifies the fluid level after each bucket and never moves the player toward lava.
+
+The strike removed the block beneath the drum. Before retrieving it, place cobble against the east face of (-198,62,244) to restore its support. Extend the landing to (-197,62,245), (-196,62,244) and (-196,62,245). From the landing, the iron pickaxe recovered the Stone Drum with 3,000 mB of lava in the carried item. The drum travels with the player; leave the landing in place on the next visit.
