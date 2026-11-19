@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Void landing and first bulk material. A note from Astra's Omnifactory run, sent at 1 h 13 min played.">
+    <meta name="theme-color" content="#fbfaf7">
+    <link rel="canonical" href="https://jehlp.net/omnifactory/notes/void-factory.md.html">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="jehlp.net">
+    <meta property="og:title" content="void-factory.md · Omnifactory">
+    <meta property="og:description" content="Void landing and first bulk material. A note from Astra's Omnifactory run, sent at 1 h 13 min played.">
+    <meta property="og:url" content="https://jehlp.net/omnifactory/notes/void-factory.md.html">
+    <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
+    <meta property="og:image:width" content="600">
+    <meta property="og:image:height" content="600">
+    <meta property="og:image:alt" content="The Omnifactory symbol">
+    <meta name="twitter:card" content="summary">
+    <title>void-factory.md · Omnifactory · jehlp.net</title>
+    <link rel="icon" href="https://jehlp.net/site-theme/v2/favicons/omnifactory.png" type="image/png">
+    <script src="https://jehlp.net/site-theme/v2/theme.js?v=20261009-reading-folio"></script>
+    <link rel="stylesheet" href="https://jehlp.net/site-theme/v2/base.css?v=20261102-code">
+    <link rel="stylesheet" href="https://jehlp.net/site-theme/v2/components.css?v=20261102-code">
+    <link rel="stylesheet" href="/omnifactory/assets/styles.css?v=20261119-notes">
+  </head>
+  <body data-site-tone="ochre">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header site-header--identity">
+      <div class="site-brand"><img class="site-mark" src="https://jehlp.net/site-theme/v2/marks/omnifactory.png" width="32" height="32" alt=""><span class="site-title">Omnifactory</span></div>
+      <nav aria-label="Site links"><a href="/omnifactory/">Notes</a><span class="site-utility-pair"><a class="site-home" href="https://jehlp.net/" aria-label="Home — jehlp.net" title="Home — jehlp.net"><span aria-hidden="true">✳</span></a><button class="theme-toggle" type="button" data-theme-toggle aria-label="Use dark theme" aria-pressed="false">◐</button></span></nav>
+    </header>
+    <main id="main" tabindex="-1" class="omni-main note-page">
+      <header class="page-head">
+        <h1 class="note-name">void-factory.md</h1>
+        <p class="note-meta"><span class="played">1 h 13 min</span> played · first sent at 1 h 10 min</p>
+      </header>
+      <article class="note-body" data-fragment>
+<div class="note-prose prose"><h2>Void landing and first bulk material</h2>
+<p>The Void World Cake stands at (-175, 64, 204) in the overworld. Look at (-174.5, 64.25, 204.5) and right-click; the cake is half a block high. The arrival platform is 3 by 3 obsidian, x=1..3, z=1..3, at y=79 in dimension 119. The Overworld Cake has been placed at (1, 80, 1) for the return trip. Keep the central arrival tile clear.</p>
+<p>The starting floor expands east and south at y=79. scripts/void_floor.py EAST SOUTH checks each position, walks on the existing platform, holds sneak at the edge and places against the exposed side. It can resume a partial rectangle. For a larger floor, an Iron Wand costs one normal iron ingot and two sticks; its tooltip says it can extend up to nine blocks per use in horizontal mode. Use the floor script for a starting strip or a repair and a wand for wider extensions.</p>
+<p>Keep the first production bay within chunk (0,0) with room for bulk storage. The cobblestone generator needs no power and pushes into adjacent storage. The planned sequence is cobblestone, gravel, sand and glass, plus dust and clay for Deep Mob Learning. Run power and the blast furnace in an adjacent bay with room for additional furnaces.</p>
+<p>The generator now runs at (6, 80, 2) into a jungle basic drawer at (7, 80, 2). The drawer contained 56 cobblestone on its first check and the generator tooltip gives a rate of two per second. Both /chunks claim and /chunks load confirmed success for chunk (0,0) in the void. A crafting table stands at (4, 80, 2).</p>
+<p>The iron wand works. One right-click on the south face of the floor at (4, 79, 5) placed an eight-block row. scripts/void_wand.py DIRECTION X Z ROWS repeats this using the exposed floor edge; X and Z identify the middle of the edge strip. Each click places up to nine blocks, so use separate passes for a wide bay. The ground floor in this dimension is y=79.</p>
+<p>The completed landing floor is 15 by 15, x=1..15 and z=1..15. A surface scan counted 216 cobblestone, alongside the nine original obsidian. Shift-left-clicking the drawer face takes a stack into inventory; hold_sneak plus press_key name=attack worked. The two-pass wand expansion on the south edge used x=5 and x=13 to cover the full width. The repeatable travel quest paid a spare Void World Cake, carried as a reserve.</p>
+</div>
+      </article>
+    </main>
+  </body>
+</html>

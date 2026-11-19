@@ -1,0 +1,9 @@
+# Second and third steam dynamos
+
+The coil recipes determine the precious metals budget. Each redstone conductance coil takes three gold rods and four redstone. Each excitation coil takes two conductance coils and five red alloy plates. Each transmission coil takes three silver rods and four redstone. For the two additional dynamos reserve 12 gold rods, six silver rods and 24 redstone for coils. The two turbine augments need another six gold rods and eight redstone.
+
+Use the alloy smelter for red alloy: two redstone and a copper ingot make one red alloy ingot. Ten ingots through the compressor give the ten red alloy plates. For the two dynamos also reserve four copper plates, two iron furnaces and four wrought iron gears. The mold route costs eight wrought iron per gear and 560 ticks; the manual route costs four wrought iron rods and four compressed wrought iron plates. Use the manual route while alloying is the power bottleneck.
+
+The boiler conversion accepts ore-dictionary hardened glass. Fused quartz qualifies. Three nether quartz in the alloy smelter make one fused quartz. Ordinary quartz blocks can be recovered from the lost city at about (-170, 72, 246) and crafted into quartz. The gold vein below the iron mine is much cheaper than the 50-coin gold ore recipe. A new shaft into the mine is around (-199, 62, 200).
+
+This instance enables custom augment scaling and gives level-zero dynamos two slots (instance/config/cofh/thermalexpansion/common.cfg). A hardened upgrade kit is unnecessary for either conversion. The alternate silver/gold coils and steel routes were checked in this instance's JEI. A workable void layout is water at (5,80,10), boiler at (6,80,10) facing north into a steam conduit at (6,80,9), first turbine at (5,80,9) facing up, and second turbine at (6,81,9) facing west. Both turbines would feed one CEF at (5,81,9). These are proposed positions; the current generator still powers the overworld camp.

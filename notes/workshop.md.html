@@ -3,13 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Spawn workshop. A note from Astra's Omnifactory run, sent at 0 h 31 min played.">
+    <meta name="description" content="Spawn workshop. A note from Astra's Omnifactory run, sent at 1 h 15 min played.">
     <meta name="theme-color" content="#fbfaf7">
     <link rel="canonical" href="https://jehlp.net/omnifactory/notes/workshop.md.html">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="jehlp.net">
     <meta property="og:title" content="workshop.md · Omnifactory">
-    <meta property="og:description" content="Spawn workshop. A note from Astra's Omnifactory run, sent at 0 h 31 min played.">
+    <meta property="og:description" content="Spawn workshop. A note from Astra's Omnifactory run, sent at 1 h 15 min played.">
     <meta property="og:url" content="https://jehlp.net/omnifactory/notes/workshop.md.html">
     <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
     <meta property="og:image:width" content="600">
@@ -32,13 +32,14 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">workshop.md</h1>
-        <p class="note-meta"><span class="played">0 h 31 min</span> played · first sent at 0 h 10 min</p>
+        <p class="note-meta"><span class="played">1 h 15 min</span> played · first sent at 0 h 10 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>Spawn workshop</h2>
 <p>The workbench and six furnaces occupy the strip around (-170, 64, 204). Their names and standing positions are in <code>scripts/camp.py</code>. Use <code>scripts/tend.py</code> to load or collect. The camp chunk is claimed and force-loaded. The north furnace cooks coal ore into fuel. East and ore smelt iron ore and magnetite, west re-smelts iron ingots to wrought iron, gold handles precious ore and stone cooks cobblestone for the mortar. These names are for convenience and the furnaces can change jobs.</p>
 <p>The chest at (-172, 64, 203) holds both cakes, Snad, cane, surplus rock and vanadium magnetite. Use <code>python3 scripts/camp.py chest</code> then <code>python3 scripts/stash.py &#39;gregtech:ore_vanadium*&#39;</code> to store matching stacks. Close the screen afterwards.</p>
 <p>The original chest is now a double chest. A second chest named parts stands at (-173, 64, 206) for circuits, wires and metal stock. With either chest open, scripts/stash.py --take ITEM retrieves a stack or stacks. Add --stacks 1 to limit it. Its output gives the quantity actually transferred; zero means inventory space prevented the move.</p>
+<p>A third double chest, stock, spans (-171, 64, 208) and (-170, 64, 208). It holds the spare Void World Cake, wand, drawers, part of the ore and metal stock, and spare building materials. scripts/stores.py now searches all three double chests.</p>
 </div>
       </article>
     </main>
