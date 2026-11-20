@@ -19,3 +19,7 @@ The drawer-conduit order left the MV assembler free. While the alloy smelter mad
 The solidifier's 80 mB has now reached the MV assembler. A partially filled portable tank clicked on its 712 mB input first drew that fluid out. This left 792 mB in the portable tank and zero in the machine. A second click on the empty input transferred all 792 mB back. The shared pouring helper checks both volumes after each click. The solidifier is clear for water, and the three last polyethylene sheets were collected.
 
 Six fine annealed copper wires and the gallium plate produced 32 SMD transistors. All 32 reached the ME network. The assembler used 288 mB and has 504 mB polyethylene left for the remaining resistor and capacitor orders.
+
+The MV assembler made its first 24 SMD resistors during the electrolyzer build. Four fine electrum wires, one carbon dust and 144 mB polyethylene went in; the output slot showed 24 and the input tank held 360 mB. The first carbon came from coal dust in the centrifuge. Twelve bastnasite dust are already in ME storage for the other two carbon and the fluorine supply. Use one carbon for the next 24 resistors, and hold the last for the batch after capacitors so the assembler is clear for solder.
+
+The first bastnasite carbon has now gone through the MV assembler with four fine electrum wires. The inventory showed 48 SMD resistors together, and the machine tank holds 216 mB polyethylene. The other bastnasite carbon remains available for a later batch. Keep this fluid for the capacitor order before changing the assembler to solder.
