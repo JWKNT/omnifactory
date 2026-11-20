@@ -83,10 +83,10 @@
     {
       "name": "bauxite.md",
       "first_ticks": 1483317,
-      "ticks": 1900022,
-      "sent_at": "2026-11-20T14:22:21-0500",
-      "versions": 3,
-      "bytes": 2029
+      "ticks": 1909645,
+      "sent_at": "2026-11-20T14:30:22-0500",
+      "versions": 4,
+      "bytes": 2225
     },
     {
       "name": "bedrock-trip.md",
@@ -107,10 +107,10 @@
     {
       "name": "blast-feeder.md",
       "first_ticks": 932931,
-      "ticks": 1454238,
-      "sent_at": "2026-11-20T08:10:52-0500",
-      "versions": 14,
-      "bytes": 6607
+      "ticks": 1923662,
+      "sent_at": "2026-11-20T14:42:03-0500",
+      "versions": 15,
+      "bytes": 7220
     },
     {
       "name": "blast-furnace.md",
@@ -411,10 +411,10 @@
     {
       "name": "freezer-mainframes.md",
       "first_ticks": 1799172,
-      "ticks": 1884166,
-      "sent_at": "2026-11-20T14:09:08-0500",
-      "versions": 3,
-      "bytes": 3413
+      "ticks": 1910388,
+      "sent_at": "2026-11-20T14:31:00-0500",
+      "versions": 5,
+      "bytes": 4433
     },
     {
       "name": "furnace-fuel.md",
@@ -475,18 +475,18 @@
     {
       "name": "hv-array-supplies.md",
       "first_ticks": 1815605,
-      "ticks": 1865638,
-      "sent_at": "2026-11-20T13:53:42-0500",
-      "versions": 8,
-      "bytes": 5542
+      "ticks": 1906161,
+      "sent_at": "2026-11-20T14:27:28-0500",
+      "versions": 9,
+      "bytes": 6041
     },
     {
       "name": "hv-assembler.md",
       "first_ticks": 1315642,
-      "ticks": 1898684,
-      "sent_at": "2026-11-20T14:21:14-0500",
-      "versions": 17,
-      "bytes": 9668
+      "ticks": 1924710,
+      "sent_at": "2026-11-20T14:42:56-0500",
+      "versions": 21,
+      "bytes": 11373
     },
     {
       "name": "hv-hull.md",
@@ -515,10 +515,10 @@
     {
       "name": "lapidary-efficiency.md",
       "first_ticks": 1244257,
-      "ticks": 1884166,
-      "sent_at": "2026-11-20T14:09:08-0500",
-      "versions": 2,
-      "bytes": 2078
+      "ticks": 1916378,
+      "sent_at": "2026-11-20T14:35:59-0500",
+      "versions": 3,
+      "bytes": 2499
     },
     {
       "name": "lathe-order.md",
@@ -543,6 +543,14 @@
       "sent_at": "2026-11-19T18:07:38-0500",
       "versions": 3,
       "bytes": 1782
+    },
+    {
+      "name": "lv-batteries.md",
+      "first_ticks": 1902449,
+      "ticks": 1905587,
+      "sent_at": "2026-11-20T14:26:59-0500",
+      "versions": 2,
+      "bytes": 955
     },
     {
       "name": "lv-orders.md",
@@ -851,10 +859,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 1896592,
-      "sent_at": "2026-11-20T14:19:30-0500",
-      "versions": 242,
-      "bytes": 5360
+      "ticks": 1914952,
+      "sent_at": "2026-11-20T14:34:48-0500",
+      "versions": 244,
+      "bytes": 5584
     },
     {
       "name": "reward-lookup.md",
@@ -891,10 +899,10 @@
     {
       "name": "second-simulation.md",
       "first_ticks": 1688332,
-      "ticks": 1688332,
-      "sent_at": "2026-11-20T11:25:57-0500",
-      "versions": 1,
-      "bytes": 1497
+      "ticks": 1914059,
+      "sent_at": "2026-11-20T14:34:03-0500",
+      "versions": 2,
+      "bytes": 1987
     },
     {
       "name": "shulker-power.md",
@@ -923,10 +931,10 @@
     {
       "name": "slot-transfers.md",
       "first_ticks": 961396,
-      "ticks": 961396,
-      "sent_at": "2026-11-20T01:20:10-0500",
-      "versions": 1,
-      "bytes": 793
+      "ticks": 1917818,
+      "sent_at": "2026-11-20T14:37:11-0500",
+      "versions": 2,
+      "bytes": 1368
     },
     {
       "name": "small-coils.md",
