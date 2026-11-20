@@ -83,10 +83,10 @@
     {
       "name": "blast-feeder.md",
       "first_ticks": 932931,
-      "ticks": 1384655,
-      "sent_at": "2026-11-20T07:12:53-0500",
-      "versions": 7,
-      "bytes": 3346
+      "ticks": 1414312,
+      "sent_at": "2026-11-20T07:37:36-0500",
+      "versions": 9,
+      "bytes": 4212
     },
     {
       "name": "blast-furnace.md",
@@ -219,10 +219,10 @@
     {
       "name": "drawer-network.md",
       "first_ticks": 996111,
-      "ticks": 1222318,
-      "sent_at": "2026-11-20T04:57:36-0500",
-      "versions": 2,
-      "bytes": 2271
+      "ticks": 1407159,
+      "sent_at": "2026-11-20T07:31:38-0500",
+      "versions": 4,
+      "bytes": 2811
     },
     {
       "name": "dynamo-batch.md",
@@ -339,10 +339,10 @@
     {
       "name": "furnace-fuel.md",
       "first_ticks": 569346,
-      "ticks": 1092829,
-      "sent_at": "2026-11-20T03:09:42-0500",
-      "versions": 10,
-      "bytes": 5874
+      "ticks": 1408590,
+      "sent_at": "2026-11-20T07:32:50-0500",
+      "versions": 12,
+      "bytes": 6376
     },
     {
       "name": "furnace-supplies.md",
@@ -483,10 +483,10 @@
     {
       "name": "metal-models.md",
       "first_ticks": 755508,
-      "ticks": 1089862,
-      "sent_at": "2026-11-20T03:07:13-0500",
-      "versions": 11,
-      "bytes": 6793
+      "ticks": 1414312,
+      "sent_at": "2026-11-20T07:37:36-0500",
+      "versions": 12,
+      "bytes": 7089
     },
     {
       "name": "microversium.md",
@@ -691,10 +691,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 1395618,
-      "sent_at": "2026-11-20T07:22:01-0500",
-      "versions": 155,
-      "bytes": 4868
+      "ticks": 1418621,
+      "sent_at": "2026-11-20T07:41:11-0500",
+      "versions": 159,
+      "bytes": 5442
     },
     {
       "name": "reward-lookup.md",
@@ -771,10 +771,10 @@
     {
       "name": "smd-feed.md",
       "first_ticks": 1304119,
-      "ticks": 1392976,
-      "sent_at": "2026-11-20T07:19:49-0500",
-      "versions": 6,
-      "bytes": 3976
+      "ticks": 1401431,
+      "sent_at": "2026-11-20T07:26:52-0500",
+      "versions": 8,
+      "bytes": 4624
     },
     {
       "name": "sodium-hydroxide.md",
@@ -843,10 +843,10 @@
     {
       "name": "thermal-elemental.md",
       "first_ticks": 1012077,
-      "ticks": 1390605,
-      "sent_at": "2026-11-20T07:17:50-0500",
-      "versions": 5,
-      "bytes": 5177
+      "ticks": 1418621,
+      "sent_at": "2026-11-20T07:41:11-0500",
+      "versions": 9,
+      "bytes": 6586
     },
     {
       "name": "void-factory.md",

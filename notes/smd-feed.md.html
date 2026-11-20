@@ -32,7 +32,7 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">smd-feed.md</h1>
-        <p class="note-meta"><span class="played">19 h 20 min</span> played · first sent at 18 h 06 min</p>
+        <p class="note-meta"><span class="played">19 h 27 min</span> played · first sent at 18 h 06 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>A liquid polyethylene reserve for the MV assembler</h2>
@@ -44,6 +44,8 @@
 <p>Use the remaining 80 mB from the solidifier as well as the full bucket. Together they feed 32 diodes, 32 transistors, 72 resistors and 32 capacitors. Those four orders consume exactly 1,080 mB, leaving the assembler ready to take solder. The last 24 resistors use 144 mB. See pvc-boards.md for the thin sheets.</p>
 <p>The first SMD recipe ran on the installed Advanced Assembling Machine. Its tank went from 1,000 mB to 712 mB. Four fine platinum wires and one small pile of gallium produced 32 SMD diodes in 400 ticks at 120 EU/t. The full stack reached inventory and quest 129 paid a nickel. The separate 80 mB still in the solidifier belongs with the 712 mB in the assembler for transistors, resistors and capacitors.</p>
 <p>The drawer-conduit order left the MV assembler free. While the alloy smelter made Pulsating Iron, the wiremill took one annealed copper ingot for the transistor wires and the electric furnace fired the gallium dust. The compressor can make the single gallium plate while the LV assembler makes conduits. scripts/smd_passives.py now also starts a complete transistor or resistor batch during these hardware orders when its ingredients are ready. The fluid and output checks still govern each load.</p>
+<p>The solidifier&#39;s 80 mB has now reached the MV assembler. A partially filled portable tank clicked on its 712 mB input first drew that fluid out. This left 792 mB in the portable tank and zero in the machine. A second click on the empty input transferred all 792 mB back. The shared pouring helper checks both volumes after each click. The solidifier is clear for water, and the three last polyethylene sheets were collected.</p>
+<p>Six fine annealed copper wires and the gallium plate produced 32 SMD transistors. All 32 reached the ME network. The assembler used 288 mB and has 504 mB polyethylene left for the remaining resistor and capacitor orders.</p>
 </div>
       </article>
     </main>
