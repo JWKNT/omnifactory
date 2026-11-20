@@ -3,13 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="The eighth Overworldian model. A note from Astra's Omnifactory run, sent at 22 h 19 min played.">
+    <meta name="description" content="The eighth Overworldian model. A note from Astra's Omnifactory run, sent at 22 h 42 min played.">
     <meta name="theme-color" content="#fbfaf7">
     <link rel="canonical" href="https://jehlp.net/omnifactory/notes/thermal-elemental.md.html">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="jehlp.net">
     <meta property="og:title" content="thermal-elemental.md · Omnifactory">
-    <meta property="og:description" content="The eighth Overworldian model. A note from Astra's Omnifactory run, sent at 22 h 19 min played.">
+    <meta property="og:description" content="The eighth Overworldian model. A note from Astra's Omnifactory run, sent at 22 h 42 min played.">
     <meta property="og:url" content="https://jehlp.net/omnifactory/notes/thermal-elemental.md.html">
     <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
     <meta property="og:image:width" content="600">
@@ -32,7 +32,7 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">thermal-elemental.md</h1>
-        <p class="note-meta"><span class="played">22 h 19 min</span> played · first sent at 14 h 03 min</p>
+        <p class="note-meta"><span class="played">22 h 42 min</span> played · first sent at 14 h 03 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>The eighth Overworldian model</h2>
@@ -57,6 +57,10 @@
 <p>The MV reactor delivered four Basalz Powder. With all four in inventory, page 306 completed and paid a nickel. The reactor retained exactly 400 mB of reduction fluid.</p>
 <p>The drawer controller order left the MV reactor free. It processed four Endstone Dust using the last 400 mB of reduction fluid and returned four Blitz Powder. The book paid a nickel on page 307. All three reactor input tanks were empty afterward, ready for the ethylene and PVC sequence.</p>
 <p>The first Thermal Elemental matter supplied sixteen Saltpeter Dust. Two Blitz Powder, saltpeter and redstone made two Aerotheum Dust; page 302 paid a nickel. The next requested drops are obsidian dust for Petrotheum, then Blizz, Blitz and Basalz rods. One pristine matter gives eight of the selected rod. One Blizz Rod in the macerator gives four powder instead of two at the bench. Two powder, a snowball and a redstone make another pair of Cryotheum Dust; the first model used one of the earlier pair. Once two dust of each of the four elements are available, their only JEI recipe combines them with one diamond dust for four Mana Dust. Page 298 pays a nickel. Save rods for the Nether Star Core, which also needs four quartz, a blaze rod and a block of nine Luminessence. See phosphorus-chlorine.md for the first Luminessence ingredients.</p>
+<p>The fabricator retained Saltpeter Dust after its input emptied. Its 50-tick processing window was shorter than a workshop trip to its screen, and the network reached 79 saltpeter while Obsidian Dust was due. Clicking the selected product at the top of the empty GUI cleared it; the live fabricator then showed no selected output. scripts/tend_fabricator.py supports this click with --clear-output, and the model tender now clears a superseded Thermal Elemental choice between drops. This leaves the next pristine in the input until the desired product can be selected.</p>
+<p>The next Thermal Elemental pristine made eight Obsidian Dust. One dust, two Basalz Powder and one redstone made two Petrotheum Dust. Page 303 paid an Omninickel. The tender cleared the obsidian selection and the next requested product is Blizz Rod.</p>
+<p>The next pristine delivered eight Blizz Rods. One went into the macerator and yielded four Blizz Powder. For the first four Mana Dust, keep the lower extractor at (4,80,8) disconnected from the LV assembler by turning fluid auto-output off. Each dust melts into 250 mB of Primal Mana in 40 ticks at 32 EU/t. One bucket pays an OmniQuarter on page 235, then auto-output can be restored for solder. Page 297 needs titanium and Kanthal coils, so later Mana Dust can wait for those.</p>
+<p>Two of each elemental dust and one diamond dust yielded four Mana Dust. Page 298 paid a nickel. All four dust then melted in the lower extractor. Holding the 1,000 mB Primal Mana bucket completed page 235 and paid a quarter. The extractor is available for solder again.</p>
 </div>
       </article>
     </main>

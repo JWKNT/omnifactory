@@ -11,3 +11,5 @@ All twelve cleaned sphalerite dust ran through the electrolyzer. Its four small 
 Six more sphalerite ore gave 24 crushed ore and then 24 impure dust. All 24 washed together at the lake. The cauldron has since moved to (13,81,12) beside the void workshop pool. scripts/lake_wash.py selects the wash site by dimension. Eight electrolyzer batches from this trip can yield eighteen tiny gallium piles for diodes.
 
 The electrolyzer finished all eight batches. Two collections delivered four small gallium piles apiece to workshop storage. It is free for glass-to-quartz again.
+
+For the three mainframe transistor plates, use the centrifuge now that the workshop has one. JEI gives three tiny gallium piles and one clean sphalerite dust per impure dust, in 192 ticks at 24 EU/t. Three stored ore give twelve crushed ore. Hammer nine, centrifuge the nine impure dust and combine the 27 tiny piles into three full gallium dust. Keep the nine clean sphalerite for a later zinc and sulfur order. scripts/mainframe_gallium.py handles the order during other machine work.
