@@ -179,10 +179,10 @@
     {
       "name": "dml-rubber.md",
       "first_ticks": 939246,
-      "ticks": 939246,
-      "sent_at": "2026-11-20T01:01:42-0500",
-      "versions": 1,
-      "bytes": 959
+      "ticks": 971553,
+      "sent_at": "2026-11-20T01:28:38-0500",
+      "versions": 2,
+      "bytes": 1160
     },
     {
       "name": "dynamo-batch.md",
@@ -307,10 +307,10 @@
     {
       "name": "inscriber.md",
       "first_ticks": 329873,
-      "ticks": 846846,
-      "sent_at": "2026-11-19T23:44:42-0500",
-      "versions": 7,
-      "bytes": 4699
+      "ticks": 971551,
+      "sent_at": "2026-11-20T01:28:38-0500",
+      "versions": 8,
+      "bytes": 5297
     },
     {
       "name": "lathe-order.md",
@@ -515,10 +515,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 961393,
-      "sent_at": "2026-11-20T01:20:10-0500",
-      "versions": 109,
-      "bytes": 3553
+      "ticks": 971555,
+      "sent_at": "2026-11-20T01:28:38-0500",
+      "versions": 110,
+      "bytes": 3743
     },
     {
       "name": "reward-lookup.md",
