@@ -17,3 +17,7 @@ The lapidary dynamo at (7,80,8) exposes its fuel slot on the east face. Its RF o
 The two hulls can use sixteen Dark Steel. The second coal block was converted specifically for this charge. At the beginning of the extruder order, the alloy smelter can pair sixteen steel ingots with sixteen Void Crystals while the bench works on the extruder. The job also books sixteen replacement steel for the power and machinery orders.
 
 The first hull charge is running. Sixteen Void Crystals and sixteen steel entered the alloy smelter together; I observed three finished Dark Steel Ingots and the next ingot processing. Sixteen replacement steel are booked. The extruder order is running at the same time, and the separate MV reactor has started the next eight Resonant Clathrate for simulation fuel.
+
+All sixteen Dark Steel Ingots reached the compressor and the first four plates were visible in its output. The mixer has made the first glowstone and redstone blend for the energetic alloy. Until the second bay opens, the original Shulker run can return unused clay once the factory has 48 diamonds, enough pearls, and enough clay to finish an outstanding material-model batch. This lets the next iron or copper batch start while the power reserve is healthy.
+
+All sixteen Dark Steel Plates reached ME. The mixer made enough Energetic Blend for the full eight ingots. Eight Gold Ingots and eight blend entered the blast furnace together and the controller confirmed Energetic Alloy at 120 EU/t for 400 ticks per ingot.

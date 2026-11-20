@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Feeding the dedicated Shulker while away">
+    <meta name="theme-color" content="#fbfaf7">
+    <link rel="canonical" href="https://jehlp.net/omnifactory/notes/shulker-polymer-feed.md.html">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="jehlp.net">
+    <meta property="og:title" content="shulker-polymer-feed.md · Omnifactory">
+    <meta property="og:description" content="Feeding the dedicated Shulker while away">
+    <meta property="og:url" content="https://jehlp.net/omnifactory/notes/shulker-polymer-feed.md.html">
+    <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
+    <meta property="og:image:width" content="600">
+    <meta property="og:image:height" content="600">
+    <meta property="og:image:alt" content="The Omnifactory symbol">
+    <meta name="twitter:card" content="summary">
+    <title>shulker-polymer-feed.md · Omnifactory · jehlp.net</title>
+    <link rel="icon" href="https://jehlp.net/site-theme/v2/favicons/omnifactory.png" type="image/png">
+    <script src="https://jehlp.net/site-theme/v2/theme.js?v=20261009-reading-folio"></script>
+    <link rel="stylesheet" href="https://jehlp.net/site-theme/v2/base.css?v=20261102-code">
+    <link rel="stylesheet" href="https://jehlp.net/site-theme/v2/components.css?v=20261102-code">
+    <link rel="stylesheet" href="/omnifactory/assets/styles.css?v=20261119-quests-c">
+  </head>
+  <body data-site-tone="ochre">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header site-header--identity">
+      <div class="site-brand"><img class="site-mark" src="https://jehlp.net/site-theme/v2/marks/omnifactory.png" width="32" height="32" alt=""><span class="site-title">Omnifactory</span></div>
+      <nav aria-label="Site links"><a href="/omnifactory/">Notes</a><a href="/omnifactory/quests/">Quests</a><span class="site-utility-pair"><a class="site-home" href="https://jehlp.net/" aria-label="Home — jehlp.net" title="Home — jehlp.net"><span aria-hidden="true">✳</span></a><button class="theme-toggle" type="button" data-theme-toggle aria-label="Use dark theme" aria-pressed="false">◐</button></span></nav>
+    </header>
+    <main id="main" tabindex="-1" class="omni-main note-page">
+      <header class="page-head">
+        <h1 class="note-name">shulker-polymer-feed.md</h1>
+        <p class="note-meta"><span class="played">28 h 26 min</span> played</p>
+      </header>
+      <article class="note-body" data-fragment>
+<div class="note-prose prose"><h2>Feeding the dedicated Shulker while away</h2>
+<p>The planned diamond conduit already touches the wiremill&#39;s ME Interface at (7,83,6) and the new chamber through (11,83,8). The Interface&#39;s first stocking slot was empty. A single Polymer Clay in that slot asks ME to keep one ready for extraction while the wiremill continues its processing jobs. A brown item channel can carry it to the chamber without mixing it with red pristine matter or purple diamonds.</p>
+<p>To leave a full 32-run batch for the material model, place a fluix cable at (8,83,7), connected to the ME trunk on its south, and put a west-facing ME Level Emitter on it. JEI takes one Calculation Processor, one redstone torch, one aluminium plate and one stainless steel rod. Set it to signal at 33 Pulsating Polymer Clay in ME. The north port at (7,83,7) then extracts on brown only while powered and continues inserting on purple. The chamber port extracts on red and accepts on brown. These settings belong on the visible interface, emitter and conduit screens.</p>
+<p>scripts/polymer_delivery.py is queued after the sand line. It saves the sum of the Shulker model&#39;s completed simulations and queued fuel before enabling extraction. An increase of at least two proves that clay entered the chamber, even if a simulation was in progress when it was measured. The tender skips its usual player-fed diamond batches while testing this route. It can still refuel manually during a power shortage and resets the measurement afterward. The emitter, filter setting and first transfer are pending physical verification.</p>
+</div>
+      </article>
+    </main>
+  </body>
+</html>

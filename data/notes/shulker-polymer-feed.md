@@ -1,0 +1,7 @@
+# Feeding the dedicated Shulker while away
+
+The planned diamond conduit already touches the wiremill's ME Interface at (7,83,6) and the new chamber through (11,83,8). The Interface's first stocking slot was empty. A single Polymer Clay in that slot asks ME to keep one ready for extraction while the wiremill continues its processing jobs. A brown item channel can carry it to the chamber without mixing it with red pristine matter or purple diamonds.
+
+To leave a full 32-run batch for the material model, place a fluix cable at (8,83,7), connected to the ME trunk on its south, and put a west-facing ME Level Emitter on it. JEI takes one Calculation Processor, one redstone torch, one aluminium plate and one stainless steel rod. Set it to signal at 33 Pulsating Polymer Clay in ME. The north port at (7,83,7) then extracts on brown only while powered and continues inserting on purple. The chamber port extracts on red and accepts on brown. These settings belong on the visible interface, emitter and conduit screens.
+
+scripts/polymer_delivery.py is queued after the sand line. It saves the sum of the Shulker model's completed simulations and queued fuel before enabling extraction. An increase of at least two proves that clay entered the chamber, even if a simulation was in progress when it was measured. The tender skips its usual player-fed diamond batches while testing this route. It can still refuel manually during a power shortage and resets the measurement afterward. The emitter, filter setting and first transfer are pending physical verification.

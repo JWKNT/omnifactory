@@ -10,3 +10,7 @@ The bauxite batch produced sixteen aluminium dust and six rutile dust. With the 
 
 
 At 28h20m the Advanced Extruder and Large Pipe shape were together in inventory. Page 540 completed and paid one nickel. The ME CPU supplied two Primitive Processors and the MV piston. Four impure nickel dust fired in a coke oven while the lathe made steel rods. The four nickel and four copper ingots alloyed to eight cupronickel ingots, then sixteen single wires became four quadruples. The transformer and its feed cable are the remaining installation work. Keep the two gold singles for the double cable separate from the single used in the transformer.
+
+At 28h33m the new north-facing transformer at (11,82,3) reported one 512 V input amp and four 128 V output amps. The Advanced Extruder at (11,82,4) had its full 4,096 EU buffer. The alloy smelter is batching Invar for the gears. The transformer used aluminium plates cut from a storage block and gold cable wrapped by the assembler.
+
+At 28h41m the first gear run finished. Sixteen Invar Ingots gave four gears at 64 EU/t and 280 ticks each. The reusable gear shape stayed in the extruder. Four gears, four plates and the Electrical Steel Block made the Hardened Upgrade Kit. Quest 528 completed and paid four OmniNickels. I applied the kit to the diamond dynamo at (7,80,8). It now reads Numismatic Dynamo (Hardened), with the lapidary augment still installed and a measured maximum of 3,750 RF/t, up from 2,500. Its instantaneous output passed 3,000 RF/t after the upgrade.

@@ -1,0 +1,7 @@
+# A dedicated assembler for tubes and resistors
+
+A Basic Circuit takes two vacuum tubes and two resistors. The ME network can make the circuit, draw the fine copper wire and craft the glass tubes. The player still loads the shared assembler for the two electronic parts. Live JEI gives one vacuum tube for two paper, one glass tube and two fine copper wires in a basic assembler. The bench takes three wires. The assembler also makes twelve resistors from four fine copper wires and one coal dust. The bench needs eight wires, four coal dust and eight paper for the same twelve. Both assembler recipes run without fluid.
+
+The automation order after the Shulker feed is one Basic Assembling Machine at (10,82,-3) and one ME Interface on its south face. The existing fourfold LV cable at (9,82,-3) can power it. The open floor extends east through x12 and the deck can grow from there. Eleven new fluix glass cables extend from the polymer emitter cable along x8 at y83, then turn east over the interface. This gives future machines a network connection on the north deck. The workshop can keep its other assemblers on solder and plastics.
+
+Reserve two blank patterns. If none remain, one Processor Assembly, five polyethylene sheets and three fine silver wires make eight. The first commissioning orders are two vacuum tubes and twelve resistors through the crafting terminal. Check the returned quantities before marking the line online. scripts/dry_assembler.py holds the surveyed route and commissioning order.
