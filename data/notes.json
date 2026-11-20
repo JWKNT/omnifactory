@@ -11,10 +11,10 @@
     {
       "name": "ae2-pattern-road.md",
       "first_ticks": 620868,
-      "ticks": 737932,
-      "sent_at": "2026-11-19T22:13:57-0500",
-      "versions": 2,
-      "bytes": 2768
+      "ticks": 837458,
+      "sent_at": "2026-11-19T23:36:53-0500",
+      "versions": 6,
+      "bytes": 5256
     },
     {
       "name": "ae2-storage-costs.md",
@@ -41,6 +41,14 @@
       "bytes": 3192
     },
     {
+      "name": "annealed-copper.md",
+      "first_ticks": 841246,
+      "ticks": 841246,
+      "sent_at": "2026-11-19T23:40:02-0500",
+      "versions": 1,
+      "bytes": 1833
+    },
+    {
       "name": "assembler-order.md",
       "first_ticks": 243491,
       "ticks": 268274,
@@ -59,10 +67,10 @@
     {
       "name": "bedrock-trip.md",
       "first_ticks": 348801,
-      "ticks": 357424,
-      "sent_at": "2026-11-19T16:56:51-0500",
-      "versions": 2,
-      "bytes": 1970
+      "ticks": 828695,
+      "sent_at": "2026-11-19T23:29:35-0500",
+      "versions": 3,
+      "bytes": 2339
     },
     {
       "name": "blast-furnace.md",
@@ -171,10 +179,10 @@
     {
       "name": "field-tools.md",
       "first_ticks": 3560,
-      "ticks": 97046,
-      "sent_at": "2026-11-19T13:19:46-0500",
-      "versions": 8,
-      "bytes": 3113
+      "ticks": 828695,
+      "sent_at": "2026-11-19T23:29:35-0500",
+      "versions": 9,
+      "bytes": 3444
     },
     {
       "name": "first-metals.md",
@@ -219,10 +227,10 @@
     {
       "name": "furnace-fuel.md",
       "first_ticks": 569346,
-      "ticks": 794605,
-      "sent_at": "2026-11-19T23:01:10-0500",
-      "versions": 3,
-      "bytes": 2602
+      "ticks": 830953,
+      "sent_at": "2026-11-19T23:31:28-0500",
+      "versions": 4,
+      "bytes": 3183
     },
     {
       "name": "furnace-supplies.md",
@@ -331,10 +339,10 @@
     {
       "name": "metal-models.md",
       "first_ticks": 755508,
-      "ticks": 766544,
-      "sent_at": "2026-11-19T22:37:47-0500",
-      "versions": 3,
-      "bytes": 2760
+      "ticks": 835654,
+      "sent_at": "2026-11-19T23:35:23-0500",
+      "versions": 4,
+      "bytes": 3432
     },
     {
       "name": "mixer.md",
@@ -459,10 +467,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 816346,
-      "sent_at": "2026-11-19T23:19:17-0500",
-      "versions": 92,
-      "bytes": 3634
+      "ticks": 832820,
+      "sent_at": "2026-11-19T23:33:01-0500",
+      "versions": 94,
+      "bytes": 4422
     },
     {
       "name": "reward-lookup.md",
