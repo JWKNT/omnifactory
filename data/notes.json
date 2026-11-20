@@ -73,6 +73,14 @@
       "bytes": 2429
     },
     {
+      "name": "bauxite.md",
+      "first_ticks": 1483317,
+      "ticks": 1483317,
+      "sent_at": "2026-11-20T08:35:06-0500",
+      "versions": 1,
+      "bytes": 902
+    },
+    {
       "name": "bedrock-trip.md",
       "first_ticks": 348801,
       "ticks": 828695,
@@ -187,10 +195,10 @@
     {
       "name": "cobaltite.md",
       "first_ticks": 1434318,
-      "ticks": 1453068,
-      "sent_at": "2026-11-20T08:09:54-0500",
-      "versions": 2,
-      "bytes": 846
+      "ticks": 1475847,
+      "sent_at": "2026-11-20T08:28:52-0500",
+      "versions": 4,
+      "bytes": 1286
     },
     {
       "name": "compressor.md",
@@ -267,10 +275,10 @@
     {
       "name": "fabricator-output.md",
       "first_ticks": 1167835,
-      "ticks": 1167835,
-      "sent_at": "2026-11-20T04:12:12-0500",
-      "versions": 1,
-      "bytes": 1379
+      "ticks": 1471025,
+      "sent_at": "2026-11-20T08:24:51-0500",
+      "versions": 2,
+      "bytes": 1991
     },
     {
       "name": "field-magnet.md",
@@ -331,10 +339,10 @@
     {
       "name": "first-stainless.md",
       "first_ticks": 1371420,
-      "ticks": 1390605,
-      "sent_at": "2026-11-20T07:17:50-0500",
-      "versions": 2,
-      "bytes": 1773
+      "ticks": 1479270,
+      "sent_at": "2026-11-20T08:31:44-0500",
+      "versions": 5,
+      "bytes": 2690
     },
     {
       "name": "first-tier-three.md",
@@ -385,6 +393,14 @@
       "bytes": 2386
     },
     {
+      "name": "gear-production.md",
+      "first_ticks": 1486508,
+      "ticks": 1486508,
+      "sent_at": "2026-11-20T08:37:46-0500",
+      "versions": 1,
+      "bytes": 1459
+    },
+    {
       "name": "hellish-bootstrap.md",
       "first_ticks": 429540,
       "ticks": 446263,
@@ -411,10 +427,10 @@
     {
       "name": "hv-hull.md",
       "first_ticks": 1451295,
-      "ticks": 1451295,
-      "sent_at": "2026-11-20T08:08:25-0500",
-      "versions": 1,
-      "bytes": 1599
+      "ticks": 1473867,
+      "sent_at": "2026-11-20T08:27:13-0500",
+      "versions": 2,
+      "bytes": 2119
     },
     {
       "name": "inscriber.md",
@@ -611,10 +627,10 @@
     {
       "name": "plastic-machine-supplies.md",
       "first_ticks": 1199069,
-      "ticks": 1215274,
-      "sent_at": "2026-11-20T04:51:44-0500",
-      "versions": 3,
-      "bytes": 2010
+      "ticks": 1491615,
+      "sent_at": "2026-11-20T08:42:01-0500",
+      "versions": 4,
+      "bytes": 2493
     },
     {
       "name": "plastics-bay.md",
@@ -643,10 +659,10 @@
     {
       "name": "processing-patterns.md",
       "first_ticks": 989559,
-      "ticks": 1444908,
-      "sent_at": "2026-11-20T08:03:06-0500",
-      "versions": 5,
-      "bytes": 4519
+      "ticks": 1487231,
+      "sent_at": "2026-11-20T08:38:22-0500",
+      "versions": 8,
+      "bytes": 5939
     },
     {
       "name": "progression.md",
@@ -715,10 +731,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 1465987,
-      "sent_at": "2026-11-20T08:20:39-0500",
-      "versions": 168,
-      "bytes": 4116
+      "ticks": 1481720,
+      "sent_at": "2026-11-20T08:33:46-0500",
+      "versions": 171,
+      "bytes": 4354
     },
     {
       "name": "reward-lookup.md",

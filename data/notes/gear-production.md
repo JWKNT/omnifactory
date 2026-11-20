@@ -1,0 +1,7 @@
+# Gear production after the processing interface
+
+Two LV pistons for the second compressor need two wrought iron gears. The bench makes each gear from four plates and four rods with a reusable screwdriver. The lathe yields two rods per ingot, so this costs six ingots per gear with single-ingot plate forming. A gear die in a Thermal Compactor takes four ingots. The compactor first needs a Thermal Machine Frame with eight stainless plates, and the Gearworking Die is a separate upgrade on page 748. Keep the first stainless plates for the processor array.
+
+The MV Extruder also uses four ingots per gear, makes large pipes, and unlocks the Distillation Tower alongside stainless steel and tier-three circuits. Page 540 checks both the machine and a Large Pipe shape for a nickel. The shape needs an empty shape plate and wire cutters. The machine needs an MV hull, two Primitive Processors, one MV piston, one medium steel pipe and four quadruple cupronickel wires. The sixteen single wires take eight cupronickel ingots. Use the bench recipe for the first medium steel pipe. Later ones can go through the extruder.
+
+The order planner now knows the machine and pipe-shape recipes. Finish the compressor interface and motor patterns before ordering it. The current MV cutter and assembler both need the north aisle. The neighbouring cable overhead at (5,82,1) belongs to the LV line. Choose the extruder socket with access to both existing machines in mind.
