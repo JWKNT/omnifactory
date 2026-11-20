@@ -1,0 +1,7 @@
+# A first batch of plastic for AE2 patterns
+
+Keep twenty surplus rubber saplings for the brewery. In this instance each sapling with 100 mB water gives 100 mB Biomass. The single-block distillery with circuit 0 converts each 1,000 mB Biomass to 700 mB Ethanol at 30 EU/t for 240 ticks. Two distillations supply one full bucket of Ethanol and leave 400 mB toward the next batch. Ordinary biomass gives much more ethanol per bucket here than fermented biomass; use the tower later for the latter's other products.
+
+An LV Chemical Reactor combines sulfur dust and 4,000 mB water to supply 1,000 mB Sulfuric Acid and 6,000 mB Hydrogen. Keep the hydrogen output clear. One bucket each of acid and ethanol gives 1,000 mB Ethylene plus 1,000 mB Diluted Sulfuric Acid at 120 EU/t for 1,200 ticks. Give the plastics line its own MV reactor once the quartz and pearl line is busy.
+
+The LV polymerization recipe uses circuit 0. Each 144 mB Ethylene and 1,000 mB Oxygen yield 216 mB Polyethylene. Water electrolysis can supply 1,000 mB Oxygen per bucket at 30 EU/t for 1,500 ticks, also giving 2,000 mB Hydrogen. Air is another option at a lower polymer yield. Six oxygen batches turn 864 mB Ethylene into 1,296 mB Polyethylene. A plate mold in the Fluid Solidifier makes nine sheets from that quantity. For the first dedicated factory, lay out separate fluid inputs, product tanks and byproduct drains; leave the water supply for paper and clay in operation.
