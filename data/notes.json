@@ -11,18 +11,18 @@
     {
       "name": "ae2-pattern-road.md",
       "first_ticks": 620868,
-      "ticks": 837458,
-      "sent_at": "2026-11-19T23:36:53-0500",
-      "versions": 6,
-      "bytes": 5256
+      "ticks": 853780,
+      "sent_at": "2026-11-19T23:50:29-0500",
+      "versions": 8,
+      "bytes": 6510
     },
     {
       "name": "ae2-storage-costs.md",
       "first_ticks": 313565,
-      "ticks": 794605,
-      "sent_at": "2026-11-19T23:01:10-0500",
-      "versions": 6,
-      "bytes": 5378
+      "ticks": 858615,
+      "sent_at": "2026-11-19T23:54:31-0500",
+      "versions": 9,
+      "bytes": 6708
     },
     {
       "name": "after-assembly.md",
@@ -35,18 +35,18 @@
     {
       "name": "aluminium.md",
       "first_ticks": 182095,
-      "ticks": 766544,
-      "sent_at": "2026-11-19T22:37:47-0500",
-      "versions": 5,
-      "bytes": 3192
+      "ticks": 860652,
+      "sent_at": "2026-11-19T23:56:13-0500",
+      "versions": 6,
+      "bytes": 3703
     },
     {
       "name": "annealed-copper.md",
       "first_ticks": 841246,
-      "ticks": 841246,
-      "sent_at": "2026-11-19T23:40:02-0500",
-      "versions": 1,
-      "bytes": 1833
+      "ticks": 846356,
+      "sent_at": "2026-11-19T23:44:18-0500",
+      "versions": 2,
+      "bytes": 2251
     },
     {
       "name": "assembler-order.md",
@@ -143,6 +143,14 @@
       "sent_at": "2026-11-19T12:56:14-0500",
       "versions": 1,
       "bytes": 1348
+    },
+    {
+      "name": "deuterium.md",
+      "first_ticks": 864775,
+      "ticks": 864775,
+      "sent_at": "2026-11-19T23:59:39-0500",
+      "versions": 1,
+      "bytes": 1725
     },
     {
       "name": "diamond-model.md",
@@ -267,10 +275,10 @@
     {
       "name": "inscriber.md",
       "first_ticks": 329873,
-      "ticks": 808366,
-      "sent_at": "2026-11-19T23:12:38-0500",
-      "versions": 6,
-      "bytes": 4219
+      "ticks": 846846,
+      "sent_at": "2026-11-19T23:44:42-0500",
+      "versions": 7,
+      "bytes": 4699
     },
     {
       "name": "lathe-order.md",
@@ -467,10 +475,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 832820,
-      "sent_at": "2026-11-19T23:33:01-0500",
-      "versions": 94,
-      "bytes": 4422
+      "ticks": 860652,
+      "sent_at": "2026-11-19T23:56:13-0500",
+      "versions": 96,
+      "bytes": 5299
     },
     {
       "name": "reward-lookup.md",
@@ -511,6 +519,14 @@
       "sent_at": "2026-11-19T16:57:50-0500",
       "versions": 3,
       "bytes": 2164
+    },
+    {
+      "name": "sodium-hydroxide.md",
+      "first_ticks": 857507,
+      "ticks": 857507,
+      "sent_at": "2026-11-19T23:53:35-0500",
+      "versions": 1,
+      "bytes": 916
     },
     {
       "name": "steam-upgrade.md",

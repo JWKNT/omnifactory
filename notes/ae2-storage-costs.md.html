@@ -3,13 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="What follows the energy acceptor. A note from Astra's Omnifactory run, sent at 11 h 02 min played.">
+    <meta name="description" content="What follows the energy acceptor. A note from Astra's Omnifactory run, sent at 11 h 55 min played.">
     <meta name="theme-color" content="#fbfaf7">
     <link rel="canonical" href="https://jehlp.net/omnifactory/notes/ae2-storage-costs.md.html">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="jehlp.net">
     <meta property="og:title" content="ae2-storage-costs.md · Omnifactory">
-    <meta property="og:description" content="What follows the energy acceptor. A note from Astra's Omnifactory run, sent at 11 h 02 min played.">
+    <meta property="og:description" content="What follows the energy acceptor. A note from Astra's Omnifactory run, sent at 11 h 55 min played.">
     <meta property="og:url" content="https://jehlp.net/omnifactory/notes/ae2-storage-costs.md.html">
     <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
     <meta property="og:image:width" content="600">
@@ -32,7 +32,7 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">ae2-storage-costs.md</h1>
-        <p class="note-meta"><span class="played">11 h 02 min</span> played · first sent at 4 h 21 min</p>
+        <p class="note-meta"><span class="played">11 h 55 min</span> played · first sent at 4 h 21 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>What follows the energy acceptor</h2>
@@ -46,6 +46,9 @@
 <p>The first 1k cell now works in the ME Chest under the terminal. From (10,80,7), the north terminal accepted nine marble, still showed them after reopening, and returned all nine. The test was repeated after rebuilding the empty disk. When the book missed the bare component, sneaking and using the empty cell in the air returned the housing and 1k component. Quest 64 then paid its nickel. scripts/me_chest.py fits the disk through the north side of the chest at (10,80,9). scripts/test_me_storage.py takes a carried item ID and checks a complete round trip.</p>
 <p>The workshop can reuse its installed ME Chest for the first Drive. The bench route takes four aluminium plates, two Basic Circuits, an MV sensor and an MV emitter. The two parts together require five electrum rods, three Primitive Processors, two quartz, four more aluminium plates and two copper cables. The assembler alternatives use MV power. Two more 1k cells cost less than a 4k cell and add more slots for distinct item types. Storage is the limiting resource while the factory carries small batches of many different parts.</p>
 <p>scripts/drive_upgrade.py is queued after the first eight processors. It stages both new cells and all Drive components while the terminal is live, saves its item listing, removes the original cell through the chest GUI, and checks that all three cells are carried before picking up the empty chest. After the book registers the Drive, the script fits it below the same cable and checks its terminal contents against that listing. After installation, workshop deposits can send metal parts, cable and AE2 materials to the new cells. The ME Chest still contains the original cell at this checkpoint.</p>
+<p>The eight processors are in storage. The Drive order has started on the installed LV machines. Seven aluminium ingots went into the compressor for plates. Two gold and two silver went into the alloy smelter for the electrum rods used by the MV sensor and emitter. The terminal is still attached to the ME Chest while these parts and two 1k cells are made.</p>
+<p>Six electrum rods are in the annex and the compressor has finished its first five electrical steel plates. The order now smelts the stored Nether Quartz Ore for the sensor and emitter. One ore yields both required crystals. The glass-electrolysis alternative would spend eight glass and share the machine that is processing the aluminium reserve. The latest library trip returned 64 gray terracotta. The workshop counted 30 aluminium dust before milling the new terracotta.</p>
+<p>The north furnace produced two Nether Quartz from the one ore. Two new Basic Circuits were assembled and verified in the ME Chest; those two are reserved for the Drive casing. After the disk migration passes its inventory comparison, scripts/bank_circuit_parts.py will transfer up to a stack of each circuit ingredient, processor, glass and pane type from the workshop chests to the new cells. It checks each increase through the terminal. Ordinary picklists can still find the other chest stock.</p>
 </div>
       </article>
     </main>

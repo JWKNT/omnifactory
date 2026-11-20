@@ -32,13 +32,14 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">annealed-copper.md</h1>
-        <p class="note-meta"><span class="played">11 h 41 min</span> played</p>
+        <p class="note-meta"><span class="played">11 h 45 min</span> played · first sent at 11 h 41 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>Annealed copper after the first patterns</h2>
 <p>Quest 130 pays a nickel for one annealed copper ingot. It opens the SMD Components and Multi Smelter branches. The live EBF recipe takes one copper ingot, 1,000 mB oxygen and a reusable circuit set to 1. It runs for 200 ticks at 120 EU/t. Smelting annealed copper dust also works, but the current dust recipes break down existing annealed copper items. The EBF input hatch at (1,80,6) was empty. Keep the six buckets of oxygen already reserved for the first plastic sheet batch. Water electrolysis yields one additional bucket of oxygen per bucket of water in 1,500 ticks at 30 EU/t.</p>
 <p>Four ingots make a sensible first batch once the aluminium charge has finished. Keep one for quest 130 before using the wiremill. The SMD transistor recipe takes six fine annealed copper wires, a gallium plate and 288 mB polyethylene for 32 transistors at 96 EU/t. The other two SMD batches make 24 resistors from four fine electrum wires, carbon dust and 144 mB polyethylene, and sixteen capacitors from four thin PVC or silicone rubber sheets, aluminium foil and 36 mB polyethylene. Those three items together pay three nickels on quest 126. Save the existing 32 RAM chips for later electronics.</p>
 <p>The Multi Smelter needs three more advanced circuits for its controller, plus two annealed copper cables. The book asks to see fourteen heatproof casings with the controller. Operating the 3×3×3 multiblock also takes eight coils, an input bus, an output bus and an energy hatch. The first three advanced circuits already have jobs in the MV assembler and blank patterns. Use the established electronics line or its later plastic-board successor for the smelter&#39;s circuits. The first cupronickel tier handles 32 smelts per operation. This will replace much of the furnace-bank work for glass and metals.</p>
+<p>The first charge is queued after the pattern terminal, the first autocraft and the MV assembler. scripts/anneal_copper.py borrows the idle Pyrolyse Oven’s program, fills the blast hatch with oxygen and returns the program after collecting the ingots. The aluminium order requests four additional buckets of oxygen during the preceding workshop jobs. Check the blast output and quest 130 before counting this batch.</p>
 </div>
       </article>
     </main>
