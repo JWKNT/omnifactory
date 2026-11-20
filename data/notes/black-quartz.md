@@ -11,3 +11,7 @@ The additional aluminium charge is in the blast furnace. For black quartz, the L
 Pages 74 and 75 each pay one OmniNickel. Together they repay the two-nickel ore order. The workshop order can craft and claim either casing when its eight plates are free. It keeps one crystal loose for page 74 and releases the aluminium only after the wiremill interface is in place.
 
 Two nickels bought 32 Quartzite Ore. Two entered the macerator. Together they yielded eight crushed ore, which the bench hammer turned into eight impure quartzite dust. The remaining 30 raw ore are on the metal shelf.
+
+The electrolyzer and autoclave finished the eight dust. The parts chest held three Black Quartz. An order for six aluminium plates joins the two already in ME to supply the first casing. For the Machine Block, a sixteen-ingot ordinary steel charge will share the furnaces with the HV components. It can use coal dust, charcoal dust or carbon from banked coke with wrought iron in the LV alloy smelter. Reserve four steel plates for the polyethylene sheet mold as well.
+
+The processing compressor delivered the six aluminium plates. The workshop crafted the Aluminium Casing, then presented it with a loose Black Quartz on page 74 and received one OmniNickel. Keep the casing for the Atomic Reconstructor. The next block on this branch requires eight ordinary steel plates and a second crystal.
