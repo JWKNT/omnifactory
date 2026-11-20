@@ -41,3 +41,5 @@ The second CPU order delivered exactly two Electric Motors (MV). This completed 
 The 39-dust bauxite batch supplied sixteen aluminium dust and six rutile. The EBF ingots came back in three collections of three, ten and three. The full charge is available for interface and circuit hardware.
 
 Both motor trials exhausted the banked copper wire. A Spider model supplies copper and a Zombie supplies iron, but the one chamber is also maintaining diamond power, ender pearls and the new Guardian feed. To keep the wiring and LV machine orders moving, two nickels each buy 32 copper and iron ore. Send eight copper and sixteen iron straight through ordinary furnaces for the first parts. Mill sixteen more copper ore for 32 crushed ore, hammer that into impure dust, then smelt it. The queued batch in scripts/workshop_metal_charge.py can run while the other stations build the reactor.
+
+The reserve order reached 40 copper ingots in ME. The network delivered fifteen rubber sheets from the separate compressor in one order for the PE reactor and its wiring. The original compressor made four tin plates at the same time.
