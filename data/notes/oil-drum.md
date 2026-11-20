@@ -11,3 +11,7 @@ The fourth bucket reached the drum while the eighteen-ingot stainless charge was
 The extractor finished the fifty-fish charge once the blast furnace stopped. The fifth bucket reached the drum. A fresh count then found only three fish left in ME, so one more Guardian pristine must go to fish before returning to gold. The reserve now reconciles the drum, extractor and fresh storage survey together. An older ME count had included fish that had already entered the extractor.
 
 The next Guardian pristine brought the fish stock to 67. The extractor took 25 for the sixth bucket. A new four-amp Conductive Iron Cable is installed at (5,80,8). Its connected sides read up to the workshop bus, west to the extractor and north to the polymer alloy smelter. During extraction the machine held 1,008 of 1,024 EU. Check simultaneous operation again during the next alloy blast.
+
+The last 1,000 mB reached the north drum, bringing its verified contents to 6,000 mB of fish oil. The workshop is ready to charge the glycerol reaction.
+
+After the oil charge the emptied drum took all 6,000 mB of Bio Diesel. Its neighbor to the west holds sulfuric acid. Keep the diesel available for the later fuel quests.

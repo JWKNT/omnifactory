@@ -283,10 +283,10 @@
     {
       "name": "epoxy-feed.md",
       "first_ticks": 1646569,
-      "ticks": 1684927,
-      "sent_at": "2026-11-20T11:23:06-0500",
-      "versions": 4,
-      "bytes": 3621
+      "ticks": 1732145,
+      "sent_at": "2026-11-20T12:02:27-0500",
+      "versions": 8,
+      "bytes": 6255
     },
     {
       "name": "ethylene-repeats.md",
@@ -547,10 +547,10 @@
     {
       "name": "mainframe-polyethylene.md",
       "first_ticks": 1603551,
-      "ticks": 1688505,
-      "sent_at": "2026-11-20T11:26:05-0500",
-      "versions": 3,
-      "bytes": 2317
+      "ticks": 1732145,
+      "sent_at": "2026-11-20T12:02:27-0500",
+      "versions": 4,
+      "bytes": 3141
     },
     {
       "name": "me-energy-cell.md",
@@ -643,10 +643,10 @@
     {
       "name": "oil-drum.md",
       "first_ticks": 1665431,
-      "ticks": 1701456,
-      "sent_at": "2026-11-20T11:36:53-0500",
-      "versions": 5,
-      "bytes": 2498
+      "ticks": 1727571,
+      "sent_at": "2026-11-20T11:58:39-0500",
+      "versions": 7,
+      "bytes": 2823
     },
     {
       "name": "ore-hammer.md",
@@ -747,10 +747,10 @@
     {
       "name": "pvc-boards.md",
       "first_ticks": 1211074,
-      "ticks": 1628017,
-      "sent_at": "2026-11-20T10:35:41-0500",
-      "versions": 13,
-      "bytes": 7522
+      "ticks": 1715399,
+      "sent_at": "2026-11-20T11:48:30-0500",
+      "versions": 14,
+      "bytes": 8474
     },
     {
       "name": "pyrolyse-order.md",
@@ -803,10 +803,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 1698432,
-      "sent_at": "2026-11-20T11:34:22-0500",
-      "versions": 210,
-      "bytes": 9043
+      "ticks": 1732145,
+      "sent_at": "2026-11-20T12:02:27-0500",
+      "versions": 216,
+      "bytes": 3643
     },
     {
       "name": "reward-lookup.md",
