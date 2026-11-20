@@ -3,13 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Feeding the Simulation Chamber. A note from Astra's Omnifactory run, sent at 8 h 48 min played.">
+    <meta name="description" content="Feeding the Simulation Chamber. A note from Astra's Omnifactory run, sent at 10 h 58 min played.">
     <meta name="theme-color" content="#fbfaf7">
     <link rel="canonical" href="https://jehlp.net/omnifactory/notes/polymer-clay.md.html">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="jehlp.net">
     <meta property="og:title" content="polymer-clay.md · Omnifactory">
-    <meta property="og:description" content="Feeding the Simulation Chamber. A note from Astra's Omnifactory run, sent at 8 h 48 min played.">
+    <meta property="og:description" content="Feeding the Simulation Chamber. A note from Astra's Omnifactory run, sent at 10 h 58 min played.">
     <meta property="og:url" content="https://jehlp.net/omnifactory/notes/polymer-clay.md.html">
     <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
     <meta property="og:image:width" content="600">
@@ -32,7 +32,7 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">polymer-clay.md</h1>
-        <p class="note-meta"><span class="played">8 h 48 min</span> played · first sent at 5 h 32 min</p>
+        <p class="note-meta"><span class="played">10 h 58 min</span> played · first sent at 5 h 32 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>Feeding the Simulation Chamber</h2>
@@ -46,6 +46,7 @@
 <p>When the chamber empties, scripts/sim_fuel_round.py --stored now attempts clay replenishment as well. scripts/clay_feed.py first checks for Dust Blocks for the water-fed LV reactor and for existing clay dust at the bench. Four stored clay dust have already made one more clay block this way. It can use up to eight gray terracotta above a reserve of sixteen for silicon. Without those supplies it advances the generator&#39;s cobble, gravel and sand through the macerator when its input is free.</p>
 <p>The Basic Enderman model&#39;s first forty-polymer charge produced pristine matter by simulation 13. The Loot Fabricator was set to Ender Pearl and held six finished pearls with its input empty. At that point the chamber still held 27 polymer. This confirms the simulation and fabrication part of the renewable feed on the running pack.</p>
 <p>All six pearls from the first pristine have now gone through the extractor, reactor and clathrate furnaces. The first clathrate was checked on quest 728 before firing. Six clay blocks came from 24 spare clay dust. Two clay and two Pulsating Dust went into the LV alloy smelter in the first replenishment batch, making eight polymer. A later pristine produced another six pearls. The reserve is five Pulsating Dust. scripts/renewable_dust.py advances the next available step from cobblestone to glass, quartz and clathrate, or harvests and fires finished clathrate. The factory runner services it when a running Enderman model gets below twenty polymer. The simulation helper can rotate back to the advanced Shulker when the diamond stock falls to 24 and return to Enderman after the stock reaches 48.</p>
+<p>Two nickels bought 32 Nether Quartz Ore for the clathrate line. Ordinary smelting gives two quartz per ore, enough for 64 clathrate and up to 256 polymer if the chamber supplies the pearls. This saves four glass and the electrolysis step per quartz. scripts/renewable_dust.py uses banked ore and limits a furnace delivery to sixteen. It can buy another stack while leaving at least four nickels in reserve. The glass route is still available when coins are tight.</p>
 </div>
       </article>
     </main>

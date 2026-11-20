@@ -19,10 +19,10 @@
     {
       "name": "ae2-storage-costs.md",
       "first_ticks": 313565,
-      "ticks": 351582,
-      "sent_at": "2026-11-19T16:51:59-0500",
-      "versions": 5,
-      "bytes": 4247
+      "ticks": 794605,
+      "sent_at": "2026-11-19T23:01:10-0500",
+      "versions": 6,
+      "bytes": 5378
     },
     {
       "name": "after-assembly.md",
@@ -187,10 +187,10 @@
     {
       "name": "first-plastic.md",
       "first_ticks": 647226,
-      "ticks": 742165,
-      "sent_at": "2026-11-19T22:17:28-0500",
-      "versions": 2,
-      "bytes": 2551
+      "ticks": 790229,
+      "sent_at": "2026-11-19T22:57:32-0500",
+      "versions": 3,
+      "bytes": 2915
     },
     {
       "name": "first-power.md",
@@ -203,10 +203,10 @@
     {
       "name": "first-tier-three.md",
       "first_ticks": 763138,
-      "ticks": 763369,
-      "sent_at": "2026-11-19T22:35:09-0500",
-      "versions": 2,
-      "bytes": 2489
+      "ticks": 790229,
+      "sent_at": "2026-11-19T22:57:32-0500",
+      "versions": 3,
+      "bytes": 3328
     },
     {
       "name": "fluix.md",
@@ -219,10 +219,10 @@
     {
       "name": "furnace-fuel.md",
       "first_ticks": 569346,
-      "ticks": 689896,
-      "sent_at": "2026-11-19T21:33:55-0500",
-      "versions": 2,
-      "bytes": 2215
+      "ticks": 794605,
+      "sent_at": "2026-11-19T23:01:10-0500",
+      "versions": 3,
+      "bytes": 2602
     },
     {
       "name": "furnace-supplies.md",
@@ -347,10 +347,10 @@
     {
       "name": "mv-reactor-power.md",
       "first_ticks": 506697,
-      "ticks": 769031,
-      "sent_at": "2026-11-19T22:39:52-0500",
-      "versions": 8,
-      "bytes": 5342
+      "ticks": 780884,
+      "sent_at": "2026-11-19T22:49:44-0500",
+      "versions": 9,
+      "bytes": 5423
     },
     {
       "name": "mv-wafers.md",
@@ -403,10 +403,10 @@
     {
       "name": "polymer-clay.md",
       "first_ticks": 399385,
-      "ticks": 634559,
-      "sent_at": "2026-11-19T20:47:48-0500",
-      "versions": 9,
-      "bytes": 6054
+      "ticks": 790229,
+      "sent_at": "2026-11-19T22:57:32-0500",
+      "versions": 10,
+      "bytes": 6519
     },
     {
       "name": "pristine-transfer.md",
@@ -435,10 +435,10 @@
     {
       "name": "pyrolyse-order.md",
       "first_ticks": 282901,
-      "ticks": 282901,
-      "sent_at": "2026-11-19T15:54:45-0500",
-      "versions": 1,
-      "bytes": 1503
+      "ticks": 780884,
+      "sent_at": "2026-11-19T22:49:44-0500",
+      "versions": 3,
+      "bytes": 2748
     },
     {
       "name": "quarry-drum.md",
@@ -459,10 +459,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 769486,
-      "sent_at": "2026-11-19T22:40:14-0500",
-      "versions": 85,
-      "bytes": 2562
+      "ticks": 790565,
+      "sent_at": "2026-11-19T22:57:48-0500",
+      "versions": 88,
+      "bytes": 3281
     },
     {
       "name": "reward-lookup.md",

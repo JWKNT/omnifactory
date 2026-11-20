@@ -3,13 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="A budget for the second set of coils. A note from Astra's Omnifactory run, sent at 3 h 55 min played.">
+    <meta name="description" content="A budget for the second set of coils. A note from Astra's Omnifactory run, sent at 10 h 50 min played.">
     <meta name="theme-color" content="#fbfaf7">
     <link rel="canonical" href="https://jehlp.net/omnifactory/notes/pyrolyse-order.md.html">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="jehlp.net">
     <meta property="og:title" content="pyrolyse-order.md · Omnifactory">
-    <meta property="og:description" content="A budget for the second set of coils. A note from Astra's Omnifactory run, sent at 3 h 55 min played.">
+    <meta property="og:description" content="A budget for the second set of coils. A note from Astra's Omnifactory run, sent at 10 h 50 min played.">
     <meta property="og:url" content="https://jehlp.net/omnifactory/notes/pyrolyse-order.md.html">
     <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
     <meta property="og:image:width" content="600">
@@ -32,13 +32,15 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">pyrolyse-order.md</h1>
-        <p class="note-meta"><span class="played">3 h 55 min</span> played</p>
+        <p class="note-meta"><span class="played">10 h 50 min</span> played · first sent at 3 h 55 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>A budget for the second set of coils</h2>
 <p>Quest 22 asks to see the controller, sixteen cupronickel coils, twelve ULV casings, a pair of LV item buses, two fluid hatches and one energy hatch. Keep these parts in inventory together for the book before placing the oven. Leave the assembled blast furnace standing. One of the two new pumps is reserved for the oven controller. The controller also consumes three primitive processors.</p>
 <p>From empty stores, the selected early recipes for those quest parts total 205 iron, 106 copper, 66 nickel, 19 tin, 74 rubber, 56 redstone, 50 paper and 98 glass panes, plus smaller inputs. This is a gross crafting bill; it includes one pump already built and parts already in the workshop. The twelve ULV casings alone consume 96 iron plates. The installed assembler cuts the coal and fine copper cost of resistors. The compressor is likely to be occupied for several minutes on plates; use the time to gather ore and supply the circuit line.</p>
 <p>Recalculate with scripts/lv_order.py and the targets gregtech:machine@514, gregtech:wire_coil=16, gregtech:machine@710, gregtech:machine@711, gregtech:machine@712, gregtech:machine@713, gregtech:machine@714 and gregtech:machine_casing=12. Add --assembled-resistors --stock FILE --carried with a fresh void stores listing. Compare coin purchases and surface ore before provisioning; include the time to double ores and smelt them. A nearby stack of magnetite can go directly into ordinary furnaces when the macerator is occupied.</p>
+<p>The north deck has room for a separate oven. scripts/pyro_oven.py uses the JEI pattern with its controller at (9,81,-9), facing north. It requests seven LV cable segments to connect the energy hatch to the brewery feeder. The wafer campaign queues the oven after the brewery and distillery. Before buying nickel, revisit camp for the 28 nickel ingots and two cupronickel ingots in its last survey. The fallback route macerates Nickel Ore and smelts the impure dust for two ingots per ore. The oven has yet to be placed or supplied with steam. Its first planned charge is 16 coal and 4,000 mB steam on circuit 1, yielding 1,000 mB phenol and 20 coke.</p>
+<p>The 16,000 mB Stone Drum formerly used for quarry lava is now under the alloy smelter at (6,80,8), on the north face of the steam conduit. The empty drum filled completely from the running cane boiler. This is enough steam for four batches of phenol, with no additional boiler or long pipe run. scripts/oven_steam.py checks its level. scripts/first_phenol.py is queued after the oven forms. It carries steam to the east input hatch, sets a reusable circuit to configuration 1 in its item screen and loads the west input bus. The first phenol bucket and coke still depend on building the oven.</p>
 </div>
       </article>
     </main>
