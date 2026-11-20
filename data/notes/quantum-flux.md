@@ -1,0 +1,7 @@
+# Saving ordinary matter for Micro Miner missions
+
+The parts shelves hold several hundred Extraterrestrial Matter from the Shulker and Enderman simulations. Four matter and one Pulsating Crystal craft one Quantum Flux. Quest 395 is unlocked and pays a nickel for the first flux. A tier-one mission needs one flux, the miner and a chest for its ore haul. The gemstone mission swaps the chest for a Gemstone Sensor. The tier-two bauxite mission takes two flux, and the tier-three emerald mission takes four. Keep the ordinary matter.
+
+The crystal costs one diamond and 144 mB molten pulsating iron in an autoclave, 100 ticks at 30 EU/t. One Pulsating Iron Ingot melts into exactly that amount. The workshop’s LV autoclave has a single input tank full of 64,000 mB water and supplies our water buckets. A separate dry autoclave on the LV feeder would let the workshop produce crystals in batches without interrupting water service. Start with four crystals for four missions once the first projector and rocket fuel are in reach. The three processor arrays, plastics and AE2 crafting hardware have priority now.
+
+Live JEI also offers four Moon Dust and a diamond per flux, or an extractor recipe using Impossible Realm Data at 3,000 EU/t. Moon Dust comes from macerating Moon Turf or Dark Moon Turf. The workshop has neither turf in stock. No quest item reward in the book directly supplies the crystal or flux. Quest 395 is still open.

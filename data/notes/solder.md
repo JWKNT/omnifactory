@@ -11,3 +11,5 @@ The first purchase is complete. Storage received all 32 Stibnite Ore, and the so
 Three Stibnite Ore smelted in a spare ordinary furnace with two sugar cane for fuel. The ME storage survey confirmed all three Antimony Ingots. The remaining ingredient for the 30 solder ingots is 27 tin.
 
 Two quest nickels bought 32 tin ore. The furnace log confirmed two loads of sixteen, using Pyrolyse Oven coke, while the Cluster Mill processed foil. Eight older tin ore remain available for doubling. The tender can alloy each nine tin and one antimony while the other machines run.
+
+ME storage now holds all thirty Soldering Alloy Ingots. The LV alloy smelter accepted 27 tin and three antimony, running three 500-tick batches. Twenty-six ingots in the extractor will yield 3,744 mB. The first three arrays spend 3,672 mB, leaving enough molten alloy for one more assembly and four solid ingots for later.
