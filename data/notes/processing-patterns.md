@@ -45,3 +45,7 @@ Both motor trials exhausted the banked copper wire. A Spider model supplies copp
 The reserve order reached 40 copper ingots in ME. The network delivered fifteen rubber sheets from the separate compressor in one order for the PE reactor and its wiring. The original compressor made four tin plates at the same time.
 
 The network delivered another eight rubber sheets and the wiremill made eight Conductive Iron Wires. The bench made two four-amp cables. One is now installed at (6,82,6) for the AE2 wiremill at (7,82,6). Reserve the second for the lower extractor. Twelve iron ore entered the macerator for 24 crushed ore while the wiremill and alloy smelter were busy. Seven raw ore remain for the next stainless charge.
+
+The wiremill order hammered 32 crushed iron into 32 impure dust at the terminal and made its first two tin cables. The next interface will also draw on iron. Replenish the ore when fewer than sixteen remain, keeping enough for stainless and wrought plates. In a workshop round that needs both a CPU craft and unrelated bench jobs, the scheduler now reserves the bench ingredients before submitting the CPU craft and can finish the bench work on the same visit.
+
+The furnace bank ran sixteen slimeballs for rubber while two other ovens smelted the 32 impure iron dust. A fresh ME count confirmed all sixteen rubber and all 32 iron ingots. The workshop also bought 32 additional iron ore for two OmniNickels.

@@ -19,10 +19,10 @@
     {
       "name": "ae2-pattern-road.md",
       "first_ticks": 620868,
-      "ticks": 1380071,
-      "sent_at": "2026-11-20T07:09:04-0500",
-      "versions": 15,
-      "bytes": 10473
+      "ticks": 1754292,
+      "sent_at": "2026-11-20T12:20:55-0500",
+      "versions": 16,
+      "bytes": 11217
     },
     {
       "name": "ae2-storage-costs.md",
@@ -283,10 +283,10 @@
     {
       "name": "epoxy-feed.md",
       "first_ticks": 1646569,
-      "ticks": 1732145,
-      "sent_at": "2026-11-20T12:02:27-0500",
-      "versions": 8,
-      "bytes": 6255
+      "ticks": 1751360,
+      "sent_at": "2026-11-20T12:18:28-0500",
+      "versions": 12,
+      "bytes": 7981
     },
     {
       "name": "ethylene-repeats.md",
@@ -451,10 +451,10 @@
     {
       "name": "hv-assembler.md",
       "first_ticks": 1315642,
-      "ticks": 1704473,
-      "sent_at": "2026-11-20T11:39:24-0500",
-      "versions": 8,
-      "bytes": 5558
+      "ticks": 1748644,
+      "sent_at": "2026-11-20T12:16:12-0500",
+      "versions": 10,
+      "bytes": 6486
     },
     {
       "name": "hv-hull.md",
@@ -723,10 +723,10 @@
     {
       "name": "processing-patterns.md",
       "first_ticks": 989559,
-      "ticks": 1701092,
-      "sent_at": "2026-11-20T11:36:35-0500",
-      "versions": 19,
-      "bytes": 11347
+      "ticks": 1748644,
+      "sent_at": "2026-11-20T12:16:12-0500",
+      "versions": 21,
+      "bytes": 12055
     },
     {
       "name": "progression.md",
@@ -803,10 +803,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 1732145,
-      "sent_at": "2026-11-20T12:02:27-0500",
-      "versions": 216,
-      "bytes": 3643
+      "ticks": 1751360,
+      "sent_at": "2026-11-20T12:18:28-0500",
+      "versions": 219,
+      "bytes": 4066
     },
     {
       "name": "reward-lookup.md",
@@ -995,10 +995,10 @@
     {
       "name": "vibrant-conduits.md",
       "first_ticks": 1524175,
-      "ticks": 1701092,
-      "sent_at": "2026-11-20T11:36:35-0500",
-      "versions": 9,
-      "bytes": 6060
+      "ticks": 1754292,
+      "sent_at": "2026-11-20T12:20:55-0500",
+      "versions": 11,
+      "bytes": 6746
     },
     {
       "name": "void-factory.md",
