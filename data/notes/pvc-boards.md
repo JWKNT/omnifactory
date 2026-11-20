@@ -1,0 +1,7 @@
+# Using the chlorine twice for circuit boards
+
+Save the first nine polyethylene sheets for the pattern and quest orders. For the subsequent Plastic Circuit Board batch, JEI lists three sheet options. Each sheet costs one copper foil and 125 mB sulfuric acid to laminate. Polyethylene gives one board, PVC gives two and PTFE gives four. PVC is the next accessible improvement. Quests 131 and 134 each pay a nickel for showing one sheet and one board respectively. The existing chlorine bucket already satisfied quest 507.
+
+Use both vinyl chloride recipes together. The first takes 2,000 mB chlorine and 1,000 mB ethylene and produces 1,000 mB each of vinyl chloride and hydrochloric acid. The second, on circuit 3, takes that acid, another 1,000 mB ethylene and 1,000 mB oxygen to make another 1,000 mB vinyl chloride and 1,000 mB water. Both run at LV. With the chlorine already stored, one additional rock salt ore in a furnace supplies enough rock salt for the remaining chlorine bucket.
+
+With circuit 0 and oxygen, those two buckets of vinyl chloride support thirteen polymerizations. They cost another 13,000 mB oxygen, yield 2,808 mB PVC and leave 128 mB vinyl chloride. The plate mold can cast nineteen sheets and leave 72 mB PVC. One sulfuric acid bucket and eight copper foil would turn eight sheets into sixteen boards. Reserve separate product tanks for the two plastics so the solidifier can finish a batch without mixing residues. Leave room for the later titanium tetrachloride catalyst route.

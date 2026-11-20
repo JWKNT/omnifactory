@@ -7,3 +7,5 @@ Live JEI gives six crushed ore per raw stibnite. Hammer eighteen crushed ore to 
 Three raw ore yielded the expected eighteen crushed ore, verified together in the terminal. The iron hammer wore out after the first five impure dust. Thirteen crushed ore and 26 raw ore remain from the trial. With 85 diamonds counted in storage, the workshop can replace the worn hammer with a diamond one and keep its fuel reserve.
 
 The diamond hammer finished the other thirteen dust. The furnaces fired all eighteen dust, and two bench visits converted the 54 nuggets into six ingots. With the 26 directly fired ore, the first half-stack reached ME storage. Four nickels then bought the second 32 ore. Two furnaces accepted sixteen each.
+
+The second furnace batch brought the stack to 64. The bounty page paid one OmniQuarter. The metal is available for future solder.

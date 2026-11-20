@@ -51,10 +51,10 @@
     {
       "name": "antimony-reserve.md",
       "first_ticks": 1175873,
-      "ticks": 1196135,
-      "sent_at": "2026-11-20T04:35:47-0500",
-      "versions": 3,
-      "bytes": 1564
+      "ticks": 1205190,
+      "sent_at": "2026-11-20T04:43:20-0500",
+      "versions": 4,
+      "bytes": 1695
     },
     {
       "name": "assembler-order.md",
@@ -219,10 +219,10 @@
     {
       "name": "drawer-network.md",
       "first_ticks": 996111,
-      "ticks": 996111,
-      "sent_at": "2026-11-20T01:49:06-0500",
-      "versions": 1,
-      "bytes": 1493
+      "ticks": 1222318,
+      "sent_at": "2026-11-20T04:57:36-0500",
+      "versions": 2,
+      "bytes": 2271
     },
     {
       "name": "dynamo-batch.md",
@@ -529,6 +529,14 @@
       "bytes": 3776
     },
     {
+      "name": "pattern-supplies.md",
+      "first_ticks": 1221682,
+      "ticks": 1226988,
+      "sent_at": "2026-11-20T05:01:29-0500",
+      "versions": 2,
+      "bytes": 1648
+    },
+    {
       "name": "petrochem.md",
       "first_ticks": 1033680,
       "ticks": 1041224,
@@ -539,10 +547,10 @@
     {
       "name": "plastic-machine-supplies.md",
       "first_ticks": 1199069,
-      "ticks": 1199069,
-      "sent_at": "2026-11-20T04:38:14-0500",
-      "versions": 1,
-      "bytes": 1160
+      "ticks": 1215274,
+      "sent_at": "2026-11-20T04:51:44-0500",
+      "versions": 3,
+      "bytes": 2010
     },
     {
       "name": "plastics-bay.md",
@@ -593,6 +601,14 @@
       "bytes": 1495
     },
     {
+      "name": "pvc-boards.md",
+      "first_ticks": 1211074,
+      "ticks": 1211074,
+      "sent_at": "2026-11-20T04:48:14-0500",
+      "versions": 1,
+      "bytes": 1507
+    },
+    {
       "name": "pyrolyse-order.md",
       "first_ticks": 282901,
       "ticks": 1158590,
@@ -627,10 +643,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 1196135,
-      "sent_at": "2026-11-20T04:35:47-0500",
-      "versions": 135,
-      "bytes": 2988
+      "ticks": 1222689,
+      "sent_at": "2026-11-20T04:57:55-0500",
+      "versions": 138,
+      "bytes": 3672
     },
     {
       "name": "reward-lookup.md",
@@ -723,10 +739,10 @@
     {
       "name": "steel-molds.md",
       "first_ticks": 1186646,
-      "ticks": 1196135,
-      "sent_at": "2026-11-20T04:35:47-0500",
-      "versions": 3,
-      "bytes": 1961
+      "ticks": 1215274,
+      "sent_at": "2026-11-20T04:51:44-0500",
+      "versions": 5,
+      "bytes": 2398
     },
     {
       "name": "steel.md",
@@ -743,6 +759,14 @@
       "sent_at": "2026-11-19T22:28:35-0500",
       "versions": 2,
       "bytes": 1640
+    },
+    {
+      "name": "sulfur-reserve.md",
+      "first_ticks": 1225947,
+      "ticks": 1225947,
+      "sent_at": "2026-11-20T05:00:37-0500",
+      "versions": 1,
+      "bytes": 845
     },
     {
       "name": "thermal-elemental.md",

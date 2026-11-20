@@ -9,3 +9,7 @@ Use the circuit batch to get the first sixteen charcoal cooking. One coke fires 
 One Block of Steel and 42 mB of water make nine Steel Plates in the cutting saw. The MV cutter can take nine ingots at a time while the compressor presses smaller batches. The block recipe spends the same steel as nine individual compressions. The alternative fluids are 31 mB distilled water or 10 mB lubricant per block; the cutter already holds ordinary water.
 
 The first sixteen charcoal finished firing and the macerator made all sixteen Charcoal Dust. The diamond hammer processed all 24 crushed iron from existing stock and the new seven-ore batch. The first ten ordinary iron went into a coke-fired furnace for wrought iron. The mold order became the main workshop order after the three arrays finished.
+
+The terminal now holds the block, gear and rotor molds. The second charcoal firing brought the initial fuel order to 24 logs. The last twelve steel plates go toward the three uncut blanks. Keep the shaped molds and blanks together for the book before converting a blank into the plate mold.
+
+All six items were in hand together. The book paid one OmniQuarter for quest 548, and the factory switched to the reactor and solidifier order.
