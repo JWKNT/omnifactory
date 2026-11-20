@@ -7,3 +7,5 @@ The surveyed route starts at the Energetic Alloy RF conduit at (8,82,7). Place a
 Use a new four-amp LV CEF at (3,81,7), facing down into the existing lossless fourfold cable to both hatches. The existing workshop trunk stays on its original converter. Build the CEF, bank and conduit first. The order uses eight low-tier conduits including the four inside the CEF. The assembler yields four per operation, compared with three at the bench.
 
 The feeder was surveyed and queued while the 40-ingot batch was running. scripts/ebf_feeder.py checks the controller and input bus before it removes the old upper cable. It verifies the replacement converter faces down before adding its RF connection. Commissioning requires charge at the new converter and a subsequent blast under workshop load.
+
+The workshop crafted the Basic Capacitor Bank. The book paid one nickel for quest 33 and the separate four-amp CEF is still on order. The bank alone does not change the blast furnace power supply.

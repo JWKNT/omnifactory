@@ -1,0 +1,7 @@
+# Bulk storage after the first machine patterns
+
+The workshop already has a cobblestone drawer at (7,80,2). A contiguous bank of drawers can share one ME Storage Bus through a Drawer Controller. Quest 495 describes a twelve-block range in each direction, with drawers or trim connecting the blocks. It pays a nickel for the controller. The instance has AE2 channels disabled. The main expense of exposing many bulk materials is the first bus, which takes an MV piston and a block ME Interface.
+
+Live JEI gives two controller recipes. Both take five iron plates, two Basic Circuits and a framed drawer. Use the emerald-block version once the cheaper circuits are running. The survey found six emeralds and twenty-four emerald ore, while diamonds run the lapidary dynamo. One chest and six sticks make the framed drawer. Each single-material wood drawer uses a chest and six matching planks.
+
+Reserve the first two interfaces for bench and machine autocrafting. A third can go into this bus. Start with a small bank for the generator and bulk process inputs, and check that stock is visible and extractable before migrating another material. The existing three 1k cells can hold the varied parts. A 4k component takes three 1k components, glass, a Logic Processor and a Primitive Processor. Quest 118 pays a nickel, but a larger disk still allows only 63 types. Increasing disk size addresses quantity, while more cells or the drawer bank handle additional types. The drawer network is planned.
