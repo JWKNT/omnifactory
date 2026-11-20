@@ -32,7 +32,7 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">mv-wafers.md</h1>
-        <p class="note-meta"><span class="played">9 h 29 min</span> played · first sent at 8 h 20 min</p>
+        <p class="note-meta"><span class="played">9 h 53 min</span> played · first sent at 8 h 20 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>Next use of MV power: wafers and presses</h2>
@@ -45,6 +45,8 @@
 <p>Reserve the two-cable north branch for the engraver and cutter. The factory floor currently ends at z1. scripts/mv_north_deck.py extends the north service aisle with the Iron Wand before any cable occupies it. scripts/mv_wafer_row.py then fits two insulated 4x Copper Cables at (6,81,1) and (7,81,1), turns the CEF north, and mounts the engraver at (7,80,1) or cutter at (6,80,1). Copper for the short run is already on the workshop metal line. This expansion has not yet been installed. Verify reactor and new machine charge and reactor GUI access after changing the feeder&#39;s direction.</p>
 <p>Quest 84 checks for four items together. Use two ordinary silicon wafers under the red lens for two Integrated Circuit Wafers and two more under the diamond lens for two RAM Wafers. Retain one of each wafer. Cutting the other pair with water produces eight Integrated Circuits and 32 RAM. Each engraving takes 900 ticks at 120 EU/t; each finishing cut takes 1,200 ticks at 48 EU/t and 90 mB water. A single bucket covers the first boule and both cuts. The first four wafers leave twelve of the initial sixteen for later orders.</p>
 <p>scripts/wafer_batch.py is ready for commissioning after both machines are installed and the lens quest is claimed. It loads water, cuts the first boule, checks quest 81, engraves the two wafer types and keeps one of each before cutting the others for quest 84. It also tends the simulation during processing. Run it from the workshop and verify the first physical batch; it has not yet been run.</p>
+<p>The north service deck is built. Four wand placements extended the floor from z1 to z-3, nine cobblestone per row. All sixteen tiles in the x5–8 service rectangle passed inspection. The new chunk reported “Chunk claimed” and “Chunk loaded.” The power bus and both machines still await the completed engraver order. If the original chain stops, scripts/wafer_campaign.py resumes from the installed machines and the on-screen quest checks. It checks for stored lens ore, gem or lens before spending replacement coins.</p>
+<p>The engraver is installed at (7,80,1), north-facing. The two 4x Copper Cables joined it to the north-facing CEF and the chemical reactor. After installation the engraver held 4,032 EU and the reactor 4,048 EU, both with 128 V input. The reactor GUI opened from the west edge of its north face. Quest 83 paid the nickel before placement. Two nickels bought 32 almandine ore and five pennies bought 32 lapis ore for the lenses. Keep those ores for subsequent batches.</p>
 </div>
       </article>
     </main>
