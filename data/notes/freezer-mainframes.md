@@ -19,3 +19,5 @@ The next liquid polyethylene charge starts with 112 mB ethylene and 2,000 mB oxy
 The stock survey found eight CPUs, 36 RAM and nine plain silicon wafers. The HV assembler order uses six CPUs and twelve RAM, leaving two CPUs and 24 RAM for the freezer. Engrave two plain wafers with the glass lens and one with the diamond lens. The saw yields sixteen more CPUs and 32 RAM, enough for all three freezer mainframes with twenty RAM left. Use the spare MV machines alongside the pump and stainless work.
 
 The diamond lens engraved the third spare wafer and the MV saw cut it into 32 RAM. After the three new Processor Assemblies, the terminal survey showed 56 RAM. The two earlier CPU wafers were also cut. All three freezer wafer orders are complete.
+
+The centrifuge and bench finished all five gallium dust. There are also four SMD transistors and two SMD capacitors left from earlier circuits. Smelt the five dust and press the ingots in the workshop compressor at one plate per ingot. Each takes 100 ticks at 10 EU/t. The five plates cover 160 more transistors. The plate work order runs between other factory tasks.
