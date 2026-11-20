@@ -31,3 +31,5 @@ For the electrolyzer order, scripts/coke_reserve.py schedules two more batches. 
 A later charge was one coal short. Spending one coal to smelt just one ore can leave the coal reserve unchanged. The coke reserve order now fires up to sixteen coal ore together when coal is short. The east furnace accepted the first full charge.
 
 The second charge finished. The live oven tank reached 2,000 mB phenol and the output bus held another twenty coke. Two ordinary furnaces subsequently accepted sixteen sand apiece for the processor glass.
+
+Three rubber logs smelted into three charcoal with two sugar canes as fuel. One charcoal at the bench gave eight Tiny Charcoal. Page 370 recognized the regular charcoal and all eight pieces together. A piece has a burn time of 200 ticks, exactly one item in an ordinary furnace. scripts/smelt_stock.py now prefers it for jobs smaller than eight items. The north oven also reached four buckets of phenol again while supplying coke for the furnace bank.

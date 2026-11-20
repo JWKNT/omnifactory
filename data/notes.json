@@ -19,10 +19,10 @@
     {
       "name": "ae2-pattern-road.md",
       "first_ticks": 620868,
-      "ticks": 1770829,
-      "sent_at": "2026-11-20T12:34:42-0500",
-      "versions": 17,
-      "bytes": 11884
+      "ticks": 1782855,
+      "sent_at": "2026-11-20T12:44:43-0500",
+      "versions": 18,
+      "bytes": 12596
     },
     {
       "name": "ae2-storage-costs.md",
@@ -99,10 +99,10 @@
     {
       "name": "black-quartz.md",
       "first_ticks": 1454238,
-      "ticks": 1694438,
-      "sent_at": "2026-11-20T11:31:02-0500",
-      "versions": 3,
-      "bytes": 1628
+      "ticks": 1794145,
+      "sent_at": "2026-11-20T12:54:07-0500",
+      "versions": 7,
+      "bytes": 2707
     },
     {
       "name": "blast-feeder.md",
@@ -393,12 +393,20 @@
       "bytes": 1562
     },
     {
+      "name": "freezer-mainframes.md",
+      "first_ticks": 1799172,
+      "ticks": 1799172,
+      "sent_at": "2026-11-20T12:58:19-0500",
+      "versions": 1,
+      "bytes": 1837
+    },
+    {
       "name": "furnace-fuel.md",
       "first_ticks": 569346,
-      "ticks": 1430312,
-      "sent_at": "2026-11-20T07:50:56-0500",
-      "versions": 14,
-      "bytes": 6830
+      "ticks": 1782510,
+      "sent_at": "2026-11-20T12:44:26-0500",
+      "versions": 15,
+      "bytes": 7283
     },
     {
       "name": "furnace-supplies.md",
@@ -547,10 +555,10 @@
     {
       "name": "mainframe-polyethylene.md",
       "first_ticks": 1603551,
-      "ticks": 1770829,
-      "sent_at": "2026-11-20T12:34:42-0500",
-      "versions": 5,
-      "bytes": 4092
+      "ticks": 1792998,
+      "sent_at": "2026-11-20T12:53:10-0500",
+      "versions": 7,
+      "bytes": 5010
     },
     {
       "name": "me-energy-cell.md",
@@ -723,10 +731,10 @@
     {
       "name": "processing-patterns.md",
       "first_ticks": 989559,
-      "ticks": 1775022,
-      "sent_at": "2026-11-20T12:38:11-0500",
-      "versions": 22,
-      "bytes": 12577
+      "ticks": 1804154,
+      "sent_at": "2026-11-20T13:02:28-0500",
+      "versions": 23,
+      "bytes": 13048
     },
     {
       "name": "progression.md",
@@ -803,10 +811,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 1775022,
-      "sent_at": "2026-11-20T12:38:11-0500",
-      "versions": 222,
-      "bytes": 4059
+      "ticks": 1804154,
+      "sent_at": "2026-11-20T13:02:28-0500",
+      "versions": 228,
+      "bytes": 4334
     },
     {
       "name": "reward-lookup.md",
@@ -979,10 +987,10 @@
     {
       "name": "titanium.md",
       "first_ticks": 1505199,
-      "ticks": 1759486,
-      "sent_at": "2026-11-20T12:25:14-0500",
-      "versions": 2,
-      "bytes": 2476
+      "ticks": 1792998,
+      "sent_at": "2026-11-20T12:53:10-0500",
+      "versions": 3,
+      "bytes": 2959
     },
     {
       "name": "vacuum-freezer.md",
@@ -995,10 +1003,10 @@
     {
       "name": "vibrant-conduits.md",
       "first_ticks": 1524175,
-      "ticks": 1764541,
-      "sent_at": "2026-11-20T12:29:27-0500",
-      "versions": 12,
-      "bytes": 7113
+      "ticks": 1782510,
+      "sent_at": "2026-11-20T12:44:26-0500",
+      "versions": 13,
+      "bytes": 7486
     },
     {
       "name": "void-factory.md",

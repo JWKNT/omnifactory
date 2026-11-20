@@ -1,0 +1,9 @@
+# Three more mainframes for the Vacuum Freezer
+
+The HV assembler uses the first two mainframes. Build three more for the freezer controller after the new wire patterns come online. Running `python3 scripts/mainframe_bill.py 3` reads this instance’s assembler recipes and prices an order from empty stock. It uses SMD components and solder. Subtract actual leftovers from the HV builds before issuing orders.
+
+Three mainframes consume six arrays, which consume 24 processors, which need 72 refined circuits. Eighteen circuit batches cover those 72. The 51 assembly cycles use 3,672 mB soldering alloy. The bill calls for 48 Plastic Circuit Boards, 18 CPU chips, 36 RAM, 132 fine tin-alloy wires, 48 vibrant wires, 12 stainless frames and 12 loose stainless plates. Twelve SMD diodes are additional to the resistors, capacitors and transistors.
+
+The three passive totals are 180 resistors, 144 capacitors and 150 transistors. Starting from zero, eight resistor batches, nine capacitor batches and five transistor batches use 2,916 mB polyethylene. They need 32 fine electrum wires, eight carbon dust, nine aluminium foils, 36 thin PVC sheets, 30 fine annealed copper wires and five gallium plates. The tin-alloy pattern needs 17 ingots to deliver at least 132 fine wires. Drawing 24 vibrant ingots supplies all 48 ordinary wires.
+
+Keep the existing PVC process for board stock. Twenty-four PVC sheets and 24 copper foil yield 48 boards for 3,000 mB sulfuric acid. Nine more PVC sheets give the 36 thin sheets for capacitors. PE boards would double the foil and acid per board. PTFE boards would halve them, but each 1,000 mB tetrafluoroethylene batch requires 2,000 mB chloroform and 4,000 mB hydrofluoric acid in an HV reactor. Reserve early reactor time and the chlorine stock for titanium. The freezer electronics are a future order.
