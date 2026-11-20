@@ -17,3 +17,7 @@ Six ruby ore supplied the two extra chrome dust. Two of the 32 pyrolusite ore we
 The bench completed both mixes and the workshop queued eighteen Stainless Steel Dust for the blast furnace during the drawer-controller order. Check the output bus for finished ingots before counting them toward the hull.
 
 The eighteen-dust charge is complete. Three ingots came out on the first collection and fifteen on the second. The ME survey counted 26 Stainless Steel Ingots including the eight from the earlier charge.
+
+The cutter and compressor were free during the last two Overworldian model builds. I packed nine stainless ingots into one block and put it through the MV cutter. Its output showed nine plates. The ordinary LV compressor used two more ingots and showed two plates. The model order now has an opportunity to make the hull early when two rubber sheets and two single gold wires are available. Budget nine plates for the hull and leave two for the refined array. Seven polyethylene sheets cover the two for the hull and the five for the next eight patterns.
+
+The LV assembler insulated both single gold wires with 288 mB rubber on circuit 24. The portable tank held its solder during the job; the assembler had its 72 mB back afterward. The terminal made the stainless casing and the first HV Machine Hull. Page 93 paid one Omnidollar. The six saved rutile dust also satisfied page 151, which paid one Omninickel. The hull remains available for the first HV converter or machine.
