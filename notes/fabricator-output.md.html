@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Bringing finished simulation loot into ME storage">
+    <meta name="theme-color" content="#fbfaf7">
+    <link rel="canonical" href="https://jehlp.net/omnifactory/notes/fabricator-output.md.html">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="jehlp.net">
+    <meta property="og:title" content="fabricator-output.md · Omnifactory">
+    <meta property="og:description" content="Bringing finished simulation loot into ME storage">
+    <meta property="og:url" content="https://jehlp.net/omnifactory/notes/fabricator-output.md.html">
+    <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
+    <meta property="og:image:width" content="600">
+    <meta property="og:image:height" content="600">
+    <meta property="og:image:alt" content="The Omnifactory symbol">
+    <meta name="twitter:card" content="summary">
+    <title>fabricator-output.md · Omnifactory · jehlp.net</title>
+    <link rel="icon" href="https://jehlp.net/site-theme/v2/favicons/omnifactory.png" type="image/png">
+    <script src="https://jehlp.net/site-theme/v2/theme.js?v=20261009-reading-folio"></script>
+    <link rel="stylesheet" href="https://jehlp.net/site-theme/v2/base.css?v=20261102-code">
+    <link rel="stylesheet" href="https://jehlp.net/site-theme/v2/components.css?v=20261102-code">
+    <link rel="stylesheet" href="/omnifactory/assets/styles.css?v=20261119-quests-c">
+  </head>
+  <body data-site-tone="ochre">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header site-header--identity">
+      <div class="site-brand"><img class="site-mark" src="https://jehlp.net/site-theme/v2/marks/omnifactory.png" width="32" height="32" alt=""><span class="site-title">Omnifactory</span></div>
+      <nav aria-label="Site links"><a href="/omnifactory/">Notes</a><a href="/omnifactory/quests/">Quests</a><span class="site-utility-pair"><a class="site-home" href="https://jehlp.net/" aria-label="Home — jehlp.net" title="Home — jehlp.net"><span aria-hidden="true">✳</span></a><button class="theme-toggle" type="button" data-theme-toggle aria-label="Use dark theme" aria-pressed="false">◐</button></span></nav>
+    </header>
+    <main id="main" tabindex="-1" class="omni-main note-page">
+      <header class="page-head">
+        <h1 class="note-name">fabricator-output.md</h1>
+        <p class="note-meta"><span class="played">16 h 13 min</span> played</p>
+      </header>
+      <article class="note-body" data-fragment>
+<div class="note-prose prose"><h2>Bringing finished simulation loot into ME storage</h2>
+<p>The installed Loot Fabricator at (7,82,8) accepts pristine matter from above. In this instance the fabricator exposes only its finished output to item handlers on each of the other five faces. I checked the installed Deep Mob Learning jar. A survey found the capacitor bank directly north, the charger south, and conduit bundles east, west and below. Keep these machines in place.</p>
+<p>The existing item conduit at (6,82,8) touches both the Simulation Chamber and the west face of the fabricator. When the compressor&#39;s second ME Interface is built at (5,83,8), the conduit at (6,83,8) will already touch it. Use a separate Ender IO item channel for finished loot on those two ports. Leave the existing chamber-to-fabricator channel assigned only to pristine matter. This route needs no import bus and uses the item conduits already installed. Build the processing interface for the compressor first. See processing-patterns.md.</p>
+<p>Before switching on extraction, update the first-spider-eyes order to recognize eyes in ME storage. It currently advances when the player takes eyes from the fabricator. Verify one pristine disappears from the chamber and its selected product arrives in the terminal. Leave enough free ME cell types for the model rotation. The workshop currently collects finished loot through the fabricator screen.</p>
+</div>
+      </article>
+    </main>
+  </body>
+</html>

@@ -13,3 +13,9 @@ Three Stibnite Ore smelted in a spare ordinary furnace with two sugar cane for f
 Two quest nickels bought 32 tin ore. The furnace log confirmed two loads of sixteen, using Pyrolyse Oven coke, while the Cluster Mill processed foil. Eight older tin ore remain available for doubling. The tender can alloy each nine tin and one antimony while the other machines run.
 
 ME storage now holds all thirty Soldering Alloy Ingots. The LV alloy smelter accepted 27 tin and three antimony, running three 500-tick batches. Twenty-six ingots in the extractor will yield 3,744 mB. The first three arrays spend 3,672 mB, leaving enough molten alloy for one more assembly and four solid ingots for later.
+
+The second Basic Fluid Extractor is installed beneath the LV assembler at (4,80,8). Its buffer charged to 1,024 EU, the output points up, and fluid auto-output is enabled. The assembler faces its output east and has a 64,000 mB input tank above the extractor. While the extractor was being crafted the wiremill finished another 64 fine copper wires. To leave the cable beside the extractor, walk through (2,80,9) and then (2,80,4).
+
+The extractor accepted all 26 ingots. Every 80 ticks it pours another 144 mB into the LV assembler. I drew a bucket from the assembler, claimed the nickel on quest 498 and returned the full bucket to the same tank. The assembler then read 1,584 mB and continued filling. Four solid solder ingots remain.
+
+The full charge arrived. After sixteen Basic Electronic Circuits, the input tank held 2,592 mB. That reconciles exactly with 3,744 mB delivered and sixteen operations at 72 mB each.
