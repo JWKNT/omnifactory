@@ -11,10 +11,10 @@
     {
       "name": "ae2-pattern-road.md",
       "first_ticks": 620868,
-      "ticks": 1298341,
-      "sent_at": "2026-11-20T06:00:57-0500",
-      "versions": 10,
-      "bytes": 7684
+      "ticks": 1311702,
+      "sent_at": "2026-11-20T06:12:05-0500",
+      "versions": 11,
+      "bytes": 8025
     },
     {
       "name": "ae2-storage-costs.md",
@@ -243,10 +243,10 @@
     {
       "name": "ethylene-repeats.md",
       "first_ticks": 1203094,
-      "ticks": 1250240,
-      "sent_at": "2026-11-20T05:20:52-0500",
-      "versions": 3,
-      "bytes": 2144
+      "ticks": 1308351,
+      "sent_at": "2026-11-20T06:09:18-0500",
+      "versions": 4,
+      "bytes": 2651
     },
     {
       "name": "fabricator-output.md",
@@ -295,6 +295,14 @@
       "sent_at": "2026-11-20T05:31:45-0500",
       "versions": 5,
       "bytes": 3729
+    },
+    {
+      "name": "first-platinum.md",
+      "first_ticks": 1303172,
+      "ticks": 1314318,
+      "sent_at": "2026-11-20T06:14:16-0500",
+      "versions": 3,
+      "bytes": 1818
     },
     {
       "name": "first-power.md",
@@ -367,6 +375,14 @@
       "sent_at": "2026-11-20T04:21:57-0500",
       "versions": 3,
       "bytes": 2581
+    },
+    {
+      "name": "hv-assembler.md",
+      "first_ticks": 1315642,
+      "ticks": 1315642,
+      "sent_at": "2026-11-20T06:15:22-0500",
+      "versions": 1,
+      "bytes": 1202
     },
     {
       "name": "inscriber.md",
@@ -611,10 +627,10 @@
     {
       "name": "pvc-boards.md",
       "first_ticks": 1211074,
-      "ticks": 1211074,
-      "sent_at": "2026-11-20T04:48:14-0500",
-      "versions": 1,
-      "bytes": 1507
+      "ticks": 1308351,
+      "sent_at": "2026-11-20T06:09:18-0500",
+      "versions": 2,
+      "bytes": 2120
     },
     {
       "name": "pyrolyse-order.md",
@@ -651,10 +667,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 1298341,
-      "sent_at": "2026-11-20T06:00:57-0500",
-      "versions": 146,
-      "bytes": 4223
+      "ticks": 1324004,
+      "sent_at": "2026-11-20T06:22:20-0500",
+      "versions": 149,
+      "bytes": 4257
     },
     {
       "name": "reward-lookup.md",
@@ -727,6 +743,14 @@
       "sent_at": "2026-11-20T04:32:34-0500",
       "versions": 1,
       "bytes": 1571
+    },
+    {
+      "name": "smd-feed.md",
+      "first_ticks": 1304119,
+      "ticks": 1324004,
+      "sent_at": "2026-11-20T06:22:20-0500",
+      "versions": 3,
+      "bytes": 2762
     },
     {
       "name": "sodium-hydroxide.md",

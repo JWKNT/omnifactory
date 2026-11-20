@@ -1,0 +1,9 @@
+# Platinum from the nickel already in storage
+
+Quest 129 takes one SMD Diode and pays a nickel. The MV assembler makes 32 from four fine platinum wire, one small gallium dust and 288 mB of polyethylene, at 120 EU/t for 400 ticks. Eight small gallium piles were already banked. The wiremill makes two single wires per platinum ingot and four fine wires per single wire.
+
+The shop charges two quarters for 32 platinum ore. Cooperite also smelts to platinum. Endstone dust gives only a 6.25 percent chance of one tiny platinum dust in the centrifuge. The more economical opening is a guaranteed nickel by-product. Use three of the ten nickel ores from storage. Macerate them into six crushed ore, wash the stack in the factory cauldron, then hammer the six purified ores into six purified dust. The installed GregTech mod registers crushed ore as a cauldron purification input. Its JEI centrifuge recipe for each purified nickel dust takes 232 ticks at 5 EU/t and gives one nickel dust plus three tiny platinum piles. Six dust therefore give eighteen tiny piles and preserve six nickel dust. Nine tiny piles make a full dust. Fire both platinum dust, wiremill one ingot, and retain the other. This branch is queued while the AE2 hardware processes.
+
+The first cauldron wash and centrifuge batch succeeded. The six purified ores returned all eighteen tiny platinum piles and six nickel dust. Both full platinum dust went to the furnace, and one resulting ingot has entered the wiremill. The nickel route spent no coins.
+
+The wiremill output now holds eight Fine Platinum Wire. One platinum ingot remains from the batch. The diode recipe uses four of the eight wires. The MV reactor still holds its first 1,000 mB of diluted sulfuric acid, and the polymer reactor has 136 mB of unused ethylene ready for the second charge.
