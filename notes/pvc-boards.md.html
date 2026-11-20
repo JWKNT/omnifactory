@@ -32,7 +32,7 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">pvc-boards.md</h1>
-        <p class="note-meta"><span class="played">22 h 00 min</span> played · first sent at 16 h 49 min</p>
+        <p class="note-meta"><span class="played">22 h 21 min</span> played · first sent at 16 h 49 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>Using the chlorine twice for circuit boards</h2>
@@ -45,6 +45,10 @@
 <p>The first two buckets of chlorine for PVC are ready. During the data-model build, one stone Rock Salt Ore went through the electric furnace for three Rock Salt. Two salt went into the spare MV electrolyzer while the LV machine processed water. Its fourth output tank now holds 1,000 mB chlorine. The earlier Chlorine Bucket is on the parts shelf. The vinyl chloride order draws from the MV tank at (6,82,1) and uses the saved bucket for the other half of the first reaction. The MV batch also yields one Potassium Dust.</p>
 <p>The cluster mill gives four copper foil per plate in 63 ticks at 24 EU/t. Five copper plates cover the first forty boards, including the first array and the two mainframes. They can be rolled before the PVC sheets arrive. The model order now requests twenty foil; start the first coating charge with eight of them.</p>
 <p>The ME inventory now shows twenty Copper Foil. The first sixteen boards will take eight foil, leaving twelve for twenty-four more boards. For casting PVC, the order can carry oxygen in the 16,000 mB Ender IO tank, then measure the oxygen delivered while accounting for any monomer the reactor has already consumed. Thirteen buckets of oxygen cover the first charge and the extra three can stay for another. This polymer-reactor transfer still needs an in-game check. The portable tank has previously transferred oxygen successfully into the blast hatch.</p>
+<p>After the second ethylene reaction, the MV reactor had two buckets in its output. Moving the first bucket to the input exposed a problem with the bucket tool: both tank widgets then showed the same fluid and the next click took the bucket back from the input. scripts/fluid_bucket.py now supports preferring the right-hand output widget for this transfer. The next pour brought the input to exactly 2,000 mB and left both outputs free. The transfer checks for a full bucket of gain before repeating. The extra diluted acid went to the recovery still for its next batch.</p>
+<p>The first two-bucket vinyl chloride batch is through. The first reaction used both chlorine buckets. Its hydrochloric acid went back into the MV reactor with oxygen, the remaining ethylene and circuit 3. This yielded the second bucket of vinyl chloride and one of water. The LV polymer reactor refused vinyl chloride while it held 128 mB ethylene from making polyethylene, even with two free input tanks. The portable tank lifted the residue and returned it to the MV ethylene supply. Both vinyl chloride buckets then reached the LV reactor. The portable tank delivered 16,000 mB oxygen in a single trip from the electrolyzer. The first PVC sheets have come out of the mold while the Shulker line makes polymer clay.</p>
+<p>The full charge yielded nineteen sheets and 72 mB PVC in the mold. Page 131 paid one Omninickel. The polymer reactor retains 128 mB vinyl chloride and 3,000 mB oxygen. The MV ethylene reactor holds the earlier 128 mB ethylene and a bucket of water in its output. For board coating, the portable tank temporarily takes the ethylene back out so the MV inputs can accept sulfuric acid.</p>
+<p>Eight PVC sheets and eight copper foil consumed the entire 1,000 mB recovered sulfuric acid. The MV reactor took 300 ticks at 40 EU/t per pair, and its output slot showed sixteen Plastic Circuit Boards. The capacitor ingredients ran through the cluster mill during coating.</p>
 </div>
       </article>
     </main>

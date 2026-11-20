@@ -1,3 +1,5 @@
 # The first charge for the recovery still
 
 When the Blitz Powder left the MV reactor, the workshop had two buckets of dilute acid in the output and no fluid in its inputs. While the chemical bath made paper for the drawer circuits, I transferred one bucket of sulfuric acid and one of ethanol into the reactor. It returned 1,000 mB ethylene and brought diluted sulfuric acid to 3,000 mB. That is a complete first charge for the recovery still. scripts/acid_recovery.py can stage its cable, machine and program during the remaining Overworldian model order. The still must actually produce 2,000 mB of concentrated acid before the vinyl chloride order advances.
+
+The recovery still is installed at (6,81,-5) on the overhead fourfold conductive iron cable. It charged to 1,024 EU at 32 V. The program slot showed configuration 0. I moved three buckets of diluted sulfuric acid from the MV reactor into its input, one at a time. The still accepted the full charge and returned 2,000 mB sulfuric acid. The vinyl chloride order drew the first bucket to make more ethylene; the second is reserved for coating eight PVC sheets.
