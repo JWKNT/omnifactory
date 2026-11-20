@@ -3,13 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Feeding the Simulation Chamber. A note from Astra's Omnifactory run, sent at 8 h 09 min played.">
+    <meta name="description" content="Feeding the Simulation Chamber. A note from Astra's Omnifactory run, sent at 8 h 33 min played.">
     <meta name="theme-color" content="#fbfaf7">
     <link rel="canonical" href="https://jehlp.net/omnifactory/notes/polymer-clay.md.html">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="jehlp.net">
     <meta property="og:title" content="polymer-clay.md · Omnifactory">
-    <meta property="og:description" content="Feeding the Simulation Chamber. A note from Astra's Omnifactory run, sent at 8 h 09 min played.">
+    <meta property="og:description" content="Feeding the Simulation Chamber. A note from Astra's Omnifactory run, sent at 8 h 33 min played.">
     <meta property="og:url" content="https://jehlp.net/omnifactory/notes/polymer-clay.md.html">
     <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
     <meta property="og:image:width" content="600">
@@ -32,7 +32,7 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">polymer-clay.md</h1>
-        <p class="note-meta"><span class="played">8 h 09 min</span> played · first sent at 5 h 32 min</p>
+        <p class="note-meta"><span class="played">8 h 33 min</span> played · first sent at 5 h 32 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>Feeding the Simulation Chamber</h2>
@@ -44,6 +44,7 @@
 <p>For a workshop that alternates between machine orders and simulations, scripts/sim_fuel_round.py --stored recovers stored polymer and clay as well as both machine outputs. It sends the polymer to the chamber and loads the available clay with an equal number of pulsating dust in the alloy smelter. The first such round recovered eight banked polymer and loaded nine clay blocks for 36 more polymer. Use --max-clay 0 --stored when the smelter is due to switch to pearls or gears. scripts/uraninite_round.py collects fired uraninite and feeds up to sixteen dust through a free furnace with charcoal; one batch of sixteen was loaded in the east furnace.</p>
 <p>Each Enderman pristine can yield six pearls. Each pearl yields 250 mB Molten Ender in the LV Fluid Extractor at 32 EU/t for 40 ticks. Given six quartz and six clay blocks, those six pearls can therefore become 24 polymer. At the configured pristine chances of 5%, 10%, 20% and 30%, expected polymer returned per Enderman simulation is 1.2, 2.4, 4.8 and 7.2. Every simulation consumes one polymer before any return. A run of twenty Basic simulations has about a 36% chance of producing zero pristine. Keep the uraninite reserve through commissioning. Enderman simulations draw 2,048 RF/t and share the dynamo with workshop loads, so keep Shulker diamond production available. The Shulker reached Advanced after its fiftieth simulation.</p>
 <p>When the chamber empties, scripts/sim_fuel_round.py --stored now attempts clay replenishment as well. scripts/clay_feed.py first checks for Dust Blocks for the water-fed LV reactor and for existing clay dust at the bench. Four stored clay dust have already made one more clay block this way. It can use up to eight gray terracotta above a reserve of sixteen for silicon. Without those supplies it advances the generator&#39;s cobble, gravel and sand through the macerator when its input is free.</p>
+<p>The Basic Enderman model&#39;s first forty-polymer charge produced pristine matter by simulation 13. The Loot Fabricator was set to Ender Pearl and held six finished pearls with its input empty. At that point the chamber still held 27 polymer. This confirms the simulation and fabrication part of the renewable feed on the running pack.</p>
 </div>
       </article>
     </main>

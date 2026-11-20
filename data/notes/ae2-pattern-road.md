@@ -1,0 +1,7 @@
+# From the first cell to a craftable pattern
+
+The existing ME Chest and terminal can store workshop parts. Reaching the Pattern Terminal (106) also takes both an Engineering Processor (100) and Autocrafting Patterns (104). Work on the processor and plastics branches together.
+
+On the electronics side, the Inscriber (51) follows the four Inscription Plates, MV hull and Energy Acceptor. Keep a diamond plate, gold plate and silicon plates available for the first Engineering and Logic Processors. The Logic Processor opens ME Interfaces (109). Crafting Units (110) needs the Logic and Calculation Processors plus Grains of Infinity. That page checks for both a Molecular Assembler and a Crafting Unit. Quests 100, 102, 104, 106, 109 and 110 each pay a nickel.
+
+On the plastics side, the book accepts sulfur from several sources. Electrolyzing sphalerite can also advance gallium for wafers. Sulfuric Acid (94) and Ethanol (505) open Ethylene and Polyethylene (95). Biomass for ethanol can use surplus grove saplings in a brewery, leaving the Snad cane feeding its boiler. Check the live brewery and distillation recipes before sizing the line. The Fluid Solidifier and plate mold then turn polyethylene into sheets for quest 96, which pays a quarter. These sheets gate patterns and also serve the later HV machine hull. Reserve room for continuous fluid processing separate from the clathrate reactor.
