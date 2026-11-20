@@ -275,10 +275,10 @@
     {
       "name": "furnace-fuel.md",
       "first_ticks": 569346,
-      "ticks": 906612,
-      "sent_at": "2026-11-20T00:34:31-0500",
-      "versions": 6,
-      "bytes": 3870
+      "ticks": 1022040,
+      "sent_at": "2026-11-20T02:10:42-0500",
+      "versions": 7,
+      "bytes": 4924
     },
     {
       "name": "furnace-supplies.md",
@@ -403,10 +403,10 @@
     {
       "name": "metal-models.md",
       "first_ticks": 755508,
-      "ticks": 916255,
-      "sent_at": "2026-11-20T00:42:33-0500",
-      "versions": 8,
-      "bytes": 5378
+      "ticks": 1022042,
+      "sent_at": "2026-11-20T02:10:42-0500",
+      "versions": 9,
+      "bytes": 5818
     },
     {
       "name": "mixer.md",
@@ -465,6 +465,14 @@
       "bytes": 3776
     },
     {
+      "name": "petrochem.md",
+      "first_ticks": 1033680,
+      "ticks": 1033680,
+      "sent_at": "2026-11-20T02:20:24-0500",
+      "versions": 1,
+      "bytes": 1037
+    },
+    {
       "name": "plastics-bay.md",
       "first_ticks": 746713,
       "ticks": 989561,
@@ -483,18 +491,18 @@
     {
       "name": "pristine-transfer.md",
       "first_ticks": 547537,
-      "ticks": 816346,
-      "sent_at": "2026-11-19T23:19:17-0500",
-      "versions": 2,
-      "bytes": 1536
+      "ticks": 1032075,
+      "sent_at": "2026-11-20T02:19:04-0500",
+      "versions": 3,
+      "bytes": 1934
     },
     {
       "name": "processing-patterns.md",
       "first_ticks": 989559,
-      "ticks": 989559,
-      "sent_at": "2026-11-20T01:43:38-0500",
-      "versions": 1,
-      "bytes": 1688
+      "ticks": 1032074,
+      "sent_at": "2026-11-20T02:19:04-0500",
+      "versions": 2,
+      "bytes": 2184
     },
     {
       "name": "progression.md",
@@ -515,10 +523,10 @@
     {
       "name": "pyrolyse-order.md",
       "first_ticks": 282901,
-      "ticks": 989563,
-      "sent_at": "2026-11-20T01:43:38-0500",
-      "versions": 5,
-      "bytes": 3461
+      "ticks": 1032072,
+      "sent_at": "2026-11-20T02:19:04-0500",
+      "versions": 6,
+      "bytes": 3824
     },
     {
       "name": "quarry-drum.md",
@@ -539,10 +547,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 1005298,
-      "sent_at": "2026-11-20T01:56:45-0500",
-      "versions": 113,
-      "bytes": 4203
+      "ticks": 1032070,
+      "sent_at": "2026-11-20T02:19:04-0500",
+      "versions": 115,
+      "bytes": 4484
     },
     {
       "name": "reward-lookup.md",
@@ -635,10 +643,10 @@
     {
       "name": "thermal-elemental.md",
       "first_ticks": 1012077,
-      "ticks": 1012077,
-      "sent_at": "2026-11-20T02:02:24-0500",
-      "versions": 1,
-      "bytes": 2143
+      "ticks": 1022038,
+      "sent_at": "2026-11-20T02:10:42-0500",
+      "versions": 2,
+      "bytes": 2579
     },
     {
       "name": "void-factory.md",

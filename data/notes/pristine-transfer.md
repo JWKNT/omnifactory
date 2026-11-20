@@ -7,3 +7,5 @@ Three of the four stored Ender IO Item Conduits could join the north face of the
 The diamond return needs a separate destination and a stock reserve. Until then scripts/shulker_round.py takes the finished diamonds and fuels the dynamo. When switching to Enderman, select the intended pearl output before enabling its pristine transfer.
 
 The Molecular Assembler also needs three conduits for its Ender IO Crafter. Reserve those three for AE2 until a second conduit batch is available. The chamber can keep using the recorded inventory transfer in the meantime. Model changes now exchange the two single models directly through the chamber screen so a full backpack can still accommodate the old one.
+
+The workshop now has an order for seven conduits in stock. Four were already present. The LV assembler produces eight per six binder and three pulsating iron wires. Three Binder Composite smelt into six binder. The wiremill makes two wires per pulsating iron ingot. The two upper blocks are also on the proposed AE2 route, so use Ender IO ME Conduits there as described in processing-patterns.md.

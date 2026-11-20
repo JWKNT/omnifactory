@@ -13,3 +13,5 @@ The 16,000 mB Stone Drum formerly used for quarry lava is now under the alloy sm
 Six nickels bought 32 each of iron, copper and nickel ore. Sixteen copper ore entered the macerator and eight iron ore entered the electric furnace. The other 16 copper, 24 iron and all 32 nickel went to metal overflow. Double the nickel before smelting; this purchase can supply 64 ingots.
 
 The brewery feeder is complete. While the centrifuge is being built, the order planner now stages the first eight of the sixteen oven coils. Two cupronickel ingots were in storage, so the half-set calls for another 62 alloy, made from 31 copper and 31 nickel. The stored 21 nickel ingots and 32 nickel ore cover this half-set. Quest 640 already shows its reward claimed.
+
+The crafting terminal produced 50 double wires in one order and made six finished coil blocks. Ten coils remain. The east furnace accepted 32 raw iron ore for immediate ingots while the macerator accepted 16 more to double. A later machine inspection found four crushed iron ore already in its output. The eight furnaces can run alongside the electric workshop.
