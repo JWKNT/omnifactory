@@ -1,0 +1,7 @@
+# Sixteen Kanthal coils for the blast furnace
+
+Plan the Vacuum Freezer before spending the next large batch of chrome. The book wants one cooled Kanthal ingot for page 156, then a full stack of 64 for page 602. Both checks let us keep the ingots. Hold the stack before feeding the wiremill. Page 156 pays a nickel, page 602 a quarter. Hold all sixteen finished coils for page 157 and its quarter before placing them. The upgrade opens Hot Titanium, Nichrome Ingots and the Glowstone Doped Silicon Boule.
+
+The installed wiremill makes two single wires per ingot in 44 ticks. The extruder gives the same yield in 88 ticks with a wire shape. Cutting plates by hand gives only one wire per plate. Two singles on the bench give one double. Each coil takes eight doubles, either on the bench with a wrench or in the LV assembler with circuit 8. Sixteen coils therefore require 128 ingots. Combine 43 iron dust, 43 aluminium dust and 43 chrome dust on the bench for 129 Kanthal dust. Blast at 120 EU/t for 200 ticks per hot ingot, then cool at 120 EU/t for 112 ticks per ingot. Put an item transfer between the output and freezer before starting the campaign. Keep the extra ingot for another job.
+
+The first stainless charge already has its own chrome allocation. The Kanthal batch needs a separate supply. Chromite electrolysis also yields iron; compare the ore and power cost against the ruby line when the Vacuum Freezer becomes attainable. The coils are still a future order.

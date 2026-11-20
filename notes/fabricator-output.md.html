@@ -32,7 +32,7 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">fabricator-output.md</h1>
-        <p class="note-meta"><span class="played">20 h 25 min</span> played · first sent at 16 h 13 min</p>
+        <p class="note-meta"><span class="played">21 h 18 min</span> played · first sent at 16 h 13 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>Bringing finished simulation loot into ME storage</h2>
@@ -40,6 +40,8 @@
 <p>The existing item conduit at (6,82,8) touches both the Simulation Chamber and the west face of the fabricator. When the compressor&#39;s second ME Interface is built at (5,83,8), the conduit at (6,83,8) will already touch it. Use a separate Ender IO item channel for finished loot on those two ports. Leave the existing chamber-to-fabricator channel assigned only to pristine matter. This route needs no import bus and uses the item conduits already installed. Build the processing interface for the compressor first. See processing-patterns.md.</p>
 <p>Before switching on extraction, update the first-spider-eyes order to recognize eyes in ME storage. It currently advances when the player takes eyes from the fabricator. Verify one pristine disappears from the chamber and its selected product arrives in the terminal. Leave enough free ME cell types for the model rotation. The workshop currently collects finished loot through the fabricator screen.</p>
 <p>The lower conduit reports green on the working chamber extraction. After the compressor&#39;s two plate tests, the installer will set the upper conduit&#39;s west interface port to insert on blue and the lower conduit&#39;s east fabricator port to extract on blue. The first finished stack will provide the test. The tender saves the terminal count, activates extraction and checks for that stack&#39;s increase before treating the route as online. Saltpeter, obsidian dust and spider eyes can then satisfy their orders from stored inventory. These controls are prepared; the interface and the first loot delivery are pending.</p>
+<p>Both blue ports are now configured. The disabled east arm of the lower item conduit had retracted, so clicking the old connector position missed it. From the capacitor bank at (7,83,7), a Yeta Wrench click on the east face of the lower conduit core restored the arm. scripts/conduit_sight.py finds hit points by tracing from the player&#39;s current eyes. With the scanner in hand I opened the restored east port, set it to extract only on blue, and left its redstone setting at Never until the next finished stack can establish a baseline. The receiving west port at (6,83,8) is insert only on blue. The chamber&#39;s green extraction is still Always Active. run/fabricator-output-online records the first verified delivery; until then the route is on trial.</p>
+<p>The first automatic shipment was six Ender Pearls. The crafting terminal held zero before extraction was enabled and six afterward. The east fabricator port now extracts on blue with redstone set to Always Active. The two green ports continue to carry pristine matter, so completed drops can be collected from the terminal without opening the fabricator.</p>
 </div>
       </article>
     </main>

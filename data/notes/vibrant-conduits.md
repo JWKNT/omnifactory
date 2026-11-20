@@ -1,0 +1,7 @@
+# Four higher-capacity RF conduits for expansion
+
+The north MV branch uses Energetic Alloy conduits rated at 2,048 RF/t. The Basic Capacitor Bank bridging the separate blast branch passes 1,000 RF/t. The next conduit tier is rated at 8,192 RF/t. Four lengths are useful for a new high-draw branch. Join different conduit tiers through a machine or energy buffer, as at the blast feeder.
+
+Make the first four alongside the first Refined Processor Array. The array needs four vibrant wires. The conduits need two more and one spare Energetic Alloy conduit. The workshop has three Conductive Iron conduits and fourteen binder. One energetic ingot gives the two wires for the first assembler upgrade, and three vibrant ingots give six vibrant wires. Both upgrades take six binder, two single wires and one conduit of the preceding tier. The assembler yields four per operation in 80 ticks at 16 EU/t. The bench yields three. This leaves three energetic conduits for the MV branch as well.
+
+With no wire or alloy already in stock, make four energetic ingots from four gold ingots and four Energetic Blend in the EBF, then convert three ingots with three pearls. The mixer makes four blend from two redstone and two glowstone. The existing ore reserve includes eight gold ore and the model chamber is supplying pearls. scripts/refined_orders.py counts existing parts and orders both wire batches together. Claim page 42 with one finished conduit for a nickel. The 64-ingot bulk quest can wait for an automated alloy line. The conduit batch and its claim are pending.
