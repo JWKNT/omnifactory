@@ -155,10 +155,10 @@
     {
       "name": "clay-mill.md",
       "first_ticks": 1005296,
-      "ticks": 1005296,
-      "sent_at": "2026-11-20T01:56:45-0500",
-      "versions": 1,
-      "bytes": 1797
+      "ticks": 1238017,
+      "sent_at": "2026-11-20T05:10:41-0500",
+      "versions": 2,
+      "bytes": 2364
     },
     {
       "name": "cluster-mill.md",
@@ -243,10 +243,10 @@
     {
       "name": "ethylene-repeats.md",
       "first_ticks": 1203094,
-      "ticks": 1203094,
-      "sent_at": "2026-11-20T04:41:35-0500",
-      "versions": 1,
-      "bytes": 1427
+      "ticks": 1250240,
+      "sent_at": "2026-11-20T05:20:52-0500",
+      "versions": 3,
+      "bytes": 2144
     },
     {
       "name": "fabricator-output.md",
@@ -375,6 +375,14 @@
       "sent_at": "2026-11-20T01:28:38-0500",
       "versions": 8,
       "bytes": 5297
+    },
+    {
+      "name": "lapidary-efficiency.md",
+      "first_ticks": 1244257,
+      "ticks": 1244257,
+      "sent_at": "2026-11-20T05:15:53-0500",
+      "versions": 1,
+      "bytes": 1455
     },
     {
       "name": "lathe-order.md",
@@ -531,10 +539,10 @@
     {
       "name": "pattern-supplies.md",
       "first_ticks": 1221682,
-      "ticks": 1226988,
-      "sent_at": "2026-11-20T05:01:29-0500",
-      "versions": 2,
-      "bytes": 1648
+      "ticks": 1242617,
+      "sent_at": "2026-11-20T05:14:31-0500",
+      "versions": 3,
+      "bytes": 1919
     },
     {
       "name": "petrochem.md",
@@ -555,10 +563,10 @@
     {
       "name": "plastics-bay.md",
       "first_ticks": 746713,
-      "ticks": 989561,
-      "sent_at": "2026-11-20T01:43:38-0500",
-      "versions": 4,
-      "bytes": 3808
+      "ticks": 1251456,
+      "sent_at": "2026-11-20T05:21:53-0500",
+      "versions": 5,
+      "bytes": 4192
     },
     {
       "name": "polymer-clay.md",
@@ -571,10 +579,10 @@
     {
       "name": "pristine-transfer.md",
       "first_ticks": 547537,
-      "ticks": 1069813,
-      "sent_at": "2026-11-20T02:50:31-0500",
-      "versions": 6,
-      "bytes": 2335
+      "ticks": 1233762,
+      "sent_at": "2026-11-20T05:07:08-0500",
+      "versions": 7,
+      "bytes": 3443
     },
     {
       "name": "processing-patterns.md",
@@ -643,10 +651,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 1222689,
-      "sent_at": "2026-11-20T04:57:55-0500",
-      "versions": 138,
-      "bytes": 3672
+      "ticks": 1251456,
+      "sent_at": "2026-11-20T05:21:53-0500",
+      "versions": 142,
+      "bytes": 3927
     },
     {
       "name": "reward-lookup.md",
@@ -729,6 +737,14 @@
       "bytes": 3072
     },
     {
+      "name": "solidified-elements.md",
+      "first_ticks": 1250240,
+      "ticks": 1250240,
+      "sent_at": "2026-11-20T05:20:52-0500",
+      "versions": 1,
+      "bytes": 881
+    },
+    {
       "name": "steam-upgrade.md",
       "first_ticks": 66021,
       "ticks": 66021,
@@ -763,10 +779,10 @@
     {
       "name": "sulfur-reserve.md",
       "first_ticks": 1225947,
-      "ticks": 1225947,
-      "sent_at": "2026-11-20T05:00:37-0500",
-      "versions": 1,
-      "bytes": 845
+      "ticks": 1234787,
+      "sent_at": "2026-11-20T05:07:59-0500",
+      "versions": 2,
+      "bytes": 1101
     },
     {
       "name": "thermal-elemental.md",

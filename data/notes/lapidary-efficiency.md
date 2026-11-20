@@ -1,0 +1,7 @@
+# The second augment slot in the diamond dynamo
+
+The basic Numismatic Dynamo has two augment slots in this instance. Lapidary Calibration occupies one. With the Shulker chamber fully charged, the dynamo briefly displayed 250 RF/t against a 2,500 RF/t maximum. That reading alone does not measure wasted fuel: other machines and buffers share the line.
+
+Quest 558 pays a nickel for showing two Fuel Catalyzers together. JEI lists one recipe and no quest gives the augment itself. Together they cost eight wrought iron ingots, eight wrought iron plates and two Redstone Conductance Coils. The coils take six gold rods and eight redstone. Each catalyzer adds fifteen percentage points of fuel energy. For the lapidary dynamo the installed mod applies this on top of the 25 points from Lapidary Calibration. One catalyzer would therefore raise a diamond from 1,500,000 to 1,680,000 RF at the same maximum output. A second can serve the steam boiler or the next diamond dynamo. Take both to the book before installing either.
+
+The Excitation Field Limiter also fits a dynamo. Its tooltip describes preventing RF loss when the flux coil saturates. A limiter costs four iron ingots, four iron plates and an Excitation Coil. Prefer a Fuel Catalyzer for sustained simulation and reactor work. Revisit the limiter if the workshop routinely burns diamonds while all energy buffers are full. The reactor hulls and dedicated clay mill have first call on wrought iron.
