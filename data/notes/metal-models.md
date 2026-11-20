@@ -31,3 +31,5 @@ During the oven order, the Enderman chamber still held thirty unused clay while 
 During the MV electrolyzer build, the network held 63 tin ingots and the chest held five tin ore. One ore smelted into the last ingot. Carrying the full stack completed quest 650, Element 050: Tin, and the quest page paid one OmniQuarter. All 64 ingots remain available for cables and circuits.
 
 The Spider model is now producing copper during the Cryotheum order. Away from the reactor, the Loot Fabricator held 24 copper ingots; all 24 reached inventory. The chamber's Overworldian Matter continues to supply its drawer and the existing model can be reused for the eight-model bounty.
+
+During the four missing model builds, reserve sixteen Pulsating Dust for the four meshes. With the Shulker diamond reserve replenished, the tender swapped in the existing Slime model with sixteen polymer clay. The slimeballs go toward rubber sheets for the still and circuits. The other twenty-eight clay from that pickup stay available for the next chamber load.

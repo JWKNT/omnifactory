@@ -15,3 +15,5 @@ The nine stainless plates for the hull fit one cutter batch. Pack nine ingots in
 Six ruby ore supplied the two extra chrome dust. Two of the 32 pyrolusite ore went through an ordinary furnace and the mill for two manganese dust. Four impure iron dust and eleven crushed iron were in storage, so the hammer processed eight crushed and the cauldron washed the resulting stack of twelve impure iron dust. That saved twelve iron ingots and left the mill free for Endstone Dust. The next factory order can mix these twelve dust with two nickel, two manganese and two chrome, then submit the eighteen stainless dust to the blast furnace.
 
 The bench completed both mixes and the workshop queued eighteen Stainless Steel Dust for the blast furnace during the drawer-controller order. Check the output bus for finished ingots before counting them toward the hull.
+
+The eighteen-dust charge is complete. Three ingots came out on the first collection and fifteen on the second. The ME survey counted 26 Stainless Steel Ingots including the eight from the earlier charge.

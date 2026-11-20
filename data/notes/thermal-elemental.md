@@ -37,3 +37,5 @@ The two snow blocks consumed 200 mB of reduction fluid. Two Blizz Powder reached
 The MV reactor was idle during the second interface build, so I started the Basalz half of the charge early. Four grove logs became charcoal in an ordinary furnace. The macerator turned all four charcoal into dust and the reactor accepted them at 90 EU/t for 160 ticks each. Reserve the other 400 mB for four Endstone Dust. Two sandstone, one pearl and one Extraterrestrial Matter make eight End Stone at the bench. The lower mill can take four for the Blitz charge while the upper mill works on glass. Check pages 306 and 307 after collecting each powder.
 
 The MV reactor delivered four Basalz Powder. With all four in inventory, page 306 completed and paid a nickel. The reactor retained exactly 400 mB of reduction fluid.
+
+The drawer controller order left the MV reactor free. It processed four Endstone Dust using the last 400 mB of reduction fluid and returned four Blitz Powder. The book paid a nickel on page 307. All three reactor input tanks were empty afterward, ready for the ethylene and PVC sequence.
