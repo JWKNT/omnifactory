@@ -1,0 +1,7 @@
+# A second simulation line for diamonds
+
+The workshop currently swaps eleven data models through one Simulation Chamber. A Guardian run for fish and gold stops Shulker diamond production, and those diamonds power the workshop. Reserve the first arrays and Energetic Alloy for the mainframes and HV converter. After those orders, a dedicated Shulker chamber and Loot Fabricator can make diamonds while the first chamber runs the changing material orders. Page 809 eventually calls for a Simulation Chamber in a creative-tier recipe.
+
+The second chamber takes four Pulsating Mesh, one glass pane, three basic circuits and one Dark Steel Machine Hull. Each mesh needs four Pulsating Dust and a Carbon Mesh. The second fabricator takes four Energetic Alloy Ingots, two Primitive Processors, a hopper, a pane and another Dark Steel Machine Hull. Each hull uses eight Dark Steel Plates and an LV Machine Hull. Confirm polymer clay and dynamo fuel can sustain both machines before switching them on together.
+
+The survey found open sockets at (11,83,7) for the chamber and (12,82,8) for the fabricator. The existing item conduit runs along y83, z8 from x8 through x15. The RF bundle at (8,82,8) leaves room for a power extension. Keep Shulker pristine on its own transfer channel to the diamond fabricator. The first fabricator changes outputs for the active model and can otherwise receive the wrong pristine. This expansion has been surveyed and priced. Both proposed sockets were empty at the survey.

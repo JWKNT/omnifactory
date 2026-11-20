@@ -23,3 +23,5 @@ The cutter and compressor were free during the last two Overworldian model build
 The LV assembler insulated both single gold wires with 288 mB rubber on circuit 24. The portable tank held its solder during the job; the assembler had its 72 mB back afterward. The terminal made the stainless casing and the first HV Machine Hull. Page 93 paid one Omnidollar. The six saved rutile dust also satisfied page 151, which paid one Omninickel. The hull remains available for the first HV converter or machine.
 
 The next eighteen stainless dust went into the blast furnace together. The mixer used twelve iron dust and two each of chrome, manganese and nickel. Three ingots have already reached storage. With the previous fifteen, the full charge brings the budget to 33 ingots. Reserve nineteen for the two mainframes and fourteen for HV hardware. The first hull is already made.
+
+The final blast collection yielded fifteen more stainless ingots. The new storage survey counted all 33 ingots together. The blast furnace is free again.

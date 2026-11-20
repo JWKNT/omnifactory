@@ -19,3 +19,5 @@ The second Basic Fluid Extractor is installed beneath the LV assembler at (4,80,
 The extractor accepted all 26 ingots. Every 80 ticks it pours another 144 mB into the LV assembler. I drew a bucket from the assembler, claimed the nickel on quest 498 and returned the full bucket to the same tank. The assembler then read 1,584 mB and continued filling. Four solid solder ingots remain.
 
 The full charge arrived. After sixteen Basic Electronic Circuits, the input tank held 2,592 mB. That reconciles exactly with 3,744 mB delivered and sixteen operations at 72 mB each.
+
+The latest survey counted 29 solid solder ingots after a further twenty finished in the alloy smelter. The mainframes need sixteen. The three LV arrays for the converter and two robot arms need up to twenty-five more, allowing for 72 mB already in the assembler. Aim for 41 solid ingots before starting both orders. The cluster order uses spare tin in batches of nine with one antimony and leaves nine tin after reserving primary hardware materials.

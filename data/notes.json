@@ -99,10 +99,10 @@
     {
       "name": "black-quartz.md",
       "first_ticks": 1454238,
-      "ticks": 1458935,
-      "sent_at": "2026-11-20T08:14:47-0500",
-      "versions": 2,
-      "bytes": 1438
+      "ticks": 1694438,
+      "sent_at": "2026-11-20T11:31:02-0500",
+      "versions": 3,
+      "bytes": 1628
     },
     {
       "name": "blast-feeder.md",
@@ -283,10 +283,10 @@
     {
       "name": "epoxy-feed.md",
       "first_ticks": 1646569,
-      "ticks": 1674295,
-      "sent_at": "2026-11-20T11:14:15-0500",
-      "versions": 3,
-      "bytes": 2989
+      "ticks": 1684927,
+      "sent_at": "2026-11-20T11:23:06-0500",
+      "versions": 4,
+      "bytes": 3621
     },
     {
       "name": "ethylene-repeats.md",
@@ -335,6 +335,14 @@
       "sent_at": "2026-11-19T12:10:01-0500",
       "versions": 1,
       "bytes": 1054
+    },
+    {
+      "name": "first-nether-star.md",
+      "first_ticks": 1690701,
+      "ticks": 1690701,
+      "sent_at": "2026-11-20T11:27:55-0500",
+      "versions": 1,
+      "bytes": 1636
     },
     {
       "name": "first-plastic.md",
@@ -443,18 +451,18 @@
     {
       "name": "hv-assembler.md",
       "first_ticks": 1315642,
-      "ticks": 1642291,
-      "sent_at": "2026-11-20T10:47:35-0500",
-      "versions": 7,
-      "bytes": 4844
+      "ticks": 1704473,
+      "sent_at": "2026-11-20T11:39:24-0500",
+      "versions": 8,
+      "bytes": 5558
     },
     {
       "name": "hv-hull.md",
       "first_ticks": 1451295,
-      "ticks": 1682911,
-      "sent_at": "2026-11-20T11:21:26-0500",
-      "versions": 10,
-      "bytes": 5520
+      "ticks": 1692250,
+      "sent_at": "2026-11-20T11:29:13-0500",
+      "versions": 11,
+      "bytes": 5675
     },
     {
       "name": "inscriber.md",
@@ -539,10 +547,10 @@
     {
       "name": "mainframe-polyethylene.md",
       "first_ticks": 1603551,
-      "ticks": 1656371,
-      "sent_at": "2026-11-20T10:59:19-0500",
-      "versions": 2,
-      "bytes": 1905
+      "ticks": 1688505,
+      "sent_at": "2026-11-20T11:26:05-0500",
+      "versions": 3,
+      "bytes": 2317
     },
     {
       "name": "me-energy-cell.md",
@@ -635,10 +643,10 @@
     {
       "name": "oil-drum.md",
       "first_ticks": 1665431,
-      "ticks": 1676487,
-      "sent_at": "2026-11-20T11:16:04-0500",
-      "versions": 2,
-      "bytes": 971
+      "ticks": 1701456,
+      "sent_at": "2026-11-20T11:36:53-0500",
+      "versions": 5,
+      "bytes": 2498
     },
     {
       "name": "ore-hammer.md",
@@ -675,10 +683,10 @@
     {
       "name": "phosphorus-chlorine.md",
       "first_ticks": 1607990,
-      "ticks": 1634659,
-      "sent_at": "2026-11-20T10:41:13-0500",
-      "versions": 3,
-      "bytes": 2554
+      "ticks": 1696727,
+      "sent_at": "2026-11-20T11:32:56-0500",
+      "versions": 5,
+      "bytes": 3567
     },
     {
       "name": "plastic-machine-supplies.md",
@@ -715,10 +723,10 @@
     {
       "name": "processing-patterns.md",
       "first_ticks": 989559,
-      "ticks": 1676487,
-      "sent_at": "2026-11-20T11:16:04-0500",
-      "versions": 18,
-      "bytes": 10941
+      "ticks": 1701092,
+      "sent_at": "2026-11-20T11:36:35-0500",
+      "versions": 19,
+      "bytes": 11347
     },
     {
       "name": "progression.md",
@@ -779,10 +787,10 @@
     {
       "name": "rare-earth.md",
       "first_ticks": 1671182,
-      "ticks": 1671182,
-      "sent_at": "2026-11-20T11:11:39-0500",
-      "versions": 1,
-      "bytes": 828
+      "ticks": 1698432,
+      "sent_at": "2026-11-20T11:34:22-0500",
+      "versions": 2,
+      "bytes": 1129
     },
     {
       "name": "refined-circuits.md",
@@ -795,10 +803,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 1682911,
-      "sent_at": "2026-11-20T11:21:26-0500",
-      "versions": 204,
-      "bytes": 8577
+      "ticks": 1698432,
+      "sent_at": "2026-11-20T11:34:22-0500",
+      "versions": 210,
+      "bytes": 9043
     },
     {
       "name": "reward-lookup.md",
@@ -831,6 +839,14 @@
       "sent_at": "2026-11-19T14:01:06-0500",
       "versions": 1,
       "bytes": 426
+    },
+    {
+      "name": "second-simulation.md",
+      "first_ticks": 1688332,
+      "ticks": 1688332,
+      "sent_at": "2026-11-20T11:25:57-0500",
+      "versions": 1,
+      "bytes": 1497
     },
     {
       "name": "shulker-power.md",
@@ -899,10 +915,10 @@
     {
       "name": "solder.md",
       "first_ticks": 1096226,
-      "ticks": 1177395,
-      "sent_at": "2026-11-20T04:20:10-0500",
-      "versions": 8,
-      "bytes": 3072
+      "ticks": 1687868,
+      "sent_at": "2026-11-20T11:25:34-0500",
+      "versions": 9,
+      "bytes": 3523
     },
     {
       "name": "solidified-elements.md",
@@ -979,10 +995,10 @@
     {
       "name": "vibrant-conduits.md",
       "first_ticks": 1524175,
-      "ticks": 1640245,
-      "sent_at": "2026-11-20T10:45:52-0500",
-      "versions": 8,
-      "bytes": 5283
+      "ticks": 1701092,
+      "sent_at": "2026-11-20T11:36:35-0500",
+      "versions": 9,
+      "bytes": 6060
     },
     {
       "name": "void-factory.md",
