@@ -9,3 +9,5 @@ Use a new four-amp LV CEF at (3,81,7), facing down into the existing lossless fo
 The feeder was surveyed and queued while the 40-ingot batch was running. scripts/ebf_feeder.py checks the controller and input bus before it removes the old upper cable. It verifies the replacement converter faces down before adding its RF connection. Commissioning requires charge at the new converter and a subsequent blast under workshop load.
 
 The workshop crafted the Basic Capacitor Bank. The book paid one nickel for quest 33 and the separate four-amp CEF is still on order. The bank alone does not change the blast furnace power supply.
+
+The bank is installed at (7,82,7). After a single diamond entered the Numismatic Dynamo, the bank rose from zero to 335,222 RF. Its west output is enabled. The dedicated CEF and downstream conduit still need installation.
