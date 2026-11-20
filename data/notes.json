@@ -283,10 +283,10 @@
     {
       "name": "dry-electronics.md",
       "first_ticks": 2062156,
-      "ticks": 2062156,
-      "sent_at": "2026-11-20T16:37:28-0500",
-      "versions": 1,
-      "bytes": 1513
+      "ticks": 2091618,
+      "sent_at": "2026-11-20T17:02:01-0500",
+      "versions": 3,
+      "bytes": 2141
     },
     {
       "name": "dynamo-batch.md",
@@ -339,10 +339,10 @@
     {
       "name": "factory-strategy.md",
       "first_ticks": 2002882,
-      "ticks": 2030013,
-      "sent_at": "2026-11-20T16:10:41-0500",
-      "versions": 3,
-      "bytes": 5743
+      "ticks": 2081882,
+      "sent_at": "2026-11-20T16:53:54-0500",
+      "versions": 4,
+      "bytes": 6321
     },
     {
       "name": "field-magnet.md",
@@ -899,10 +899,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 2066097,
-      "sent_at": "2026-11-20T16:40:45-0500",
-      "versions": 250,
-      "bytes": 6808
+      "ticks": 2086111,
+      "sent_at": "2026-11-20T16:57:26-0500",
+      "versions": 251,
+      "bytes": 7369
     },
     {
       "name": "reward-lookup.md",
@@ -923,10 +923,10 @@
     {
       "name": "rubber.md",
       "first_ticks": 41148,
-      "ticks": 252241,
-      "sent_at": "2026-11-19T15:29:12-0500",
-      "versions": 4,
-      "bytes": 2494
+      "ticks": 2091618,
+      "sent_at": "2026-11-20T17:02:01-0500",
+      "versions": 6,
+      "bytes": 3634
     },
     {
       "name": "second-hour.md",
@@ -939,10 +939,10 @@
     {
       "name": "second-simulation.md",
       "first_ticks": 1688332,
-      "ticks": 2062156,
-      "sent_at": "2026-11-20T16:37:28-0500",
-      "versions": 8,
-      "bytes": 5669
+      "ticks": 2079431,
+      "sent_at": "2026-11-20T16:51:52-0500",
+      "versions": 9,
+      "bytes": 6665
     },
     {
       "name": "shulker-polymer-feed.md",
