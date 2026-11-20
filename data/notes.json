@@ -99,10 +99,10 @@
     {
       "name": "black-quartz.md",
       "first_ticks": 1454238,
-      "ticks": 1810185,
-      "sent_at": "2026-11-20T13:07:29-0500",
-      "versions": 9,
-      "bytes": 3502
+      "ticks": 1838504,
+      "sent_at": "2026-11-20T13:31:05-0500",
+      "versions": 10,
+      "bytes": 3797
     },
     {
       "name": "blast-feeder.md",
@@ -459,10 +459,10 @@
     {
       "name": "hv-array-supplies.md",
       "first_ticks": 1815605,
-      "ticks": 1826387,
-      "sent_at": "2026-11-20T13:20:59-0500",
-      "versions": 3,
-      "bytes": 3114
+      "ticks": 1849405,
+      "sent_at": "2026-11-20T13:40:10-0500",
+      "versions": 6,
+      "bytes": 4866
     },
     {
       "name": "hv-assembler.md",
@@ -491,10 +491,10 @@
     {
       "name": "kanthal-coils.md",
       "first_ticks": 1534817,
-      "ticks": 1561487,
-      "sent_at": "2026-11-20T09:40:14-0500",
-      "versions": 2,
-      "bytes": 2322
+      "ticks": 1844672,
+      "sent_at": "2026-11-20T13:36:14-0500",
+      "versions": 3,
+      "bytes": 2725
     },
     {
       "name": "lapidary-efficiency.md",
@@ -673,6 +673,14 @@
       "bytes": 1721
     },
     {
+      "name": "oxygen-storage.md",
+      "first_ticks": 1842495,
+      "ticks": 1842495,
+      "sent_at": "2026-11-20T13:34:25-0500",
+      "versions": 1,
+      "bytes": 1465
+    },
+    {
       "name": "paper.md",
       "first_ticks": 218432,
       "ticks": 655931,
@@ -809,6 +817,14 @@
       "bytes": 1129
     },
     {
+      "name": "reconstructor-optics.md",
+      "first_ticks": 1833952,
+      "ticks": 1849405,
+      "sent_at": "2026-11-20T13:40:10-0500",
+      "versions": 3,
+      "bytes": 1913
+    },
+    {
       "name": "refined-circuits.md",
       "first_ticks": 1367757,
       "ticks": 1621999,
@@ -819,10 +835,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 1826650,
-      "sent_at": "2026-11-20T13:21:13-0500",
-      "versions": 234,
-      "bytes": 4644
+      "ticks": 1849405,
+      "sent_at": "2026-11-20T13:40:10-0500",
+      "versions": 237,
+      "bytes": 4797
     },
     {
       "name": "reward-lookup.md",

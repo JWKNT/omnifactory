@@ -15,3 +15,5 @@ Two nickels bought 32 Quartzite Ore. Two entered the macerator. Together they yi
 The electrolyzer and autoclave finished the eight dust. The parts chest held three Black Quartz. An order for six aluminium plates joins the two already in ME to supply the first casing. For the Machine Block, a sixteen-ingot ordinary steel charge will share the furnaces with the HV components. It can use coal dust, charcoal dust or carbon from banked coke with wrought iron in the LV alloy smelter. Reserve four steel plates for the polyethylene sheet mold as well.
 
 The processing compressor delivered the six aluminium plates. The workshop crafted the Aluminium Casing, then presented it with a loose Black Quartz on page 74 and received one OmniNickel. Keep the casing for the Atomic Reconstructor. The next block on this branch requires eight ordinary steel plates and a second crystal.
+
+The sixteen-steel charge finished. Eight ingots became eight plates in the LV compressor. The bench combined those plates and one Black Quartz into the Machine Block, and page 75 paid one OmniNickel. The Manual Mill and Dark Steel Enchanter pages are open. Reserve the block for the Resonator.
