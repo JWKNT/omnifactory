@@ -7,3 +7,7 @@ The lower macerator doubled 29 copper ores and the diamond hammer converted the 
 The AE2 CPU delivered eight glass tubes and then another six for this build. It also delivered a Basic Circuit. scripts/workshop_status.py shows the current MV motor, arm, piston, conveyor and hull stocks while the order is active. See ae2-pattern-road.md for the five installed patterns and blast-feeder.md for the independent LV supply.
 
 The last three aluminium ingots came out of the blast furnace. Both MV pistons, one conveyor module and the MV hull have been crafted. The AE2 crafting CPU has now delivered a Primitive Processor on demand as well. The assembler order is still active.
+
+The first Robot Arm and the second Conveyor Module are finished. During the same order, the terminal delivered twelve insulated red alloy cables and another Basic Circuit. The MV wafer machines also supplied all eight CPU chips described in refined-circuits.md. The two Electronic Processor Arrays remain in ME storage.
+
+The second arm and the Advanced Assembling Machine are complete. The ten motors and both Electronic Processor Arrays went into the hardware. The book paid one nickel for quest 90. The assembler at (7,82,1) has nine item inputs, a 64,000 mB input tank and a 128 V connection. Its first powered recipe delivered 32 SMD diodes. The remaining electronics order is recorded in smd-feed.md.
