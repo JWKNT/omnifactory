@@ -11,3 +11,5 @@ The MV electrolyzer takes seven chromite dust for two chrome, one iron and 4,000
 The stainless order already has its two chrome dust. Start the Kanthal reserve with nine of the eleven raw ruby ore on the shelf. Their eighteen dust give three more chrome and six aluminium. Wait until the MV oxygen tank has room for all 9,000 mB before loading the separator. The iron oxygen drum will keep this work independent of titanium’s four reserved chlorine buckets. See oxygen-storage.md.
 
 The first nine ruby ore doubled into eighteen crushed ore. All eighteen were hammered, washed and loaded into the MV electrolyzer. The separate stainless order combined twelve iron dust, two nickel, two manganese and its own two chrome into eighteen stainless dust.
+
+Three chrome and six aluminium are in storage from the first charge. After reserving the two chrome for the reactor stainless, use 24 of the 28 ruby ore left by that purchase for the next coil charge. Those ore yield 48 dust, eight chrome and sixteen aluminium. Leave four ore on the shelf. The order checks for 24 buckets of free oxygen capacity before starting electrolysis.
