@@ -193,6 +193,14 @@
       "bytes": 1047
     },
     {
+      "name": "furnace-fuel.md",
+      "first_ticks": 569346,
+      "ticks": 569346,
+      "sent_at": "2026-11-19T19:53:27-0500",
+      "versions": 1,
+      "bytes": 1266
+    },
+    {
       "name": "furnace-supplies.md",
       "first_ticks": 165521,
       "ticks": 178743,
@@ -307,10 +315,10 @@
     {
       "name": "mv-reactor-power.md",
       "first_ticks": 506697,
-      "ticks": 551205,
-      "sent_at": "2026-11-19T19:38:20-0500",
-      "versions": 4,
-      "bytes": 2584
+      "ticks": 559125,
+      "sent_at": "2026-11-19T19:44:56-0500",
+      "versions": 5,
+      "bytes": 3318
     },
     {
       "name": "nether-landing.md",
@@ -395,10 +403,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 551205,
-      "sent_at": "2026-11-19T19:38:20-0500",
-      "versions": 65,
-      "bytes": 4375
+      "ticks": 569346,
+      "sent_at": "2026-11-19T19:53:27-0500",
+      "versions": 68,
+      "bytes": 6010
     },
     {
       "name": "reward-lookup.md",
@@ -499,10 +507,10 @@
     {
       "name": "workshop.md",
       "first_ticks": 12381,
-      "ticks": 91057,
-      "sent_at": "2026-11-19T13:14:47-0500",
-      "versions": 3,
-      "bytes": 1334
+      "ticks": 578975,
+      "sent_at": "2026-11-19T20:01:29-0500",
+      "versions": 4,
+      "bytes": 1909
     }
   ]
 }
