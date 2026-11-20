@@ -187,10 +187,10 @@
     {
       "name": "clay-mill.md",
       "first_ticks": 1005296,
-      "ticks": 1676032,
-      "sent_at": "2026-11-20T11:15:42-0500",
-      "versions": 7,
-      "bytes": 4527
+      "ticks": 2017190,
+      "sent_at": "2026-11-20T16:00:00-0500",
+      "versions": 8,
+      "bytes": 6138
     },
     {
       "name": "cluster-mill.md",
@@ -327,6 +327,14 @@
       "sent_at": "2026-11-20T09:17:02-0500",
       "versions": 4,
       "bytes": 3100
+    },
+    {
+      "name": "factory-strategy.md",
+      "first_ticks": 2002882,
+      "ticks": 2007879,
+      "sent_at": "2026-11-20T15:52:14-0500",
+      "versions": 2,
+      "bytes": 5064
     },
     {
       "name": "field-magnet.md",
@@ -859,10 +867,10 @@
     {
       "name": "reconstructor-optics.md",
       "first_ticks": 1833952,
-      "ticks": 1865638,
-      "sent_at": "2026-11-20T13:53:42-0500",
-      "versions": 5,
-      "bytes": 3169
+      "ticks": 2017190,
+      "sent_at": "2026-11-20T16:00:00-0500",
+      "versions": 6,
+      "bytes": 3960
     },
     {
       "name": "refined-circuits.md",
@@ -875,10 +883,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 1996497,
-      "sent_at": "2026-11-20T15:42:45-0500",
-      "versions": 245,
-      "bytes": 5884
+      "ticks": 2017190,
+      "sent_at": "2026-11-20T16:00:00-0500",
+      "versions": 247,
+      "bytes": 6208
     },
     {
       "name": "reward-lookup.md",
@@ -915,10 +923,10 @@
     {
       "name": "second-simulation.md",
       "first_ticks": 1688332,
-      "ticks": 1932695,
-      "sent_at": "2026-11-20T14:49:35-0500",
-      "versions": 4,
-      "bytes": 3265
+      "ticks": 2018510,
+      "sent_at": "2026-11-20T16:01:06-0500",
+      "versions": 6,
+      "bytes": 4949
     },
     {
       "name": "shulker-power.md",
