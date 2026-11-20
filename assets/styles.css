@@ -69,7 +69,7 @@
 
 .qb-line-head h2 { margin: 0; font-size: 1.35rem; line-height: 1.25; }
 .qb-line-desc { max-width: var(--measure); margin: .4rem 0 0; text-align: left; hyphens: manual; color: var(--muted-strong); font: var(--text-ui)/1.5 var(--ui, var(--serif)); }
-.qb-line-desc p { margin: 0 0 .35rem; }
+.qb-line-desc p { margin: 0 0 .35rem; text-align: left; hyphens: manual; }
 .qb-tools { display: flex; flex-wrap: wrap; gap: .6rem 1rem; align-items: center; margin: .9rem 0 .6rem; }
 .qb-zoom button { min-width: var(--control-size); }
 .qb-legend { display: flex; flex-wrap: wrap; gap: .25rem .9rem; margin: 0 0 0 auto; padding: 0; list-style: none; color: var(--muted-strong); font: var(--text-meta)/1.5 var(--ui, var(--serif)); }
@@ -112,7 +112,7 @@
 .qb-dialog h2 { margin: 0; font-size: 1.45rem; line-height: 1.25; }
 .qb-quest-status { margin: .35rem 0 0; color: var(--muted-strong); font: var(--text-ui)/1.5 var(--ui, var(--serif)); }
 .qb-desc { margin-top: 1rem; padding-top: .9rem; border-top: 1px solid var(--line); line-height: 1.6; overflow-wrap: anywhere; text-align: left; hyphens: manual; }
-.qb-desc p { margin: 0 0 .7rem; }
+.qb-desc p { margin: 0 0 .7rem; text-align: left; hyphens: manual; }
 .qb-gap { height: 1.5rem; margin: 0; }
 .qb-dialog h3 { margin: 1.2rem 0 .35rem; padding-top: .8rem; border-top: 1px solid var(--line); font-size: 1rem; }
 .qb-tasks, .qb-items, .qb-links { margin: 0; padding: 0; list-style: none; }

@@ -245,6 +245,10 @@
     titleEl.textContent = line.name;
     descEl.replaceChildren(formatted(line.desc));
     drawTabs();
+    // On a narrow screen the lines are one row: keep the line on screen in sight.
+    const tab = root.querySelector('.qb-line[aria-pressed="true"]');
+    const strip = tab && tab.parentElement;
+    if (strip && strip.scrollWidth > strip.clientWidth) strip.scrollLeft = tab.offsetLeft - strip.offsetLeft - (strip.clientWidth - tab.offsetWidth) / 2;
     drawMap();
     drawList();
     const sized = rules.buttons(book, done(), line);
