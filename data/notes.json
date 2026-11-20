@@ -241,6 +241,14 @@
       "bytes": 3017
     },
     {
+      "name": "diamond-delivery.md",
+      "first_ticks": 2112492,
+      "ticks": 2112492,
+      "sent_at": "2026-11-20T17:19:25-0500",
+      "versions": 1,
+      "bytes": 1760
+    },
+    {
       "name": "diamond-export.md",
       "first_ticks": 1618687,
       "ticks": 1618687,
@@ -747,10 +755,10 @@
     {
       "name": "passive-sand.md",
       "first_ticks": 2038459,
-      "ticks": 2038459,
-      "sent_at": "2026-11-20T16:17:43-0500",
-      "versions": 1,
-      "bytes": 2057
+      "ticks": 2099928,
+      "sent_at": "2026-11-20T17:08:56-0500",
+      "versions": 2,
+      "bytes": 2323
     },
     {
       "name": "pattern-supplies.md",
@@ -899,10 +907,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 2086111,
-      "sent_at": "2026-11-20T16:57:26-0500",
-      "versions": 251,
-      "bytes": 7369
+      "ticks": 2112492,
+      "sent_at": "2026-11-20T17:19:25-0500",
+      "versions": 252,
+      "bytes": 7382
     },
     {
       "name": "reward-lookup.md",
@@ -939,10 +947,10 @@
     {
       "name": "second-simulation.md",
       "first_ticks": 1688332,
-      "ticks": 2079431,
-      "sent_at": "2026-11-20T16:51:52-0500",
-      "versions": 9,
-      "bytes": 6665
+      "ticks": 2099928,
+      "sent_at": "2026-11-20T17:08:56-0500",
+      "versions": 10,
+      "bytes": 7582
     },
     {
       "name": "shulker-polymer-feed.md",
