@@ -11,10 +11,10 @@
     {
       "name": "ae2-pattern-road.md",
       "first_ticks": 620868,
-      "ticks": 889064,
-      "sent_at": "2026-11-20T00:19:53-0500",
-      "versions": 9,
-      "bytes": 7102
+      "ticks": 1298341,
+      "sent_at": "2026-11-20T06:00:57-0500",
+      "versions": 10,
+      "bytes": 7684
     },
     {
       "name": "ae2-storage-costs.md",
@@ -155,10 +155,10 @@
     {
       "name": "clay-mill.md",
       "first_ticks": 1005296,
-      "ticks": 1238017,
-      "sent_at": "2026-11-20T05:10:41-0500",
-      "versions": 2,
-      "bytes": 2364
+      "ticks": 1288320,
+      "sent_at": "2026-11-20T05:52:36-0500",
+      "versions": 3,
+      "bytes": 2823
     },
     {
       "name": "cluster-mill.md",
@@ -315,10 +315,10 @@
     {
       "name": "fluix.md",
       "first_ticks": 314566,
-      "ticks": 314566,
-      "sent_at": "2026-11-19T16:21:08-0500",
-      "versions": 1,
-      "bytes": 1047
+      "ticks": 1278249,
+      "sent_at": "2026-11-20T05:44:13-0500",
+      "versions": 2,
+      "bytes": 1562
     },
     {
       "name": "furnace-fuel.md",
@@ -539,10 +539,10 @@
     {
       "name": "pattern-supplies.md",
       "first_ticks": 1221682,
-      "ticks": 1273342,
-      "sent_at": "2026-11-20T05:40:07-0500",
-      "versions": 5,
-      "bytes": 3630
+      "ticks": 1278249,
+      "sent_at": "2026-11-20T05:44:13-0500",
+      "versions": 6,
+      "bytes": 4109
     },
     {
       "name": "petrochem.md",
@@ -587,10 +587,10 @@
     {
       "name": "processing-patterns.md",
       "first_ticks": 989559,
-      "ticks": 1032074,
-      "sent_at": "2026-11-20T02:19:04-0500",
-      "versions": 2,
-      "bytes": 2184
+      "ticks": 1295432,
+      "sent_at": "2026-11-20T05:58:32-0500",
+      "versions": 4,
+      "bytes": 3556
     },
     {
       "name": "progression.md",
@@ -651,10 +651,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 1263303,
-      "sent_at": "2026-11-20T05:31:45-0500",
-      "versions": 144,
-      "bytes": 3926
+      "ticks": 1298341,
+      "sent_at": "2026-11-20T06:00:57-0500",
+      "versions": 146,
+      "bytes": 4223
     },
     {
       "name": "reward-lookup.md",
@@ -703,6 +703,14 @@
       "sent_at": "2026-11-19T16:57:50-0500",
       "versions": 3,
       "bytes": 2164
+    },
+    {
+      "name": "silver-reserve.md",
+      "first_ticks": 1292416,
+      "ticks": 1292416,
+      "sent_at": "2026-11-20T05:56:01-0500",
+      "versions": 1,
+      "bytes": 1044
     },
     {
       "name": "slot-transfers.md",

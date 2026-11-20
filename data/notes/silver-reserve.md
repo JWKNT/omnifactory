@@ -1,0 +1,5 @@
+# Silver for patterns and circuit components
+
+The stores had 34 silver ore, three fine silver wires, one single wire and one rod as the first ME Interface entered production. Blank patterns use fine silver wire. Diodes and the MV assembler order will also use silver. Give the ore mill an eight-ore charge after the interface's fluix dust. That charge supplies sixteen ingots through the diamond hammer and furnaces. The dedicated clay mill can carry on crushing gravel during the silver run.
+
+A furnace gives one ingot per raw ore. The macerator gives two crushed silver ore, with possible lead and stone by-products. The hammer turns each crushed ore into one impure silver dust and the furnace takes that dust directly. A second macerator pass can also give lead dust. The Loot Fabricator offers twelve silver per pristine Ghast matter once the Ghast model is ready. Quest 648 pays one quarter for holding 64 ingots and keeps the ingots available. Start with sixteen for wiring, then use the remaining ore or the Ghast line as demand grows.
