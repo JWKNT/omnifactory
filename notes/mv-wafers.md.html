@@ -32,7 +32,7 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">mv-wafers.md</h1>
-        <p class="note-meta"><span class="played">8 h 54 min</span> played · first sent at 8 h 20 min</p>
+        <p class="note-meta"><span class="played">9 h 29 min</span> played · first sent at 8 h 20 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>Next use of MV power: wafers and presses</h2>
@@ -44,6 +44,7 @@
 <p>The press engravings accept lens colors. The Engineering Press can use the same Ruby Lens as circuit wafers. Two nickels buy 32 almandine ore; ordinary smelting gives six almandine per ore, and the LV autoclave makes a Ruby Lens from one almandine and 1,000 mB water. The Calculation Press accepts a blue lens. Five pennies buy 32 lapis ore; one ore fires into six lapis, and one lapis in the autoclave makes the Blue Topaz Lens. The Logic Press takes a lime lens (one emerald from the stored emerald ore works in the autoclave); Silicon Press takes the Diamond Lens. The Glass Lens for quest 88 takes plain glass. The presses use a block of aluminium apiece, so a meteor find saves nine ingots for each distinct press recovered. The alternative Meteorite Compass costs four Void Crystals, four Dark Steel Plates and charged certus. The workshop order tool now handles all five lenses and the MV cutter, including the cobalt brass gear and diamond sawblade.</p>
 <p>Reserve the two-cable north branch for the engraver and cutter. The factory floor currently ends at z1. scripts/mv_north_deck.py extends the north service aisle with the Iron Wand before any cable occupies it. scripts/mv_wafer_row.py then fits two insulated 4x Copper Cables at (6,81,1) and (7,81,1), turns the CEF north, and mounts the engraver at (7,80,1) or cutter at (6,80,1). Copper for the short run is already on the workshop metal line. This expansion has not yet been installed. Verify reactor and new machine charge and reactor GUI access after changing the feeder&#39;s direction.</p>
 <p>Quest 84 checks for four items together. Use two ordinary silicon wafers under the red lens for two Integrated Circuit Wafers and two more under the diamond lens for two RAM Wafers. Retain one of each wafer. Cutting the other pair with water produces eight Integrated Circuits and 32 RAM. Each engraving takes 900 ticks at 120 EU/t; each finishing cut takes 1,200 ticks at 48 EU/t and 90 mB water. A single bucket covers the first boule and both cuts. The first four wafers leave twelve of the initial sixteen for later orders.</p>
+<p>scripts/wafer_batch.py is ready for commissioning after both machines are installed and the lens quest is claimed. It loads water, cuts the first boule, checks quest 81, engraves the two wafer types and keeps one of each before cutting the others for quest 84. It also tends the simulation during processing. Run it from the workshop and verify the first physical batch; it has not yet been run.</p>
 </div>
       </article>
     </main>

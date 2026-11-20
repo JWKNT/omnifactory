@@ -32,13 +32,15 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">furnace-fuel.md</h1>
-        <p class="note-meta"><span class="played">7 h 54 min</span> played</p>
+        <p class="note-meta"><span class="played">9 h 34 min</span> played · first sent at 7 h 54 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>Keeping the four workshop furnaces burning</h2>
 <p>The first 32 uraninite ore finished firing, but the second firing stopped with 32 Uraninite Dust and no coal, charcoal or cane available. Coal is also an ingredient in steel and model mesh. When it runs out, scripts/coal_reserve.py can use five pennies for 32 coal ore and turn two grove logs into eight planks. In the recovery batch the workshop used its three existing planks as well. Sixteen coal ore went into the east furnace with wood. The first coal out started the uraninite&#39;s second firing in the west and north furnaces.</p>
 <p>scripts/smelt_stock.py can collect its own input from another furnace and split a batch across two free furnaces. It handles coal, charcoal, reeds and jungle planks. The factory order runner collects coal during the firing if the next order needs fuel. It can buy more ore when the reserve runs low. scripts/ore_purchase.py now breaks a quarter into five nickels, or a nickel into five pennies, as required by the actual ore recipe.</p>
 <p>The iron route in scripts/lv_order.py checks stored ore and crushed stock. One normal ore makes two crushed ore in the macerator. Hammer each into impure dust, then fire it into an iron ingot. Use this for iron shortages while a bigger order is running.</p>
+<p>The engraver order bought 32 more iron ore while the macerator doubled copper. The planner can now use an available ordinary furnace for up to eight spare raw iron, copper or tin ore when the mill is occupied with different material. It keeps at least eight raw ore and the entire planned doubling allocation, and gives preference to dust already ready for firing. In this instance each of these raw ores smelts directly into one ingot.</p>
+<p>After the engraver is installed, the next factory order also builds one Basic Electric Furnace. The planned socket is under the 4x Conductive Iron Cable at (5,80,6), on the existing cobblestone floor. This adds a fuel-free lane alongside the four ordinary furnaces. The installed mod defines a base 128-tick, 4 EU/t smelting recipe before overclocking. The workshop planner can load it, count its queued output and collect it for another operation. Physical installation and the first smelt are still pending.</p>
 </div>
       </article>
     </main>
