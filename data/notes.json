@@ -35,10 +35,10 @@
     {
       "name": "aluminium.md",
       "first_ticks": 182095,
-      "ticks": 1327421,
-      "sent_at": "2026-11-20T06:25:11-0500",
-      "versions": 11,
-      "bytes": 5614
+      "ticks": 1441566,
+      "sent_at": "2026-11-20T08:00:18-0500",
+      "versions": 12,
+      "bytes": 6060
     },
     {
       "name": "annealed-copper.md",
@@ -83,10 +83,10 @@
     {
       "name": "blast-feeder.md",
       "first_ticks": 932931,
-      "ticks": 1414312,
-      "sent_at": "2026-11-20T07:37:36-0500",
-      "versions": 9,
-      "bytes": 4212
+      "ticks": 1430312,
+      "sent_at": "2026-11-20T07:50:56-0500",
+      "versions": 12,
+      "bytes": 5892
     },
     {
       "name": "blast-furnace.md",
@@ -177,6 +177,14 @@
       "bytes": 1415
     },
     {
+      "name": "cobaltite.md",
+      "first_ticks": 1434318,
+      "ticks": 1434318,
+      "sent_at": "2026-11-20T07:54:16-0500",
+      "versions": 1,
+      "bytes": 703
+    },
+    {
       "name": "compressor.md",
       "first_ticks": 68800,
       "ticks": 68800,
@@ -219,10 +227,10 @@
     {
       "name": "drawer-network.md",
       "first_ticks": 996111,
-      "ticks": 1407159,
-      "sent_at": "2026-11-20T07:31:38-0500",
-      "versions": 4,
-      "bytes": 2811
+      "ticks": 1421841,
+      "sent_at": "2026-11-20T07:43:52-0500",
+      "versions": 5,
+      "bytes": 2899
     },
     {
       "name": "dynamo-batch.md",
@@ -339,10 +347,10 @@
     {
       "name": "furnace-fuel.md",
       "first_ticks": 569346,
-      "ticks": 1408590,
-      "sent_at": "2026-11-20T07:32:50-0500",
-      "versions": 12,
-      "bytes": 6376
+      "ticks": 1430312,
+      "sent_at": "2026-11-20T07:50:56-0500",
+      "versions": 14,
+      "bytes": 6830
     },
     {
       "name": "furnace-supplies.md",
@@ -691,10 +699,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 1418621,
-      "sent_at": "2026-11-20T07:41:11-0500",
-      "versions": 159,
-      "bytes": 5442
+      "ticks": 1439196,
+      "sent_at": "2026-11-20T07:58:20-0500",
+      "versions": 162,
+      "bytes": 3920
     },
     {
       "name": "reward-lookup.md",
@@ -843,10 +851,10 @@
     {
       "name": "thermal-elemental.md",
       "first_ticks": 1012077,
-      "ticks": 1418621,
-      "sent_at": "2026-11-20T07:41:11-0500",
-      "versions": 9,
-      "bytes": 6586
+      "ticks": 1437855,
+      "sent_at": "2026-11-20T07:57:13-0500",
+      "versions": 10,
+      "bytes": 7017
     },
     {
       "name": "void-factory.md",

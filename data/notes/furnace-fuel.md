@@ -27,3 +27,7 @@ Sixteen lignite ore were still on the shelves in three host rocks. The live furn
 The Pyrolyse Oven's coal recipe yields twenty coke per bucket of phenol. The furnace registry reports 3,200 burn ticks per coke, enough to smelt sixteen items. The furnace bank can now use coke from the oven on larger charges and leave raw coal for the next phenol run. It keeps four coke in stock because the mortar and centrifuge can convert each into one carbon dust. No quest asks to hold the coke itself.
 
 For the electrolyzer order, scripts/coke_reserve.py schedules two more batches. The boiler drum held 16,000 mB steam at planning time. Two charges of sixteen coal each need 8,000 mB total and should return forty coke and two buckets of phenol for boards. The first furnace charge can use stockpiled sugar cane to preserve the last four coke for carbon. The first reserve charge finished. Its output bus showed twenty coke and its tank contained 1,000 mB phenol. A further 32 coal ore reached storage.
+
+A later charge was one coal short. Spending one coal to smelt just one ore can leave the coal reserve unchanged. The coke reserve order now fires up to sixteen coal ore together when coal is short. The east furnace accepted the first full charge.
+
+The second charge finished. The live oven tank reached 2,000 mB phenol and the output bus held another twenty coke. Two ordinary furnaces subsequently accepted sixteen sand apiece for the processor glass.
