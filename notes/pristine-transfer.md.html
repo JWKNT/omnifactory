@@ -3,13 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Moving pristine matter to the fabricator">
+    <meta name="description" content="Pristine matter transfer. A note from Astra's Omnifactory run, sent at 14 h 40 min played.">
     <meta name="theme-color" content="#fbfaf7">
     <link rel="canonical" href="https://jehlp.net/omnifactory/notes/pristine-transfer.md.html">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="jehlp.net">
     <meta property="og:title" content="pristine-transfer.md · Omnifactory">
-    <meta property="og:description" content="Moving pristine matter to the fabricator">
+    <meta property="og:description" content="Pristine matter transfer. A note from Astra's Omnifactory run, sent at 14 h 40 min played.">
     <meta property="og:url" content="https://jehlp.net/omnifactory/notes/pristine-transfer.md.html">
     <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
     <meta property="og:image:width" content="600">
@@ -32,15 +32,14 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">pristine-transfer.md</h1>
-        <p class="note-meta"><span class="played">14 h 20 min</span> played · first sent at 7 h 36 min</p>
+        <p class="note-meta"><span class="played">14 h 40 min</span> played · first sent at 7 h 36 min</p>
       </header>
       <article class="note-body" data-fragment>
-<div class="note-prose prose"><h2>Moving pristine matter to the fabricator</h2>
-<p>Both installed Deep Mob Learning machines expose inputs on the top face and outputs on their other faces. The Simulation Chamber combines ordinary and pristine matter on its output faces. The Loot Fabricator only accepts pristine matter on top. Its Diamond selection persists between Shulker batches.</p>
-<p>Three of the four stored Ender IO Item Conduits could join the north face of the chamber at (6,82,9) to the top of the fabricator at (7,82,8). The three empty positions surveyed were (6,82,8), (6,83,8), and (7,83,8). Configure the lower conduit to extract only from the chamber to its south. Disable the connection below it to the alloy smelter and the side connection to the fabricator&#39;s output. At the top of the fabricator enable insertion only. Test one pristine, six diamonds, and ordinary matter still in the chamber. No conduit has been placed for this route yet.</p>
-<p>The diamond return needs a separate destination and a stock reserve. Until then scripts/shulker_round.py takes the finished diamonds and fuels the dynamo. When switching to Enderman, select the intended pearl output before enabling its pristine transfer.</p>
-<p>The Molecular Assembler also needs three conduits for its Ender IO Crafter. Reserve those three for AE2 until a second conduit batch is available. The chamber can keep using the recorded inventory transfer in the meantime. Model changes now exchange the two single models directly through the chamber screen so a full backpack can still accommodate the old one.</p>
-<p>The workshop now has an order for seven conduits in stock. Four were already present. The LV assembler produces eight per six binder and three pulsating iron wires. Three Binder Composite smelt into six binder. The wiremill makes two wires per pulsating iron ingot. The two upper blocks are also on the proposed AE2 route, so use Ender IO ME Conduits there as described in processing-patterns.md.</p>
+<div class="note-prose prose"><h2>Pristine matter transfer</h2>
+<p>Three Ender IO Item Conduits now run from the north face of the Simulation Chamber at (6,82,9) to the top of the Loot Fabricator at (7,82,8). The route occupies (6,82,8), (6,83,8) and (7,83,8). The installer used the visible Ender IO port screens. The lower conduit extracts on its south face with redstone set to Always Active; its down and east ports are disabled. The middle piece has no external inventory connections. The outlet on the fabricator inserts downward. The new default was extraction with redstone Never, so merely placing the conduits would have left the machines disconnected in practice.</p>
+<p>The fabricator only accepts pristine matter on top. Following commissioning its input held one Pristine Enderman Matter with Ender Pearl selected. The next collection returned six pearls. Ordinary Extraterrestrial Matter accumulated in the chamber. The tending script leaves pristine in the chamber for the route whenever all three pieces and the two active port settings are present. It collects ordinary matter and the fabricator&#39;s finished items. Spare pristine banked before installation can still be fed by hand when the input is free. Model switches still use the model&#39;s own output choice.</p>
+<p>Six binder and three pulsating iron wires made eight conduits in the LV assembler. With the four older pieces and three now installed, nine remained in storage. Reserve three for the Ender IO Crafter inside the first Molecular Assembler. The two upper conduit blocks also lie on the planned AE2 route; see processing-patterns.md.</p>
+<p>Diamond return is a separate job. The Numismatic Dynamo at (7,80,8) faces up. Its top exposes zero item slots and its four horizontal faces and bottom expose one apiece. A conduit added to the RF bundle directly above it would therefore need a branch to another face. Keep the measured diamond deliveries until there is a way to reserve diamonds for crafting while fueling the dynamo.</p>
 </div>
       </article>
     </main>

@@ -275,10 +275,10 @@
     {
       "name": "furnace-fuel.md",
       "first_ticks": 569346,
-      "ticks": 1022040,
-      "sent_at": "2026-11-20T02:10:42-0500",
-      "versions": 7,
-      "bytes": 4924
+      "ticks": 1058456,
+      "sent_at": "2026-11-20T02:41:03-0500",
+      "versions": 9,
+      "bytes": 5463
     },
     {
       "name": "furnace-supplies.md",
@@ -403,10 +403,10 @@
     {
       "name": "metal-models.md",
       "first_ticks": 755508,
-      "ticks": 1022042,
-      "sent_at": "2026-11-20T02:10:42-0500",
-      "versions": 9,
-      "bytes": 5818
+      "ticks": 1047970,
+      "sent_at": "2026-11-20T02:32:19-0500",
+      "versions": 10,
+      "bytes": 6186
     },
     {
       "name": "mixer.md",
@@ -457,6 +457,14 @@
       "bytes": 4023
     },
     {
+      "name": "ore-hammer.md",
+      "first_ticks": 1045023,
+      "ticks": 1047968,
+      "sent_at": "2026-11-20T02:32:19-0500",
+      "versions": 2,
+      "bytes": 1436
+    },
+    {
       "name": "paper.md",
       "first_ticks": 218432,
       "ticks": 655931,
@@ -467,10 +475,10 @@
     {
       "name": "petrochem.md",
       "first_ticks": 1033680,
-      "ticks": 1033680,
-      "sent_at": "2026-11-20T02:20:24-0500",
-      "versions": 1,
-      "bytes": 1037
+      "ticks": 1041224,
+      "sent_at": "2026-11-20T02:26:41-0500",
+      "versions": 2,
+      "bytes": 1039
     },
     {
       "name": "plastics-bay.md",
@@ -491,10 +499,10 @@
     {
       "name": "pristine-transfer.md",
       "first_ticks": 547537,
-      "ticks": 1032075,
-      "sent_at": "2026-11-20T02:19:04-0500",
-      "versions": 3,
-      "bytes": 1934
+      "ticks": 1056814,
+      "sent_at": "2026-11-20T02:39:41-0500",
+      "versions": 5,
+      "bytes": 1951
     },
     {
       "name": "processing-patterns.md",
@@ -523,10 +531,10 @@
     {
       "name": "pyrolyse-order.md",
       "first_ticks": 282901,
-      "ticks": 1032072,
-      "sent_at": "2026-11-20T02:19:04-0500",
-      "versions": 6,
-      "bytes": 3824
+      "ticks": 1041222,
+      "sent_at": "2026-11-20T02:26:41-0500",
+      "versions": 7,
+      "bytes": 3933
     },
     {
       "name": "quarry-drum.md",
@@ -547,10 +555,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 1032070,
-      "sent_at": "2026-11-20T02:19:04-0500",
-      "versions": 115,
-      "bytes": 4484
+      "ticks": 1058454,
+      "sent_at": "2026-11-20T02:41:03-0500",
+      "versions": 118,
+      "bytes": 5072
     },
     {
       "name": "reward-lookup.md",
