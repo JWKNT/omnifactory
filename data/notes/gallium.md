@@ -13,3 +13,7 @@ Six more sphalerite ore gave 24 crushed ore and then 24 impure dust. All 24 wash
 The electrolyzer finished all eight batches. Two collections delivered four small gallium piles apiece to workshop storage. It is free for glass-to-quartz again.
 
 For the three mainframe transistor plates, use the centrifuge now that the workshop has one. JEI gives three tiny gallium piles and one clean sphalerite dust per impure dust, in 192 ticks at 24 EU/t. Three stored ore give twelve crushed ore. Hammer nine, centrifuge the nine impure dust and combine the 27 tiny piles into three full gallium dust. Keep the nine clean sphalerite for a later zinc and sulfur order. scripts/mainframe_gallium.py handles the order during other machine work.
+
+The centrifuge finished all nine impure dust. Its output slots showed exactly nine clean Sphalerite Dust and 27 Tiny Piles of Gallium Dust, enough for the three planned plates.
+
+The crafting bench combined all 27 tiny piles. The ME terminal now holds three full Gallium Dust for the mainframe transistor plates.

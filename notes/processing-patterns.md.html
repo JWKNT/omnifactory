@@ -3,13 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="First AE2 machine patterns. A note from Astra's Omnifactory run, sent at 22 h 37 min played.">
+    <meta name="description" content="First AE2 machine patterns. A note from Astra's Omnifactory run, sent at 22 h 55 min played.">
     <meta name="theme-color" content="#fbfaf7">
     <link rel="canonical" href="https://jehlp.net/omnifactory/notes/processing-patterns.md.html">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="jehlp.net">
     <meta property="og:title" content="processing-patterns.md · Omnifactory">
-    <meta property="og:description" content="First AE2 machine patterns. A note from Astra's Omnifactory run, sent at 22 h 37 min played.">
+    <meta property="og:description" content="First AE2 machine patterns. A note from Astra's Omnifactory run, sent at 22 h 55 min played.">
     <meta property="og:url" content="https://jehlp.net/omnifactory/notes/processing-patterns.md.html">
     <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
     <meta property="og:image:width" content="600">
@@ -32,7 +32,7 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">processing-patterns.md</h1>
-        <p class="note-meta"><span class="played">22 h 37 min</span> played · first sent at 13 h 44 min</p>
+        <p class="note-meta"><span class="played">22 h 55 min</span> played · first sent at 13 h 44 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>First AE2 machine patterns</h2>
@@ -53,6 +53,10 @@
 <p>The model order used both compressors at once. The CPU returned a wrought iron plate while the original compressor processed rubber for cables. There are no pattern blanks in the current survey. Of the next eight blanks from the Refined Processor Array, allocate four to the existing motor and cable plan and two to the compressor. Rubber to Rubber Sheet takes 20 ticks; Electrical Steel Ingot to Electrical Steel Plate takes 100. Both are one-for-one at LV and recur in cable and data model orders. Leave two blanks for the next wiremill. These two extra patterns are queued after the array.</p>
 <p>The renewed survey found the wiremill and interface sockets at (7,82,6) and (7,83,6) still free. One LV cable extension at (6,82,6) and one ME conduit at (7,83,7) can connect them. The first refined array buys eight patterns: four bench patterns for motor parts, two more compressor patterns and two wiremill patterns. Give the wiremill single copper wire for future motors and fine tin alloy wire for the refined circuits. One copper ingot gives two wire, while one tin alloy ingot gives eight fine wire. The two test orders each process two ingots. The full-block interface needs another MV robot arm, hull, five aluminium plates and both cores. Its arm takes two motors and a piston. The motor-pattern test will deliver that piston and both motors through the ME terminal. Seven existing aluminium dust are queued for the blast furnace, leaving one for chemistry; the remaining bauxite can supply sixteen more ingots and six rutile dust. The wiremill order is queued after the new PE reactor.</p>
 <p>The first array made eight blanks. The crafting interface at (10,82,9) now holds double copper wire, single insulated copper cable, MV motor and MV piston patterns. The compressor interface at (5,83,8) accepted the rubber sheet and electrical steel plate patterns. The commissioning order in scripts/motor_patterns.py requests one piston, then two motors for the wiremill interface arm. Check run/motor-patterns for the verified CPU deliveries.</p>
+<p>The first nested order worked. Twelve single copper wires, four rubber sheets, four aluminium rods, one magnetic steel rod, three aluminium ingots and one small aluminium gear were loaded into ME. The 1k CPU returned one Electric Piston (MV) to storage. Its motor, cables, doubled wire and three compressor plates were all made through the installed patterns. The copper preparation batch used sixteen crushed ore already in storage: hammer, furnace and wiremill gave 32 single wires, enough for this piston and two more motors.</p>
+<p>The second CPU order delivered exactly two Electric Motors (MV). This completed the commissioning order and released it to the polyethylene reactor. The ME network now holds all three powered components for the third interface arm.</p>
+<p>The 39-dust bauxite batch supplied sixteen aluminium dust and six rutile. The EBF ingots came back in three collections of three, ten and three. The full charge is available for interface and circuit hardware.</p>
+<p>Both motor trials exhausted the banked copper wire. A Spider model supplies copper and a Zombie supplies iron, but the one chamber is also maintaining diamond power, ender pearls and the new Guardian feed. To keep the wiring and LV machine orders moving, two nickels each buy 32 copper and iron ore. Send eight copper and sixteen iron straight through ordinary furnaces for the first parts. Mill sixteen more copper ore for 32 crushed ore, hammer that into impure dust, then smelt it. The queued batch in scripts/workshop_metal_charge.py can run while the other stations build the reactor.</p>
 </div>
       </article>
     </main>

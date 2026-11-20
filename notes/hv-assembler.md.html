@@ -32,7 +32,7 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">hv-assembler.md</h1>
-        <p class="note-meta"><span class="played">22 h 42 min</span> played · first sent at 18 h 16 min</p>
+        <p class="note-meta"><span class="played">22 h 48 min</span> played · first sent at 18 h 16 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>Reserve two mainframes for the HV assembler</h2>
@@ -43,6 +43,8 @@
 <p>The workshop had eight CPU chips and eleven plain silicon wafers when the models reached six of eight. The laser and cutter can prepare one more CPU wafer alongside the model order. The target of sixteen chips covers the five for the first array batch and ten for the two-mainframe batch, provided the eight spare Refined Circuits remain available. The models and acid still use the older Basic Circuits.</p>
 <p>The second CPU wafer finished engraving. The MV cutter took the wafer and the ME inventory now shows sixteen Central Processing Unit chips. The two-mainframe chip reserve is ready.</p>
 <p>The post-board order in scripts/mainframe_run.py takes the 1,512 mB PE charge, assembles the three SMD reserves, then loads sixteen solder ingots&#39; worth of fluid. It requests 48 total refined circuits, sixteen processors, 32 Vibrant Alloy wires, four arrays, and finally the two mainframes. run/first-mainframes checkpoints the delivered stages. These stages are queued. For the eight frames, the bench makes four per three plates and five rods with a wrench. The lathe gives two rods per ingot. With the eight plates in the arrays, the combined stainless bill is nineteen ingots. Fifteen were in storage at the last survey, so a second eighteen-ingot blast batch can also supply HV hardware.</p>
+<p>Page 532 pays a quarter for the HV assembler and unlocks Microcircuits. Counting the motors inside the two pistons, the machine needs ten HV motors, two pistons, two arms and two conveyors. Budget forty quadruple copper wires (160 single wires, or 80 copper ingots), ten magnetic steel rods, 28 stainless rods, six piston plates and two small stainless gears. Two arms take two more tier-three circuits in addition to the two mainframes in the machine. Reserve two of the LV Electronic Processor Arrays made alongside the HV converter&#39;s. Including a second hull, the whole machine consumes 36 insulated single gold cables: twenty in motors, four in pistons, six in arms, two in conveyors, two in the hull and two at final assembly. Use 36 single gold wires and 5,184 mB rubber on circuit 24. The two conveyors also take twelve rubber sheets at the bench. With JEI&#39;s two rods per ingot, the mainframes and this machine together need fifty stainless ingots. After the fifteen stored and eighteen currently planned, prepare another eighteen before the motor order.</p>
+<p>The RF cable at (8,82,2) is an Energetic Alloy conduit. Both eastward overhead sockets were air in the survey. Fit the HV converter at (9,82,2) with its EU output east and mount the HV assembler directly against it at (10,82,2). Both working aisles at y80 remain passable. scripts/hv_assembler.py claims page 532 while carrying the machine and then checks for 512 V and stored EU after placement. This installation is queued.</p>
 </div>
       </article>
     </main>

@@ -281,6 +281,14 @@
       "bytes": 1988
     },
     {
+      "name": "epoxy-feed.md",
+      "first_ticks": 1646569,
+      "ticks": 1646569,
+      "sent_at": "2026-11-20T10:51:09-0500",
+      "versions": 1,
+      "bytes": 2077
+    },
+    {
       "name": "ethylene-repeats.md",
       "first_ticks": 1203094,
       "ticks": 1325255,
@@ -403,10 +411,10 @@
     {
       "name": "gallium.md",
       "first_ticks": 223311,
-      "ticks": 1631493,
-      "sent_at": "2026-11-20T10:38:35-0500",
-      "versions": 5,
-      "bytes": 2874
+      "ticks": 1656371,
+      "sent_at": "2026-11-20T10:59:19-0500",
+      "versions": 7,
+      "bytes": 3187
     },
     {
       "name": "gear-production.md",
@@ -435,10 +443,10 @@
     {
       "name": "hv-assembler.md",
       "first_ticks": 1315642,
-      "ticks": 1634659,
-      "sent_at": "2026-11-20T10:41:13-0500",
-      "versions": 5,
-      "bytes": 3354
+      "ticks": 1642291,
+      "sent_at": "2026-11-20T10:47:35-0500",
+      "versions": 7,
+      "bytes": 4844
     },
     {
       "name": "hv-hull.md",
@@ -531,10 +539,10 @@
     {
       "name": "mainframe-polyethylene.md",
       "first_ticks": 1603551,
-      "ticks": 1603551,
-      "sent_at": "2026-11-20T10:15:18-0500",
-      "versions": 1,
-      "bytes": 1585
+      "ticks": 1656371,
+      "sent_at": "2026-11-20T10:59:19-0500",
+      "versions": 2,
+      "bytes": 1905
     },
     {
       "name": "me-energy-cell.md",
@@ -699,10 +707,10 @@
     {
       "name": "processing-patterns.md",
       "first_ticks": 989559,
-      "ticks": 1628539,
-      "sent_at": "2026-11-20T10:36:07-0500",
-      "versions": 14,
-      "bytes": 9141
+      "ticks": 1650781,
+      "sent_at": "2026-11-20T10:54:39-0500",
+      "versions": 17,
+      "bytes": 10706
     },
     {
       "name": "progression.md",
@@ -771,10 +779,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 1634659,
-      "sent_at": "2026-11-20T10:41:13-0500",
-      "versions": 198,
-      "bytes": 7690
+      "ticks": 1659351,
+      "sent_at": "2026-11-20T11:01:48-0500",
+      "versions": 201,
+      "bytes": 8240
     },
     {
       "name": "reward-lookup.md",
@@ -811,10 +819,10 @@
     {
       "name": "shulker-power.md",
       "first_ticks": 431375,
-      "ticks": 961395,
-      "sent_at": "2026-11-20T01:20:10-0500",
-      "versions": 7,
-      "bytes": 5326
+      "ticks": 1652362,
+      "sent_at": "2026-11-20T10:55:58-0500",
+      "versions": 8,
+      "bytes": 5864
     },
     {
       "name": "silicon-boule.md",
@@ -839,6 +847,14 @@
       "sent_at": "2026-11-20T01:20:10-0500",
       "versions": 1,
       "bytes": 793
+    },
+    {
+      "name": "small-coils.md",
+      "first_ticks": 1657156,
+      "ticks": 1659351,
+      "sent_at": "2026-11-20T11:01:48-0500",
+      "versions": 2,
+      "bytes": 994
     },
     {
       "name": "small-projector.md",
@@ -947,10 +963,10 @@
     {
       "name": "vibrant-conduits.md",
       "first_ticks": 1524175,
-      "ticks": 1588278,
-      "sent_at": "2026-11-20T10:02:34-0500",
-      "versions": 6,
-      "bytes": 4608
+      "ticks": 1640245,
+      "sent_at": "2026-11-20T10:45:52-0500",
+      "versions": 8,
+      "bytes": 5283
     },
     {
       "name": "void-factory.md",
