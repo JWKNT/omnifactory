@@ -87,3 +87,102 @@ test('posting files waiting notes, holds private ones and withdraws deleted ones
   assert.deepEqual(index.notes.map(n => n.name), ['b.md']);
   assert.ok(!existsSync(join(site, 'notes', 'a.md.html')), 'the page of a withdrawn note is removed');
 });
+
+// ---------------------------------------------------------------- quest book
+
+const { questPage, rules } = await import('../lib/quests.mjs');
+const { ticksAt, readProgress, refreshProgress } = await import('../lib/progress.mjs');
+
+const quest = (name, more = {}) => ({ name, desc: '', icon: 'minecraft:stone@0', vis: 'ALWAYS', tasks: [{ kind: 'checkbox' }], rewards: [], ...more });
+const smallBook = {
+  pack: 'test', lines: [{ id: 1, name: 'First line', desc: 'A §6line§r.', icon: 'minecraft:stone@0', quests: [
+    { id: 1, x: 0, y: 0, w: 24, h: 24 }, { id: 2, x: 48, y: 0, w: 24, h: 24 }, { id: 3, x: 96, y: 0, w: 24, h: 24 },
+    { id: 4, x: 48, y: 48, w: 0, h: 0 }, { id: 5, x: 96, y: 48, w: 24, h: 24 }, { id: 6, x: 144, y: 48, w: 24, h: 24 } ] }],
+  quests: {
+    1: quest('Start', { rewards: [{ kind: 'item', items: [{ id: 'minecraft:stone', n: 1 }] }] }),
+    2: quest('Second', { pre: [1] }),
+    3: quest('Third', { pre: [2], vis: 'NORMAL' }),
+    4: quest('Either', { pre: [1, 2], logic: 'OR', tasks: [] }),
+    5: quest('After either', { pre: [4], vis: 'UNLOCKED' }),
+    6: quest('Chain end', { pre: [5], vis: 'CHAIN' }),
+  },
+};
+
+test('the book rules give the game\'s states and show what the game shows', () => {
+  const none = {};
+  assert.equal(rules.stateOf(smallBook, none, 1), 'open');
+  assert.equal(rules.stateOf(smallBook, none, 2), 'locked');
+  assert.equal(rules.shown(smallBook, none, 3), false, 'a NORMAL quest waits until the quest before it is open');
+  assert.equal(rules.shown(smallBook, none, 5), false, 'an UNLOCKED quest stays out of sight until it is open');
+  assert.equal(rules.shown(smallBook, none, 6), false, 'a CHAIN quest follows the quest before it');
+  const some = { 1: [1200, 0], 4: [1300, 1] };
+  assert.equal(rules.stateOf(smallBook, some, 1), 'unclaimed', 'complete with a reward that waits');
+  assert.equal(rules.stateOf(smallBook, some, 4), 'complete');
+  assert.equal(rules.stateOf(smallBook, some, 2), 'open');
+  assert.equal(rules.shown(smallBook, some, 3), true);
+  assert.equal(rules.shown(smallBook, some, 5), true, 'one complete requirement opens an OR quest');
+  assert.equal(rules.shown(smallBook, some, 6), true);
+  assert.deepEqual(rules.summary(smallBook, { ticks: 2400, done: some }), { total: 5, complete: 1, ticks: 2400 }, 'a junction is not a quest to count');
+});
+
+test('a clock time becomes time played from the nearest sample after it', () => {
+  const samples = [{ ms: 100_000, ticks: 2000 }, { ms: 160_000, ticks: 3200 }, { ms: 1_000_000, ticks: 3600 }];
+  assert.equal(ticksAt(samples, 130_000), 2600);
+  assert.equal(ticksAt(samples, 170_000), 3200, 'the world was closed: the sample before is the floor');
+  assert.equal(ticksAt(samples, 999_000), 3580);
+  assert.equal(ticksAt(samples, 1_010_000), 3800, 'after the last sample the world still runs');
+  assert.equal(ticksAt(samples, 1_000), 20);
+  assert.equal(ticksAt([], 5), null);
+});
+
+test('the progress record comes from the saved world and keeps a time once given', async () => {
+  const work = await mkdtemp(join(tmpdir(), 'omni-quests-'));
+  const greg = join(work, 'greg');
+  const save = join(greg, 'instance', 'saves', 'Astra', 'betterquesting', 'QuestProgress');
+  await mkdir(save, { recursive: true });
+  await mkdir(join(greg, 'outbox', 'posted'), { recursive: true });
+  const who = '00000000-0000-0000-0000-000000000000';
+  const at = Date.parse('2026-11-19T12:10:00-05:00');
+  const entry = (id, complete, tasks) => ({ 'questID:3': id, 'completed:9': complete ? { '0:10': { 'claimed:1': complete.claimed, 'timestamp:4': complete.at, 'uuid:8': who } } : {}, 'tasks:9': tasks });
+  const task = (index, done, data) => ({ 'index:3': index, 'taskID:8': 'bq_standard:retrieval', 'completeUsers:9': done ? { '0:8': who } : {}, 'userProgress:9': data ? { '0:10': { 'uuid:8': who, 'data:9': data } } : {} });
+  await writeFile(join(save, `${who}.json`), JSON.stringify({ 'questProgress:9': {
+    '0:10': entry(1, { claimed: 1, at }, { '0:10': task(0, true) }),
+    '1:10': entry(2, null, { '0:10': task(0, true), '1:10': task(1, false, { '0:3': 3, '1:3': 0 }) }),
+    '2:10': entry(3, null, { '0:10': task(0, false) }),
+  } }));
+  const note = (file, time, ticks) => writeFile(join(greg, 'outbox', 'posted', file), JSON.stringify({ name: 'a.md', sent_at: time, played_ticks: ticks, body: 'x' }));
+  await note('1.json', '2026-11-19T12:00:00-0500', 12000);
+  await note('2.json', '2026-11-19T12:20:00-0500', 36000);
+
+  const record = await readProgress({ greg });
+  assert.deepEqual(record.done, { 1: [24000, 1] }, 'ten minutes before the second note');
+  assert.deepEqual(record.tasks, { 2: [0] });
+  assert.deepEqual(record.have, { 2: { 1: [3, 0] } });
+  assert.equal(record.ticks, 36000);
+  assert.doesNotMatch(JSON.stringify(record), /0000-0000/, 'the player id stays out of the record');
+
+  const site = join(work, 'site');
+  let result = await refreshProgress({ root: site, greg });
+  assert.equal(result.changed, true);
+  assert.deepEqual(result.newly, [1]);
+  // A later note moves the clock; the quest keeps its time and the standing is the same.
+  await note('3.json', '2026-11-19T12:40:00-0500', 60000);
+  result = await refreshProgress({ root: site, greg });
+  assert.equal(result.changed, false);
+  assert.equal(JSON.parse(await readFile(join(site, 'data', 'quests', 'progress.json'), 'utf8')).ticks, 36000, 'no new standing, no new file');
+  result = await refreshProgress({ root: site, greg, force: true });
+  const written = JSON.parse(await readFile(join(site, 'data', 'quests', 'progress.json'), 'utf8'));
+  assert.equal(written.ticks, 60000);
+  assert.deepEqual(written.done, { 1: [24000, 1] });
+});
+
+test('the quest book page has a tab for each line and a link preview', () => {
+  const html = questPage({ book: smallBook, progress: { ticks: 72000, done: { 1: [1200, 1] } } });
+  assert.match(html, /<button type="button" class="qb-line" data-line="1" aria-pressed="false"><span class="qb-line-name">First line<\/span>/);
+  assert.match(html, /1 of 3 quests were complete at 1 h 00 min played\./, 'two quests are out of sight until they are open');
+  assert.match(html, /<link rel="canonical" href="https:\/\/jehlp\.net\/omnifactory\/quests\/">/);
+  assert.match(html, /<meta property="og:description" content="[^"]{25,220}">/);
+  assert.match(html, /assets\/quest-rules\.js\?v=[^"]+" defer><\/script>\s*<script src="\/omnifactory\/assets\/quests\.js/);
+  assert.match(html, /<a href="\/omnifactory\/">Notes<\/a>/);
+  assert.doesNotMatch(html, /<a href="\/omnifactory\/quests\/">Quests<\/a>/, 'a page does not link to itself');
+});

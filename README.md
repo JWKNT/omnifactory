@@ -21,6 +21,19 @@ while it is open and it does not pause, so the time includes the time that Astra
 3. A note that seems to contain something private is not filed. It moves to `../greg/outbox/held` with the reason.
 4. A reviewer reads the change, commits it and pushes it. `AGENTS.md` gives the steps.
 
+## The quest book
+
+[jehlp.net/omnifactory/quests](https://jehlp.net/omnifactory/quests/) is a copy of the game's quest book.
+It has a tab for each quest line, a map of each line as the game lays it out, and a page for each quest.
+It shows the quests that Astra completed, each with the time played. A list view shows the same quests as rows.
+
+- The book comes from the pack's own files (`node tools/questbook.mjs`). The item names come from the running game (`python3 tools/quest-names.py`).
+- The progress comes from Astra's saved world. `tools/post.mjs` reads it on each run. The game records a clock time for each quest; the tool changes it into time played with the nearest note or world save.
+- The page shows a quest only when the book in the game shows it.
+- A quest shows two letters until the book has item pictures.
+
+The quest names, the quest text and the layout are the work of the pack's authors. The page credits them.
+
 ## Commands
 
 ```sh

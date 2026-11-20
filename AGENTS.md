@@ -14,6 +14,19 @@ Astra's harness is the sibling folder `../greg`. Astra does not write to this re
 4. A held note is in `../greg/outbox/held` with the reason in `held_why`. If only a private detail is the problem, replace that detail in the `body` (for a home folder path, keep the part from `greg/`), then run `node tools/post.mjs --release <file>`. Change nothing else in the note.
 5. Run `npm test`. Then commit `data`, `notes` and `index.html` with an explicit file list, and push `main`.
 
+`tools/post.mjs` also reads Astra's quest progress from the saved world (see the next section). The report has it under `quests`. When `quests.changed` is true and no note is waiting, commit `data` with the message "Record quest progress at <time played>".
+
+## The quest book page
+
+`quests/index.html` is a copy of the game's quest book: the quest lines as tabs, a map of each line, and Astra's progress. It is one static page. Its script (`assets/quests.js`, with the book's rules in `assets/quest-rules.js`) reads two data files:
+
+- `data/quests/book.json` is the book. `node tools/questbook.mjs` makes it from the pack's files in `../greg/instance` and from `data/quests/names.json`. Run it again only after a pack update. `python3 tools/quest-names.py` reads the item names from the game while it runs; the call only reads.
+- `data/quests/progress.json` is Astra's standing. `tools/post.mjs` writes it on each run, and `node tools/progress.mjs` writes it by hand. `node tools/progress.mjs --check` only reports a change. The record has quest numbers, time played and claim marks. It must not have a player id or a clock time.
+
+The page shows a quest only when the book in the game shows it. Do not add a view that shows more.
+The quest names and quest text are the pack's work. Keep the credit on the page, and change that text only to correct it.
+There are no item pictures yet: a quest shows two letters. `book.icons` (a sprite sheet and an index) turns the pictures on.
+
 Change the generator in `lib/`, then run `npm test`. The test rebuilds every page.
 Check the link preview of a changed page with `node ../site-theme/tools/check-embeds.mjs <files>` before a push.
 

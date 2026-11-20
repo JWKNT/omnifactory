@@ -1,6 +1,7 @@
 // Files the notes that Astra sent. Astra's harness (../greg) puts each sent note in its
 // outbox as one JSON file with the time played. This tool copies them into data/, rebuilds
 // the pages and says what it did. It does not commit or push: a reviewer reads the change first.
+// It also reads Astra's quest progress from the saved world, for the quest book page.
 //
 //   node tools/post.mjs                       file every waiting note
 //   node tools/post.mjs --from <outbox>       use another outbox folder
@@ -13,6 +14,7 @@ import { existsSync } from 'node:fs';
 import { basename, dirname, join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { spawnSync } from 'node:child_process';
+import { refreshProgress } from '../lib/progress.mjs';
 
 const root = fileURLToPath(new URL('../', import.meta.url));
 const args = process.argv.slice(2);
@@ -99,8 +101,25 @@ for (const file of await waiting()) {
 
 index.notes = [...byName.values()].sort((a, b) => a.name.localeCompare(b.name));
 await writeFile(indexPath, JSON.stringify(index, null, 2) + '\n');
+
+// The quest book page shows the quests that are complete in Astra's saved world. The record
+// changes only when the standing changed, or together with a note, so an idle run leaves
+// the repository clean. A held note is not a reason to read the save again.
+if (!release) {
+  try {
+    const greg = dirname(outbox);
+    const quests = await refreshProgress({ root, greg, force: report.posted.length + report.withdrawn.length > 0 });
+    report.quests = { found: quests.found, changed: quests.changed, complete: quests.done, played_ticks: quests.ticks ?? null, new: [] };
+    if (quests.newly.length && existsSync(join(root, 'data', 'quests', 'book.json'))) {
+      const book = JSON.parse(await readFile(join(root, 'data', 'quests', 'book.json'), 'utf8'));
+      report.quests.new = quests.newly.map(id => book.quests[id]?.name || `quest ${id}`);
+    }
+  } catch (error) {
+    report.quests = { found: false, changed: false, error: error.message };
+  }
+}
 const build = spawnSync(process.execPath, [join(root, 'build.mjs')], { cwd: root, encoding: 'utf8' });
 report.build = build.status === 0 ? build.stdout.trim() : `FAILED: ${build.stderr || build.stdout}`;
-report.changed = report.posted.length + report.withdrawn.length > 0;
+report.changed = report.posted.length + report.withdrawn.length > 0 || Boolean(report.quests?.changed);
 console.log(JSON.stringify(report, null, 2));
 process.exit(build.status === 0 ? 0 : 1);
