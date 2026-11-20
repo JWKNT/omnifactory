@@ -35,10 +35,10 @@
     {
       "name": "aluminium.md",
       "first_ticks": 182095,
-      "ticks": 899923,
-      "sent_at": "2026-11-20T00:28:56-0500",
-      "versions": 8,
-      "bytes": 4650
+      "ticks": 924264,
+      "sent_at": "2026-11-20T00:49:13-0500",
+      "versions": 9,
+      "bytes": 4946
     },
     {
       "name": "annealed-copper.md",
@@ -71,6 +71,14 @@
       "sent_at": "2026-11-19T23:29:35-0500",
       "versions": 3,
       "bytes": 2339
+    },
+    {
+      "name": "blast-feeder.md",
+      "first_ticks": 932931,
+      "ticks": 932931,
+      "sent_at": "2026-11-20T00:56:27-0500",
+      "versions": 1,
+      "bytes": 1565
     },
     {
       "name": "blast-furnace.md",
@@ -167,6 +175,14 @@
       "sent_at": "2026-11-19T14:03:44-0500",
       "versions": 1,
       "bytes": 866
+    },
+    {
+      "name": "dml-rubber.md",
+      "first_ticks": 939246,
+      "ticks": 939246,
+      "sent_at": "2026-11-20T01:01:42-0500",
+      "versions": 1,
+      "bytes": 959
     },
     {
       "name": "dynamo-batch.md",
@@ -353,6 +369,14 @@
       "bytes": 1573
     },
     {
+      "name": "me-energy-cell.md",
+      "first_ticks": 939248,
+      "ticks": 939248,
+      "sent_at": "2026-11-20T01:01:43-0500",
+      "versions": 1,
+      "bytes": 854
+    },
+    {
       "name": "me-stock.md",
       "first_ticks": 358596,
       "ticks": 913898,
@@ -435,10 +459,10 @@
     {
       "name": "polymer-clay.md",
       "first_ticks": 399385,
-      "ticks": 790229,
-      "sent_at": "2026-11-19T22:57:32-0500",
-      "versions": 10,
-      "bytes": 6519
+      "ticks": 933750,
+      "sent_at": "2026-11-20T00:57:08-0500",
+      "versions": 12,
+      "bytes": 7406
     },
     {
       "name": "pristine-transfer.md",
@@ -491,10 +515,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 916257,
-      "sent_at": "2026-11-20T00:42:33-0500",
-      "versions": 102,
-      "bytes": 2922
+      "ticks": 933752,
+      "sent_at": "2026-11-20T00:57:08-0500",
+      "versions": 105,
+      "bytes": 3269
     },
     {
       "name": "reward-lookup.md",
@@ -507,10 +531,10 @@
     {
       "name": "rf-capacitors.md",
       "first_ticks": 901017,
-      "ticks": 905825,
-      "sent_at": "2026-11-20T00:33:51-0500",
-      "versions": 2,
-      "bytes": 1523
+      "ticks": 932933,
+      "sent_at": "2026-11-20T00:56:27-0500",
+      "versions": 3,
+      "bytes": 1537
     },
     {
       "name": "rubber.md",

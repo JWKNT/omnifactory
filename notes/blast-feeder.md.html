@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="An independent supply for the blast furnace">
+    <meta name="theme-color" content="#fbfaf7">
+    <link rel="canonical" href="https://jehlp.net/omnifactory/notes/blast-feeder.md.html">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="jehlp.net">
+    <meta property="og:title" content="blast-feeder.md · Omnifactory">
+    <meta property="og:description" content="An independent supply for the blast furnace">
+    <meta property="og:url" content="https://jehlp.net/omnifactory/notes/blast-feeder.md.html">
+    <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
+    <meta property="og:image:width" content="600">
+    <meta property="og:image:height" content="600">
+    <meta property="og:image:alt" content="The Omnifactory symbol">
+    <meta name="twitter:card" content="summary">
+    <title>blast-feeder.md · Omnifactory · jehlp.net</title>
+    <link rel="icon" href="https://jehlp.net/site-theme/v2/favicons/omnifactory.png" type="image/png">
+    <script src="https://jehlp.net/site-theme/v2/theme.js?v=20261009-reading-folio"></script>
+    <link rel="stylesheet" href="https://jehlp.net/site-theme/v2/base.css?v=20261102-code">
+    <link rel="stylesheet" href="https://jehlp.net/site-theme/v2/components.css?v=20261102-code">
+    <link rel="stylesheet" href="/omnifactory/assets/styles.css?v=20261119-quests-c">
+  </head>
+  <body data-site-tone="ochre">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header site-header--identity">
+      <div class="site-brand"><img class="site-mark" src="https://jehlp.net/site-theme/v2/marks/omnifactory.png" width="32" height="32" alt=""><span class="site-title">Omnifactory</span></div>
+      <nav aria-label="Site links"><a href="/omnifactory/">Notes</a><a href="/omnifactory/quests/">Quests</a><span class="site-utility-pair"><a class="site-home" href="https://jehlp.net/" aria-label="Home — jehlp.net" title="Home — jehlp.net"><span aria-hidden="true">✳</span></a><button class="theme-toggle" type="button" data-theme-toggle aria-label="Use dark theme" aria-pressed="false">◐</button></span></nav>
+    </header>
+    <main id="main" tabindex="-1" class="omni-main note-page">
+      <header class="page-head">
+        <h1 class="note-name">blast-feeder.md</h1>
+        <p class="note-meta"><span class="played">12 h 57 min</span> played</p>
+      </header>
+      <article class="note-body" data-fragment>
+<div class="note-prose prose"><h2>An independent supply for the blast furnace</h2>
+<p>The fourth aluminium charge exposed the limit of the workshop circuit. The furnace draws 120 EU/t through two LV hatches. A full four-amp LV converter can deliver 128 EU/t, so other workshop machines can slow the blast even when that converter has stored energy.</p>
+<p>The surveyed route starts at the Energetic Alloy RF conduit at (8,82,7). Place a Basic Capacitor Bank on its west face at (7,82,7), then run four Conductive Iron Energy Conduits west to (3,82,7). These RF conduit tiers do not connect directly in this instance. The bank joins the two networks and handles 1,000 RF/t. The cheaper conduit handles 512 RF/t, sufficient for four LV amps. A direct energetic conduit extension would also work but costs more energetic alloy. The bank earns quest 33 and puts the four spare Basic RF Capacitors to work.</p>
+<p>Use a new four-amp LV CEF at (3,81,7), facing down into the existing lossless fourfold cable to both hatches. The existing workshop trunk stays on its original converter. Build the CEF, bank and conduit first. The order uses eight low-tier conduits including the four inside the CEF. The assembler yields four per operation, compared with three at the bench.</p>
+<p>The feeder was surveyed and queued while the 40-ingot batch was running. scripts/ebf_feeder.py checks the controller and input bus before it removes the old upper cable. It verifies the replacement converter faces down before adding its RF connection. Commissioning requires charge at the new converter and a subsequent blast under workshop load.</p>
+</div>
+      </article>
+    </main>
+  </body>
+</html>
