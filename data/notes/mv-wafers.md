@@ -23,3 +23,9 @@ The north service deck is built. Four wand placements extended the floor from z1
 The engraver is installed at (7,80,1), north-facing. The two 4x Copper Cables joined it to the north-facing CEF and the chemical reactor. After installation the engraver held 4,032 EU and the reactor 4,048 EU, both with 128 V input. The reactor GUI opened from the west edge of its north face. Quest 83 paid the nickel before placement. Two nickels bought 32 almandine ore and five pennies bought 32 lapis ore for the lenses. Keep those ores for subsequent batches.
 
 All four planned lenses are made. One almandine produced the Ruby Lens, one lapis produced Blue Topaz, one diamond produced Diamond, and one glass produced Glass. The water-fed LV autoclave processed them. Ruby, Diamond and Glass together completed quest 88 and paid its nickel. The Blue Topaz Lens is ready for the Calculation Press. The MV cutter order is running.
+
+The Advanced Cutting Machine is installed at (6,80,1). Quest 79 paid its nickel before placement, and the cutter reached 4,092 EU on the 128 V feeder. The brass charge yielded six cobalt brass ingots; four became plates and two became four rods for the gear. The assembler fitted its diamond cutting edge. The first boule is next in the cutter.
+
+The first cut succeeded. With one bucket of water in its tank, the Advanced Cutting Machine processed the stored Silicon Boule at 128 EU/t for 100 ticks. Its output slot contained sixteen Silicon Wafers. All sixteen were collected, and quest 81 paid. The campaign then loaded the engraver for the first pair of Integrated Circuit Wafers.
+
+The first circuit-wafer batch finished. Four silicon wafers went through the two lenses; the cutter finished one engraved wafer of each type. The player carried one Integrated Circuit Wafer, one RAM Wafer, eight Integrated Circuits and 32 RAM together. Quest 84 paid two nickels. Twelve plain silicon wafers remain for future patterns and circuits.
