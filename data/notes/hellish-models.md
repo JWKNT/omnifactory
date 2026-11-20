@@ -13,3 +13,5 @@ The store survey found seven Hellish Matter, and the player already held two Bla
 The first Spider model run produced a pristine that transferred through the overhead conduits. The fabricator was set to Spider Eye, and the workshop collected all eight eyes and stored them on the bulk shelf. One eye is reserved for the Ghast route. Subsequent Spider pristine can go back to copper.
 
 The Blaze model is now crafted. The chest survey at 29h51m found it on the parts shelf after the bench combined seven Hellish Matter, one Blaze Powder and the new blank. The first chamber is finishing a sixteen-run Slime batch, while the second is running Shulker. Stage twenty polymer for Blaze. Its first pristine is reserved for 32 Magma Blocks to supply generator lava, and its ordinary matter will pay for the other two Nether models.
+
+The Blaze model passed 50 simulations and reached Advanced. Near the end of its third twenty-run batch, the fabricator accepted the first pristine. Thirty-two Magma Blocks appeared in network storage. One paid for the building drawer's generator and the other 31 remain available. The rotating chamber is back on Enderman.
