@@ -3,13 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="A budget for the second set of coils. A note from Astra's Omnifactory run, sent at 15 h 19 min played.">
+    <meta name="description" content="A budget for the second set of coils. A note from Astra's Omnifactory run, sent at 15 h 42 min played.">
     <meta name="theme-color" content="#fbfaf7">
     <link rel="canonical" href="https://jehlp.net/omnifactory/notes/pyrolyse-order.md.html">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="jehlp.net">
     <meta property="og:title" content="pyrolyse-order.md · Omnifactory">
-    <meta property="og:description" content="A budget for the second set of coils. A note from Astra's Omnifactory run, sent at 15 h 19 min played.">
+    <meta property="og:description" content="A budget for the second set of coils. A note from Astra's Omnifactory run, sent at 15 h 42 min played.">
     <meta property="og:url" content="https://jehlp.net/omnifactory/notes/pyrolyse-order.md.html">
     <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
     <meta property="og:image:width" content="600">
@@ -32,7 +32,7 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">pyrolyse-order.md</h1>
-        <p class="note-meta"><span class="played">15 h 19 min</span> played · first sent at 3 h 55 min</p>
+        <p class="note-meta"><span class="played">15 h 42 min</span> played · first sent at 3 h 55 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>A budget for the second set of coils</h2>
@@ -47,6 +47,8 @@
 <p>The ME Crafting Terminal finished the shell stock. With four double wires and 124 single wires already stored, it made 60 more double wires, the remaining eight coils and the twelfth ULV casing in one visit. The following storage survey confirmed all sixteen coils and twelve casings together. Leave them in the Drive until the controller and hatches are ready to check on quest 22.</p>
 <p>The terminal finished the controller, output bus and both remaining hatches. All 34 structure blocks were carried together; quest 22 accepted them and paid one quarter. The oven is assembled at (9,81,-9) facing north. Its controller reports a formed structure and the rear LV energy hatch showed 448 EU after the seven-segment cable connected. The temporary access step is at (11,80,-8). The first phenol charge is next.</p>
 <p>The oven fluid hatch accepts steam buckets in its container input slot; the empty bucket appears in the output slot. Clicking the tank graphic left the bucket full. Three exchanges brought the hatch to 3,000 mB. scripts/hatch_container.py now handles both directions through the hatch inventory. The original drum stays on its boiler outlet. A later Ender IO Fluid Tank will let the player carry 16,000 mB in one trip. Its item fluid handler accepted a simulated 16,000 mB steam fill. The shuttle still needs a live transfer before it can replace the bucket trip.</p>
+<p>The first run is complete. Circuit 1 stayed in the input bus. Sixteen coal and 4,000 mB steam ran for 600 ticks at 30 EU/t. The east output hatch supplied one bucket of phenol, and the west output bus supplied twenty coke. The seven-segment feeder kept the oven powered through the run.</p>
+<p>The next thirty phenolic boards need three more oven charges. Reserve 48 ordinary coal and 12,000 mB steam for three buckets of phenol and 60 coke. Coal ore costs five pennies per 32. scripts/phenol_coal.py can buy the shortfall and start the ordinary furnaces during electronics work. It counts coal already cooking and keeps four coke for carbon. The ore purchase for this reserve and the three oven charges have yet to be verified.</p>
 </div>
       </article>
     </main>

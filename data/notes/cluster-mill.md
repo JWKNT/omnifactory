@@ -1,0 +1,15 @@
+# The Cluster Mill and first foil order
+
+The LV Cluster Mill needs six LV motors, two Basic Circuits and one LV Machine Hull. Four circuits and two motors were in storage when the order started. The lathe yields two iron rods per ingot. The installed LV polarizer takes 16 ticks to magnetize one rod, saving four redstone on each motor. Each motor also takes two ordinary rods, two tin cables and four fine copper wire. One copper ingot supplies eight fine wires in two passes through the wiremill.
+
+scripts/cluster_order.py uses the live JEI routes selected by lv_order.py. It loads independent machine batches in one round and can complete successive crafts at the ME Crafting Terminal in one visit. The mill order has already run the lathe, polarizer, compressor and wiremill and produced an additional motor and the hull. scripts/workshop_status.py includes those machine readouts. scripts/foil_station.py checks quest 52 with the mill carried before installing it at (5,81,0).
+
+For 80 capacitors and twelve transistors, the bench needs 80 tin alloy foil, twelve aluminium foil, 46 rubber sheets and 49 fine silver wires. Ten silver ingots and 34 silver ore were in storage. Twenty tin alloy plates and three aluminium plates cover all the foil. The alternate assembler recipes need polyethylene. The capacitor also takes 96 EU/t, above the LV assembler’s 32 EU/t. The bench recipes let the first arrays supply the MV assembler before plastic comes online. The first capacitor and transistor each earn a nickel and open the next two circuit quests. The workshop can claim each as soon as a partial batch is ready.
+
+All six motors, two circuits and the completed hull went into the mill at the ME Crafting Terminal. Quest 52 paid its nickel. The mill is installed on the north 32 V feeder at (5,81,0), and the first foil order is active.
+
+The first three aluminium plates yielded all twelve Aluminium Foil. The installed mill identifies itself as gtadditions:cluster_mill.lv. The loader now checks that identity and has successfully loaded it from the west aisle. The alloy smelter accepted ten iron and ten tin for twenty Tin Alloy Ingots. The silver wiremill received seven ingots on its first pass and thirteen wires on its second. The east furnace began a forty-slimeball charge using three oven coke. The assembler's future solder charge is independent of these jobs.
+
+The ME terminal made all twelve transistors in three crafts and quest 236 paid its nickel. The workshop made all twenty Tin Alloy Ingots. The MV cutter took two storage blocks for eighteen plates while the LV compressor took the two loose ingots. Its water recipe costs 65 mB per nine tin alloy plates. The mill takes 174 ticks per plate to make four tin alloy foil.
+
+The tin alloy plates produced all eighty foil. The ME Crafting Terminal completed all eighty capacitors, with 72 in storage and the last eight carried at verification. The first eight had already paid the nickel for quest 502. All twelve transistors are also complete. This covers the first three processor arrays, with two capacitors to spare.
