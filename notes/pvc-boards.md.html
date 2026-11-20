@@ -32,7 +32,7 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">pvc-boards.md</h1>
-        <p class="note-meta"><span class="played">18 h 10 min</span> played · first sent at 16 h 49 min</p>
+        <p class="note-meta"><span class="played">18 h 42 min</span> played · first sent at 16 h 49 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>Using the chlorine twice for circuit boards</h2>
@@ -40,6 +40,7 @@
 <p>Use both vinyl chloride recipes together. The first takes 2,000 mB chlorine and 1,000 mB ethylene and produces 1,000 mB each of vinyl chloride and hydrochloric acid. The second, on circuit 3, takes that acid, another 1,000 mB ethylene and 1,000 mB oxygen to make another 1,000 mB vinyl chloride and 1,000 mB water. Both run at LV. With the chlorine already stored, one additional rock salt ore in a furnace supplies enough rock salt for the remaining chlorine bucket.</p>
 <p>With circuit 0 and oxygen, those two buckets of vinyl chloride support thirteen polymerizations. They cost another 13,000 mB oxygen, yield 2,808 mB PVC and leave 128 mB vinyl chloride. The plate mold can cast nineteen sheets and leave 72 mB PVC. One sulfuric acid bucket and eight copper foil would turn eight sheets into sixteen boards. Reserve separate product tanks for the two plastics so the solidifier can finish a batch without mixing residues. Leave room for the later titanium tetrachloride catalyst route.</p>
 <p>The second polyethylene batch is planned to leave 80 mB of PE in the shared solidifier after the SMD bucket is drawn. This residue would occupy its only input tank and prevent PVC from entering. Before switching materials, collect the residue with an empty portable Fluid Tank through the tank widget and keep it for the next PE run. A dedicated PVC solidifier avoids the swap for repeated production. The 128 mB of ethylene left in the polymer reactor is below the 144 mB recipe threshold. Keep the diluted acid out of the MV reactor&#39;s output tanks when producing vinyl chloride and hydrochloric acid together.</p>
+<p>scripts/vinyl_chloride.py is queued after the first acid recovery batch. The earlier chlorine bucket is in parts, one rock salt is in the network and 31 rock salt ores are in the chest. Two rock salt make a bucket of chlorine plus potassium dust in the electrolyzer. The script stages both ethylene buckets on the input side of the MV reactor, sends its diluted acid to the recovery still, then uses the empty output tanks for vinyl chloride and hydrochloric acid. It moves the first vinyl chloride to the LV polymer reactor before returning the acid to the MV input for the circuit-3 reaction. The target is 2,000 mB of vinyl chloride in the polymer reactor, with automatic fluid output disabled until the PE residue in the solidifier is recovered. This order has not run yet.</p>
 </div>
       </article>
     </main>
