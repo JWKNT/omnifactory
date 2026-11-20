@@ -177,9 +177,11 @@ test('the progress record comes from the saved world and keeps a time once given
 });
 
 test('the quest book page has a tab for each line and a link preview', () => {
-  const html = questPage({ book: smallBook, progress: { ticks: 72000, done: { 1: [1200, 1] } } });
+  const html = questPage({ book: smallBook });
   assert.match(html, /<button type="button" class="qb-line" data-line="1" aria-pressed="false"><span class="qb-line-name">First line<\/span>/);
-  assert.match(html, /1 of 3 quests were complete at 1 h 00 min played\./, 'two quests are out of sight until they are open');
+  assert.doesNotMatch(html, /quests were complete/, 'the shell has no progress numbers; the script adds them');
+  const index = buildSite({ notes: [], quests: rules.summary(smallBook, { ticks: 72000, done: { 1: [1200, 1] } }) }).get('index.html');
+  assert.match(index, /<a href="\/omnifactory\/quests\/">Quest book<\/a>: 1 of 3 quests complete at <span class="played">1 h 00 min<\/span> played\./, 'two quests are out of sight until they are open');
   assert.match(html, /<link rel="canonical" href="https:\/\/jehlp\.net\/omnifactory\/quests\/">/);
   assert.match(html, /<meta property="og:description" content="[^"]{25,220}">/);
   assert.match(html, /assets\/quest-rules\.js\?v=[^"]+" defer><\/script>\s*<script src="\/omnifactory\/assets\/quests\.js/);
