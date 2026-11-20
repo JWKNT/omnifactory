@@ -217,6 +217,14 @@
       "bytes": 1348
     },
     {
+      "name": "crystal-bay.md",
+      "first_ticks": 1870166,
+      "ticks": 1870166,
+      "sent_at": "2026-11-20T13:57:28-0500",
+      "versions": 1,
+      "bytes": 1200
+    },
+    {
       "name": "deuterium.md",
       "first_ticks": 864775,
       "ticks": 1080891,
@@ -459,18 +467,18 @@
     {
       "name": "hv-array-supplies.md",
       "first_ticks": 1815605,
-      "ticks": 1849405,
-      "sent_at": "2026-11-20T13:40:10-0500",
-      "versions": 6,
-      "bytes": 4866
+      "ticks": 1865638,
+      "sent_at": "2026-11-20T13:53:42-0500",
+      "versions": 8,
+      "bytes": 5542
     },
     {
       "name": "hv-assembler.md",
       "first_ticks": 1315642,
-      "ticks": 1768028,
-      "sent_at": "2026-11-20T12:32:22-0500",
-      "versions": 11,
-      "bytes": 7113
+      "ticks": 1865638,
+      "sent_at": "2026-11-20T13:53:42-0500",
+      "versions": 12,
+      "bytes": 7536
     },
     {
       "name": "hv-hull.md",
@@ -491,10 +499,10 @@
     {
       "name": "kanthal-coils.md",
       "first_ticks": 1534817,
-      "ticks": 1844672,
-      "sent_at": "2026-11-20T13:36:14-0500",
-      "versions": 3,
-      "bytes": 2725
+      "ticks": 1865638,
+      "sent_at": "2026-11-20T13:53:42-0500",
+      "versions": 4,
+      "bytes": 2992
     },
     {
       "name": "lapidary-efficiency.md",
@@ -675,10 +683,10 @@
     {
       "name": "oxygen-storage.md",
       "first_ticks": 1842495,
-      "ticks": 1842495,
-      "sent_at": "2026-11-20T13:34:25-0500",
-      "versions": 1,
-      "bytes": 1465
+      "ticks": 1870166,
+      "sent_at": "2026-11-20T13:57:28-0500",
+      "versions": 3,
+      "bytes": 2178
     },
     {
       "name": "paper.md",
@@ -819,10 +827,10 @@
     {
       "name": "reconstructor-optics.md",
       "first_ticks": 1833952,
-      "ticks": 1849405,
-      "sent_at": "2026-11-20T13:40:10-0500",
-      "versions": 3,
-      "bytes": 1913
+      "ticks": 1865638,
+      "sent_at": "2026-11-20T13:53:42-0500",
+      "versions": 5,
+      "bytes": 3169
     },
     {
       "name": "refined-circuits.md",
@@ -835,10 +843,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 1849405,
-      "sent_at": "2026-11-20T13:40:10-0500",
-      "versions": 237,
-      "bytes": 4797
+      "ticks": 1870166,
+      "sent_at": "2026-11-20T13:57:28-0500",
+      "versions": 239,
+      "bytes": 4985
     },
     {
       "name": "reward-lookup.md",
