@@ -1,0 +1,9152 @@
+{
+"lines": {
+"0": "Electric Blast Furnace Controller",
+"1": "Refined Circuit",
+"10": "Futura Block",
+"2": "Radioactive Hazard Sign Block",
+"3": "Quest Book",
+"4": "Wetware Mainframe",
+"5": "Heart Of A Universe",
+"6": "Basic Circuit",
+"7": "Steel Plated Micro Miner [Tier One]",
+"8": "Fusion Reactor Computer Mark 3",
+"9": "Simulation Chamber"
+},
+"quests": {
+"0": {
+"icon": "Charger",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Certus Quartz Crystal",
+"Charger",
+"Charged Certus Quartz Crystal"
+]
+}
+},
+"1": {
+"icon": "Crystal Growth Chamber",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Crystal Growth Chamber",
+"Certus Quartz Seed",
+"Nether Quartz Seed",
+"Fluix Seed",
+"Pure Certus Quartz Crystal",
+"Pure Nether Quartz Crystal",
+"Pure Fluix Crystal"
+]
+}
+},
+"10": {
+"icon": "Titanium Plated Micro Miner [Tier Two]",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Titanium Plated Micro Miner [Tier Two]"
+]
+}
+},
+"100": {
+"icon": "Engineering Processor",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Engineering Processor"
+]
+}
+},
+"101": {
+"icon": "ME Drive",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"ME Drive"
+]
+}
+},
+"102": {
+"icon": "Logic Processor",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Logic Processor"
+]
+}
+},
+"103": {
+"icon": "Inscriber Calculation Press",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Inscriber Calculation Press",
+"Inscriber Engineering Press",
+"Inscriber Logic Press",
+"Inscriber Silicon Press"
+]
+}
+},
+"104": {
+"icon": "Blank Pattern",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Blank Pattern"
+]
+}
+},
+"105": {
+"icon": "Calculation Processor",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Calculation Processor"
+]
+}
+},
+"106": {
+"icon": "ME Pattern Terminal",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"ME Pattern Terminal"
+]
+}
+},
+"107": {
+"icon": "Atomic Reconstructor",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Atomic Reconstructor"
+]
+}
+},
+"108": {
+"icon": "ME Interface Terminal",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"ME Interface Terminal"
+]
+}
+},
+"109": {
+"icon": "ME Interface",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"ME Interface"
+]
+}
+},
+"11": {
+"icon": "Resistor",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Resistor",
+"Vacuum Tube",
+"Coated Circuit Board"
+]
+}
+},
+"110": {
+"icon": "Crafting Unit",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Molecular Assembler",
+"Crafting Unit"
+]
+}
+},
+"111": {
+"icon": "ME Crafting Terminal",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"ME Crafting Terminal"
+]
+}
+},
+"112": {
+"icon": "Void Crystal",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Void Crystal",
+"Enori Crystal Block"
+]
+}
+},
+"113": {
+"icon": "Resonator",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Resonator"
+]
+}
+},
+"114": {
+"icon": "Manual Mill",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Manual Mill"
+]
+}
+},
+"115": {
+"icon": "Red Coal",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"1": [
+"Red Coal"
+]
+}
+},
+"116": {
+"icon": "Black Steel Dust",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"3": [
+"Black Steel Dust"
+]
+}
+},
+"117": {
+"icon": "§61k§r ME Fluid Storage Component",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"§61k§r ME Fluid Storage Component"
+]
+}
+},
+"118": {
+"icon": "§e4k§r ME Storage Component",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"§e4k§r ME Storage Component"
+]
+}
+},
+"119": {
+"icon": "§a16k§r ME Storage Component",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"2": [
+"§a16k§r ME Storage Component"
+]
+}
+},
+"12": {
+"icon": "Darmstadtium Wire Cutter",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Wrought Iron Hammer",
+"Wrought Iron File",
+"Wrought Iron Saw",
+"Wrought Iron Wrench",
+"Wrought Iron Screwdriver",
+"Wrought Iron Wire Cutter",
+"Wrought Iron Mortar"
+]
+}
+},
+"120": {
+"icon": "§b64k§r ME Storage Component",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"§b64k§r ME Storage Component"
+]
+}
+},
+"121": {
+"icon": "Advanced Compressor IV",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Advanced Compressor IV"
+]
+}
+},
+"122": {
+"icon": "§e4k§r ME Fluid Storage Component",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"§e4k§r ME Fluid Storage Component"
+]
+}
+},
+"123": {
+"icon": "§a16k§r ME Fluid Storage Component",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"§a16k§r ME Fluid Storage Component"
+]
+}
+},
+"124": {
+"icon": "§b64k§r ME Fluid Storage Component",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"1": [
+"§b64k§r ME Fluid Storage Component"
+]
+}
+},
+"125": {
+"icon": "Fire Mill",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Stoneburnt"
+]
+}
+},
+"126": {
+"icon": "SMD Transistor",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"SMD Transistor",
+"SMD Resistor",
+"SMD Capacitor"
+]
+}
+},
+"127": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"128": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"129": {
+"icon": "SMD Diode",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"SMD Diode"
+]
+}
+},
+"13": {
+"icon": "Crafting Station",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Crafting Station"
+]
+}
+},
+"130": {
+"icon": "Annealed Copper Ingot",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Annealed Copper Ingot"
+]
+}
+},
+"131": {
+"icon": "Polyvinyl Chloride Sheet",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Polyvinyl Chloride Sheet"
+]
+}
+},
+"132": {
+"icon": "Refined Processor Mainframe",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Refined Processor Mainframe"
+]
+}
+},
+"133": {
+"icon": "Refined Circuit",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"1": [
+"Refined Circuit"
+]
+}
+},
+"134": {
+"icon": "Plastic Circuit Board",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Plastic Circuit Board"
+]
+}
+},
+"135": {
+"icon": "Refined Processor",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Refined Processor"
+]
+}
+},
+"136": {
+"icon": "Small Coil",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Small Coil"
+]
+}
+},
+"137": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"138": {
+"icon": "LuV Machine Hull",
+"rewards": {
+"0": [
+"omnidollar [100]"
+]
+},
+"tasks": {
+"0": [
+"LuV Machine Hull"
+]
+}
+},
+"139": {
+"icon": "Rare Earth",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Tiny Pile of Rare Earth"
+]
+}
+},
+"14": {
+"icon": "Iron Furnace",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Iron Furnace"
+]
+}
+},
+"140": {
+"icon": "Advanced Inscriber",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Advanced Inscriber"
+]
+}
+},
+"141": {
+"icon": "omnipenny [1]",
+"rewards": {},
+"tasks": {}
+},
+"142": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"143": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"144": {
+"icon": "Yttrium Dust",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Yttrium Dust"
+]
+}
+},
+"145": {
+"icon": "Electric Piston (LV)",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"1": [
+"Electric Piston (LV)"
+]
+}
+},
+"146": {
+"icon": "Electric Pump (LV)",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Electric Pump (LV)"
+]
+}
+},
+"147": {
+"icon": "Basic Polarizer",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Basic Polarizer"
+]
+}
+},
+"148": {
+"icon": "Titanium Ingot",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Titanium Ingot"
+]
+}
+},
+"149": {
+"icon": "Hot Titanium Ingot",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {}
+},
+"15": {
+"icon": "Copper Furnace",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Copper Furnace"
+]
+}
+},
+"150": {
+"icon": "Vacuum Freezer",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Vacuum Freezer"
+]
+}
+},
+"151": {
+"icon": "Rutile Dust",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Rutile Dust"
+]
+}
+},
+"152": {
+"icon": "Titanium Tetrachloride Bucket",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Titanium Tetrachloride"
+]
+}
+},
+"153": {
+"icon": "Advanced Chemical Reactor II",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Advanced Chemical Reactor II"
+]
+}
+},
+"154": {
+"icon": "Distillation Tower",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Distillation Tower",
+"Energy Input Hatch (MV)",
+"Fluid Input Hatch (LV)",
+"Output Bus (LV)",
+"Fluid Output Hatch (LV)",
+"Clean Stainless Steel Casing"
+]
+}
+},
+"155": {
+"icon": "Crystal Circuit",
+"rewards": {
+"0": [
+"omnidollar [100]"
+]
+},
+"tasks": {
+"0": [
+"Crystal Circuit"
+]
+}
+},
+"156": {
+"icon": "Kanthal Ingot",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Kanthal Ingot"
+]
+}
+},
+"157": {
+"icon": "Kanthal Coil Block",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Kanthal Coil Block"
+]
+}
+},
+"158": {
+"icon": "Nichrome Ingot",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Nichrome Ingot"
+]
+}
+},
+"159": {
+"icon": "Nichrome Coil Block",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Nichrome Coil Block"
+]
+}
+},
+"16": {
+"icon": "Silver Furnace",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Silver Furnace"
+]
+}
+},
+"160": {
+"icon": "Sulfuric Heavy Fuel Bucket",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Sulfuric Heavy Fuel",
+"Sulfuric Light Fuel",
+"Sulfuric Naphtha",
+"Sulfuric Gas"
+]
+}
+},
+"161": {
+"icon": "Refinery Gas Bucket",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Refinery Gas"
+]
+}
+},
+"162": {
+"icon": "Canola Press",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Canola Press"
+]
+}
+},
+"163": {
+"icon": "Canola Oil Bucket",
+"rewards": {},
+"tasks": {}
+},
+"164": {
+"icon": "Heavy Fuel Bucket",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Heavy Fuel"
+]
+}
+},
+"165": {
+"icon": "Light Fuel Bucket",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Light Fuel"
+]
+}
+},
+"166": {
+"icon": "Naphtha Bucket",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Naphtha"
+]
+}
+},
+"167": {
+"icon": "Hydrogen Sulfide Bucket",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Hydrogen Sulfide"
+]
+}
+},
+"168": {
+"icon": "Diesel Bucket",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Diesel"
+]
+}
+},
+"169": {
+"icon": "Palladium Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Palladium Ingot"
+]
+}
+},
+"17": {
+"icon": "Gold Furnace",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Gold Furnace"
+]
+}
+},
+"170": {
+"icon": "Sodium Hydroxide Dust",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Sodium Hydroxide Dust"
+]
+}
+},
+"171": {
+"icon": "Cryogenic Distillation Tower",
+"rewards": {
+"0": [
+"omnidollar [100]"
+]
+},
+"tasks": {
+"1": [
+"Cryogenic Distillation Tower",
+"Frost Proof Machine Casing",
+"Solid Steel Machine Casing",
+"Fluid Output Hatch (HV)",
+"Energy Input Hatch (HV)",
+"Fluid Input Hatch (HV)"
+]
+}
+},
+"172": {
+"icon": "Glycerol Bucket",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Glycerol"
+]
+}
+},
+"173": {
+"icon": "Nitrogen Bucket",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Nitrogen"
+]
+}
+},
+"174": {
+"icon": "Basic Air Collector",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Basic Air Collector"
+]
+}
+},
+"175": {
+"icon": "Argon Bucket",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Argon"
+]
+}
+},
+"176": {
+"icon": "Nitrogen Dioxide Bucket",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Nitrogen Dioxide"
+]
+}
+},
+"177": {
+"icon": "Nitric Acid Bucket",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Nitric Acid"
+]
+}
+},
+"178": {
+"icon": "Tetranitromethane Bucket",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Tetranitromethane"
+]
+}
+},
+"179": {
+"icon": "Nitro-Diesel Bucket",
+"rewards": {
+"0": [
+"omnidollar [100]"
+]
+},
+"tasks": {
+"0": [
+"Nitro-Diesel"
+]
+}
+},
+"18": {
+"icon": "Obsidian Furnace",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Obsidian Furnace"
+]
+}
+},
+"180": {
+"icon": "Ethenone Bucket",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Ethenone"
+]
+}
+},
+"181": {
+"icon": "Acetone Bucket",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Acetic Acid"
+]
+}
+},
+"182": {
+"icon": "Epichlorohydrin Bucket",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Epichlorohydrin"
+]
+}
+},
+"183": {
+"icon": "Fiber-Reinforced Circuit Board",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Fiber-Reinforced Epoxy Resin Sheet",
+"Fiber-Reinforced Circuit Board"
+]
+}
+},
+"184": {
+"icon": "Raw Oil Bucket",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {}
+},
+"185": {
+"icon": "Epoxid Sheet",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"1": [
+"Epoxid Sheet"
+]
+}
+},
+"186": {
+"icon": "Raw Carbon Fibers",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Raw Carbon Fibers"
+]
+}
+},
+"187": {
+"icon": "CEF (MV)",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Energy Input Hatch (MV)"
+]
+}
+},
+"188": {
+"icon": "Epoxy Circuit Board",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Epoxy Circuit Board"
+]
+}
+},
+"189": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"19": {
+"icon": "Basic Alloy Smelter",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Basic Alloy Smelter"
+]
+}
+},
+"190": {
+"icon": "Nano CPU",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Nano CPU"
+]
+}
+},
+"191": {
+"icon": "Microcircuit",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Microcircuit"
+]
+}
+},
+"192": {
+"icon": "Microprocessor Mainframe",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Microprocessor Mainframe"
+]
+}
+},
+"193": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"194": {
+"icon": "Glowstone-doped Boule",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Glowstone-doped Boule"
+]
+}
+},
+"195": {
+"icon": "Fusion Reactor Computer Mark 1",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Fusion Reactor Computer Mark 3",
+"Fusion Machine Casing MK II"
+]
+}
+},
+"196": {
+"icon": "Tritanium Ingot",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Tritanium Ingot"
+]
+}
+},
+"197": {
+"icon": "Tungstensteel Ingot",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Tungstensteel Ingot"
+]
+}
+},
+"198": {
+"icon": "IV Machine Hull",
+"rewards": {
+"0": [
+"omnidollar [100]"
+]
+},
+"tasks": {
+"0": [
+"IV Machine Hull"
+]
+}
+},
+"199": {
+"icon": "Yttrium Barium Cuprate Ingot",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Yttrium Barium Cuprate Ingot"
+]
+}
+},
+"2": {
+"icon": "Basic Canning Machine",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Basic Canning Machine",
+"Antimony Dust",
+"Battery Alloy Ingot"
+]
+}
+},
+"20": {
+"icon": "Diamond Furnace",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Diamond Furnace"
+]
+}
+},
+"200": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"201": {
+"icon": "Tungsten Ingot",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Tungsten Ingot"
+]
+}
+},
+"202": {
+"icon": "Monopropellant Rocket Engine",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Monopropellant Rocket Engine",
+"Monopropellant Fuel Tank",
+"Guidance Computer",
+"Seat"
+]
+}
+},
+"203": {
+"icon": "Refined Processor Array",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Refined Processor Array"
+]
+}
+},
+"204": {
+"icon": "Space Suit Helmet",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Space Suit Helmet",
+"Space Suit Chest-Piece",
+"Space Suit Leggings",
+"Space Suit Boots"
+]
+}
+},
+"205": {
+"icon": "Suit Workstation",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Suit Workstation",
+"Low Pressure Tank",
+"Gas Charge Pad"
+]
+}
+},
+"206": {
+"icon": "Advanced Component",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Advanced Component"
+]
+}
+},
+"207": {
+"icon": "Advanced Catalyst",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Advanced Catalyst"
+]
+}
+},
+"208": {
+"icon": "Rocket Assembling Machine",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Rocket Assembling Machine",
+"Launch Pad",
+"Structure Tower"
+]
+}
+},
+"209": {
+"icon": "Extended Crafting Table",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Extended Crafting Table"
+]
+}
+},
+"21": {
+"icon": "Steel Ingot",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Steel Ingot"
+]
+}
+},
+"210": {
+"icon": "Steel Heavy Plating",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Steel Heavy Plating"
+]
+}
+},
+"211": {
+"icon": "Planet Id Chip",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Planet Id Chip"
+]
+}
+},
+"212": {
+"icon": "Fueling Station",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Fueling Station",
+"Linker"
+]
+}
+},
+"213": {
+"icon": "Staff of Traveling",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Staff of Traveling"
+]
+}
+},
+"214": {
+"icon": "Moon Dust",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"1": [
+"Moon Dust"
+]
+}
+},
+"215": {
+"icon": "Ender Pump",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Ender Pump",
+"Ender Tank"
+]
+}
+},
+"216": {
+"icon": "Small Microverse Projector",
+"rewards": {
+"0": [
+"omnidollar [100]"
+]
+},
+"tasks": {
+"0": [
+"Microverse Projector Casing",
+"Quantum Compressor",
+"Input Bus (LV)",
+"Microverse Projector Vent",
+"Small Microverse Projector",
+"Fluid Input Hatch (MV)",
+"Ineffable Glass",
+"Energy Input Hatch (HV)",
+"Output Bus (HV)"
+]
+}
+},
+"217": {
+"icon": "Steel Plated Micro Miner [Tier One]",
+"rewards": {
+"0": [
+"omnidollar [100]"
+]
+},
+"tasks": {
+"0": [
+"Steel Plated Micro Miner [Tier One]"
+]
+}
+},
+"218": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"219": {
+"icon": "Travel Anchor",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Travel Anchor"
+]
+}
+},
+"22": {
+"icon": "Pyrolyse Oven",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Cupronickel Coil Block",
+"Input Bus (LV)",
+"Output Bus (LV)",
+"Fluid Input Hatch (LV)",
+"Fluid Output Hatch (LV)",
+"Energy Input Hatch (LV)",
+"ULV Machine Casing",
+"Pyrolyse Oven"
+]
+}
+},
+"220": {
+"icon": "Rocket Fuel Bucket",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Rocket Fuel"
+]
+}
+},
+"221": {
+"icon": "1,1-Dimethylhydrazine Bucket",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"1,1-Dimethylhydrazine"
+]
+}
+},
+"222": {
+"icon": "Dimethylamine Bucket",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Dimethylamine"
+]
+}
+},
+"223": {
+"icon": "Chloramine Bucket",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Chloramine"
+]
+}
+},
+"224": {
+"icon": "Ammonia Bucket",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Ammonia"
+]
+}
+},
+"225": {
+"icon": "Methanol Bucket",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Methanol"
+]
+}
+},
+"226": {
+"icon": "Hypochlorous Acid Bucket",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Hypochlorous Acid"
+]
+}
+},
+"227": {
+"icon": "Advanced Chemical Reactor",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Advanced Chemical Reactor"
+]
+}
+},
+"228": {
+"icon": "Snad",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Snad",
+"Vacuum Chest",
+"Timer",
+"Void Upgrade"
+]
+}
+},
+"229": {
+"icon": "Angel Ring",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {}
+},
+"23": {
+"icon": "Obsidian",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Obsidian"
+]
+}
+},
+"230": {
+"icon": "Energy Cell",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Energy Cell"
+]
+}
+},
+"231": {
+"icon": "Endervoir",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Fused Quartz",
+"Endervoir"
+]
+}
+},
+"232": {
+"icon": ".nameBTM Moon.name",
+"rewards": {
+"0": [
+"omnidollar [100]"
+]
+},
+"tasks": {
+"0": [
+"Moon Turf"
+]
+}
+},
+"233": {
+"icon": "Phantomface",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {}
+},
+"234": {
+"icon": "Barium Dust",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Barium Dust"
+]
+}
+},
+"235": {
+"icon": "Primal Mana Bucket",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Primal Mana"
+]
+}
+},
+"236": {
+"icon": "Transistor",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Transistor"
+]
+}
+},
+"237": {
+"icon": "Meteorite Compass",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Meteorite Compass"
+]
+}
+},
+"238": {
+"icon": "Crystal Matrix Plated Micro Leviathan Slayer [Tier Eight]",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Crystal Matrix Plated Micro Leviathan Slayer [Tier Eight]"
+]
+}
+},
+"239": {
+"icon": "Chaos Shard",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Chaos Shard"
+]
+}
+},
+"24": {
+"icon": "Steam Dynamo (Basic)",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Steam Dynamo (Basic)"
+]
+}
+},
+"240": {
+"icon": "Eternium Plated Micro Sun Eater [Tier Nine]",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Eternium Plated Micro Sun Eater [Tier Nine]"
+]
+}
+},
+"241": {
+"icon": "Crystal Matrix Heavy Plating",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"1": [
+"Crystal Matrix Heavy Plating"
+]
+}
+},
+"242": {
+"icon": "Wetware Circuit Board",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Wetware Circuit Board"
+]
+}
+},
+"243": {
+"icon": "Superconducting Coil Block",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Superconducting Coil Block"
+]
+}
+},
+"244": {
+"icon": "Draconic Reactor Core",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Draconic Reactor Core"
+]
+}
+},
+"245": {
+"icon": "Titanium Heavy Plating",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Titanium Heavy Plating"
+]
+}
+},
+"246": {
+"icon": "Tungsten Carbide Heavy Plating",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Tungsten Carbide Heavy Plating"
+]
+}
+},
+"247": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"248": {
+"icon": "Space Station Assembler",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Space Station Assembler",
+"Space Station Id Chip",
+"Satellite Bay"
+]
+}
+},
+"249": {
+"icon": "Warp Core",
+"rewards": {
+"0": [
+"omnidollar [100]"
+]
+},
+"tasks": {
+"0": [
+"Holo-Projector",
+"Warp Controller",
+"Warp Core",
+"Block of Titanium",
+"Block of Gold",
+"Machine Structure",
+"Input Hatch"
+]
+}
+},
+"25": {
+"icon": "Overworld Cake",
+"rewards": {
+"0": [
+"Overworld Cake",
+"Void World Cake"
+]
+},
+"tasks": {}
+},
+"250": {
+"icon": "Dilithium Crystal",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Dilithium Crystal"
+]
+}
+},
+"251": {
+"icon": "Signalum Plated Micro Miner [Tier Four]",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Signalum Plated Micro Miner [Tier Four]"
+]
+}
+},
+"252": {
+"icon": "Iridium Plated Micro Miner [Tier Five]",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Iridium Plated Micro Miner [Tier Five]"
+]
+}
+},
+"253": {
+"icon": "Osmiridium Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Iridium Ingot",
+"Osmium Ingot",
+"Osmiridium Ingot"
+]
+}
+},
+"254": {
+"icon": "Enderium Plated Micro Miner [Tier Six]",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Enderium Plated Micro Miner [Tier Six]"
+]
+}
+},
+"255": {
+"icon": "Tungstencarbide Ingot",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Tungstencarbide Ingot"
+]
+}
+},
+"256": {
+"icon": "Draconium Plated Micro Dragon Hunter [Tier Seven]",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Draconium Plated Micro Dragon Hunter [Tier Seven]"
+]
+}
+},
+"257": {
+"icon": "Draconium Heavy Plating",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Draconium Heavy Plating"
+]
+}
+},
+"258": {
+"icon": "Awakened Draconium Block",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Awakened Draconium Block"
+]
+}
+},
+"259": {
+"icon": "MV Machine Hull",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"MV Machine Hull"
+]
+}
+},
+"26": {
+"icon": "Dark Steel Ingot",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Dark Steel Ingot"
+]
+}
+},
+"260": {
+"icon": "Basic Electrolyzer",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Basic Electrolyzer",
+"Clay Dust",
+"Aluminium Dust",
+"Lithium Dust",
+"Silicon Dust",
+"Sodium Dust"
+]
+}
+},
+"261": {
+"icon": "Signalum Upgrade Kit",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Signalum Upgrade Kit"
+]
+}
+},
+"262": {
+"icon": "Conflux Catalyst",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Conflux Catalyst"
+]
+}
+},
+"263": {
+"icon": "Indium Dust",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Tiny Pile of Indium Dust"
+]
+}
+},
+"264": {
+"icon": "Quantumprocessor",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Quantumprocessor"
+]
+}
+},
+"265": {
+"icon": "QBit CPU",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"QBit CPU"
+]
+}
+},
+"266": {
+"icon": "Arsenic Dust",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Arsenic Dust"
+]
+}
+},
+"267": {
+"icon": "Radon Bucket",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Radon"
+]
+}
+},
+"268": {
+"icon": "Quantum Processor",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Quantum Processor"
+]
+}
+},
+"269": {
+"icon": "Quantum Processor Array",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Quantum Processor Array"
+]
+}
+},
+"27": {
+"icon": "Basic Chemical Reactor",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Basic Chemical Reactor"
+]
+}
+},
+"270": {
+"icon": "Basic Macerator",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Basic Macerator"
+]
+}
+},
+"271": {
+"icon": "Reactor Stabilizer",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Reactor Stabilizer"
+]
+}
+},
+"272": {
+"icon": "Basic RF Capacitor",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Basic RF Capacitor"
+]
+}
+},
+"273": {
+"icon": "Basic Mixer",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Basic Mixer"
+]
+}
+},
+"274": {
+"icon": "Dragon Heart",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Dragon Heart"
+]
+}
+},
+"275": {
+"icon": "Luminessence",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Luminessence"
+]
+}
+},
+"276": {
+"icon": "Phosphoric Acid Bucket",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Phosphoric Acid"
+]
+}
+},
+"277": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"278": {
+"icon": "Blank Data Model",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Blank Data Model"
+]
+}
+},
+"279": {
+"icon": "Dragon Egg",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Dragon Egg"
+]
+}
+},
+"28": {
+"icon": "Pulsating Dust",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Uraninite Dust",
+"Pulsating Dust"
+]
+}
+},
+"280": {
+"icon": "Mote of Omnium",
+"rewards": {},
+"tasks": {
+"0": [
+"Mote of Omnium"
+]
+}
+},
+"281": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"282": {
+"icon": "Energy Acceptor",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Fluix Crystal",
+"Energy Acceptor"
+]
+}
+},
+"283": {
+"icon": "Elite Assembling Machine",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Elite Assembling Machine"
+]
+}
+},
+"284": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"285": {
+"icon": "Vanadium-Gallium Ingot",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Vanadium-Gallium Ingot"
+]
+}
+},
+"286": {
+"icon": "Assembly Line",
+"rewards": {
+"0": [
+"omnidollar [100]"
+]
+},
+"tasks": {
+"0": [
+"Solid Steel Machine Casing",
+"Assembly Line Casing",
+"Reinforced Glass",
+"Assembler Machine Casing",
+"Grate Machine Casing",
+"Energy Input Hatch (LuV)",
+"Fluid Input Hatch (LV)",
+"Input Bus (ULV)",
+"Output Bus (LV)",
+"Assembly Line"
+]
+}
+},
+"287": {
+"icon": "Fusion Reactor Computer Mark 1",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Fusion Reactor Computer Mark 1",
+"Superconducting Coil Block",
+"LuV Machine Casing",
+"Fluid Input Hatch (ULV)",
+"Fluid Output Hatch (ULV)",
+"Energy Input Hatch (LuV)"
+]
+}
+},
+"288": {
+"icon": "Draconium Ingot",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Draconium Ingot"
+]
+}
+},
+"289": {
+"icon": "Engraved Crystal Chip",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Engraved Crystal Chip"
+]
+}
+},
+"29": {
+"icon": "Pulsating Iron Ingot",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Pulsating Iron Ingot",
+"Ender Pearl"
+]
+}
+},
+"290": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"291": {
+"icon": "Crystal CPU",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Crystal CPU"
+]
+}
+},
+"292": {
+"icon": "Energy Flow Circuit",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Energy Flow Circuit"
+]
+}
+},
+"293": {
+"icon": "Chaotic Core",
+"rewards": {},
+"tasks": {
+"0": [
+"Chaotic Core"
+]
+}
+},
+"294": {
+"icon": "Empowered Restonia Gear",
+"rewards": {},
+"tasks": {
+"0": [
+"Empowered Restonia Gear"
+]
+}
+},
+"295": {
+"icon": "Basic Fusion Crafting Injector",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Basic Fusion Crafting Injector",
+"Fusion Crafting Core"
+]
+}
+},
+"296": {
+"icon": "Grains of Infinity",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Flint and Steel",
+"Grains of Infinity"
+]
+}
+},
+"297": {
+"icon": "Mana Infused Ingot",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Mana Infused Metal Dust",
+"Mana Infused Ingot"
+]
+}
+},
+"298": {
+"icon": "Mana Dust",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Mana Dust"
+]
+}
+},
+"299": {
+"icon": "Thermal Device Casing",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Thermal Device Casing"
+]
+}
+},
+"3": {
+"icon": "Crafting Table",
+"rewards": {
+"0": [
+"Diamond Mining Hammer",
+"Void World Cake",
+"Overworld Cake",
+"Snad",
+"Sugar Canes"
+]
+},
+"tasks": {}
+},
+"30": {
+"icon": "Electrical Steel Ingot",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Electrical Steel Ingot"
+]
+}
+},
+"300": {
+"icon": "Machine Frame",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Machine Frame"
+]
+}
+},
+"301": {
+"icon": "Cryotheum Dust",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Cryotheum Dust"
+]
+}
+},
+"302": {
+"icon": "Aerotheum Dust",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Aerotheum Dust"
+]
+}
+},
+"303": {
+"icon": "Petrotheum Dust",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Petrotheum Dust"
+]
+}
+},
+"304": {
+"icon": "Pyrotheum Dust",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Pyrotheum Dust"
+]
+}
+},
+"305": {
+"icon": "Blaze Powder",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Blaze Powder"
+]
+}
+},
+"306": {
+"icon": "Basalz Powder",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Basalz Powder"
+]
+}
+},
+"307": {
+"icon": "Blitz Powder",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Blitz Powder"
+]
+}
+},
+"308": {
+"icon": "Blizz Powder",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Blizz Powder"
+]
+}
+},
+"309": {
+"icon": "Elemental Reduction Fluid Bucket",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Elemental Reduction Fluid"
+]
+}
+},
+"31": {
+"icon": "Vibrant Capacitor Bank",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Vibrant Capacitor Bank"
+]
+}
+},
+"310": {
+"icon": "Phytogenic Insolator (Basic)",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Phytogenic Insolator (Basic)"
+]
+}
+},
+"311": {
+"icon": "Tungstensteel Coil Block",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Tungstensteel Coil Block"
+]
+}
+},
+"312": {
+"icon": "HSS-G Ingot",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"HSS-G Ingot"
+]
+}
+},
+"313": {
+"icon": "HSS-G Coil Block",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"HSS-G Coil Block"
+]
+}
+},
+"314": {
+"icon": "Iridium Heavy Plating",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Iridium Heavy Plating"
+]
+}
+},
+"315": {
+"icon": "Signalum Heavy Plating",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Signalum Heavy Plating"
+]
+}
+},
+"316": {
+"icon": "Enderium Heavy Plating",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Enderium Heavy Plating"
+]
+}
+},
+"317": {
+"icon": "Quantum Fluxed Eternium Heavy Plating",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Quantum Fluxed Eternium Heavy Plating"
+]
+}
+},
+"318": {
+"icon": "Epoxy Resin Bucket",
+"rewards": {},
+"tasks": {}
+},
+"319": {
+"icon": "Diamond Hoe",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Canola",
+"Sugar Canes"
+]
+}
+},
+"32": {
+"icon": "Advanced Capacitor Bank",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Advanced Capacitor Bank"
+]
+}
+},
+"320": {
+"icon": "Empowered Void Gear",
+"rewards": {},
+"tasks": {
+"0": [
+"Empowered Void Gear"
+]
+}
+},
+"321": {
+"icon": "Empowered Palis Gear",
+"rewards": {},
+"tasks": {
+"0": [
+"Empowered Palis Gear"
+]
+}
+},
+"322": {
+"icon": "Empowered Emeradic Gear",
+"rewards": {},
+"tasks": {
+"0": [
+"Empowered Emeradic Gear"
+]
+}
+},
+"323": {
+"icon": "Naquadah Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Naquadah Ingot"
+]
+}
+},
+"324": {
+"icon": "Naquadah Coil Block",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Naquadah Coil Block"
+]
+}
+},
+"325": {
+"icon": "Europium Ingot",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Europium Ingot"
+]
+}
+},
+"326": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"327": {
+"icon": "Draconic Stem Cells",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Draconic Stem Cells"
+]
+}
+},
+"328": {
+"icon": "Boron Dust",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Boron Dust"
+]
+}
+},
+"329": {
+"icon": "Wyvern Fusion Crafting Injector",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Wyvern Fusion Crafting Injector"
+]
+}
+},
+"33": {
+"icon": "Basic Capacitor Bank",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Basic Capacitor Bank"
+]
+}
+},
+"330": {
+"icon": "Draconic Fusion Crafting Injector",
+"rewards": {
+"0": [
+"omnidollar [100]"
+]
+},
+"tasks": {
+"0": [
+"Draconic Fusion Crafting Injector"
+]
+}
+},
+"331": {
+"icon": "Chaotic Fusion Crafting Injector",
+"rewards": {
+"0": [
+"omnidollar [100]"
+]
+},
+"tasks": {
+"0": [
+"Chaotic Fusion Crafting Injector"
+]
+}
+},
+"332": {
+"icon": "Wetware Processor",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Wetware Processor"
+]
+}
+},
+"333": {
+"icon": "Wetware Assembly",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Wetware Assembly"
+]
+}
+},
+"334": {
+"icon": "Wetware Supercomputer",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Wetware Supercomputer"
+]
+}
+},
+"335": {
+"icon": "Wetware Mainframe",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Wetware Mainframe"
+]
+}
+},
+"336": {
+"icon": "Draconium Dust",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Draconium Dust"
+]
+}
+},
+"337": {
+"icon": "Draconic Core",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Draconic Core"
+]
+}
+},
+"338": {
+"icon": "Large Lithium Battery",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Large Battery Hull"
+]
+}
+},
+"339": {
+"icon": "EV Machine Hull",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"EV Machine Hull"
+]
+}
+},
+"34": {
+"icon": "Energetic Alloy Ingot",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Energetic Alloy Ingot"
+]
+}
+},
+"340": {
+"icon": "Lapotron Crystal",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Lapotron Crystal"
+]
+}
+},
+"341": {
+"icon": "Lapotronic Energy Orb",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Lapotronic Energy Orb"
+]
+}
+},
+"342": {
+"icon": "Lapotronic Energy Orb Cluster",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Lapotronic Energy Orb Cluster"
+]
+}
+},
+"343": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"344": {
+"icon": "Empowerer",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Empowerer",
+"Display Stand"
+]
+}
+},
+"345": {
+"icon": "Wyvern Core",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Wyvern Core"
+]
+}
+},
+"346": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"347": {
+"icon": "Advanced Plating",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Advanced Plating"
+]
+}
+},
+"348": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"349": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"35": {
+"icon": "Vibrant Alloy Ingot",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Vibrant Alloy Ingot"
+]
+}
+},
+"350": {
+"icon": "Fission Controller",
+"rewards": {
+"0": [
+"omnidollar [100]"
+]
+},
+"tasks": {
+"0": [
+"Fission Controller",
+"Reactor Cell",
+"Lapis Cooler",
+"Glowstone Cooler",
+"Block of Graphite",
+"Fission Reactor Casing",
+"Lever"
+]
+}
+},
+"351": {
+"icon": "The Ultimate Material",
+"rewards": {
+"0": [
+"omnidollar [100]"
+]
+},
+"tasks": {
+"0": [
+"The Ultimate Material"
+]
+}
+},
+"352": {
+"icon": "Basic Fluid Solidifier",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Basic Fluid Solidifier"
+]
+}
+},
+"353": {
+"icon": "Hang Glider",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Hang Glider"
+]
+}
+},
+"354": {
+"icon": "Empowered Enori Gear",
+"rewards": {},
+"tasks": {
+"0": [
+"Empowered Enori Gear"
+]
+}
+},
+"355": {
+"icon": "Eternal Catalyst",
+"rewards": {},
+"tasks": {
+"0": [
+"Eternal Catalyst"
+]
+}
+},
+"356": {
+"icon": "Infinity Catalyst",
+"rewards": {},
+"tasks": {
+"0": [
+"Infinity Catalyst"
+]
+}
+},
+"357": {
+"icon": "Infinity Ingot",
+"rewards": {},
+"tasks": {
+"0": [
+"Infinity Ingot"
+]
+}
+},
+"358": {
+"icon": "Infinity Helmet",
+"rewards": {},
+"tasks": {
+"0": [
+"Infinity Helmet"
+]
+}
+},
+"359": {
+"icon": "Infinity Breastplate",
+"rewards": {},
+"tasks": {
+"0": [
+"Infinity Breastplate"
+]
+}
+},
+"36": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"360": {
+"icon": "Infinity Leggings",
+"rewards": {},
+"tasks": {
+"0": [
+"Infinity Leggings"
+]
+}
+},
+"361": {
+"icon": "Infinity Boots",
+"rewards": {},
+"tasks": {
+"0": [
+"Infinity Boots"
+]
+}
+},
+"362": {
+"icon": "The Ultimate Helmet",
+"rewards": {},
+"tasks": {
+"0": [
+"The Ultimate Helmet"
+]
+}
+},
+"363": {
+"icon": "The Ultimate Chestplate",
+"rewards": {},
+"tasks": {
+"0": [
+"The Ultimate Chestplate"
+]
+}
+},
+"364": {
+"icon": "The Ultimate Boots",
+"rewards": {},
+"tasks": {
+"0": [
+"The Ultimate Boots"
+]
+}
+},
+"365": {
+"icon": "The Ultimate Leggings",
+"rewards": {},
+"tasks": {
+"0": [
+"The Ultimate Leggings"
+]
+}
+},
+"366": {
+"icon": "Creative Vending Upgrade",
+"rewards": {},
+"tasks": {
+"0": [
+"Creative Vending Upgrade"
+]
+}
+},
+"367": {
+"icon": "Portable Tank (Creative)",
+"rewards": {},
+"tasks": {
+"0": [
+"Portable Tank (Creative)"
+]
+}
+},
+"368": {
+"icon": "Iron Hook",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Iron Hook"
+]
+}
+},
+"369": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"37": {
+"icon": "Rubber Sheet",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Plant Ball",
+"Slimeball",
+"Rubber",
+"Rubber Sheet"
+]
+}
+},
+"370": {
+"icon": "Charcoal",
+"rewards": {},
+"tasks": {
+"0": [
+"Charcoal",
+"Tiny Charcoal"
+]
+}
+},
+"371": {
+"icon": "Darmstadtium Soft Hammer",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Rubber Sheet",
+"Stick"
+]
+}
+},
+"372": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"373": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"374": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"375": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"376": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"377": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"378": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"379": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"38": {
+"icon": "CEF (LV)",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"CEF (LV)",
+"4x Conductive Iron Cable"
+]
+}
+},
+"380": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"381": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"382": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"383": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"384": {
+"icon": "Elite Component",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Elite Component"
+]
+}
+},
+"385": {
+"icon": "Elite Catalyst",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Elite Catalyst"
+]
+}
+},
+"386": {
+"icon": "Elite Extended Crafting Table",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Elite Extended Crafting Table"
+]
+}
+},
+"387": {
+"icon": "Ultimate Catalyst",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Ultimate Catalyst"
+]
+}
+},
+"388": {
+"icon": "Ultimate Component",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Ultimate Component"
+]
+}
+},
+"389": {
+"icon": "Ultimate Extended Crafting Table",
+"rewards": {
+"0": [
+"omnidollar [100]"
+]
+},
+"tasks": {
+"0": [
+"Ultimate Extended Crafting Table"
+]
+}
+},
+"39": {
+"icon": "Item Conduit",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Item Conduit"
+]
+}
+},
+"390": {
+"icon": "Energetic Infuser (Basic)",
+"rewards": {
+"1": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Energetic Infuser (Basic)"
+]
+}
+},
+"391": {
+"icon": "Nether Star",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Nether Star Tip North",
+"Nether Star Tip West",
+"Nether Star Core",
+"Nether Star Tip East",
+"Nether Star Tip South",
+"Nether Star"
+]
+}
+},
+"392": {
+"icon": "MAX Machine Casing",
+"rewards": {},
+"tasks": {}
+},
+"393": {
+"icon": "Chunk Loading Ward",
+"rewards": {},
+"tasks": {}
+},
+"394": {
+"icon": "Flux Capacitor (Basic)",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Sulfur Dust",
+"Flux Capacitor (Basic)"
+]
+}
+},
+"395": {
+"icon": "Quantum Flux",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"1": [
+"Quantum Flux"
+]
+}
+},
+"396": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"397": {
+"icon": "Creative RF Source",
+"rewards": {},
+"tasks": {
+"0": [
+"Creative RF Source"
+]
+}
+},
+"398": {
+"icon": "Multi Smelter",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Multi Smelter",
+"Heat Proof Machine Casing"
+]
+}
+},
+"399": {
+"icon": "Large Plasma Turbine",
+"rewards": {
+"0": [
+"omnidollar [100]"
+]
+},
+"tasks": {
+"0": [
+"Large Plasma Turbine",
+"Tungstensteel Turbine Casing",
+"Fluid Input Hatch (LV)",
+"Rotor Holder (LuV)",
+"Osmium Turbine Rotor"
+]
+}
+},
+"4": {
+"icon": "Wrought Iron Ingot",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Iron Ingot",
+"Wrought Iron Ingot"
+]
+}
+},
+"40": {
+"icon": "Conductive Iron Energy Conduit",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Conductive Iron Energy Conduit"
+]
+}
+},
+"400": {
+"icon": "Deuterium Bucket",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Deuterium"
+]
+}
+},
+"401": {
+"icon": "Anvil",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Anvil"
+]
+}
+},
+"402": {
+"icon": "Machine Controller",
+"rewards": {},
+"tasks": {
+"0": [
+"Wrought Iron Screwdriver",
+"Wrought Iron Crowbar"
+]
+}
+},
+"403": {
+"icon": "Wrought Iron Screwdriver",
+"rewards": {},
+"tasks": {}
+},
+"404": {
+"icon": "Book",
+"rewards": {},
+"tasks": {}
+},
+"405": {
+"icon": "Crafting Calculator",
+"rewards": {},
+"tasks": {
+"0": [
+"Crafting Calculator"
+]
+}
+},
+"406": {
+"icon": "Automation Interface",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Advanced Package Crafter",
+"Elite Package Crafter",
+"Ultimate Package Crafter",
+"Unpackager",
+"Packager",
+"Package Recipe Holder"
+]
+}
+},
+"407": {
+"icon": "Medium Microverse Projector",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Medium Microverse Projector",
+"Microverse Projector Casing",
+"Block of Diamond",
+"Ineffable Glass",
+"Microverse Projector Vent",
+"Quantum Compressor",
+"Input Bus (LV)",
+"Output Bus (HV)"
+]
+}
+},
+"408": {
+"icon": "Recipe Package",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Packager",
+"Unpackager",
+"Package Recipe Holder",
+"Package Recipe Encoder"
+]
+}
+},
+"409": {
+"icon": "Power IC Wafer",
+"rewards": {},
+"tasks": {}
+},
+"41": {
+"icon": "Energetic Alloy Energy Conduit",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Energetic Alloy Energy Conduit"
+]
+}
+},
+"410": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"411": {
+"icon": "Large Microverse Projector",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Large Microverse Projector",
+"Block of Diamond",
+"Microverse Projector Casing",
+"Ineffable Glass",
+"Quantum Compressor",
+"Microverse Projector Vent",
+"Input Bus (MV)",
+"Output Bus (HV)"
+]
+}
+},
+"412": {
+"icon": ".nameBTM Moon.name",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Lunar Mining Station",
+"LuV Machine Casing",
+"Aluminium Casing",
+"Energetic Silver Block",
+"Stellar Alloy Block",
+"Dark Ineffable Glass",
+"Beacon",
+"Fluid Output Hatch (EV)",
+"Input Bus (ULV)"
+]
+}
+},
+"413": {
+"icon": "Basic Fluid Solidifier",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Basic Fluid Extractor"
+]
+}
+},
+"414": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"415": {
+"icon": "Fluxomagnet (Basic)",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Fluxomagnet (Basic)"
+]
+}
+},
+"416": {
+"icon": "Pufferfish",
+"rewards": {
+"0": [
+"omninickel [5]",
+"Carrot"
+]
+},
+"tasks": {
+"0": [
+"Fish Oil"
+]
+}
+},
+"417": {
+"icon": "Combination Package Crafter",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Combination Package Crafter",
+"Marked Pedestal"
+]
+}
+},
+"418": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"419": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"42": {
+"icon": "Vibrant Alloy Energy Conduit",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Vibrant Alloy Energy Conduit"
+]
+}
+},
+"420": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"421": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"422": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"423": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"424": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"425": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"426": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"427": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"428": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"429": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"43": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"430": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"431": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"432": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"433": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"434": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"435": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"436": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"437": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"438": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"439": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"44": {
+"icon": "Double-Layer RF Capacitor",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Double-Layer RF Capacitor"
+]
+}
+},
+"440": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"441": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"442": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"443": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"444": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"445": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"446": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"447": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"448": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"449": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"45": {
+"icon": "Conductive Iron Jetpack",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Conductive Iron Jetpack"
+]
+}
+},
+"450": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"451": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"452": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"453": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"454": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"455": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"456": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"457": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"458": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"459": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"46": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"460": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"461": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"462": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"463": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"464": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"465": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"466": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"467": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"468": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"469": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"47": {
+"icon": "Energetic Jetpack",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Energetic Jetpack"
+]
+}
+},
+"470": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"471": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"472": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"473": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"474": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"475": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"476": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"477": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"478": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"479": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"48": {
+"icon": "Electrical Steel Jetpack",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Electrical Steel Jetpack"
+]
+}
+},
+"480": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"481": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"482": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"483": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"484": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"485": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"486": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"487": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"488": {
+"icon": "Satchel (Basic)",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Satchel (Basic)"
+]
+}
+},
+"489": {
+"icon": "Basic Compressor",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Basic Compressor"
+]
+}
+},
+"49": {
+"icon": "Basic Centrifuge",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Basic Centrifuge"
+]
+}
+},
+"490": {
+"icon": "Basic Autoclave",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Basic Autoclave"
+]
+}
+},
+"491": {
+"icon": "Iron Lumberaxe",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Iron Lumberaxe"
+]
+}
+},
+"492": {
+"icon": "Drill",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Drill"
+]
+}
+},
+"493": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"494": {
+"icon": "ME Fluid Terminal",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"ME Fluid Terminal"
+]
+}
+},
+"495": {
+"icon": "Drawer Controller",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Drawer Controller"
+]
+}
+},
+"496": {
+"icon": "Framing Table",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Framing Table",
+"Framed Drawer"
+]
+}
+},
+"497": {
+"icon": "Compacting Drawer",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Compacting Drawer"
+]
+}
+},
+"498": {
+"icon": "Soldering Alloy Bucket",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Soldering Alloy"
+]
+}
+},
+"499": {
+"icon": "Fine Copper Wire",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Fine Copper Wire"
+]
+}
+},
+"5": {
+"icon": "Iron Mining Hammer",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {}
+},
+"50": {
+"icon": "Pressurized Fluid Conduit",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Pressurized Fluid Conduit"
+]
+}
+},
+"500": {
+"icon": "Nanoprocessor",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Nanoprocessor"
+]
+}
+},
+"501": {
+"icon": "Exotic Materials Catalyst",
+"rewards": {},
+"tasks": {
+"0": [
+"Exotic Materials Catalyst"
+]
+}
+},
+"502": {
+"icon": "Capacitor",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Capacitor"
+]
+}
+},
+"503": {
+"icon": "Dark Soularium Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Dark Soularium Ingot"
+]
+}
+},
+"504": {
+"icon": "Basic Brewery",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Basic Brewery"
+]
+}
+},
+"505": {
+"icon": "Ethanol Bucket",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Ethanol"
+]
+}
+},
+"506": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"507": {
+"icon": "Chlorine Bucket",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Chlorine"
+]
+}
+},
+"508": {
+"icon": "Knightslime Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Knightslime Ingot"
+]
+}
+},
+"509": {
+"icon": "1x Energetic Alloy Wire",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"1x Energetic Alloy Wire"
+]
+}
+},
+"51": {
+"icon": "Inscriber",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Inscriber"
+]
+}
+},
+"510": {
+"icon": "Dew of the Void Bucket",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Grains of Piezallity",
+"Grains of Vibrancy"
+],
+"1": [
+"Dew of the Void"
+]
+}
+},
+"511": {
+"icon": "The Vat",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"The Vat"
+]
+}
+},
+"512": {
+"icon": "Slice'N'Splice",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Slice'N'Splice"
+]
+}
+},
+"513": {
+"icon": "Red Steel Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Red Steel Ingot"
+]
+}
+},
+"514": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"515": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"516": {
+"icon": "Conveyor Module (LV)",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Conveyor Module (LV)"
+]
+}
+},
+"517": {
+"icon": "Robot Arm (LV)",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Robot Arm (LV)"
+]
+}
+},
+"518": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"519": {
+"icon": "Spatial Pylon",
+"rewards": {
+"0": [
+"omnidollar [100]"
+]
+},
+"tasks": {
+"0": [
+"Naquadah Reactor Mk1",
+"Block of Black Steel",
+"Spatial Pylon",
+"Transparent Fission Reactor Casing",
+"Microverse Projector Casing",
+"Energy Output Hatch (LuV)"
+]
+}
+},
+"52": {
+"icon": "Basic Cluster Mill",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Basic Cluster Mill"
+]
+}
+},
+"520": {
+"icon": "Microprocessor Array",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Microprocessor Array"
+]
+}
+},
+"521": {
+"icon": "Resonant Upgrade Kit",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Resonant Upgrade Kit"
+]
+}
+},
+"522": {
+"icon": "Elite Compressor",
+"rewards": {
+"0": [
+"omnidollar [100]"
+]
+},
+"tasks": {
+"0": [
+"Elite Compressor"
+]
+}
+},
+"523": {
+"icon": "Nanoprocessor Array",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Nanoprocessor Array"
+]
+}
+},
+"524": {
+"icon": "Nanoprocessor Mainframe",
+"rewards": {
+"0": [
+"omnidollar [100]"
+]
+},
+"tasks": {
+"0": [
+"Nanoprocessor Mainframe"
+]
+}
+},
+"525": {
+"icon": "Nano Processor Assembly",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Nano Processor Assembly"
+]
+}
+},
+"526": {
+"icon": "Advanced Assembling Machine III",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Advanced Assembling Machine III"
+]
+}
+},
+"527": {
+"icon": "Lumium Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Lumium Ingot"
+]
+}
+},
+"528": {
+"icon": "Hardened Upgrade Kit",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Hardened Upgrade Kit"
+]
+}
+},
+"529": {
+"icon": "Advanced Assembling Machine IV",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Advanced Assembling Machine IV"
+]
+}
+},
+"53": {
+"icon": "Basic Wiremill",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Electric Motor (LV)",
+"Basic Wiremill"
+]
+}
+},
+"530": {
+"icon": "Basic Circuit",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Wrought Iron Plate",
+"Basic Circuit"
+]
+}
+},
+"531": {
+"icon": "Quantum Processor Mainframe",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Quantum Processor Mainframe"
+]
+}
+},
+"532": {
+"icon": "Advanced Assembling Machine II",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Advanced Assembling Machine II"
+]
+}
+},
+"533": {
+"icon": "Elite Assembling Machine II",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Elite Assembling Machine II"
+]
+}
+},
+"534": {
+"icon": "Crystal Processor Array",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Crystal Processor Array"
+]
+}
+},
+"535": {
+"icon": "Crystal Processor Mainframe",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Crystal Processor Mainframe"
+]
+}
+},
+"536": {
+"icon": "ZPM Machine Hull",
+"rewards": {
+"2": [
+"omnidollar [100]"
+]
+},
+"tasks": {
+"0": [
+"ZPM Machine Hull"
+]
+}
+},
+"537": {
+"icon": "Raw Growth Medium Bucket",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Sterilized Growth Medium"
+]
+}
+},
+"538": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"539": {
+"icon": "Phosphorus Dust",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Phosphorus Dust"
+]
+}
+},
+"54": {
+"icon": "Improved Ender Eye",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Improved Ender Eye"
+]
+}
+},
+"540": {
+"icon": "Advanced Extruder",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Advanced Extruder",
+"Extruder Shape (Large Pipe)"
+]
+}
+},
+"541": {
+"icon": "Electric Blast Furnace Controller",
+"rewards": {
+"1": [
+"omnidollar [100]"
+]
+},
+"tasks": {
+"0": [
+"Electric Blast Furnace Controller"
+]
+}
+},
+"542": {
+"icon": "Soul Binder",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Soul Binder"
+]
+}
+},
+"543": {
+"icon": "Blue Steel Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Blue Steel Ingot"
+]
+}
+},
+"544": {
+"icon": "Satchel (Hardened)",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Satchel (Hardened)",
+"Invar Ingot",
+"Tin Nugget"
+]
+}
+},
+"545": {
+"icon": "Satchel (Reinforced)",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Satchel (Reinforced)",
+"Aluminium Ingot",
+"Electrum Nugget"
+]
+}
+},
+"546": {
+"icon": "Advanced Distillery",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Basic Distillery"
+]
+}
+},
+"547": {
+"icon": "Scanner Module: Block",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Scanner Module: Block"
+]
+}
+},
+"548": {
+"icon": "Mold (Gear)",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Empty Shape Plate",
+"Mold (Block)",
+"Mold (Gear)",
+"Mold (Rotor)"
+]
+}
+},
+"549": {
+"icon": "Oil Bucket",
+"rewards": {
+"0": [
+"omnidollar [100]"
+]
+},
+"tasks": {
+"0": [
+"Steel Frame",
+"Steel Pipe Casing",
+"Steel Gear Box Casing",
+"Pipe",
+"Solid Steel Machine Casing",
+"Oil Drilling Rig",
+"Energy Input Hatch (HV)",
+"Fluid Output Hatch (ULV)",
+"Fluid Input Hatch (ULV)",
+"Input Bus (ULV)"
+],
+"1": [
+"Drilling Fluid"
+]
+}
+},
+"55": {
+"icon": "Basic Centrifuge",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Basic Centrifuge"
+]
+}
+},
+"550": {
+"icon": "Vertical Digger",
+"rewards": {
+"0": [
+"omnidollar [100]"
+]
+},
+"tasks": {
+"0": [
+"Vertical Digger"
+]
+}
+},
+"551": {
+"icon": "Phantom Booster",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Phantom Booster"
+]
+}
+},
+"552": {
+"icon": "Leadstone Jetpack",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Leadstone Jetpack"
+]
+}
+},
+"553": {
+"icon": "Hardened Jetpack",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Hardened Jetpack"
+]
+}
+},
+"554": {
+"icon": "Reinforced Jetpack",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Reinforced Jetpack"
+]
+}
+},
+"555": {
+"icon": "Fluxed Phyto-Gro",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"1": [
+"Fluxed Phyto-Gro"
+]
+}
+},
+"556": {
+"icon": "Bounty Board",
+"rewards": {
+"0": [
+"Bounty Board"
+]
+},
+"tasks": {}
+},
+"557": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"558": {
+"icon": "Augment: Fuel Catalyzer",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Augment: Fuel Catalyzer"
+]
+}
+},
+"559": {
+"icon": "Augment: Auxiliary Transmission Coil",
+"rewards": {},
+"tasks": {
+"0": [
+"Augment: Auxiliary Transmission Coil"
+]
+}
+},
+"56": {
+"icon": "High-Power IC Wafer",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {}
+},
+"560": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"561": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"562": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"563": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"564": {
+"icon": "Neutronium Solar Panel",
+"rewards": {
+"0": [
+"omnidollar [100]"
+]
+},
+"tasks": {
+"0": [
+"Neutronium Solar Panel"
+]
+}
+},
+"565": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"566": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"567": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"568": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"569": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"57": {
+"icon": "Ender Fluid Conduit",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Ender Fluid Conduit"
+]
+}
+},
+"570": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"571": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"572": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"573": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"574": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"575": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"576": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"577": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"578": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"579": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"58": {
+"icon": "Small Sodium Battery",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Small Battery Hull"
+]
+}
+},
+"580": {
+"icon": "Electric Blast Furnace Controller",
+"rewards": {
+"0": [
+"omnidollar [100]"
+]
+},
+"tasks": {
+"0": [
+"Electric Blast Furnace Controller"
+]
+}
+},
+"581": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"582": {
+"icon": "Fluxed Electrum Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Fluxed Electrum Ingot"
+]
+}
+},
+"583": {
+"icon": "Signalum Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Signalum Ingot"
+]
+}
+},
+"584": {
+"icon": "Enderium Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Enderium Ingot"
+]
+}
+},
+"585": {
+"icon": "Pulsating Iron Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Pulsating Iron Ingot"
+]
+}
+},
+"586": {
+"icon": "HSS-E Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"HSS-E Ingot"
+]
+}
+},
+"587": {
+"icon": "HSS-G Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"HSS-G Ingot"
+]
+}
+},
+"588": {
+"icon": "HSS-S Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"HSS-S Ingot"
+]
+}
+},
+"589": {
+"icon": "Crystal Matrix Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Crystal Matrix Ingot"
+]
+}
+},
+"59": {
+"icon": "Nickel Ingot",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Nickel Ingot",
+"Invar Ingot",
+"Cupronickel Ingot"
+]
+}
+},
+"590": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"591": {
+"icon": "Vanadiumsteel Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Vanadiumsteel Ingot"
+]
+}
+},
+"592": {
+"icon": "Electrical Steel Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Electrical Steel Ingot"
+]
+}
+},
+"593": {
+"icon": "End Steel Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"End Steel Ingot"
+]
+}
+},
+"594": {
+"icon": "Microversium Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Microversium Ingot"
+]
+}
+},
+"595": {
+"icon": "Mana Infused Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Mana Infused Ingot"
+]
+}
+},
+"596": {
+"icon": "Dark Steel Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Dark Steel Ingot"
+]
+}
+},
+"597": {
+"icon": "Vibrant Alloy Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Vibrant Alloy Ingot"
+]
+}
+},
+"598": {
+"icon": "Energetic Alloy Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Energetic Alloy Ingot"
+]
+}
+},
+"599": {
+"icon": "Soularium Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Soularium Ingot"
+]
+}
+},
+"6": {
+"icon": "Redstone",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Redstone",
+"Copper Ingot",
+"Tin Ingot",
+"Coal",
+"Gold Ingot"
+]
+}
+},
+"60": {
+"icon": "Electric Blast Furnace Controller",
+"rewards": {
+"0": [
+"omnidollar [100]"
+]
+},
+"tasks": {
+"0": [
+"Electric Blast Furnace Controller",
+"Cupronickel Coil Block",
+"Energy Input Hatch (LV)",
+"Input Bus (LV)",
+"Output Bus (LV)",
+"Fluid Input Hatch (LV)",
+"Fluid Output Hatch (LV)",
+"Heat Proof Machine Casing"
+]
+}
+},
+"600": {
+"icon": "Manyullyn Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"1": [
+"Manyullyn Ingot"
+]
+}
+},
+"601": {
+"icon": "Magnalium Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Magnalium Ingot"
+]
+}
+},
+"602": {
+"icon": "Kanthal Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Kanthal Ingot"
+]
+}
+},
+"603": {
+"icon": "Nichrome Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Nichrome Ingot"
+]
+}
+},
+"604": {
+"icon": "Heart Of A Universe",
+"rewards": {},
+"tasks": {
+"0": [
+"Heart Of A Universe"
+]
+}
+},
+"605": {
+"icon": "Neutronium Plated Micro Universe Harvester [Tier Ten]",
+"rewards": {},
+"tasks": {
+"0": [
+"Neutronium Plated Micro Universe Harvester [Tier Ten]"
+]
+}
+},
+"606": {
+"icon": "Neutronium Heavy Plating",
+"rewards": {},
+"tasks": {
+"0": [
+"Neutronium Heavy Plating"
+]
+}
+},
+"607": {
+"icon": "Neutronium Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Neutronium Ingot"
+]
+}
+},
+"608": {
+"icon": "1x Superconductor Wire",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"1x Superconductor Wire"
+]
+}
+},
+"609": {
+"icon": "Reinforced Upgrade Kit",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Reinforced Upgrade Kit"
+]
+}
+},
+"61": {
+"icon": "Gemstone Sensor",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Gemstone Sensor"
+]
+}
+},
+"610": {
+"icon": "Ferroboron Alloy",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Ferroboron Alloy"
+]
+}
+},
+"611": {
+"icon": "Tough Alloy",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Tough Alloy"
+]
+}
+},
+"612": {
+"icon": "Elite Compressor II",
+"rewards": {
+"0": [
+"omnidollar [100]"
+]
+},
+"tasks": {
+"0": [
+"Elite Compressor II"
+]
+}
+},
+"613": {
+"icon": "Solidified Hydrogen",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Solidified Hydrogen"
+]
+}
+},
+"614": {
+"icon": "Solidified Helium",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Solidified Helium"
+]
+}
+},
+"615": {
+"icon": "Lithium Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Lithium Ingot"
+]
+}
+},
+"616": {
+"icon": "Beryllium Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Beryllium Ingot"
+]
+}
+},
+"617": {
+"icon": "Boron Dust",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Boron Dust"
+]
+}
+},
+"618": {
+"icon": "Carbon Brick",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Carbon Ingot"
+]
+}
+},
+"619": {
+"icon": "Solidified Nitrogen",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Solidified Nitrogen"
+]
+}
+},
+"62": {
+"icon": "ME Terminal",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"ME Terminal"
+]
+}
+},
+"620": {
+"icon": "Solidified Oxygen",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Solidified Oxygen"
+]
+}
+},
+"621": {
+"icon": "Solidified Fluorine",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Solidified Fluorine"
+]
+}
+},
+"622": {
+"icon": "Solidified Neon",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Solidified Neon"
+]
+}
+},
+"623": {
+"icon": "Sodium Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Sodium Ingot"
+]
+}
+},
+"624": {
+"icon": "Magnesium Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Magnesium Ingot"
+]
+}
+},
+"625": {
+"icon": "Aluminium Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Aluminium Ingot"
+]
+}
+},
+"626": {
+"icon": "Silicon Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Silicon Ingot"
+]
+}
+},
+"627": {
+"icon": "Phosphorus Dust",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Phosphorus Dust"
+]
+}
+},
+"628": {
+"icon": "Sulfur Dust",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Sulfur Dust"
+]
+}
+},
+"629": {
+"icon": "Solidified Chlorine",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Solidified Chlorine"
+]
+}
+},
+"63": {
+"icon": "ME Chest",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"ME Chest"
+]
+}
+},
+"630": {
+"icon": "Solidified Argon",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Solidified Argon"
+]
+}
+},
+"631": {
+"icon": "Potassium Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Potassium Ingot"
+]
+}
+},
+"632": {
+"icon": "Calcium Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Calcium Ingot"
+]
+}
+},
+"633": {
+"icon": "Scandium Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Lanthanum Ingot"
+]
+}
+},
+"634": {
+"icon": "Titanium Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Titanium Ingot"
+]
+}
+},
+"635": {
+"icon": "Vanadium Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Vanadium Ingot"
+]
+}
+},
+"636": {
+"icon": "Chrome Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Chrome Ingot"
+]
+}
+},
+"637": {
+"icon": "Manganese Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Manganese Ingot"
+]
+}
+},
+"638": {
+"icon": "Iron Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Iron Ingot"
+]
+}
+},
+"639": {
+"icon": "Cobalt Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Cobalt Ingot"
+]
+}
+},
+"64": {
+"icon": "§61k§r ME Storage Cell",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"§61k§r ME Storage Component",
+"ME Storage Housing",
+"§61k§r ME Storage Cell"
+]
+}
+},
+"640": {
+"icon": "Nickel Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Nickel Ingot"
+]
+}
+},
+"641": {
+"icon": "Copper Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Copper Ingot"
+]
+}
+},
+"642": {
+"icon": "Zinc Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Zinc Ingot"
+]
+}
+},
+"643": {
+"icon": "Gallium Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Gallium Ingot"
+]
+}
+},
+"644": {
+"icon": "Arsenic Dust",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Arsenic Dust"
+]
+}
+},
+"645": {
+"icon": "Solidified Krypton",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Solidified Krypton"
+]
+}
+},
+"646": {
+"icon": "Yttrium Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Yttrium Ingot"
+]
+}
+},
+"647": {
+"icon": "Palladium Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Palladium Ingot"
+]
+}
+},
+"648": {
+"icon": "Silver Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Silver Ingot"
+]
+}
+},
+"649": {
+"icon": "Indium Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Indium Ingot"
+]
+}
+},
+"65": {
+"icon": "Tungsten Carbide Plated Micro Miner [Tier Three]",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Tungsten Carbide Plated Micro Miner [Tier Three]"
+]
+}
+},
+"650": {
+"icon": "Tin Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Tin Ingot"
+]
+}
+},
+"651": {
+"icon": "Antimony Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Antimony Ingot"
+]
+}
+},
+"652": {
+"icon": "Solidified Xenon",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Solidified Xenon"
+]
+}
+},
+"653": {
+"icon": "Tungsten Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Tungsten Ingot"
+]
+}
+},
+"654": {
+"icon": "Osmium Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Osmium Ingot"
+]
+}
+},
+"655": {
+"icon": "Iridium Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Iridium Ingot"
+]
+}
+},
+"656": {
+"icon": "Platinum Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Platinum Ingot"
+]
+}
+},
+"657": {
+"icon": "Gold Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Gold Ingot"
+]
+}
+},
+"658": {
+"icon": "Solidified Mercury",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Solidified Mercury"
+]
+}
+},
+"659": {
+"icon": "Solidified Radon",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Solidified Radon"
+]
+}
+},
+"66": {
+"icon": "Red Alloy Dust",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Copper Dust",
+"Red Alloy Dust",
+"Red Alloy Ingot",
+"Iron Dust",
+"Conductive Iron Dust",
+"Conductive Iron Ingot",
+"Red Alloy Plate",
+"1x Red Alloy Wire",
+"Conductive Iron Plate",
+"1x Conductive Iron Wire"
+]
+}
+},
+"660": {
+"icon": "Stabilized Thorium",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Stabilized Thorium"
+]
+}
+},
+"661": {
+"icon": "Stabilized Uranium",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Stabilized Uranium"
+]
+}
+},
+"662": {
+"icon": "Stabilized Neptunium",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Stabilized Neptunium"
+]
+}
+},
+"663": {
+"icon": "Stabilized Plutonium",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Stabilized Plutonium"
+]
+}
+},
+"664": {
+"icon": "Stabilized Americium",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Stabilized Americium"
+]
+}
+},
+"665": {
+"icon": "Stabilized Curium",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Stabilized Curium"
+]
+}
+},
+"666": {
+"icon": "Stabilized Berkelium",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Stabilized Berkelium"
+]
+}
+},
+"667": {
+"icon": "Stabilized Californium",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Stabilized Californium"
+]
+}
+},
+"668": {
+"icon": "Stabilized Einsteinium",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Stabilized Einsteinium"
+]
+}
+},
+"669": {
+"icon": "LEU-235 Fuel",
+"rewards": {
+"0": [
+"omnidollar [100]"
+]
+},
+"tasks": {
+"0": [
+"LEU-235 Fuel",
+"Depleted LEU-235 Fuel"
+]
+}
+},
+"67": {
+"icon": "Octadic RF Capacitor",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Octadic RF Capacitor"
+]
+}
+},
+"670": {
+"icon": "Mote of Omnium",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {}
+},
+"671": {
+"icon": "TBU Fuel",
+"rewards": {
+"0": [
+"omnidollar [100]"
+]
+},
+"tasks": {
+"0": [
+"Thorium Dust",
+"TBU Fuel",
+"Depleted TBU Fuel"
+]
+}
+},
+"672": {
+"icon": "Uranium-238",
+"rewards": {
+"0": [
+"omnidollar [100]"
+]
+},
+"tasks": {
+"0": [
+"Uranium-238",
+"Uranium-235"
+]
+}
+},
+"673": {
+"icon": "LEN-236 Fuel",
+"rewards": {
+"0": [
+"omnidollar [100]"
+]
+},
+"tasks": {
+"0": [
+"Neptunium-236",
+"Neptunium-237",
+"LEN-236 Fuel",
+"Depleted LEN-236 Fuel"
+]
+}
+},
+"674": {
+"icon": "Uranium-233",
+"rewards": {
+"0": [
+"omnidollar [100]"
+]
+},
+"tasks": {
+"0": [
+"LEU-233 Fuel",
+"Depleted LEU-233 Fuel"
+]
+}
+},
+"675": {
+"icon": "LEP-239 Fuel",
+"rewards": {
+"0": [
+"omnidollar [100]"
+]
+},
+"tasks": {
+"0": [
+"Plutonium-239",
+"Plutonium-242",
+"LEP-239 Fuel",
+"Depleted LEP-239 Fuel"
+]
+}
+},
+"676": {
+"icon": "LECm-243 Fuel",
+"rewards": {
+"0": [
+"omnidollar [100]"
+]
+},
+"tasks": {
+"0": [
+"Curium-243",
+"Curium-246",
+"LECm-243 Fuel",
+"Depleted LECm-243 Fuel"
+]
+}
+},
+"677": {
+"icon": "LEA-242 Fuel",
+"rewards": {
+"0": [
+"omnidollar [100]"
+]
+},
+"tasks": {
+"0": [
+"Americium-242",
+"Americium-243",
+"LEA-242 Fuel",
+"Depleted LEA-242 Fuel"
+]
+}
+},
+"678": {
+"icon": "LEB-248 Fuel",
+"rewards": {
+"0": [
+"omnidollar [100]"
+]
+},
+"tasks": {
+"0": [
+"Berkelium-248",
+"Berkelium-247",
+"LEB-248 Fuel",
+"Depleted LEB-248 Fuel"
+]
+}
+},
+"679": {
+"icon": "LECf-249 Fuel",
+"rewards": {
+"0": [
+"omnidollar [100]"
+]
+},
+"tasks": {
+"0": [
+"Californium-249",
+"Californium-252",
+"LECf-249 Fuel",
+"Depleted LECf-249 Fuel"
+]
+}
+},
+"68": {
+"icon": "Experience Obelisk",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Experience Obelisk"
+]
+}
+},
+"680": {
+"icon": "Radioactive Hazard Sign Block",
+"rewards": {
+"0": [
+"omnidollar [100]"
+]
+},
+"tasks": {}
+},
+"681": {
+"icon": "Implosion Compressor",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Implosion Compressor",
+"Solid Steel Machine Casing"
+]
+}
+},
+"682": {
+"icon": "Simulation Chamber",
+"rewards": {
+"0": [
+"omniquarter [25]",
+"Deep Mob Learning"
+]
+},
+"tasks": {
+"0": [
+"Simulation Chamber"
+]
+}
+},
+"683": {
+"icon": "Overworldian Matter",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Overworldian Matter"
+]
+}
+},
+"684": {
+"icon": "Pulsating Mesh",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Carbon Mesh",
+"Pulsating Mesh"
+]
+}
+},
+"685": {
+"icon": "Loot Fabricator",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Loot Fabricator"
+]
+}
+},
+"686": {
+"icon": "§bZombie Data Model§r",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"1": [
+"§bZombie Data Model§r",
+"§bCreeper Data Model§r",
+"§bWitch Data Model§r",
+"§bSkeleton Data Model§r",
+"§bSpider Data Model§r",
+"§bGuardian Data Model§r",
+"§bThermal Elemental Data Model§r",
+"§bSlime Data Model§r"
+]
+}
+},
+"687": {
+"icon": "Infinite Water Source",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Infinite Water Source"
+]
+}
+},
+"688": {
+"icon": "Hellish Matter",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Hellish Matter"
+]
+}
+},
+"689": {
+"icon": "§bBlaze Data Model§r",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"§bBlaze Data Model§r",
+"§bWither Skeleton Data Model§r",
+"§bGhast Data Model§r"
+]
+}
+},
+"69": {
+"icon": "Aluminium Ingot",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Aluminium Ingot"
+]
+}
+},
+"690": {
+"icon": "Extraterrestrial Matter",
+"rewards": {
+"1": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Extraterrestrial Matter"
+]
+}
+},
+"691": {
+"icon": "§bEnderman Data Model§r",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"§bEnderman Data Model§r",
+"§bShulker Data Model§r",
+"§bWither Data Model§r",
+"§bEnder Dragon Data Model§r"
+]
+}
+},
+"692": {
+"icon": "Yeta Wrench",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Crescent Hammer",
+"Yeta Wrench",
+"Darmstadtium Wrench"
+]
+}
+},
+"693": {
+"icon": "Vibrant Jetpack",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Vibrant Jetpack"
+]
+}
+},
+"694": {
+"icon": "Angel Ring",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Angel Ring"
+]
+}
+},
+"695": {
+"icon": "Dark Soularium JetPlate",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Dark Soularium JetPlate"
+]
+}
+},
+"696": {
+"icon": "Block of Omnium",
+"rewards": {
+"0": [
+"omnidollar [100]"
+]
+},
+"tasks": {
+"0": [
+"Block of Omnium",
+"Naquadah Reactor Mk2",
+"Energy Output Hatch (UV)"
+]
+}
+},
+"697": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"698": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"699": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"7": {
+"icon": "1x Red Alloy Cable",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"1x Red Alloy Cable"
+]
+}
+},
+"70": {
+"icon": "Medium Lithium Battery",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Medium Battery Hull"
+]
+}
+},
+"700": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"701": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"702": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"703": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"704": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"705": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"706": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"707": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"708": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"709": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"71": {
+"icon": "Advanced Electrolyzer",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Advanced Electrolyzer"
+]
+}
+},
+"710": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"711": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"712": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"713": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"714": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"715": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"716": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"717": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"718": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"719": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"72": {
+"icon": "Basic Assembling Machine",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Basic Assembling Machine"
+]
+}
+},
+"720": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"721": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"722": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"723": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"724": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"725": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"726": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"727": {
+"icon": "Tiny Pile of Antimony Dust",
+"rewards": {},
+"tasks": {}
+},
+"728": {
+"icon": "Resonant Clathrate",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Resonant Clathrate"
+]
+}
+},
+"729": {
+"icon": "ME Fluid Interface",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"ME Fluid Interface"
+]
+}
+},
+"73": {
+"icon": "ME Conduit",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"ME Conduit"
+]
+}
+},
+"730": {
+"icon": "Electric Pump (MV)",
+"rewards": {},
+"tasks": {}
+},
+"731": {
+"icon": "Electric Pump (MV)",
+"rewards": {},
+"tasks": {}
+},
+"732": {
+"icon": "Hard Carbon Alloy",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Hard Carbon Alloy"
+]
+}
+},
+"733": {
+"icon": "Draconic Evolution Information Tablet",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Draconic Evolution Information Tablet"
+]
+}
+},
+"734": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"735": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"736": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"737": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"738": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"739": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"74": {
+"icon": "Aluminium Casing",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Black Quartz",
+"Aluminium Casing"
+]
+}
+},
+"740": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"741": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"742": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"743": {
+"icon": "Book",
+"rewards": {},
+"tasks": {}
+},
+"744": {
+"icon": "Multi-layer Fiber-Reinforced Circuit Board",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Electrum Foil",
+"Multi-layer Fiber-Reinforced Circuit Board"
+]
+}
+},
+"745": {
+"icon": "Signalum Ingot",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Signalum Ingot"
+]
+}
+},
+"746": {
+"icon": "Compactor (Basic)",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Compactor (Basic)"
+]
+}
+},
+"747": {
+"icon": "Dark Steel Enchanter",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Dark Steel Enchanter"
+]
+}
+},
+"748": {
+"icon": "Augment: Gearworking Die",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Augment: Gearworking Die"
+]
+}
+},
+"749": {
+"icon": "Fusion Reactor Computer Mark 1",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Fusion Reactor Computer Mark 2",
+"Energy Input Hatch (UV)",
+"Fusion Coil Block",
+"Fusion Machine Casing"
+]
+}
+},
+"75": {
+"icon": "Machine Block",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Machine Block"
+]
+}
+},
+"750": {
+"icon": "Enderium Ingot",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Enderium Ingot"
+]
+}
+},
+"751": {
+"icon": "Aqueous Accumulator",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Aqueous Accumulator"
+]
+}
+},
+"752": {
+"icon": "Augment: Turbine Conversion",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Augment: Boiler Conversion",
+"Augment: Turbine Conversion"
+]
+}
+},
+"753": {
+"icon": "Satchel (Resonant)",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Satchel (Resonant)",
+"Enderium Ingot",
+"Signalum Nugget"
+]
+}
+},
+"754": {
+"icon": "Telepad Block",
+"rewards": {
+"0": [
+"omninickel [5]",
+"Chorus Flower"
+]
+},
+"tasks": {
+"0": [
+"Coordinate Selector",
+"Paper",
+"Telepad Block"
+]
+}
+},
+"755": {
+"icon": "Building Gadget",
+"rewards": {},
+"tasks": {
+"0": [
+"Building Gadget",
+"Exchanging Gadget",
+"Copy-Paste Gadget",
+"Destruction Gadget"
+]
+}
+},
+"756": {
+"icon": "Blizz Rod",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {}
+},
+"757": {
+"icon": "Dragon Head",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"End Cake"
+]
+}
+},
+"758": {
+"icon": "Dragon Egg",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Torch",
+"Dragon Egg"
+]
+}
+},
+"759": {
+"icon": "Fire Water Bucket",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Ender Chest",
+"Vacuum Chest"
+],
+"1": [
+"Fire Water"
+]
+}
+},
+"76": {
+"icon": "Primitive Processor",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Primitive Processor"
+]
+}
+},
+"760": {
+"icon": "Chorus Flower",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Draconium Dust",
+"Chorus Flower"
+]
+}
+},
+"761": {
+"icon": "Dislocator",
+"rewards": {},
+"tasks": {
+"0": [
+"Dislocator",
+"Dislocator Pedestal"
+]
+}
+},
+"762": {
+"icon": "Ender Pearl",
+"rewards": {},
+"tasks": {}
+},
+"763": {
+"icon": "Rod of Return",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Rod of Return"
+]
+}
+},
+"764": {
+"icon": "LV Machine Hull",
+"rewards": {},
+"tasks": {}
+},
+"765": {
+"icon": "Book",
+"rewards": {},
+"tasks": {}
+},
+"766": {
+"icon": "MV Machine Casing",
+"rewards": {},
+"tasks": {}
+},
+"767": {
+"icon": "HV Machine Casing",
+"rewards": {},
+"tasks": {}
+},
+"768": {
+"icon": "EV Machine Casing",
+"rewards": {},
+"tasks": {}
+},
+"769": {
+"icon": "IV Machine Casing",
+"rewards": {},
+"tasks": {}
+},
+"77": {
+"icon": "Exquisite Emerald",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Exquisite Emerald",
+"Exquisite Diamond",
+"Exquisite Ruby"
+]
+}
+},
+"770": {
+"icon": "LuV Machine Casing",
+"rewards": {},
+"tasks": {}
+},
+"771": {
+"icon": "ZPM Machine Casing",
+"rewards": {},
+"tasks": {}
+},
+"772": {
+"icon": "UV Machine Casing",
+"rewards": {},
+"tasks": {}
+},
+"773": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"774": {
+"icon": "Basic Lathe",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Basic Lathe"
+]
+}
+},
+"775": {
+"icon": "Steel Frame",
+"rewards": {},
+"tasks": {}
+},
+"776": {
+"icon": "Awakened Core",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Awakened Core"
+]
+}
+},
+"777": {
+"icon": "Empowered Diamatine Gear",
+"rewards": {},
+"tasks": {
+"0": [
+"Empowered Diamatine Gear"
+]
+}
+},
+"778": {
+"icon": "Energy Core",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Energy Core",
+"Energy Pylon"
+]
+}
+},
+"779": {
+"icon": "Cobblestone Generator",
+"rewards": {
+"1": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Cobblestone Generator"
+]
+}
+},
+"78": {
+"icon": "Tiny Pile of Gallium Dust",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Sphalerite Dust",
+"Tiny Pile of Gallium Dust"
+]
+}
+},
+"780": {
+"icon": "Nether Cake",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Nether Cake"
+]
+}
+},
+"781": {
+"icon": "Numismatic Dynamo (Basic)",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Numismatic Dynamo (Basic)",
+"Augment: Lapidary Calibration"
+]
+}
+},
+"782": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"783": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"784": {
+"icon": "ME Glass Cable - Fluix",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"ME Glass Cable - Fluix"
+]
+}
+},
+"785": {
+"icon": "Silicone Rubber Bucket",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"1x Aluminium Cable"
+]
+}
+},
+"786": {
+"icon": "Reach Upgrade 1",
+"rewards": {},
+"tasks": {}
+},
+"787": {
+"icon": "Farming Station",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Farming Station"
+]
+}
+},
+"788": {
+"icon": "Smart Item Filter",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Smart Item Filter"
+]
+}
+},
+"789": {
+"icon": "Item Filter",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Item Filter",
+"Ore Dictionary Filter",
+"Fluid Filter"
+]
+}
+},
+"79": {
+"icon": "Advanced Cutting Machine",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Advanced Cutting Machine"
+]
+}
+},
+"790": {
+"icon": "Machine Controller",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Machine Controller"
+]
+}
+},
+"791": {
+"icon": "Processing Array",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Processing Array",
+"Machine Access Interface"
+]
+}
+},
+"792": {
+"icon": "Dynamite",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Dynamite"
+]
+}
+},
+"793": {
+"icon": "TNT",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Gelled Toluene",
+"TNT"
+]
+}
+},
+"794": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"795": {
+"icon": "ASoC Wafer",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"ASoC Wafer"
+]
+}
+},
+"796": {
+"icon": "Naquadah-doped Boule",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Naquadah-doped Boule"
+]
+}
+},
+"797": {
+"icon": "SoC Wafer",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"SoC Wafer"
+]
+}
+},
+"798": {
+"icon": "Sunnarium",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Sunnarium"
+]
+}
+},
+"799": {
+"icon": "Satchel (Signalum)",
+"rewards": {},
+"tasks": {
+"0": [
+"Satchel (Signalum)",
+"Signalum Ingot",
+"Electrum Nugget"
+]
+}
+},
+"8": {
+"icon": "Processor Assembly",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Processor Assembly"
+]
+}
+},
+"80": {
+"icon": "Silicon Boule",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Silicon Boule"
+]
+}
+},
+"800": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"801": {
+"icon": "Charcoal Byproducts Bucket",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Charcoal Byproducts",
+"Wood Tar",
+"Wood Gas",
+"Wood Vinegar"
+]
+}
+},
+"802": {
+"icon": "Fusion Coil Block",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Fusion Coil Block"
+]
+}
+},
+"803": {
+"icon": "Purple Bed",
+"rewards": {
+"1": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Skeleton Skull",
+"White Bed",
+"Block of Diamond"
+]
+}
+},
+"804": {
+"icon": "Item Laser Relay",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Item Laser Relay",
+"Item Interface",
+"Laser Wrench"
+]
+}
+},
+"805": {
+"icon": "Nether Star",
+"rewards": {},
+"tasks": {}
+},
+"806": {
+"icon": "Allyl Chloride Bucket",
+"rewards": {},
+"tasks": {
+"0": [
+"Allyl Chloride"
+]
+}
+},
+"807": {
+"icon": "Seeds",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Seed Oil"
+]
+}
+},
+"808": {
+"icon": "Knowledge Book",
+"rewards": {},
+"tasks": {}
+},
+"809": {
+"icon": "multiblocktweaker.machine.dml_sim_chamber.name",
+"rewards": {},
+"tasks": {
+"0": [
+"multiblocktweaker.machine.dml_sim_chamber.name",
+"Naquadah Machine Casing",
+"Naquadah-Plated Dark Steel Machine Casing",
+"Block of Omnium",
+"Block of Enderium",
+"Quite Clear Glass",
+"Simulation Chamber"
+]
+}
+},
+"81": {
+"icon": "Silicon Wafer",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Silicon Wafer"
+]
+}
+},
+"810": {
+"icon": "Sulfur Dust",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Sulfur Dust"
+]
+}
+},
+"811": {
+"icon": "Sulfur Ore",
+"rewards": {},
+"tasks": {
+"0": [
+"Sulfur Ore"
+]
+}
+},
+"812": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"813": {
+"icon": "ME Extended Processing Pattern Terminal",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"ME Extended Processing Pattern Terminal"
+]
+}
+},
+"814": {
+"icon": "ME Interface Configuration Terminal",
+"rewards": {},
+"tasks": {
+"0": [
+"ME Interface Configuration Terminal"
+]
+}
+},
+"815": {
+"icon": "ME Fluid Interface Configuration Terminal",
+"rewards": {},
+"tasks": {
+"0": [
+"ME Fluid Interface Configuration Terminal"
+]
+}
+},
+"816": {
+"icon": "Futura Block",
+"rewards": {},
+"tasks": {
+"0": [
+"ME Controller"
+]
+}
+},
+"817": {
+"icon": "Unreacted Spacial neutron fluid Bucket",
+"rewards": {
+"0": [
+"omnidollar [100]"
+]
+},
+"tasks": {
+"0": [
+"Spacial neutron fluid"
+],
+"1": [
+"Mote of Omnium",
+"Neutronium Nugget"
+]
+}
+},
+"818": {
+"icon": "Unreacted Spacial neutron fluid Bucket",
+"rewards": {
+"0": [
+"omnidollar [100]"
+]
+},
+"tasks": {
+"0": [
+"Unreacted Spacial neutron fluid"
+]
+}
+},
+"819": {
+"icon": "Creative ME Storage Cell",
+"rewards": {
+"0": [
+"omnidollar [100]"
+]
+},
+"tasks": {
+"0": [
+"Creative ME Storage Cell"
+]
+}
+},
+"82": {
+"icon": "Phenolic Circuit Board",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Phenolic Circuit Board"
+]
+}
+},
+"820": {
+"icon": "Dimensionally Split Neural Superarray",
+"rewards": {
+"0": [
+"omnidollar [100]"
+]
+},
+"tasks": {
+"0": [
+"Dimensionally Split Neural Superarray"
+]
+}
+},
+"821": {
+"icon": "Dimensionally Split Neural Superarray",
+"rewards": {
+"0": [
+"omnidollar [100]"
+]
+},
+"tasks": {
+"0": [
+"Dimensionally Split Neural Superarray"
+]
+}
+},
+"83": {
+"icon": "Advanced Precision Laser Engraver",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Advanced Precision Laser Engraver"
+]
+}
+},
+"84": {
+"icon": "Integrated Circuit Wafer",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Integrated Circuit Wafer",
+"RAM Wafer",
+"Integrated Circuit",
+"RAM"
+]
+}
+},
+"85": {
+"icon": "Air",
+"rewards": {},
+"tasks": {}
+},
+"86": {
+"icon": "Basic Electronic Circuit",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Basic Electronic Circuit"
+]
+}
+},
+"87": {
+"icon": "Electronic Processor",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Electronic Processor"
+]
+}
+},
+"88": {
+"icon": "Almandine Lens",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Ruby Lens",
+"Diamond Lens",
+"Glass Lens"
+]
+}
+},
+"89": {
+"icon": "Electronic Processor Array",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Electronic Processor Array"
+]
+}
+},
+"9": {
+"icon": "Crushed Redstone Ore",
+"rewards": {},
+"tasks": {}
+},
+"90": {
+"icon": "Advanced Assembling Machine",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Advanced Assembling Machine"
+]
+}
+},
+"91": {
+"icon": "Chrome Dust",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Chrome Dust"
+]
+}
+},
+"92": {
+"icon": "Farmer",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Farmer"
+]
+}
+},
+"93": {
+"icon": "HV Machine Hull",
+"rewards": {
+"0": [
+"omnidollar [100]"
+]
+},
+"tasks": {
+"0": [
+"HV Machine Hull"
+]
+}
+},
+"94": {
+"icon": "Sulfuric Acid Bucket",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Sulfuric Acid"
+]
+}
+},
+"95": {
+"icon": "Ethylene Bucket",
+"rewards": {
+"0": [
+"omninickel [5]"
+]
+},
+"tasks": {
+"0": [
+"Polyethylene"
+]
+}
+},
+"96": {
+"icon": "Polyethylene Sheet",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Polyethylene Sheet"
+]
+}
+},
+"97": {
+"icon": "ME Storage Bus",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"ME Storage Bus",
+"Crafting Card"
+]
+}
+},
+"98": {
+"icon": "Stainless Steel Plate",
+"rewards": {
+"0": [
+"omniquarter [25]"
+]
+},
+"tasks": {
+"0": [
+"Stainless Steel Dust",
+"Stainless Steel Ingot"
+]
+}
+},
+"99": {
+"icon": "Mote of Omnium",
+"rewards": {
+"0": [
+"omnidollar [100]"
+]
+},
+"tasks": {
+"0": [
+"Stabilized Einsteinium",
+"Mote of Omnium"
+]
+}
+}
+}
+}

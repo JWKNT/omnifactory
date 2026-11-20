@@ -48,3 +48,102 @@
 }
 @media (prefers-reduced-motion: reduce) { .listing > summary::before { transition: none; } }
 @media print { .listing-fallback { display: none !important; } }
+
+/* Quest book. The map follows the game's layout: one unit of the game's map is --u screen
+   pixels. The four state colours follow the game's book: green, teal, red, grey. */
+.omni-main.quest-page { width: min(82rem, calc(100% - 2 * var(--gutter, 1.5rem))); }
+.qb, .qb-dialog { --q-complete: var(--good); --q-unclaimed: var(--tone-teal); --q-open: var(--bad); --q-locked: var(--line-strong); }
+.qb [data-state="complete"], .qb-dialog [data-state="complete"] { --c: var(--q-complete); }
+.qb [data-state="unclaimed"], .qb-dialog [data-state="unclaimed"] { --c: var(--q-unclaimed); }
+.qb [data-state="open"], .qb-dialog [data-state="open"] { --c: var(--q-open); }
+.qb [data-state="locked"], .qb-dialog [data-state="locked"] { --c: var(--q-locked); }
+.qb { display: grid; grid-template-columns: 13.5rem minmax(0, 1fr); gap: 1.5rem; align-items: start; margin-top: 1.75rem; padding-top: 1.25rem; border-top: 1px solid var(--line-strong); }
+
+.qb-lines { display: flex; flex-direction: column; }
+.qb-line { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: .5rem; align-items: baseline; margin: 0 0 -1px; padding: .5rem .65rem; border-color: var(--line); text-align: left; line-height: 1.3; }
+.qb-line[aria-pressed="true"] { position: relative; z-index: 1; }
+.qb-line:is(:hover, :focus-visible) { position: relative; z-index: 2; }
+.qb-line-count { color: var(--muted); font: var(--text-meta)/1.4 var(--mono); font-variant-numeric: tabular-nums; }
+.qb-line[data-state="complete"] .qb-line-count { color: var(--q-complete); }
+.qb-line[aria-pressed="true"] .qb-line-count { color: inherit; }
+
+.qb-line-head h2 { margin: 0; font-size: 1.35rem; line-height: 1.25; }
+.qb-line-desc { max-width: var(--measure); margin: .4rem 0 0; text-align: left; hyphens: manual; color: var(--muted-strong); font: var(--text-ui)/1.5 var(--ui, var(--serif)); }
+.qb-line-desc p { margin: 0 0 .35rem; }
+.qb-tools { display: flex; flex-wrap: wrap; gap: .6rem 1rem; align-items: center; margin: .9rem 0 .6rem; }
+.qb-zoom button { min-width: var(--control-size); }
+.qb-legend { display: flex; flex-wrap: wrap; gap: .25rem .9rem; margin: 0 0 0 auto; padding: 0; list-style: none; color: var(--muted-strong); font: var(--text-meta)/1.5 var(--ui, var(--serif)); }
+.qb-legend li { display: inline-flex; gap: .35rem; align-items: center; }
+.qb-key { display: inline-block; flex: none; width: .7rem; height: .7rem; border: 2px solid var(--c, var(--q-locked)); background: color-mix(in srgb, var(--c, transparent) 16%, var(--paper)); }
+.qb-key[data-state="open"], .qb-key[data-state="locked"] { background: var(--paper); }
+.qb-status { margin: .6rem 0 0; color: var(--muted); font: var(--text-meta)/1.5 var(--ui, var(--serif)); }
+
+.qb-map { position: relative; height: clamp(20rem, 68vh, 46rem); overflow: auto; overscroll-behavior: contain; border: 1px solid var(--line-strong); background: var(--surface); cursor: grab; }
+.qb-map.is-dragging { cursor: grabbing; user-select: none; }
+.qb-canvas { position: relative; width: calc(var(--w, 0) * var(--u, 1.5) * 1px); height: calc(var(--h, 0) * var(--u, 1.5) * 1px); margin: 0 auto; }
+.qb-canvas svg { position: absolute; inset: 0; width: 100%; height: 100%; overflow: visible; pointer-events: none; }
+.qb-edge { stroke: var(--q-locked); stroke-width: 2px; vector-effect: non-scaling-stroke; }
+.qb-edge[data-state="open"] { stroke: var(--warn); }
+.qb-edge[data-state="complete"] { stroke: var(--q-complete); }
+.qb-edge[data-implicit] { stroke-dasharray: 5 4; }
+.qb-node { position: absolute; left: calc(var(--x) * var(--u) * 1px); top: calc(var(--y) * var(--u) * 1px); width: calc(var(--nw) * var(--u) * 1px); height: calc(var(--nh) * var(--u) * 1px); display: grid; place-items: center; min-height: 0; margin: 0; padding: 0; overflow: hidden; border: 2px solid var(--c); background: var(--paper); color: var(--ink); cursor: pointer; }
+.qb-node:hover:not(:disabled) { border-color: var(--c); background: var(--paper); filter: brightness(1.06); z-index: 2; }
+.qb-node[data-state="complete"], .qb-node[data-state="unclaimed"] { background: color-mix(in srgb, var(--c) 16%, var(--paper)); }
+.qb-node[data-state="complete"]:hover, .qb-node[data-state="unclaimed"]:hover { background: color-mix(in srgb, var(--c) 26%, var(--paper)); }
+.qb-node[data-state="locked"] { color: var(--muted); }
+/* A main quest of the pack has a second frame. */
+.qb-node[data-main] { box-shadow: 0 0 0 2px var(--surface), 0 0 0 3px var(--c); }
+.qb-node[data-current] { outline: 2px solid var(--blue); outline-offset: 3px; z-index: 2; }
+.qb-mono { font: 600 calc(min(var(--nw), var(--nh)) * var(--u) * .4px)/1 var(--mono); letter-spacing: -.02em; }
+.qb-icon { display: block; width: 72%; height: 72%; background-repeat: no-repeat; image-rendering: pixelated; }
+.qb-node[data-state="locked"] .qb-icon { filter: grayscale(.7) opacity(.75); }
+
+.qb-list { margin: 0; padding: 0; list-style: none; border-top: 1px solid var(--line-strong); }
+.qb-list > li { border-bottom: 1px solid var(--line); }
+.qb-row { display: grid; grid-template-columns: auto minmax(0, 1fr) auto; gap: .65rem; align-items: baseline; width: 100%; min-height: 0; margin: 0; padding: .5rem .25rem; border: 0; background: none; color: var(--ink); text-align: left; line-height: 1.4; }
+.qb-row:hover:not(:disabled) { background: var(--surface); }
+.qb-row[data-state="locked"] .qb-row-name { color: var(--muted-strong); }
+.qb-row-meta { color: var(--muted); font-size: var(--text-meta); text-align: right; }
+
+.qb-dialog { --dialog-width: 44rem; }
+.qb-kicker { margin: 0 0 .3rem; padding-right: 2.5rem; color: var(--muted); font: var(--text-meta)/1.5 var(--ui, var(--serif)); }
+.qb-state { color: var(--c); font-weight: 600; }
+.qb-state[data-state="locked"] { color: var(--muted-strong); }
+.qb-dialog h2 { margin: 0; font-size: 1.45rem; line-height: 1.25; }
+.qb-quest-status { margin: .35rem 0 0; color: var(--muted-strong); font: var(--text-ui)/1.5 var(--ui, var(--serif)); }
+.qb-desc { margin-top: 1rem; padding-top: .9rem; border-top: 1px solid var(--line); line-height: 1.6; overflow-wrap: anywhere; text-align: left; hyphens: manual; }
+.qb-desc p { margin: 0 0 .7rem; }
+.qb-gap { height: 1.5rem; margin: 0; }
+.qb-dialog h3 { margin: 1.2rem 0 .35rem; padding-top: .8rem; border-top: 1px solid var(--line); font-size: 1rem; }
+.qb-tasks, .qb-items, .qb-links { margin: 0; padding: 0; list-style: none; }
+.qb-task > p { margin: .35rem 0 .15rem; color: var(--muted-strong); font: var(--text-ui)/1.5 var(--ui, var(--serif)); }
+.qb-items > li { padding: .12rem 0; font-size: .9375rem; line-height: 1.45; }
+.qb-n { display: inline-block; min-width: 3.2rem; color: var(--muted-strong); font: .8125rem/1.4 var(--mono); font-variant-numeric: tabular-nums; text-align: right; }
+.qb-note { color: var(--muted); font-size: var(--text-meta); }
+.qb-done { color: var(--q-complete); font-weight: 600; }
+.qb-links { display: flex; flex-wrap: wrap; gap: .4rem; }
+.qb-link { display: inline-flex; gap: .4rem; align-items: center; min-height: 0; margin: 0; padding: .3rem .55rem; border-color: var(--line); line-height: 1.3; }
+.qb-visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
+.qb-credit { max-width: var(--measure); margin: 2rem 0 0; color: var(--muted); font: var(--text-meta)/1.6 var(--ui, var(--serif)); }
+.quest-link { margin: .6rem 0 0; font: var(--text-ui)/1.5 var(--ui, var(--serif)); }
+
+/* The pack's text colours: each code keeps one tone, in both colour modes. */
+.mc-6 { color: var(--tone-ochre); } .mc-e { color: var(--warn); }
+.mc-3, .mc-b { color: var(--tone-teal); }
+.mc-a, .mc-2 { color: var(--good); }
+.mc-9, .mc-1 { color: var(--blue); }
+.mc-d, .mc-5 { color: var(--tone-plum); }
+.mc-c, .mc-4 { color: var(--bad); }
+.mc-7, .mc-8 { color: var(--muted); }
+.mc-f, .mc-l { font-weight: 700; } .mc-o { font-style: italic; } .mc-n { text-decoration: underline; } .mc-m { text-decoration: line-through; }
+:is(.mc-6, .mc-e, .mc-3, .mc-b, .mc-a, .mc-2, .mc-9, .mc-1, .mc-d, .mc-5, .mc-c, .mc-4) { font-weight: 600; }
+
+@media (max-width: 56rem) {
+  .qb { grid-template-columns: minmax(0, 1fr); gap: 1rem; }
+  /* The lines become one row that scrolls sideways. */
+  .qb-lines { flex-direction: row; overflow-x: auto; padding-bottom: .35rem; scrollbar-width: thin; }
+  .qb-line { flex: none; margin: 0 -1px 0 0; }
+  .qb-map { height: clamp(18rem, 62vh, 34rem); }
+  .qb-legend { margin-left: 0; }
+}
+@media print { .qb-tools, .qb-lines { display: none !important; } .qb-map { height: auto; overflow: visible; } }
