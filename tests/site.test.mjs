@@ -178,7 +178,7 @@ test('the progress record comes from the saved world and keeps a time once given
 
 test('the quest book page has a tab for each line and a link preview', () => {
   const html = questPage({ book: smallBook });
-  assert.match(html, /<button type="button" class="qb-line" data-line="1" aria-pressed="false"><span class="qb-line-name">First line<\/span>/);
+  assert.match(html, /<button type="button" class="qb-line" data-line="1" aria-pressed="false"><span class="qb-line-pic" data-pic aria-hidden="true"><\/span><span class="qb-line-name">First line<\/span>/);
   assert.doesNotMatch(html, /quests were complete/, 'the shell has no progress numbers; the script adds them');
   const index = buildSite({ notes: [], quests: rules.summary(smallBook, { ticks: 72000, done: { 1: [1200, 1] } }) }).get('index.html');
   assert.match(index, /<a href="\/omnifactory\/quests\/">Quest book<\/a>: 1 of 3 quests complete at <span class="played">1 h 00 min<\/span> played\./, 'two quests are out of sight until they are open');

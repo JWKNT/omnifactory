@@ -20,12 +20,12 @@ Astra's harness is the sibling folder `../greg`. Astra does not write to this re
 
 `quests/index.html` is a copy of the game's quest book: the quest lines as tabs, a map of each line, and Astra's progress. It is one static page. Its script (`assets/quests.js`, with the book's rules in `assets/quest-rules.js`) reads two data files:
 
-- `data/quests/book.json` is the book. `node tools/questbook.mjs` makes it from the pack's files in `../greg/instance` and from `data/quests/names.json`. Run it again only after a pack update. `python3 tools/quest-names.py` reads the item names from the game while it runs; the call only reads.
+- `data/quests/book.json` is the book. `node tools/questbook.mjs` makes it from the pack's files in `../greg/instance`, from `data/quests/names.json` and from `data/quests/icons.json`. Run it again only after a pack update. `python3 tools/quest-names.py` reads the item names from the game while it runs; the call only reads.
 - `data/quests/progress.json` is Astra's standing. `tools/post.mjs` writes it on each run, and `node tools/progress.mjs` writes it by hand. `node tools/progress.mjs --check` only reports a change. The record has quest numbers, time played and claim marks. It must not have a player id or a clock time.
 
 The page shows a quest only when the book in the game shows it. Do not add a view that shows more.
 The quest names and quest text are the pack's work. Keep the credit on the page, and change that text only to correct it.
-There are no item pictures yet: a quest shows two letters. `book.icons` (a sprite sheet and an index) turns the pictures on.
+The item pictures are in one sheet, `data/quests/icons.png`, with its index in `data/quests/icons.json`. Only the game can draw its items. `python3 tools/quest-icons.py` asks the running game to draw each item of the book one time, off screen, and `node tools/quest-sheet.mjs` makes the sheet; then run `node tools/questbook.mjs`. The draw step does no input and puts the graphics state back after each item. Run `--probe` and `--trial` first, and do it again only after a pack update. A quest with no picture shows two letters.
 
 Change the generator in `lib/`, then run `npm test`. The test rebuilds every page.
 Check the link preview of a changed page with `node ../site-theme/tools/check-embeds.mjs <files>` before a push.

@@ -60,7 +60,7 @@
 .qb { display: grid; grid-template-columns: 13.5rem minmax(0, 1fr); gap: 1.5rem; align-items: start; margin-top: 1.75rem; padding-top: 1.25rem; border-top: 1px solid var(--line-strong); }
 
 .qb-lines { display: flex; flex-direction: column; }
-.qb-line { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: .5rem; align-items: baseline; margin: 0 0 -1px; padding: .5rem .65rem; border-color: var(--line); text-align: left; line-height: 1.3; }
+.qb-line { display: grid; grid-template-columns: 1.5rem minmax(0, 1fr) auto; gap: .5rem; align-items: baseline; margin: 0 0 -1px; padding: .5rem .65rem; border-color: var(--line); text-align: left; line-height: 1.3; }
 .qb-line[aria-pressed="true"] { position: relative; z-index: 1; }
 .qb-line:is(:hover, :focus-visible) { position: relative; z-index: 2; }
 .qb-line-count { color: var(--muted); font: var(--text-meta)/1.4 var(--mono); font-variant-numeric: tabular-nums; }
@@ -95,8 +95,15 @@
 .qb-node[data-main] { box-shadow: 0 0 0 2px var(--surface), 0 0 0 3px var(--c); }
 .qb-node[data-current] { outline: 2px solid var(--blue); outline-offset: 3px; z-index: 2; }
 .qb-mono { font: 600 calc(min(var(--nw), var(--nh)) * var(--u) * .4px)/1 var(--mono); letter-spacing: -.02em; }
-.qb-icon { display: block; width: 72%; height: 72%; background-repeat: no-repeat; image-rendering: pixelated; }
-.qb-node[data-state="locked"] .qb-icon { filter: grayscale(.7) opacity(.75); }
+.qb-icon { display: block; width: 78%; height: 78%; background-repeat: no-repeat; }
+.qb-node[data-state="locked"] .qb-icon { filter: grayscale(.6) opacity(.7); }
+/* A small item picture in a line of text: a tab, a list row, an item of a task. */
+.qb-line-pic, .qb-pic { display: inline-block; flex: none; width: 1.5rem; height: 1.5rem; vertical-align: middle; }
+.qb-pic { margin: -.2rem .4rem -.1rem 0; }
+:is(.qb-line-pic, .qb-pic) > .qb-icon { width: 100%; height: 100%; }
+.qb-line-pic { align-self: center; }
+.qb-dialog h2 > .qb-pic { width: 2rem; height: 2rem; margin-right: .55rem; }
+.qb-row[data-state="locked"] .qb-icon { filter: grayscale(.6) opacity(.7); }
 
 .qb-list { margin: 0; padding: 0; list-style: none; border-top: 1px solid var(--line-strong); }
 .qb-list > li { border-bottom: 1px solid var(--line); }

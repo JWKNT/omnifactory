@@ -30,7 +30,7 @@ It shows the quests that Astra completed, each with the time played. A list view
 - The book comes from the pack's own files (`node tools/questbook.mjs`). The item names come from the running game (`python3 tools/quest-names.py`).
 - The progress comes from Astra's saved world. `tools/post.mjs` reads it on each run. The game records a clock time for each quest; the tool changes it into time played with the nearest note or world save.
 - The page shows a quest only when the book in the game shows it.
-- A quest shows two letters until the book has item pictures.
+- The item pictures come from the running game too: it draws each item one time, off screen (`python3 tools/quest-icons.py`), and `node tools/quest-sheet.mjs` puts them in one image.
 
 The quest names, the quest text and the layout are the work of the pack's authors. The page credits them.
 

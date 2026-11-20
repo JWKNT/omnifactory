@@ -84,25 +84,26 @@
   const inBook = id => book.quests[id] && !book.quests[id].off && isShown(id);
   const lineOf = id => (line && line.quests.some(q => q.id === id) ? line : book.lines.find(l => l.quests.some(q => q.id === id && q.w > 0)) || null);
 
-  // Two letters stand for a quest until the book has its item pictures.
+  // Two letters stand for a quest that has no item picture.
   function monogram(name) {
     const words = name.replace(/[^A-Za-z0-9 ]+/g, ' ').trim().split(/\s+/).filter(Boolean);
     if (!words.length) return '?';
     if (words.length === 1) return words[0].slice(0, 1).toUpperCase() + words[0].slice(1, 2).toLowerCase();
     return (words[0][0] + words[1][0]).toUpperCase();
   }
-  function picture(key) {
+  // One picture from the icon sheet, by its number. The sheet is a grid of equal squares.
+  function picture(index) {
     const sheet = book.icons;
-    const at = sheet && sheet.at[key];
-    if (at == null) return null;
+    if (!sheet || !Number.isInteger(index) || index < 0 || index >= sheet.count) return null;
     const rows = Math.ceil(sheet.count / sheet.cols);
-    const col = at % sheet.cols, row = Math.floor(at / sheet.cols);
+    const col = index % sheet.cols, row = Math.floor(index / sheet.cols);
     const span = el('span', { class: 'qb-icon', 'aria-hidden': 'true' });
-    span.style.backgroundImage = `url("${new URL(sheet.src, root.dataset.book).href}")`;
+    span.style.backgroundImage = `url("${new URL(sheet.src, new URL(root.dataset.book, location.href)).href}")`;
     span.style.backgroundSize = `${sheet.cols * 100}% ${rows * 100}%`;
     span.style.backgroundPosition = `${sheet.cols > 1 ? (col / (sheet.cols - 1)) * 100 : 0}% ${rows > 1 ? (row / (rows - 1)) * 100 : 0}%`;
     return span;
   }
+  const small = index => { const p = picture(index); return p ? el('span', { class: 'qb-pic' }, p) : null; };
 
   // ---------------------------------------------------------------- tabs
 
@@ -113,6 +114,8 @@
       const complete = quests.filter(q => done()[q.id]).length;
       button.hidden = quests.length === 0;
       button.setAttribute('aria-pressed', String(Boolean(line && entry === line)));
+      const slot = $('[data-pic]', button);
+      if (slot && entry && !slot.firstChild) { const p = picture(entry.icon); if (p) slot.append(p); }
       button.dataset.state = quests.length && complete === quests.length ? 'complete' : complete ? 'started' : 'none';
       const count = $('[data-count]', button);
       count.textContent = `${complete}/${quests.length}`;
@@ -236,7 +239,7 @@
     listEl.replaceChildren(...rows.map(row => el('li', null,
       el('button', { type: 'button', class: 'qb-row', 'data-quest': row.id, 'data-state': row.state },
         el('span', { class: 'qb-key', 'data-state': row.state, 'aria-hidden': 'true' }),
-        el('span', { class: 'qb-row-name', text: row.quest.name }),
+        el('span', { class: 'qb-row-name' }, small(row.quest.icon), row.quest.name),
         el('span', { class: 'qb-row-meta' }, row.at != null ? el('span', { class: 'played', text: played(row.at) }) : null, row.at != null && row.state === 'unclaimed' ? ' · reward not claimed' : row.at == null ? STATE[row.state] : null)))));
   }
 
@@ -272,7 +275,7 @@
 
   const itemName = item => item.name || `${item.id}${item.d ? `:${item.d}` : ''}`;
   function itemRow(item, have) {
-    return el('li', null, el('span', { class: 'qb-n', text: `${number(item.n)} ×` }), ' ', itemName(item),
+    return el('li', null, el('span', { class: 'qb-n', text: `${number(item.n)} ×` }), ' ', small(item.i), itemName(item),
       item.ore ? el('span', { class: 'qb-note', text: ` (or another ${item.ore})` }) : null,
       have != null && have > 0 ? el('span', { class: 'qb-note', text: ` · the book counted ${number(have)}` }) : null);
   }
@@ -281,7 +284,7 @@
     if (!inBook(id) || !lineOf(id)) return el('span', { class: 'qb-note', text: quest && !quest.off ? `${quest.name} (not shown yet)` : 'A step that the book does not show' });
     const state = stateOf(id);
     return el('button', { type: 'button', class: 'qb-link', 'data-quest': id },
-      el('span', { class: 'qb-key', 'data-state': state, 'aria-hidden': 'true' }), el('span', { text: quest.name }), el('span', { class: 'qb-visually-hidden', text: `: ${STATE[state]}` }));
+      el('span', { class: 'qb-key', 'data-state': state, 'aria-hidden': 'true' }), small(quest.icon), el('span', { text: quest.name }), el('span', { class: 'qb-visually-hidden', text: `: ${STATE[state]}` }));
   }
 
   function showQuest(id, { hash = true } = {}) {
@@ -313,7 +316,7 @@
 
     dialogBody.replaceChildren(...[
       el('p', { class: 'qb-kicker' }, home ? home.name : 'Quest book', ' · ', el('span', { class: 'qb-state', 'data-state': state, text: STATE[state] })),
-      el('h2', { id: 'quest-title', text: quest.name }),
+      el('h2', { id: 'quest-title' }, small(quest.icon), quest.name),
       el('p', { class: 'qb-quest-status', text: status }),
       quest.repeat != null ? el('p', { class: 'qb-quest-status', text: `This quest can be done again after ${played(quest.repeat)} of play.` }) : null,
       el('div', { class: 'qb-desc' }, formatted(quest.desc)),
