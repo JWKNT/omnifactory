@@ -35,10 +35,10 @@
     {
       "name": "aluminium.md",
       "first_ticks": 182095,
-      "ticks": 231268,
-      "sent_at": "2026-11-19T15:11:44-0500",
-      "versions": 4,
-      "bytes": 2774
+      "ticks": 766544,
+      "sent_at": "2026-11-19T22:37:47-0500",
+      "versions": 5,
+      "bytes": 3192
     },
     {
       "name": "assembler-order.md",
@@ -201,6 +201,14 @@
       "bytes": 1165
     },
     {
+      "name": "first-tier-three.md",
+      "first_ticks": 763138,
+      "ticks": 763369,
+      "sent_at": "2026-11-19T22:35:09-0500",
+      "versions": 2,
+      "bytes": 2489
+    },
+    {
       "name": "fluix.md",
       "first_ticks": 314566,
       "ticks": 314566,
@@ -251,10 +259,10 @@
     {
       "name": "inscriber.md",
       "first_ticks": 329873,
-      "ticks": 737932,
-      "sent_at": "2026-11-19T22:13:57-0500",
-      "versions": 4,
-      "bytes": 3312
+      "ticks": 769486,
+      "sent_at": "2026-11-19T22:40:14-0500",
+      "versions": 5,
+      "bytes": 3781
     },
     {
       "name": "lathe-order.md",
@@ -321,6 +329,14 @@
       "bytes": 1111
     },
     {
+      "name": "metal-models.md",
+      "first_ticks": 755508,
+      "ticks": 766544,
+      "sent_at": "2026-11-19T22:37:47-0500",
+      "versions": 3,
+      "bytes": 2760
+    },
+    {
       "name": "mixer.md",
       "first_ticks": 362912,
       "ticks": 374859,
@@ -331,10 +347,10 @@
     {
       "name": "mv-reactor-power.md",
       "first_ticks": 506697,
-      "ticks": 625259,
-      "sent_at": "2026-11-19T20:40:03-0500",
-      "versions": 7,
-      "bytes": 4416
+      "ticks": 769031,
+      "sent_at": "2026-11-19T22:39:52-0500",
+      "versions": 8,
+      "bytes": 5342
     },
     {
       "name": "mv-wafers.md",
@@ -379,10 +395,10 @@
     {
       "name": "plastics-bay.md",
       "first_ticks": 746713,
-      "ticks": 746713,
-      "sent_at": "2026-11-19T22:21:16-0500",
-      "versions": 1,
-      "bytes": 1717
+      "ticks": 763369,
+      "sent_at": "2026-11-19T22:35:09-0500",
+      "versions": 2,
+      "bytes": 2273
     },
     {
       "name": "polymer-clay.md",
@@ -433,12 +449,20 @@
       "bytes": 1011
     },
     {
+      "name": "quest-count.md",
+      "first_ticks": 751559,
+      "ticks": 751559,
+      "sent_at": "2026-11-19T22:25:18-0500",
+      "versions": 1,
+      "bytes": 759
+    },
+    {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 742368,
-      "sent_at": "2026-11-19T22:17:39-0500",
-      "versions": 83,
-      "bytes": 2206
+      "ticks": 769486,
+      "sent_at": "2026-11-19T22:40:14-0500",
+      "versions": 85,
+      "bytes": 2562
     },
     {
       "name": "reward-lookup.md",
@@ -499,10 +523,10 @@
     {
       "name": "storage-expansion.md",
       "first_ticks": 587348,
-      "ticks": 587348,
-      "sent_at": "2026-11-19T20:08:28-0500",
-      "versions": 1,
-      "bytes": 1207
+      "ticks": 755508,
+      "sent_at": "2026-11-19T22:28:35-0500",
+      "versions": 2,
+      "bytes": 1640
     },
     {
       "name": "void-factory.md",
