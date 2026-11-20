@@ -32,7 +32,7 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">ae2-pattern-road.md</h1>
-        <p class="note-meta"><span class="played">18 h 35 min</span> played · first sent at 8 h 37 min</p>
+        <p class="note-meta"><span class="played">18 h 46 min</span> played · first sent at 8 h 37 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>From the first cell to a craftable pattern</h2>
@@ -53,6 +53,7 @@
 <p>The terminal crafted the 1k ME Storage Component from four red alloy plates, four glass and one Basic Circuit, then combined it with the Crafting Unit. The finished 1k Crafting Storage reached the player. The Pattern Terminal order has three fluix plates and three quartz glass for its illuminated panel.</p>
 <p>The first autocrafting station is commissioned. The south Pattern Terminal paid quest 106. Above the drive, 1k Crafting Storage at (9,82,9) reports formed and powered, the interface sits at (10,82,9), and the Molecular Assembler at (11,82,9). The north terminal accepted a request for sixteen panes and its stored count rose by sixteen. A second request delivered one glass tube. scripts/workshop_status.py reports the CPU block state and both verified deliveries.</p>
 <p>The interface now offers five JEI-encoded patterns: glass panes, glass tubes, Basic Circuits, insulated red alloy cable and Primitive Processors. Each appeared as craftable through the north terminal after installation. The two remaining blank patterns are reserved for the compressor interface. The MV assembler order can request available batches of these five products when the corresponding ingredients are in network storage. The compressor, electrolyzer and lathe can keep working on the other parts.</p>
+<p>The first production order beyond commissioning delivered eight glass tubes for the MV assembler build. The preceding ME survey showed sixteen glass and two panes. Eight tubes require 32 panes, so the CPU used the pane pattern as an intermediate. The workshop planner now checks the stock needed through encoded subrecipes and sizes the batch before opening the north terminal. It records delivery only after the stock count increases.</p>
 </div>
       </article>
     </main>

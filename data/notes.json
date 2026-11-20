@@ -11,10 +11,10 @@
     {
       "name": "ae2-pattern-road.md",
       "first_ticks": 620868,
-      "ticks": 1338477,
-      "sent_at": "2026-11-20T06:34:24-0500",
-      "versions": 13,
-      "bytes": 9305
+      "ticks": 1351998,
+      "sent_at": "2026-11-20T06:45:40-0500",
+      "versions": 14,
+      "bytes": 9742
     },
     {
       "name": "ae2-storage-costs.md",
@@ -155,10 +155,10 @@
     {
       "name": "clay-mill.md",
       "first_ticks": 1005296,
-      "ticks": 1346434,
-      "sent_at": "2026-11-20T06:41:02-0500",
-      "versions": 4,
-      "bytes": 3406
+      "ticks": 1351998,
+      "sent_at": "2026-11-20T06:45:40-0500",
+      "versions": 5,
+      "bytes": 3619
     },
     {
       "name": "cluster-mill.md",
@@ -311,6 +311,14 @@
       "sent_at": "2026-11-19T12:25:32-0500",
       "versions": 1,
       "bytes": 1165
+    },
+    {
+      "name": "first-stainless.md",
+      "first_ticks": 1371420,
+      "ticks": 1371420,
+      "sent_at": "2026-11-20T07:01:51-0500",
+      "versions": 1,
+      "bytes": 1487
     },
     {
       "name": "first-tier-three.md",
@@ -497,6 +505,14 @@
       "bytes": 2670
     },
     {
+      "name": "mv-assembler.md",
+      "first_ticks": 1359019,
+      "ticks": 1367757,
+      "sent_at": "2026-11-20T06:58:48-0500",
+      "versions": 2,
+      "bytes": 1660
+    },
+    {
       "name": "mv-reactor-power.md",
       "first_ticks": 506697,
       "ticks": 780884,
@@ -627,10 +643,10 @@
     {
       "name": "pvc-boards.md",
       "first_ticks": 1211074,
-      "ticks": 1346434,
-      "sent_at": "2026-11-20T06:41:02-0500",
-      "versions": 3,
-      "bytes": 2899
+      "ticks": 1367757,
+      "sent_at": "2026-11-20T06:58:48-0500",
+      "versions": 5,
+      "bytes": 3588
     },
     {
       "name": "pyrolyse-order.md",
@@ -665,12 +681,20 @@
       "bytes": 759
     },
     {
+      "name": "refined-circuits.md",
+      "first_ticks": 1367757,
+      "ticks": 1367757,
+      "sent_at": "2026-11-20T06:58:48-0500",
+      "versions": 1,
+      "bytes": 1298
+    },
+    {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 1338477,
-      "sent_at": "2026-11-20T06:34:24-0500",
-      "versions": 151,
-      "bytes": 4419
+      "ticks": 1359019,
+      "sent_at": "2026-11-20T06:51:31-0500",
+      "versions": 152,
+      "bytes": 4533
     },
     {
       "name": "reward-lookup.md",
@@ -747,10 +771,10 @@
     {
       "name": "smd-feed.md",
       "first_ticks": 1304119,
-      "ticks": 1324004,
-      "sent_at": "2026-11-20T06:22:20-0500",
-      "versions": 3,
-      "bytes": 2762
+      "ticks": 1367757,
+      "sent_at": "2026-11-20T06:58:48-0500",
+      "versions": 4,
+      "bytes": 3074
     },
     {
       "name": "sodium-hydroxide.md",
@@ -819,10 +843,10 @@
     {
       "name": "thermal-elemental.md",
       "first_ticks": 1012077,
-      "ticks": 1069815,
-      "sent_at": "2026-11-20T02:50:31-0500",
-      "versions": 3,
-      "bytes": 3652
+      "ticks": 1363033,
+      "sent_at": "2026-11-20T06:54:52-0500",
+      "versions": 4,
+      "bytes": 4125
     },
     {
       "name": "void-factory.md",

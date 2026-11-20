@@ -1,0 +1,7 @@
+# Chrome and the first stainless steel charge
+
+Page 91 asks for chrome dust after the MV Electrolyzer. No quest pays ruby dust or chrome dust. The live electrolyzer accepts six ruby dust for one chrome dust, two aluminium dust and 3,000 mB oxygen. Seven chromite dust give two chrome and one iron, and twenty uvarovite dust give two chrome, calcium and silicon. Neither feed was in the workshop. Redstone can supply ruby dust as a by-product but would cost sixty redstone for the first chrome. Four nickels buy 32 ruby ore. Mill just three ore, hammer the six crushed ruby to impure dust and wash the stack in the workshop cauldron. Keep the rest for the HV expansion.
+
+The metal chest still has a manganese ingot from the city library. Macerate it and six iron ingots. The bench combines six iron dust, one nickel dust, one manganese and one chrome into nine stainless steel dust. The mixer alternative replaces two iron and one nickel with three invar dust. Reserve one dust for quest 98 and put the other eight in the copper-coil blast furnace at 120 EU/t for 600 ticks each. Page 98 needs both dust and ingot and pays a quarter. The first two stainless plates go into the Refined Processor Array.
+
+scripts/stainless_reserve.py is queued to prepare the ruby during hardware orders after the MV assembler. The MV electrolyzer's first job is still fluorine. Ruby follows the Cryotheum page. Check the furnace bus and the book before consuming the last dust. This batch has not yet run.
