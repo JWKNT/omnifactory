@@ -1,0 +1,5 @@
+# Buying and firing materials for the plastics machines
+
+The stock-adjusted bill for the dedicated MV ethylene reactor, LV polymer reactor and LV solidifier came up short twelve copper ore, thirteen iron ore, eight tin ore, forty slimeballs, thirty paper and 34 cobblestone. Each 32-ore purchase costs two nickels. Buy copper and iron first. The Skeleton model is already producing tin. The existing rubber reserve includes 37 slimeballs and two Pristine Slime Matter. A fabricator run converts the two pristine into 64 more slimeballs without taking the Skeleton out of its chamber.
+
+While the steel molds are in production, smelt spare slimeballs in coke-fired ordinary furnaces. A coke fires sixteen items. Keep at least one slimeball for crafts. Make glass from cobblestone through gravel and sand in the macerator, then fire the sand in a spare furnace. The void generator drawer supplies full stacks. The chemical bath can make 32 paper from eight rubber logs ground into pulp. Hold eight other logs for construction. Once all three machines are ready, use the separate MV reactor so that the existing clathrate line can continue supplying polymer clay.

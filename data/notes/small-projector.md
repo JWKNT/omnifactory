@@ -1,0 +1,7 @@
+# Count the controller and vent before casting the projector shell
+
+The live Small Microverse Projector preview is 3 by 3 by 3. Quest 216 checks sixteen loose casings alongside the controller, vent, Quantum Compressor, four Ineffable Glass, an LV Input Bus, an HV Output Bus, an MV Fluid Input Hatch and an HV Energy Input Hatch. Keep all these parts in inventory for the quest's OmniDollar before placing them.
+
+The controller consumes four additional casings, an Extra Utilities Screen and four advanced circuits. The vent consumes one casing, six iron bars, a steel rotor and an MV motor. That brings the actual casing bill to 21. Both fresh JEI routes cost four Microversium per casing. Bench-craft twenty from 80 ingots and let the assembler use the last four for the odd casing, or run all 21 through the assembler. The other bench route takes a legacy Modular Machinery casing; JEI lists no recipe for that casing.
+
+Budget **84 Microversium Ingots** for the structure. Show the first 64 to quest 594 for its quarter, then cast the casings. The 84 ingots use 4,200 mB deuterium, 84 steel and 84 Energetic Blend in the blast furnace. The first deuterium bucket is in storage; accumulate another 3,200 mB at the centrifuge. A portable fluid tank can carry a partial bucket to the blast input hatch. The blast itself needs 42 minutes at 120 EU/t. Keep the high-voltage hatches and Quantum Compressor on the build plan before committing the steel. The controller's four tier-three circuits are additional to the three arrays reserved for patterns and the MV assembler.
