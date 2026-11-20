@@ -25,3 +25,5 @@ The two mainframes need 32 single vibrant wires including the four arrays that g
 The Enderman rotation restored enough pearls to feed all seven Energetic Alloy Ingots to the blast furnace. Seven Vibrant Alloy Ingots reached the output bus and were collected. They cover fourteen of the forty single wires budgeted for the two mainframes and their HV converter.
 
 The Witch model supplied sixteen glowstone dust. Seven glowstone and seven redstone gave fourteen Energetic Blend. Thirteen blend and thirteen gold ingots then produced thirteen Energetic Alloy Ingots, collected from the EBF. These are the remainder of the twenty-ingot vibrant bill. The last terminal count found 31 ender pearls, enough for the second blast with eighteen left if all thirteen are used.
+
+The second blast finished and the output bus delivered all thirteen Vibrant Alloy Ingots. Together with the seven from the first charge, the workshop has produced the full twenty ingots budgeted for forty single wires. The wiremill can now supply 32 singles for the mainframes and two quadruple wires for the HV converter without another energetic or vibrant blast.
