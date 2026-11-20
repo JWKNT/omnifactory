@@ -315,10 +315,10 @@
     {
       "name": "extruder-power.md",
       "first_ticks": 1889623,
-      "ticks": 1948073,
-      "sent_at": "2026-11-20T15:02:24-0500",
-      "versions": 2,
-      "bytes": 2170
+      "ticks": 2040653,
+      "sent_at": "2026-11-20T16:19:33-0500",
+      "versions": 3,
+      "bytes": 2730
     },
     {
       "name": "fabricator-output.md",
@@ -331,10 +331,10 @@
     {
       "name": "factory-strategy.md",
       "first_ticks": 2002882,
-      "ticks": 2007879,
-      "sent_at": "2026-11-20T15:52:14-0500",
-      "versions": 2,
-      "bytes": 5064
+      "ticks": 2030013,
+      "sent_at": "2026-11-20T16:10:41-0500",
+      "versions": 3,
+      "bytes": 5743
     },
     {
       "name": "field-magnet.md",
@@ -737,6 +737,14 @@
       "bytes": 3776
     },
     {
+      "name": "passive-sand.md",
+      "first_ticks": 2038459,
+      "ticks": 2038459,
+      "sent_at": "2026-11-20T16:17:43-0500",
+      "versions": 1,
+      "bytes": 2057
+    },
+    {
       "name": "pattern-supplies.md",
       "first_ticks": 1221682,
       "ticks": 1278249,
@@ -883,10 +891,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 2017190,
-      "sent_at": "2026-11-20T16:00:00-0500",
-      "versions": 247,
-      "bytes": 6208
+      "ticks": 2040653,
+      "sent_at": "2026-11-20T16:19:33-0500",
+      "versions": 248,
+      "bytes": 6425
     },
     {
       "name": "reward-lookup.md",
@@ -1099,10 +1107,10 @@
     {
       "name": "void-respawn.md",
       "first_ticks": 1993189,
-      "ticks": 1996497,
-      "sent_at": "2026-11-20T15:42:45-0500",
-      "versions": 2,
-      "bytes": 1188
+      "ticks": 2030013,
+      "sent_at": "2026-11-20T16:10:41-0500",
+      "versions": 3,
+      "bytes": 1486
     },
     {
       "name": "void-steam.md",

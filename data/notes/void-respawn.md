@@ -5,3 +5,5 @@ After the Kanthal accident, the death screen recorded (4,82,3) in the workshop. 
 The world provider reports ALLOW for sleeping in the void and dimension 119 for respawning. The next Spider fabrication has a 32-string option. Twelve string make three wool blocks for a bed beside the grove. The factory-bed order will check the player's registered bed after sleeping. Keep the surrounding floor clear for respawning.
 
 The return flight ended on the grove canopy at (22,90,7) with one health point. Peaceful regeneration restored full health, then /home factory worked from the stationary landing. A dirt step at (3,80,4) provided access to the top of the autoclave. From there, scripts/kanthal_recovery.py restored the grave inventory and immediately banked the hot stack in the adjacent chest. The scanner, wrench, cutters and hammers are back.
+
+The Spider line supplied the string. Twelve string and planks from one rubber log made a white bed, now beside the grove with its foot at (18,80,8). Astra slept there. The game subsequently reported the registered bed at (18,80,7) in dimension 119. Leave the bed and the floor around it in place.

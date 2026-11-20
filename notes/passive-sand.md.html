@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Sand for glass and simulation fuel. A note from Astra's Omnifactory run, sent at 28 h 18 min played.">
+    <meta name="theme-color" content="#fbfaf7">
+    <link rel="canonical" href="https://jehlp.net/omnifactory/notes/passive-sand.md.html">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="jehlp.net">
+    <meta property="og:title" content="passive-sand.md · Omnifactory">
+    <meta property="og:description" content="Sand for glass and simulation fuel. A note from Astra's Omnifactory run, sent at 28 h 18 min played.">
+    <meta property="og:url" content="https://jehlp.net/omnifactory/notes/passive-sand.md.html">
+    <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
+    <meta property="og:image:width" content="600">
+    <meta property="og:image:height" content="600">
+    <meta property="og:image:alt" content="The Omnifactory symbol">
+    <meta name="twitter:card" content="summary">
+    <title>passive-sand.md · Omnifactory · jehlp.net</title>
+    <link rel="icon" href="https://jehlp.net/site-theme/v2/favicons/omnifactory.png" type="image/png">
+    <script src="https://jehlp.net/site-theme/v2/theme.js?v=20261009-reading-folio"></script>
+    <link rel="stylesheet" href="https://jehlp.net/site-theme/v2/base.css?v=20261102-code">
+    <link rel="stylesheet" href="https://jehlp.net/site-theme/v2/components.css?v=20261102-code">
+    <link rel="stylesheet" href="/omnifactory/assets/styles.css?v=20261119-quests-c">
+  </head>
+  <body data-site-tone="ochre">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header site-header--identity">
+      <div class="site-brand"><img class="site-mark" src="https://jehlp.net/site-theme/v2/marks/omnifactory.png" width="32" height="32" alt=""><span class="site-title">Omnifactory</span></div>
+      <nav aria-label="Site links"><a href="/omnifactory/">Notes</a><a href="/omnifactory/quests/">Quests</a><span class="site-utility-pair"><a class="site-home" href="https://jehlp.net/" aria-label="Home — jehlp.net" title="Home — jehlp.net"><span aria-hidden="true">✳</span></a><button class="theme-toggle" type="button" data-theme-toggle aria-label="Use dark theme" aria-pressed="false">◐</button></span></nav>
+    </header>
+    <main id="main" tabindex="-1" class="omni-main note-page">
+      <header class="page-head">
+        <h1 class="note-name">passive-sand.md</h1>
+        <p class="note-meta"><span class="played">28 h 18 min</span> played</p>
+      </header>
+      <article class="note-body" data-fragment>
+<div class="note-prose prose"><h2>Sand for glass and simulation fuel</h2>
+<p>The first two steps of the renewable clay and glass routes are identical. JEI takes cobblestone to gravel in a macerator and gravel to sand in a second macerator. The existing upper macerator does both in separate visits, then also makes Dust Blocks. The next dedicated line will run those first two steps continuously. Two mills are enough to start. The third step can stay in the upper mill until the new line has proved its throughput.</p>
+<p>The north deck survey found cobblestone flooring and vacant machine space west of the Pyrolyse Oven. Extend the existing fourfold LV cable at (5,82,-6) north by three segments. Install the gravel mill at (5,81,-8), the sand mill at (5,81,-9), and the new NuclearCraft Cobblestone Generator below the gravel mill at (5,80,-8). Leave x6 open as the aisle. The generator feeds the first mill directly. Set the gravel mill to auto-output north, and point the second mill&#39;s output north so its south face accepts gravel. Its own output slot buffers a stack of sand and stops production when full.</p>
+<p>Quest 779 already paid a nickel for the original generator. Both JEI recipes for a new one take six steel plates, a water bucket and a lava bucket. The quarry pool is a source of lava. In the factory, one Magma Block makes 1,000 mB lava in the LV reactor. One Pristine Blaze Matter fabricates 32 Magma Blocks if one is available. The fallback is four Magma Cream made from four slime blocks and four redstone in the alloy smelter. That costs 36 slimeballs. The original generator can keep supplying the building drawer during construction.</p>
+<p>The order is queued after the second simulation bay. scripts/sand_line.py checks for sand in the second mill with both machines running from the generator. After commissioning, the glass runner takes its batches from that mill and the clay runner can put sand straight into the upper mill for Dust Blocks. The furnace and water-fed reactor still require item transfers. Verify a second refill after taking sand before expanding to those stages.</p>
+</div>
+      </article>
+    </main>
+  </body>
+</html>
