@@ -1,6 +1,8 @@
 # Resume at the void workshop
 
-The last verified book count was 217 of 644 chapter quests. Start with `python3 scripts/workshop_status.py`. It reads the recorder, the live campaign PID and log, workshop machines and the latest storage survey. When wafer_campaign.py is running, follow its log. It already controls the player. If it has exited, inspect its first error and the affected machine before resuming with `python3 scripts/wafer_campaign.py` from the void workshop.
+The last verified book count was 225 of 644 chapter quests. Start with `python3 scripts/workshop_status.py`. It reads the recorder, the live campaign PID and log, workshop machines and the latest storage survey. When wafer_campaign.py is running, follow its log. It already controls the player. If it has exited, inspect its first error and the affected machine before resuming with `python3 scripts/wafer_campaign.py` from the void workshop.
+
+The palladium page is claimed. Astra recovered the grave after the Kanthal charge and stored all nine hot ingots in the chest over the crafting table. The current factory order makes the MV emitters for the Atomic Reconstructor. Follow reconstructor-optics.md, kanthal-coils.md and void-respawn.md.
 
 ## Current work
 

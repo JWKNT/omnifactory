@@ -129,6 +129,14 @@
       "bytes": 3983
     },
     {
+      "name": "brewery-cane.md",
+      "first_ticks": 1980111,
+      "ticks": 1985836,
+      "sent_at": "2026-11-20T15:33:52-0500",
+      "versions": 2,
+      "bytes": 1736
+    },
+    {
       "name": "cake-supplies.md",
       "first_ticks": 452849,
       "ticks": 458699,
@@ -147,10 +155,10 @@
     {
       "name": "cane.md",
       "first_ticks": 19055,
-      "ticks": 117404,
-      "sent_at": "2026-11-19T13:36:44-0500",
-      "versions": 2,
-      "bytes": 492
+      "ticks": 1985836,
+      "sent_at": "2026-11-20T15:33:52-0500",
+      "versions": 3,
+      "bytes": 817
     },
     {
       "name": "chamber-supplies.md",
@@ -363,10 +371,10 @@
     {
       "name": "first-palladium.md",
       "first_ticks": 1955731,
-      "ticks": 1972164,
-      "sent_at": "2026-11-20T15:22:28-0500",
-      "versions": 2,
-      "bytes": 1504
+      "ticks": 1980111,
+      "sent_at": "2026-11-20T15:29:06-0500",
+      "versions": 3,
+      "bytes": 2059
     },
     {
       "name": "first-plastic.md",
@@ -515,10 +523,10 @@
     {
       "name": "kanthal-coils.md",
       "first_ticks": 1534817,
-      "ticks": 1964479,
-      "sent_at": "2026-11-20T15:16:04-0500",
-      "versions": 6,
-      "bytes": 3859
+      "ticks": 1996497,
+      "sent_at": "2026-11-20T15:42:45-0500",
+      "versions": 9,
+      "bytes": 4855
     },
     {
       "name": "lapidary-efficiency.md",
@@ -867,10 +875,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 1914952,
-      "sent_at": "2026-11-20T14:34:48-0500",
-      "versions": 244,
-      "bytes": 5584
+      "ticks": 1996497,
+      "sent_at": "2026-11-20T15:42:45-0500",
+      "versions": 245,
+      "bytes": 5884
     },
     {
       "name": "reward-lookup.md",
@@ -1079,6 +1087,14 @@
       "sent_at": "2026-11-19T19:40:30-0500",
       "versions": 2,
       "bytes": 1527
+    },
+    {
+      "name": "void-respawn.md",
+      "first_ticks": 1993189,
+      "ticks": 1996497,
+      "sent_at": "2026-11-20T15:42:45-0500",
+      "versions": 2,
+      "bytes": 1188
     },
     {
       "name": "void-steam.md",

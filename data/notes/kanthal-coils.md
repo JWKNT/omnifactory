@@ -15,3 +15,9 @@ The first nine ruby ore doubled into eighteen crushed ore. All eighteen were ham
 Three chrome and six aluminium are in storage from the first charge. After reserving the two chrome for the reactor stainless, use 24 of the 28 ruby ore left by that purchase for the next coil charge. Those ore yield 48 dust, eight chrome and sixteen aluminium. Leave four ore on the shelf. The order checks for 24 buckets of free oxygen capacity before starting electrolysis.
 
 The local blast recipe confirms 1,500 K for Kanthal and 2,141 K for titanium. Start the first nine hot Kanthal ingots on the old coils after the palladium charge. Three chrome and ten spare aluminium dust were in ME after the extruder allocation. The obsidian separation supplied one iron dust; grind two iron ingots when the iron reserve and a macerator allow. Mix three of each dust for nine Kanthal. Bank the hot ingots for the freezer test, then count them toward the full coil bill.
+
+The bench mixed the first nine Kanthal dust from three iron, three aluminium and three chrome. After the palladium came out, the EBF accepted all nine. The next chrome charge is also washed: 48 ruby dust are ready for separation when the oxygen outlet has space.
+
+All nine hot ingots reached the EBF output together. Carrying them back through the factory killed Astra. GregTech applies three points of heat damage every 20 ticks for a carried stack of hot ingots. The furnace collection script now leaves hot ingots in the output bus while taking cold products. Next to the completed freezer, use an item conduit for hot ingots. For quests that require holding one, put an openable chest within arm's reach before taking the stack and transfer it immediately.
+
+All nine hot Kanthal ingots are now inside the chest at (4,81,2), above the workshop crafting table. The recovery script verified the chest count and an empty hot-ingot inventory. Include this chest when counting the freezer charge.
