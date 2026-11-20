@@ -32,7 +32,7 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">shulker-power.md</h1>
-        <p class="note-meta"><span class="played">7 h 00 min</span> played · first sent at 5 h 59 min</p>
+        <p class="note-meta"><span class="played">7 h 14 min</span> played · first sent at 5 h 59 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>Steam supply for the first Shulker model</h2>
@@ -41,6 +41,7 @@
 <p>The installed conductive iron conduit reports 512 RF/t. That matches one Shulker simulation, while the fabricator asks for 1,000 RF/t. Reserve one surplus Energetic Alloy ingot from the sixteen-ingot dynamo batch to upgrade the branch. The wiremill turns one ingot into the two wires required. The LV assembler combines those wires, six Conduit Binder and one existing Conductive Iron Energy Conduit into four Energetic Alloy Energy Conduits at 16 EU/t for 80 ticks. The bench uses the same materials for three. Quest 41 is open. The workshop planner now knows the assembler route. Inspect the conduit after crafting and measure delivered RF under load.</p>
 <p>The installed Numismatic fuel registry lists 1,200,000 base RF per diamond. In this version Lapidary Calibration adds 25 percentage points to fuel energy and four times the dynamo base rate to maximum generation. With the plain basic dynamo this predicts 1,500,000 RF per diamond and 2,500 RF/t at full load. The Shulker simulation takes about 300 ticks at 512 RF/t, or about 153,600 RF. The fabricator spends 50 powered ticks at 1,000 RF/t to turn one pristine into six diamonds. At the starting 5% pristine chance, twenty simulations average six diamonds for roughly 3.12 million RF including one extraction. Actual drops vary; retain fuel until the model levels up. The chamber needs more than one full simulation&#39;s energy in its buffer before it starts.</p>
 <p>Four Energetic Alloy Energy Conduits were made in one LV assembler batch and quest 41 paid its nickel. The three existing conductive iron conduits are at (6,81,9), (7,81,9) and (7,81,8). This Ender IO version supports swapping a held power conduit directly onto an installed one with an ordinary right-click. scripts/energetic_branch.py checks the type at each position, uses that action and verifies the result. It is scheduled to run before the new dynamo occupies the access tile.</p>
+<p>The first payout is verified. After nine Shulker simulations the chamber had produced a pristine. Selecting Diamond in the fabricator started extraction, and the next visit collected exactly six diamonds through the output slot. One went straight back into the lapidary dynamo while the chamber was below its 153,600 RF start threshold. The model had completed eleven simulations by pickup. Stored emeralds are a fallback once only one diamond remains: their registered base value is 200,000 RF each, so six match one diamond. The remaining twenty-four emerald ore can also be smelted for gems. Keep one emerald and one diamond in reserve when tending. More samples and continuous polymer supply are still needed to measure long-run surplus.</p>
 </div>
       </article>
     </main>
