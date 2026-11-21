@@ -9,3 +9,7 @@ All nine conduit pieces are installed. The east-facing source at the cold bus is
 The first titanium ingot appeared in the west output bus while ME held zero. The bus then emptied and ME held one. Both endpoints reported the same conduit network and brown channel. No player collection took place. The furnace-to-freezer-to-storage route now works end to end.
 
 The south face was originally the front of the north output bus, where GregTech rejects covers. A wrench turned its front east toward a casing, leaving the hot-ingot filter above intact. A screwdriver check confirmed the new south filter is an ore dictionary extraction whitelist for dustMagnesiumChloride. The first of its two linking conduits is installed. The LV assembler made the next eight conduits from six binder and three pulsating wires.
+
+Both linking conduits are now fitted. The north-facing connector on (12,83,-1) extracts on brown with redstone ignored. The south whitelist reads dustMagnesiumChloride. Manual collection from this bus is disabled. Storage started at 30 salt with zero in the bus. Check for an increase of six per titanium charge.
+
+The next smelt proved the return. ME rose from 30 to 34 while two dust were still in the bus, then reached 36 with the bus empty. All six magnesium chloride dust arrived without player collection.
