@@ -387,10 +387,10 @@
     {
       "name": "ev-cable-coverings.md",
       "first_ticks": 2772307,
-      "ticks": 2772307,
-      "sent_at": "2026-11-21T02:31:00-0500",
-      "versions": 1,
-      "bytes": 1615
+      "ticks": 2809696,
+      "sent_at": "2026-11-21T03:02:10-0500",
+      "versions": 2,
+      "bytes": 2823
     },
     {
       "name": "extruder-power.md",
@@ -633,6 +633,14 @@
       "bytes": 6387
     },
     {
+      "name": "hv-ore-macerator.md",
+      "first_ticks": 2802395,
+      "ticks": 2802395,
+      "sent_at": "2026-11-21T02:56:05-0500",
+      "versions": 1,
+      "bytes": 1465
+    },
+    {
       "name": "inscriber.md",
       "first_ticks": 329873,
       "ticks": 971551,
@@ -787,10 +795,10 @@
     {
       "name": "mv-alloy-bay.md",
       "first_ticks": 2591480,
-      "ticks": 2728542,
-      "sent_at": "2026-11-21T01:54:31-0500",
-      "versions": 3,
-      "bytes": 2329
+      "ticks": 2796502,
+      "sent_at": "2026-11-21T02:51:10-0500",
+      "versions": 4,
+      "bytes": 3331
     },
     {
       "name": "mv-assembler.md",
@@ -843,10 +851,10 @@
     {
       "name": "nichrome-batch.md",
       "first_ticks": 2713281,
-      "ticks": 2749777,
-      "sent_at": "2026-11-21T02:12:14-0500",
-      "versions": 3,
-      "bytes": 2412
+      "ticks": 2799689,
+      "sent_at": "2026-11-21T02:53:49-0500",
+      "versions": 5,
+      "bytes": 3020
     },
     {
       "name": "north-hot-transfer.md",
@@ -855,6 +863,14 @@
       "sent_at": "2026-11-21T02:33:12-0500",
       "versions": 5,
       "bytes": 3052
+    },
+    {
+      "name": "north-salt-recovery.md",
+      "first_ticks": 2791062,
+      "ticks": 2791062,
+      "sent_at": "2026-11-21T02:46:38-0500",
+      "versions": 1,
+      "bytes": 1783
     },
     {
       "name": "numismatic-bill.md",
@@ -907,10 +923,10 @@
     {
       "name": "parallel-blast.md",
       "first_ticks": 2404800,
-      "ticks": 2774935,
-      "sent_at": "2026-11-21T02:33:12-0500",
-      "versions": 13,
-      "bytes": 7158
+      "ticks": 2802395,
+      "sent_at": "2026-11-21T02:56:05-0500",
+      "versions": 14,
+      "bytes": 7457
     },
     {
       "name": "parallel-crafting.md",
@@ -1107,10 +1123,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 2780488,
-      "sent_at": "2026-11-21T02:37:49-0500",
-      "versions": 332,
-      "bytes": 11317
+      "ticks": 2805872,
+      "sent_at": "2026-11-21T02:58:58-0500",
+      "versions": 334,
+      "bytes": 11890
     },
     {
       "name": "review-29h49m.md",
@@ -1259,10 +1275,10 @@
     {
       "name": "small-projector.md",
       "first_ticks": 1192280,
-      "ticks": 1192280,
-      "sent_at": "2026-11-20T04:32:34-0500",
-      "versions": 1,
-      "bytes": 1571
+      "ticks": 2802931,
+      "sent_at": "2026-11-21T02:56:31-0500",
+      "versions": 2,
+      "bytes": 1938
     },
     {
       "name": "smd-feed.md",
@@ -1355,10 +1371,10 @@
     {
       "name": "titanium-batch-size.md",
       "first_ticks": 2765372,
-      "ticks": 2783980,
-      "sent_at": "2026-11-21T02:40:44-0500",
-      "versions": 4,
-      "bytes": 3486
+      "ticks": 2805872,
+      "sent_at": "2026-11-21T02:58:58-0500",
+      "versions": 6,
+      "bytes": 4516
     },
     {
       "name": "titanium-carbon-recovery.md",

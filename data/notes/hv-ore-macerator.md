@@ -1,0 +1,7 @@
+# Recovering byproducts from bulk nickel
+
+The pilot used eight nickel ore. The remaining coil order needs another 88 nickel ingots. Page 270 explains why the next ore grinder should be HV. It opens two more output slots and doubles MV's displayed bonus chance. The EV machine doubles that again. EV already needs two extreme circuits and EV motion components before we have even insulated our first aluminium cable. The HV machine uses two advanced circuits. Refined Processor Arrays are already encoded. The diamond grinding head costs one diamond, four diamond dust and four steel plates.
+
+The open site at (12,82,1) has two useful neighbors. South is the item conduit already exporting washer products to ME. West is the gold cable used by the north furnace and HV chemistry. Its live rating is 512 V, two amps. Replace the shared segment at (11,82,1) with double gold before adding a third load there. Its upstream double cable handles four amps. The open blocks beneath the main gold junction look equally convenient, but placing machines there would obstruct the fluid terminal or assembler service aisles.
+
+Face the grinder's output south and set the washer conduit’s north port to extract on green. Verify an ore charge reaches ME, including every byproduct that appears. Keep the separate LV grinder available for ordinary dust. Measure the CEF and dynamo during a simultaneous blast, chemistry and grinding test before committing both paid nickel lots.
