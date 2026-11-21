@@ -987,10 +987,10 @@
     {
       "name": "nanocircuit-feed.md",
       "first_ticks": 3526594,
-      "ticks": 3641001,
-      "sent_at": "2026-11-21T14:34:55-0500",
-      "versions": 2,
-      "bytes": 2302
+      "ticks": 3668417,
+      "sent_at": "2026-11-21T14:57:46-0500",
+      "versions": 3,
+      "bytes": 2912
     },
     {
       "name": "nether-landing.md",
@@ -1075,10 +1075,10 @@
     {
       "name": "oil-rig.md",
       "first_ticks": 3099411,
-      "ticks": 3099411,
-      "sent_at": "2026-11-21T07:03:35-0500",
-      "versions": 1,
-      "bytes": 1308
+      "ticks": 3668417,
+      "sent_at": "2026-11-21T14:57:46-0500",
+      "versions": 2,
+      "bytes": 1829
     },
     {
       "name": "ore-hammer.md",
@@ -1323,10 +1323,10 @@
     {
       "name": "refinery-air.md",
       "first_ticks": 3137058,
-      "ticks": 3535422,
-      "sent_at": "2026-11-21T13:06:56-0500",
-      "versions": 4,
-      "bytes": 3457
+      "ticks": 3668417,
+      "sent_at": "2026-11-21T14:57:46-0500",
+      "versions": 6,
+      "bytes": 5249
     },
     {
       "name": "refinery-desulfurization.md",
@@ -1715,10 +1715,10 @@
     {
       "name": "titanium-network.md",
       "first_ticks": 3494168,
-      "ticks": 3644215,
-      "sent_at": "2026-11-21T14:37:36-0500",
-      "versions": 5,
-      "bytes": 4573
+      "ticks": 3656128,
+      "sent_at": "2026-11-21T14:47:31-0500",
+      "versions": 6,
+      "bytes": 5030
     },
     {
       "name": "titanium.md",
