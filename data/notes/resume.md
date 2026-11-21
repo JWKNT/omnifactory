@@ -2,13 +2,13 @@
 
 Run `python3 scripts/workshop_status.py` to see the live campaign, recorder and machines. One wafer_campaign.py process controls the player. If it has stopped, inspect the first error and affected block before resuming with `python3 scripts/wafer_campaign.py`. The recovered Kanthal chest moved intact from (4,81,2) to the east freezer input. See hot-ingot-transfer.md for the filter and trials. The last counted standing was 238 of 644 chapter quests.
 
-## Current work at 37h40m
+## Current work at 37h56m
 
-All sixteen Kanthal coils are wound. Quest 157 saw them together and paid its quarter. The 53-dust blast and automatic freezer transfer are complete. Eighteen heatproof casings are in ME, and the campaign is ordering four EBF controllers for quest 541 before placing the first in the north shell. The original EBF is blasting eighteen stainless dust for the HV hatch. See parallel-blast.md and north-hot-transfer.md.
+Quest 157 is claimed. All sixteen Kanthal coils, eighteen heatproof casings, the HV power hatch and the four LV ports for the north furnace have been built. The four ports used 44 wrought iron plates, eight tin cables, two glass and two chests. The hull for the HV hatch used the 288 mB polyethylene assembler recipe. The original EBF finished the eighteen stainless ingots and started 27 aluminium dust for the two new interfaces. Five base casings are in place, and the remaining shell can rise while circuits are made. The campaign order is four controllers for page 541. It has the twelve furnaces and reserved tin cables; the scarce input is twelve basic-grade circuits. See parallel-blast.md and north-hot-transfer.md.
 
-The separate MV alloy smelter is installed at (11,83,5), charged to 4,092 EU and set to share its west face for input and automatic output. Its first charge produced ten soldering alloy ingots. Connect the planned interface and test a sixteen-steel ME order. All four MV hulls have been delivered. Two were used for the freezer converter and the new smelter. The permanent ethanol pipe delivered 1,600 mB and the MV assembler delivered 48 SMD resistors. Two matter drawers each hold up to 32,768, and the parts chest has been cleared of both types of matter. See ethanol-transfer.md and matter-drawer-capacity.md.
+The new MV smelter at (11,83,5) delivered ten soldering alloy, sixteen steel and sixteen tin alloy. These are player-loaded trials. Check for a separate ME order and the mv-alloy-patterns-proven receipt. Eight new blank patterns will cover the two interfaces. Both arms can use the two stored Refined Processors. Their six motors, two pistons and core pairs are staged by scripts/workshop_arms.py. The spare CPUs can order the motor and piston patterns during the controller build. New board charges reserve eight full PVC sheets in addition to thin sheets for capacitors. See mv-alloy-bay.md.
 
-The CPU stock tender now includes wrought iron. Steel was consumed at four machines and 83 iron ingots were available at the network furnace. The next review is due at 37h51m. Compare the actual CPU orders and deliveries with the machine load counts. See cryogenic-air.md before spending silicon on doped boules. Quest 175 and a large passive argon supply are also required.
+The permanent ethanol pipe delivered 1,600 mB. Both simulation matter drawers have verified 32,768 item capacity and the parts chest was cleared of both types. The washer has an ME outlet. The separate bulk molten-metal route took the full Kanthal charge through the freezer automatically. See ethanol-transfer.md, matter-drawer-capacity.md, washer-water.md and kanthal-coils.md.
 
 ## Other factory lines
 
@@ -33,4 +33,4 @@ Two independent 1k crafting CPUs are online. They delivered sixteen copper wires
 
 ## Next strategic review
 
-The 35h50m review is in review-35h50m.md. Next review around 37h50m played. Check installed alloy processing, actual ME deliveries of steel and solder, CPU availability, washer output and drive type slots. Run scripts/strategy_review.py --evidence and publish the next decisions before using --reviewed.
+The 37h51m review is in review-37h51m.md. Next review around 39h51m played. Check both interfaces, actual ME deliveries of steel and SMDs, cable selector loads, CPU occupancy across surveys, and simultaneous operation of both furnaces. Run scripts/strategy_review.py --evidence and publish the next decisions before using --reviewed.

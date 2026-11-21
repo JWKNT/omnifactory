@@ -771,10 +771,10 @@
     {
       "name": "mv-alloy-bay.md",
       "first_ticks": 2591480,
-      "ticks": 2713281,
-      "sent_at": "2026-11-21T01:41:48-0500",
-      "versions": 2,
-      "bytes": 1897
+      "ticks": 2728542,
+      "sent_at": "2026-11-21T01:54:31-0500",
+      "versions": 3,
+      "bytes": 2329
     },
     {
       "name": "mv-assembler.md",
@@ -891,10 +891,10 @@
     {
       "name": "parallel-blast.md",
       "first_ticks": 2404800,
-      "ticks": 2707181,
-      "sent_at": "2026-11-21T01:36:43-0500",
-      "versions": 8,
-      "bytes": 5182
+      "ticks": 2733453,
+      "sent_at": "2026-11-21T01:58:36-0500",
+      "versions": 10,
+      "bytes": 5831
     },
     {
       "name": "parallel-crafting.md",
@@ -1091,10 +1091,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 2713281,
-      "sent_at": "2026-11-21T01:41:48-0500",
-      "versions": 325,
-      "bytes": 10322
+      "ticks": 2733453,
+      "sent_at": "2026-11-21T01:58:36-0500",
+      "versions": 327,
+      "bytes": 10645
     },
     {
       "name": "review-29h49m.md",
@@ -1127,6 +1127,14 @@
       "sent_at": "2026-11-20T23:50:30-0500",
       "versions": 1,
       "bytes": 3640
+    },
+    {
+      "name": "review-37h51m.md",
+      "first_ticks": 2726198,
+      "ticks": 2726198,
+      "sent_at": "2026-11-21T01:52:34-0500",
+      "versions": 1,
+      "bytes": 3616
     },
     {
       "name": "review-questions.md",
