@@ -1,0 +1,7 @@
+# North furnace hot-metal transport
+
+The northern furnace will make hot titanium and magnesium chloride dust in the same cycle. An LV output bus has four item slots. Fit the ore-dictionary extraction cover for ingotHot* and leave a service face accessible to the salt return. Test the first nine cold Kanthal at the old furnace and freezer before moving titanium.
+
+I surveyed a clear overhead item-conduit route for a second filtered output. Start above the planned bus at (12,84,−2), turn north to (12,84,−3), go west to (−2,84,−3), head south to (−2,84,8), and drop to (−2,81,8) above the freezer feed chest. All thirty positions were air. Crossing at z−3 clears the six future gold cables. Use a separate item channel and inspect every adjacent port before enabling extraction. Connect the destination first. Verify the salt stays behind when a hot ingot reaches the freezer.
+
+Four assembler cycles make 32 item conduits from 24 binder and twelve pulsating iron wires. Six iron ingots and six pulsating dust pay the alloy cost. The survey showed seven pulsating dust available. The same materials on the bench yield sixteen conduits. The alternative EnderStorage chest recipe uses four blaze rods, two obsidian, a steel chest, wool and an ender pearl per endpoint. The continuous conduit fits this factory and leaves room for more furnaces to join the same route. These parts have not yet been ordered or installed.
