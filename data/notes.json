@@ -499,10 +499,10 @@
     {
       "name": "ev-power.md",
       "first_ticks": 3511841,
-      "ticks": 3644215,
-      "sent_at": "2026-11-21T14:37:36-0500",
-      "versions": 6,
-      "bytes": 5230
+      "ticks": 3688920,
+      "sent_at": "2026-11-21T15:14:51-0500",
+      "versions": 8,
+      "bytes": 6316
     },
     {
       "name": "ev-titanium.md",
@@ -987,10 +987,10 @@
     {
       "name": "nanocircuit-feed.md",
       "first_ticks": 3526594,
-      "ticks": 3668417,
-      "sent_at": "2026-11-21T14:57:46-0500",
-      "versions": 3,
-      "bytes": 2912
+      "ticks": 3696764,
+      "sent_at": "2026-11-21T15:21:23-0500",
+      "versions": 4,
+      "bytes": 3792
     },
     {
       "name": "nether-landing.md",
@@ -1227,10 +1227,10 @@
     {
       "name": "projector-compressor.md",
       "first_ticks": 3638116,
-      "ticks": 3638116,
-      "sent_at": "2026-11-21T14:32:31-0500",
-      "versions": 1,
-      "bytes": 1596
+      "ticks": 3696764,
+      "sent_at": "2026-11-21T15:21:23-0500",
+      "versions": 2,
+      "bytes": 2103
     },
     {
       "name": "propene.md",
@@ -1323,10 +1323,10 @@
     {
       "name": "refinery-air.md",
       "first_ticks": 3137058,
-      "ticks": 3668417,
-      "sent_at": "2026-11-21T14:57:46-0500",
-      "versions": 6,
-      "bytes": 5249
+      "ticks": 3696764,
+      "sent_at": "2026-11-21T15:21:23-0500",
+      "versions": 8,
+      "bytes": 5975
     },
     {
       "name": "refinery-desulfurization.md",
@@ -1379,10 +1379,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 3644215,
-      "sent_at": "2026-11-21T14:37:36-0500",
-      "versions": 411,
-      "bytes": 3247
+      "ticks": 3688920,
+      "sent_at": "2026-11-21T15:14:51-0500",
+      "versions": 413,
+      "bytes": 3133
     },
     {
       "name": "review-29h49m.md",
@@ -1471,6 +1471,14 @@
       "sent_at": "2026-11-21T13:24:39-0500",
       "versions": 1,
       "bytes": 2435
+    },
+    {
+      "name": "review-51h14m.md",
+      "first_ticks": 3688920,
+      "ticks": 3688920,
+      "sent_at": "2026-11-21T15:14:51-0500",
+      "versions": 1,
+      "bytes": 2679
     },
     {
       "name": "review-questions.md",
