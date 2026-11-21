@@ -105,6 +105,14 @@
       "bytes": 2429
     },
     {
+      "name": "bauxite-line.md",
+      "first_ticks": 3441535,
+      "ticks": 3444731,
+      "sent_at": "2026-11-21T11:51:21-0500",
+      "versions": 2,
+      "bytes": 1551
+    },
+    {
       "name": "bauxite.md",
       "first_ticks": 1483317,
       "ticks": 1909645,
@@ -463,6 +471,14 @@
       "sent_at": "2026-11-21T05:03:46-0500",
       "versions": 13,
       "bytes": 8554
+    },
+    {
+      "name": "ev-motor-windings.md",
+      "first_ticks": 3437510,
+      "ticks": 3437510,
+      "sent_at": "2026-11-21T11:45:20-0500",
+      "versions": 1,
+      "bytes": 1032
     },
     {
       "name": "ev-plate-press.md",
@@ -1307,10 +1323,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 3416244,
-      "sent_at": "2026-11-21T11:27:37-0500",
-      "versions": 393,
-      "bytes": 4194
+      "ticks": 3441537,
+      "sent_at": "2026-11-21T11:48:42-0500",
+      "versions": 394,
+      "bytes": 4476
     },
     {
       "name": "review-29h49m.md",
@@ -1731,10 +1747,10 @@
     {
       "name": "workshop-flight.md",
       "first_ticks": 2263485,
-      "ticks": 3254827,
-      "sent_at": "2026-11-21T09:13:06-0500",
-      "versions": 4,
-      "bytes": 1011
+      "ticks": 3453671,
+      "sent_at": "2026-11-21T11:58:48-0500",
+      "versions": 5,
+      "bytes": 1519
     },
     {
       "name": "workshop-stock-patterns.md",

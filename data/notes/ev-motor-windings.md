@@ -1,0 +1,5 @@
+# First EV motor windings
+
+The connected wiremill at (7,82,6) already had the correct pattern. Its interface turns one annealed copper ingot into two single wires. The first two orders each produced 64 wires. scripts/ev_windings.py combines each stack into 32 double wires and then eight eightfold wires at the crafting terminal. Sixteen of the forty eightfold wires have been made. The other twenty-four need another 96 annealed ingots before accounting for any other wire sizes in stock. The west blast furnace counts all four wire sizes when deciding how much copper to anneal.
+
+The diamond grinding head and double gold feeder for the planned HV ore mill are already paid for. Keep the 23 bastnasite ore for its extra output slots. The HV hull now has an ME processing pattern on the MV polyethylene assembler. The recipe uses 288 mB polyethylene, the casing and two gold cables. It saves one stainless plate and avoids making two sheets at the bench. scripts/hv_ore_mill.py stages the grinding hardware alongside the EV order.
