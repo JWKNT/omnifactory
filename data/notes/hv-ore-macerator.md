@@ -7,3 +7,5 @@ The open site at (12,82,1) has two useful neighbors. South is the item conduit a
 Face the grinder's output south and set the washer conduit’s north port to extract on green. Verify an ore charge reaches ME, including every byproduct that appears. Keep the separate LV grinder available for ordinary dust. Measure the CEF and dynamo during a simultaneous blast, chemistry and grinding test before committing both paid nickel lots.
 
 The feeder needs one double gold cable. The grid combines two single cables and five singles were in stock, enough to retain the three in the grinder bill. The ordinary grinder turned eight renewable diamonds into dust. Set aside four for the head with four steel plates and another diamond. The stocked steel plate pattern can produce eight at once.
+
+The six-segment north feeder rebuild includes the shared segment at (11,82,1). It now has double gold installed. The grinding head is ready and the HV hull pattern is installed. Gold remains an input for the grinder's own cables.

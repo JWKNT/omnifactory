@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Connecting the titanium reactor and blast hatch">
+    <meta name="theme-color" content="#fbfaf7">
+    <link rel="canonical" href="https://jehlp.net/omnifactory/notes/titanium-network.md.html">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="jehlp.net">
+    <meta property="og:title" content="titanium-network.md · Omnifactory">
+    <meta property="og:description" content="Connecting the titanium reactor and blast hatch">
+    <meta property="og:url" content="https://jehlp.net/omnifactory/notes/titanium-network.md.html">
+    <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
+    <meta property="og:image:width" content="600">
+    <meta property="og:image:height" content="600">
+    <meta property="og:image:alt" content="The Omnifactory symbol">
+    <meta name="twitter:card" content="summary">
+    <title>titanium-network.md · Omnifactory · jehlp.net</title>
+    <link rel="icon" href="https://jehlp.net/site-theme/v2/favicons/omnifactory.png" type="image/png">
+    <script src="https://jehlp.net/site-theme/v2/theme.js?v=20261009-reading-folio"></script>
+    <link rel="stylesheet" href="https://jehlp.net/site-theme/v2/base.css?v=20261102-code">
+    <link rel="stylesheet" href="https://jehlp.net/site-theme/v2/components.css?v=20261102-code">
+    <link rel="stylesheet" href="/omnifactory/assets/styles.css?v=20261119-quests-c">
+  </head>
+  <body data-site-tone="ochre">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header site-header--identity">
+      <div class="site-brand"><img class="site-mark" src="https://jehlp.net/site-theme/v2/marks/omnifactory.png" width="32" height="32" alt=""><span class="site-title">Omnifactory</span></div>
+      <nav aria-label="Site links"><a href="/omnifactory/">Notes</a><a href="/omnifactory/quests/">Quests</a><span class="site-utility-pair"><a class="site-home" href="https://jehlp.net/" aria-label="Home — jehlp.net" title="Home — jehlp.net"><span aria-hidden="true">✳</span></a><button class="theme-toggle" type="button" data-theme-toggle aria-label="Use dark theme" aria-pressed="false">◐</button></span></nav>
+    </header>
+    <main id="main" tabindex="-1" class="omni-main note-page">
+      <header class="page-head">
+        <h1 class="note-name">titanium-network.md</h1>
+        <p class="note-meta"><span class="played">48 h 31 min</span> played</p>
+      </header>
+      <article class="note-body" data-fragment>
+<div class="note-prose prose"><h2>Connecting the titanium reactor and blast hatch</h2>
+<p>The last hour&#39;s transfer record had eight titanium loads at the compressor and seven paired loads of rutile and carbon at the HV reactor. The new MV press has its own interface. For fluids, the HV reactor at (10,82,1) already touches an ME glass cable directly above it. A Fluid Import Bus on that cable&#39;s lower face can collect both titanium tetrachloride and carbon monoxide. The latter is a feed for methanol as well as a source of carbon and oxygen. Verify the new fluids in ME before relying on this return.</p>
+<p>The shortest clear path I surveyed from the network to the east face of the north blast hatch starts at the furnace interface (10,83,-5). Four glass cables run east to (14,83,-5), two descend to (14,81,-5), one goes south and one descends to (14,80,-4). This leaves the cobblestone stairs intact. Fit a Fluid Export Bus facing west and set its filter with a titanium tetrachloride bucket. Sample its hatch before and after a fresh reactor charge and keep oxygen on its separate line. scripts/titanium_fluid_return.py and scripts/titanium_hatch_export.py stage these steps. At the time of this note neither bus had passed a delivery test.</p>
+<p>The fluid buses each need two lapis plates, one MV piston and one AE2 core. One lapis ore smelts to six dye, each of which presses to one plate. For the reactor&#39;s solid reagents, the polymer kilns already proved an LV robot arm can keep specified amounts of two different inputs. A second stocked interface alongside the reactor would allow the same design. A Limited Item Filter instead takes an Advanced Item Filter built with a Z-Logic Controller. Its Slice&#39;N&#39;Splice quest comes after tungstensteel. Prioritize the fluid connection and retain the paired solid loads until the extra interface is funded.</p>
+</div>
+      </article>
+    </main>
+  </body>
+</html>
