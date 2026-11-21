@@ -1,0 +1,5 @@
+# When the workshop can go wireless
+
+A Wireless Crafting Terminal would let the player request and collect materials at the north machines. Live JEI shows a Fluix Pearl, a Wireless Terminal and an ME Crafting Terminal. Both the handheld Wireless Terminal and the Wireless Access Point consume a Wireless Receiver. Each receiver requires an EV Emitter and three titanium plates. Titanium is still waiting on the Vacuum Freezer. The handheld's Dense Energy Cell also takes eight ordinary Energy Cells and a Calculation Processor. The ME Security Terminal used to link the handheld needs a 16k storage component. Revisit after the first titanium batch.
+
+Page 108 offers an earlier improvement for programming interfaces. Its ME Interface Terminal costs one Bright Illuminated Panel, one Engineering Processor and one whole ME Interface. It can manage pattern slots across the base. The next interface still goes to the electric furnace, where its patterns can save a trip on every order. Once the inscriber and interface hardware have batch recipes, reassess a central interface terminal for the expanding machine rows.
