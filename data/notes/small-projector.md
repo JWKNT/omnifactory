@@ -33,3 +33,5 @@ The north blast furnace accepted 51 aluminium dust while the west furnace contin
 All 51 aluminium ingots from the north batch were collected in two visits. The west furnace returned another three Microversium after the 32-ingot charge, bringing the cumulative total to 51. The primary macerator took all 42 stored Purified Iron Ore; ten purified dust were already visible while it was still grinding. The remaining bottleneck for ordinary steel is the supply of iron ingots.
 
 The LV item input bus is finished. The split iron route is running in parallel. The centrifuge accepted a charge of 22 purified iron dust for the stainless mix, and another 19 purified dust entered an electric furnace for ordinary iron. Its readout showed an iron ingot as the active product.
+
+The west furnace returned fourteen more Microversium, bringing cumulative production to 66. I opened page 594 carrying 64 and claimed its Omniquarter. Eighteen ingots remain in the 84-ingot casing budget. The west furnace then accepted the 36 stainless dust for the high-voltage hardware; its controller showed a stainless ingot in production.

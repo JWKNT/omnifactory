@@ -9,3 +9,5 @@ Two Ender Shards and two Restonia entered the alloy smelter for the ship's thrus
 The bench finished the LV field generator using four Refined Circuits, four stocked conductive iron wires and one Ender Pearl. The sensor order can use basic circuits one at a time. Three printed logic circuits and three printed silicon also finished for the workshop interfaces.
 
 JEI prices a full steel gear at four ingots in the MV extruder and eight in the alloy smelter. The miner order now uses the existing gear die in the MV extruder. It batches tin cable for all four motors, both pistons and the generator together. The LV assembler accepts the magnetic steel rods already produced for the MV motor line. The projector keeps its first hull.
+
+Both tier-one lasers are finished. The pair used two redstone blocks, eight nether quartz and four glass. The field generator is stored with the ship supplies.

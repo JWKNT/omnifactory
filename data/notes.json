@@ -299,10 +299,10 @@
     {
       "name": "copper-simulation.md",
       "first_ticks": 3803072,
-      "ticks": 3833187,
-      "sent_at": "2026-11-21T17:15:04-0500",
-      "versions": 3,
-      "bytes": 2307
+      "ticks": 3935337,
+      "sent_at": "2026-11-21T18:40:12-0500",
+      "versions": 4,
+      "bytes": 2892
     },
     {
       "name": "cryogenic-air.md",
@@ -499,10 +499,10 @@
     {
       "name": "ev-patterns.md",
       "first_ticks": 3759531,
-      "ticks": 3904236,
-      "sent_at": "2026-11-21T18:14:17-0500",
-      "versions": 9,
-      "bytes": 5307
+      "ticks": 3935337,
+      "sent_at": "2026-11-21T18:40:12-0500",
+      "versions": 13,
+      "bytes": 6528
     },
     {
       "name": "ev-plate-press.md",
@@ -587,18 +587,18 @@
     {
       "name": "first-miner-fuel.md",
       "first_ticks": 3868997,
-      "ticks": 3899685,
-      "sent_at": "2026-11-21T18:10:29-0500",
-      "versions": 5,
-      "bytes": 3276
+      "ticks": 3929842,
+      "sent_at": "2026-11-21T18:35:37-0500",
+      "versions": 8,
+      "bytes": 3964
     },
     {
       "name": "first-miner-ship.md",
       "first_ticks": 3899685,
-      "ticks": 3913667,
-      "sent_at": "2026-11-21T18:22:08-0500",
-      "versions": 3,
-      "bytes": 2070
+      "ticks": 3929842,
+      "sent_at": "2026-11-21T18:35:37-0500",
+      "versions": 4,
+      "bytes": 2231
     },
     {
       "name": "first-nether-star.md",
@@ -659,10 +659,10 @@
     {
       "name": "fluix.md",
       "first_ticks": 314566,
-      "ticks": 2292295,
-      "sent_at": "2026-11-20T19:49:15-0500",
-      "versions": 7,
-      "bytes": 4317
+      "ticks": 3938511,
+      "sent_at": "2026-11-21T18:42:50-0500",
+      "versions": 9,
+      "bytes": 5198
     },
     {
       "name": "freezer-mainframes.md",
@@ -1059,10 +1059,10 @@
     {
       "name": "north-chemistry-power.md",
       "first_ticks": 3595097,
-      "ticks": 3595097,
-      "sent_at": "2026-11-21T13:56:40-0500",
-      "versions": 1,
-      "bytes": 1362
+      "ticks": 3923515,
+      "sent_at": "2026-11-21T18:30:21-0500",
+      "versions": 2,
+      "bytes": 1644
     },
     {
       "name": "north-hot-transfer.md",
@@ -1273,6 +1273,14 @@
       "bytes": 6251
     },
     {
+      "name": "projector-power.md",
+      "first_ticks": 3929842,
+      "ticks": 3935337,
+      "sent_at": "2026-11-21T18:40:12-0500",
+      "versions": 2,
+      "bytes": 1324
+    },
+    {
       "name": "propene.md",
       "first_ticks": 3157508,
       "ticks": 3191210,
@@ -1419,10 +1427,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 3911844,
-      "sent_at": "2026-11-21T18:20:37-0500",
-      "versions": 433,
-      "bytes": 6325
+      "ticks": 3938511,
+      "sent_at": "2026-11-21T18:42:50-0500",
+      "versions": 435,
+      "bytes": 7367
     },
     {
       "name": "review-29h49m.md",
@@ -1651,10 +1659,10 @@
     {
       "name": "small-projector.md",
       "first_ticks": 1192280,
-      "ticks": 3914244,
-      "sent_at": "2026-11-21T18:22:37-0500",
-      "versions": 13,
-      "bytes": 7960
+      "ticks": 3938511,
+      "sent_at": "2026-11-21T18:42:50-0500",
+      "versions": 14,
+      "bytes": 8305
     },
     {
       "name": "smd-feed.md",
