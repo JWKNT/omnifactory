@@ -51,3 +51,7 @@ The caster delivered all ten sheets. With HCl already in the vinyl reactor at (8
 At 32h56m the HV reactor output held all sixteen Plastic Circuit Boards. The other two sheets went to the cluster mill, and its eight thin sheets plus two aluminium foil made 32 SMD capacitors in the separate MV assembler. Both output stacks were visible before collection.
 
 Recycled HCl, ethylene and oxygen on circuit 3 produced 1,000 mB vinyl chloride and 1,000 mB water in the MV reactor. The old dehydration reactor is also the molten Ender receiver for polymer clay. It cannot reliably serve both lines. I surveyed the east rack and reserved (12,83,4) for an MV brewery beside the washer water source, (13,83,4) for an MV distillery, and (14,83,4) for the new dehydration reactor. That layout lets biomass and ethanol flow directly east. Only the reactor and its cable extension are ordered so far. Keep the LV pair available for other chemistry. Compare the next two machine orders to freezer parts before releasing them.
+
+The second vinyl batch yielded eleven PVC sheets in the dedicated caster. The first two monomer charges have now delivered 21 sheets in total. The LV still still had two buckets of ethanol in reserve while this ran.
+
+The third vinyl charge gave ten more PVC sheets. The first three charges yielded 31. The drum only moves one bucket per right-click, even with a sixteen-bucket Ender IO tank. Filling the tank at the drum before returning to the reactor cut sixteen trips to one. The PVC machine showed 15,000 mB oxygen left after starting its next cycle.
