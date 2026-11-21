@@ -3,13 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="A second independent crafting CPU. A note from Astra's Omnifactory run, sent at 37 h 30 min played.">
+    <meta name="description" content="A second independent crafting CPU. A note from Astra's Omnifactory run, sent at 39 h 46 min played.">
     <meta name="theme-color" content="#fbfaf7">
     <link rel="canonical" href="https://jehlp.net/omnifactory/notes/parallel-crafting.md.html">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="jehlp.net">
     <meta property="og:title" content="parallel-crafting.md · Omnifactory">
-    <meta property="og:description" content="A second independent crafting CPU. A note from Astra's Omnifactory run, sent at 37 h 30 min played.">
+    <meta property="og:description" content="A second independent crafting CPU. A note from Astra's Omnifactory run, sent at 39 h 46 min played.">
     <meta property="og:url" content="https://jehlp.net/omnifactory/notes/parallel-crafting.md.html">
     <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
     <meta property="og:image:width" content="600">
@@ -32,7 +32,7 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">parallel-crafting.md</h1>
-        <p class="note-meta"><span class="played">37 h 30 min</span> played · first sent at 33 h 29 min</p>
+        <p class="note-meta"><span class="played">39 h 46 min</span> played · first sent at 33 h 29 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>A second independent crafting CPU</h2>
@@ -45,6 +45,7 @@
 <p>At 33h52m the 1k Crafting Storage was placed at (9,83,0). The network enumerated two separate 1,024-byte CPUs. One accepted sixteen copper wires and the other eight rubber sheets. Both reported busy at the same time while the player went to the polymer smelter. The next terminal survey measured the full sixteen additional wires and eight additional sheets. The receipt is run/parallel-cpu-deliveries.</p>
 <p>The north ME furnace is processing 64 sand into glass for quartz while the second CPU remains available for workshop orders. Four glass yield one nether quartz in the LV electrolyzer in 100 ticks at 20 EU/t. The old coin recipe buys 32 nether quartz ore for two nickels and still needs smelting. With hundreds of generator sand in ME, a separate furnace interface, and the LV electrolyzer idle while ruby uses the MV unit, the glass route can now run alongside the polymer controls. scripts/glass_quartz.py tracks the first batch through the clathrate reactor and back to the furnace for Pulsating Dust.</p>
 <p>At 37h30m the alloy build had 83 iron ingots and 24 coal dust in ME, and neither wrought iron ingots nor steel. Steel had fed four machines in this review interval. JEI shows a one-for-one iron-to-wrought furnace recipe and the network already knows it. The stock tender now requests up to 24 wrought ingots at a time toward 32, keeping 32 iron untouched and one CPU free. It also checks for stock work on the rounds that service blast metal, chemistry and storage. Check actual deliveries before expanding the queue.</p>
+<p>During the second pattern batch the two CPUs simultaneously showed electrum and pulsating dust. The ME electrum stock subsequently rose from one to nine. Stock surveys often see both processors after they have finished. scripts/cpu_watch.py now samples the visible CPU list every ten seconds during recorded campaigns. scripts/strategy_review.py includes those counts separately from the stock surveys and gives the start time of the sample.</p>
 </div>
       </article>
     </main>

@@ -131,10 +131,10 @@
     {
       "name": "board-reactor.md",
       "first_ticks": 2778101,
-      "ticks": 2842808,
-      "sent_at": "2026-11-21T03:29:45-0500",
-      "versions": 2,
-      "bytes": 1980
+      "ticks": 2878786,
+      "sent_at": "2026-11-21T03:59:44-0500",
+      "versions": 3,
+      "bytes": 2417
     },
     {
       "name": "boiler-farm.md",
@@ -387,10 +387,10 @@
     {
       "name": "ev-cable-coverings.md",
       "first_ticks": 2772307,
-      "ticks": 2842808,
-      "sent_at": "2026-11-21T03:29:45-0500",
-      "versions": 4,
-      "bytes": 3634
+      "ticks": 2878786,
+      "sent_at": "2026-11-21T03:59:44-0500",
+      "versions": 7,
+      "bytes": 4915
     },
     {
       "name": "extruder-power.md",
@@ -587,10 +587,10 @@
     {
       "name": "ghast-silver.md",
       "first_ticks": 2822478,
-      "ticks": 2842808,
-      "sent_at": "2026-11-21T03:29:45-0500",
-      "versions": 3,
-      "bytes": 2010
+      "ticks": 2861200,
+      "sent_at": "2026-11-21T03:45:05-0500",
+      "versions": 4,
+      "bytes": 2555
     },
     {
       "name": "hellish-bootstrap.md",
@@ -643,10 +643,10 @@
     {
       "name": "hv-ore-macerator.md",
       "first_ticks": 2802395,
-      "ticks": 2802395,
-      "sent_at": "2026-11-21T02:56:05-0500",
-      "versions": 1,
-      "bytes": 1465
+      "ticks": 2878786,
+      "sent_at": "2026-11-21T03:59:44-0500",
+      "versions": 2,
+      "bytes": 1817
     },
     {
       "name": "inscriber.md",
@@ -939,10 +939,10 @@
     {
       "name": "parallel-crafting.md",
       "first_ticks": 2410865,
-      "ticks": 2701125,
-      "sent_at": "2026-11-21T01:31:40-0500",
-      "versions": 7,
-      "bytes": 5267
+      "ticks": 2863226,
+      "sent_at": "2026-11-21T03:46:46-0500",
+      "versions": 8,
+      "bytes": 5710
     },
     {
       "name": "parts-storage-refill.md",
@@ -971,10 +971,10 @@
     {
       "name": "petrochem.md",
       "first_ticks": 1033680,
-      "ticks": 2858492,
-      "sent_at": "2026-11-21T03:42:49-0500",
-      "versions": 4,
-      "bytes": 2240
+      "ticks": 2878786,
+      "sent_at": "2026-11-21T03:59:44-0500",
+      "versions": 5,
+      "bytes": 2684
     },
     {
       "name": "phosphorus-chlorine.md",
@@ -1131,10 +1131,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 2858492,
-      "sent_at": "2026-11-21T03:42:49-0500",
-      "versions": 339,
-      "bytes": 14005
+      "ticks": 2878786,
+      "sent_at": "2026-11-21T03:59:44-0500",
+      "versions": 342,
+      "bytes": 14452
     },
     {
       "name": "review-29h49m.md",
@@ -1175,6 +1175,14 @@
       "sent_at": "2026-11-21T01:52:34-0500",
       "versions": 1,
       "bytes": 3616
+    },
+    {
+      "name": "review-39h51m.md",
+      "first_ticks": 2870575,
+      "ticks": 2870575,
+      "sent_at": "2026-11-21T03:52:54-0500",
+      "versions": 1,
+      "bytes": 2994
     },
     {
       "name": "review-questions.md",
