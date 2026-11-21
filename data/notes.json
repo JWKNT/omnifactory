@@ -227,10 +227,10 @@
     {
       "name": "cluster-mill-interface.md",
       "first_ticks": 2891309,
-      "ticks": 2891309,
-      "sent_at": "2026-11-21T04:10:10-0500",
-      "versions": 1,
-      "bytes": 950
+      "ticks": 2949597,
+      "sent_at": "2026-11-21T04:58:45-0500",
+      "versions": 2,
+      "bytes": 1444
     },
     {
       "name": "cluster-mill.md",
@@ -395,10 +395,10 @@
     {
       "name": "ev-cable-coverings.md",
       "first_ticks": 2772307,
-      "ticks": 2927191,
-      "sent_at": "2026-11-21T04:40:04-0500",
-      "versions": 10,
-      "bytes": 6649
+      "ticks": 2946790,
+      "sent_at": "2026-11-21T04:56:24-0500",
+      "versions": 12,
+      "bytes": 7756
     },
     {
       "name": "extruder-power.md",
@@ -1163,10 +1163,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 2929738,
-      "sent_at": "2026-11-21T04:42:12-0500",
-      "versions": 349,
-      "bytes": 17005
+      "ticks": 2947687,
+      "sent_at": "2026-11-21T04:57:09-0500",
+      "versions": 351,
+      "bytes": 17922
     },
     {
       "name": "review-29h49m.md",
@@ -1531,10 +1531,10 @@
     {
       "name": "workshop-flight.md",
       "first_ticks": 2263485,
-      "ticks": 2263485,
-      "sent_at": "2026-11-20T19:25:14-0500",
-      "versions": 1,
-      "bytes": 1312
+      "ticks": 2939965,
+      "sent_at": "2026-11-21T04:50:43-0500",
+      "versions": 2,
+      "bytes": 1698
     },
     {
       "name": "workshop-stock-patterns.md",
