@@ -44,3 +44,5 @@ At 432 mB or less the wrapper now requests another nine-polymer batch. The repea
 The wrapper returned twenty additional aluminium cables, bringing the ME total to 28. Thirty-four cables are needed including the ones inside the EV assembler's motion components. The low-stock refill is under way.
 
 The low-stock cycle produced all nine polymer dust and 1,296 mB of silicone. I delivered 1,000 mB by bucket and the remaining 296 by portable tank, and verified the total in the wrapper before loading seven bare aluminium wires. Both overhead conduits are placed. Their lower connectors still need configuring from a reachable service aisle. The next batch will provide the filter sample.
+
+A service step west of the insulation reactor at (12,83,4) gives access to the overhead conduits. The wrapper's downward port is now configured for cyan insertion. The reactor's filter still needs its next silicone sample. The wrapper also coated nine gold wires for the two power hulls and transformer.

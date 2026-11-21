@@ -467,10 +467,10 @@
     {
       "name": "ev-cable-coverings.md",
       "first_ticks": 2772307,
-      "ticks": 3620652,
-      "sent_at": "2026-11-21T14:17:57-0500",
-      "versions": 17,
-      "bytes": 10016
+      "ticks": 3641001,
+      "sent_at": "2026-11-21T14:34:55-0500",
+      "versions": 18,
+      "bytes": 10321
     },
     {
       "name": "ev-motor-magnets.md",
@@ -499,10 +499,10 @@
     {
       "name": "ev-power.md",
       "first_ticks": 3511841,
-      "ticks": 3604441,
-      "sent_at": "2026-11-21T14:04:27-0500",
-      "versions": 4,
-      "bytes": 4087
+      "ticks": 3644215,
+      "sent_at": "2026-11-21T14:37:36-0500",
+      "versions": 6,
+      "bytes": 5230
     },
     {
       "name": "ev-titanium.md",
@@ -987,10 +987,10 @@
     {
       "name": "nanocircuit-feed.md",
       "first_ticks": 3526594,
-      "ticks": 3526594,
-      "sent_at": "2026-11-21T12:59:34-0500",
-      "versions": 1,
-      "bytes": 1893
+      "ticks": 3641001,
+      "sent_at": "2026-11-21T14:34:55-0500",
+      "versions": 2,
+      "bytes": 2302
     },
     {
       "name": "nether-landing.md",
@@ -1225,6 +1225,14 @@
       "bytes": 1388
     },
     {
+      "name": "projector-compressor.md",
+      "first_ticks": 3638116,
+      "ticks": 3638116,
+      "sent_at": "2026-11-21T14:32:31-0500",
+      "versions": 1,
+      "bytes": 1596
+    },
+    {
       "name": "propene.md",
       "first_ticks": 3157508,
       "ticks": 3191210,
@@ -1371,10 +1379,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 3621820,
-      "sent_at": "2026-11-21T14:18:56-0500",
-      "versions": 409,
-      "bytes": 2758
+      "ticks": 3644215,
+      "sent_at": "2026-11-21T14:37:36-0500",
+      "versions": 411,
+      "bytes": 3247
     },
     {
       "name": "review-29h49m.md",
@@ -1579,10 +1587,10 @@
     {
       "name": "small-projector.md",
       "first_ticks": 1192280,
-      "ticks": 3617188,
-      "sent_at": "2026-11-21T14:15:04-0500",
-      "versions": 3,
-      "bytes": 2957
+      "ticks": 3641001,
+      "sent_at": "2026-11-21T14:34:55-0500",
+      "versions": 4,
+      "bytes": 3495
     },
     {
       "name": "smd-feed.md",
@@ -1707,10 +1715,10 @@
     {
       "name": "titanium-network.md",
       "first_ticks": 3494168,
-      "ticks": 3588639,
-      "sent_at": "2026-11-21T13:51:17-0500",
-      "versions": 3,
-      "bytes": 3165
+      "ticks": 3644215,
+      "sent_at": "2026-11-21T14:37:36-0500",
+      "versions": 5,
+      "bytes": 4573
     },
     {
       "name": "titanium.md",
