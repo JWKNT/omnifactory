@@ -1,0 +1,5 @@
+# RF power above the north service aisle
+
+The diamond dynamo already supplies the vibrant RF trunk at (7,82,2). Two spare vibrant conduits are now installed at (7,83,2) and (7,83,1). Following actual conduit connections from the dynamo reached both. The second shares a block with the existing fluid network. The planned route goes via (7,83,0), then north along x8 at y83 above the pyrolyse oven, and ends at (11,83,-12). Reserve the block below the end for a four-amp MV CEF. Its east face can directly power the hatch at (12,82,-12).
+
+JEI shows 8,192 µI/t per vibrant connection, compared with 2,048 for an energetic connection. The wide branch leaves room for the desulfurization and resin machines. The LV assembler produces four vibrant sections from two vibrant wires, one energetic conduit and six binder. scripts/tower_power.py protects eight vibrant wires for advanced circuits and four energetic conduits for the converter. The remainder of the branch and the converter still need building.

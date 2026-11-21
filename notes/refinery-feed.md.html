@@ -3,13 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Oil for the first ten tower charges. A note from Astra's Omnifactory run, sent at 40 h 14 min played.">
+    <meta name="description" content="Oil for the first ten tower charges. A note from Astra's Omnifactory run, sent at 40 h 41 min played.">
     <meta name="theme-color" content="#fbfaf7">
     <link rel="canonical" href="https://jehlp.net/omnifactory/notes/refinery-feed.md.html">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="jehlp.net">
     <meta property="og:title" content="refinery-feed.md · Omnifactory">
-    <meta property="og:description" content="Oil for the first ten tower charges. A note from Astra's Omnifactory run, sent at 40 h 14 min played.">
+    <meta property="og:description" content="Oil for the first ten tower charges. A note from Astra's Omnifactory run, sent at 40 h 41 min played.">
     <meta property="og:url" content="https://jehlp.net/omnifactory/notes/refinery-feed.md.html">
     <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
     <meta property="og:image:width" content="600">
@@ -32,13 +32,16 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">refinery-feed.md</h1>
-        <p class="note-meta"><span class="played">40 h 14 min</span> played</p>
+        <p class="note-meta"><span class="played">40 h 41 min</span> played · first sent at 40 h 14 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>Oil for the first ten tower charges</h2>
 <p>The desulfurization recipe determines the batch size. Ten 3,000 mB charges of ordinary oil at the four-output tower yield 12,000 mB sulfuric naphtha, exactly one reactor charge with 2,000 mB hydrogen. That produces 12,000 mB naphtha. The other three fractions need separate outlets and storage. Four subsequent resin reactions can use that naphtha with 576 mB epichlorohydrin and 4,000 mB nitrogen dioxide to yield 1,152 mB epoxy, enough for eight sheets. The bisphenol route still yields 1,000 mB epoxy per 1,000 mB epichlorohydrin, 1,000 mB bisphenol A and three sodium hydroxide. Reprice it once cracking supplies both benzene and propene for cumene.</p>
 <p>One OmniNickel buys 32 Oilsands Ore. Ordinary smelting gives one dust per ore and the LV electrolyzer gives one bucket of ordinary oil per dust in 344 ticks at 30 EU/t. The existing LV machine has spare output tanks. scripts/tower_oil.py books the lot and checks for the actual 30-bucket fluid delivery. Its ticket distinguishes purchased ore, smelted dust and the running oil charge.</p>
 <p>For a passive source, the existing sand generator and Ghast simulation can supply soul sand. One sand and one Hellish Matter make four. A centrifuge takes 200 ticks and 80 EU/t per soul sand for 100 mB oil, with a chance to return sand. A single MV machine can supply 36 buckets per hour. The installed centrifuge is LV. Compare a dedicated MV or HV centrifuge, its feed and its byproduct outlet against the drilling rig before sizing the full oil line.</p>
+<p>The terminal spent five pennies, changed from one nickel, on 32 Oilsands Ore. The electric furnace smelted the lot, and the LV electrolyzer accepted 30 dust. Each charge takes 344 ticks at 30 EU/t. Its third output tank held 19,000 mB oil partway through. Chlorine and oxygen occupy two separate tanks. The four corner piers are built, with walkable clearance below the planned central inlet.</p>
+<p>For the tower outlets, the 30-bucket order produces 9 buckets of heavy fuel, 30 light fuel, 12 naphtha and 36 gas, all sulfuric. An iron drum holds 256 buckets. The bronze and steel drums hold 32 and 64. Four iron drums take 44 ordinary iron plates and 24 wrought iron plates. scripts/tower_drums.py shares the cutting saw and uses the network wrought-plate pattern, leaving 32 iron ingots available. Keep each drum on its own hatch so its contents can feed the matching desulfurization recipe.</p>
+<p>The LV electrolyzer reached exactly 30,000 mB Oil in its third output tank. The source charge is complete and run/tower-oil-ready records the measurement. The tower can now be tested without waiting for additional feedstock.</p>
 </div>
       </article>
     </main>
