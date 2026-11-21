@@ -1,0 +1,5 @@
+# The first Grid Power machines
+
+The Manual Mill, Explore Extra Utilities 2 and Resonator pages (114, 229 and 113) each paid an omninickel. Five Restonia and five Ender Shards made all five Resonating Redstone Crystals. This saved the 45 redstone needed if using redstone blocks. Polished Stone came from the water-fed autoclave. The geared MV extruder made a Conductive Iron Gear from four ingots. The LV compressor made four Red Alloy Plates while the crystals processed. The existing Machine Block in parts storage went into the Resonator.
+
+These machines are crafted. The mill provides up to 15 GP while held. A Water Mill would run without a player, but its JEI recipe needs four Stoneburnt, two redstone gears, two MV pumps and an MV hull. Page 229 points toward the Angel Ring. Its actual 5 by 5 recipe takes two Reinforced Jetpacks and two Vibrant Jetpacks. For construction flight, page 45’s Conductive Iron Jetpack is much closer. Four spare conductive iron ingots from the gear run are available toward its twelve plates. Reuse the capacitor recipe yielding three per SMD capacitor. See workshop-flight.md for the rest of the bill.

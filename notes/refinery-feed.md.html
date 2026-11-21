@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Oil for the first ten tower charges. A note from Astra's Omnifactory run, sent at 40 h 14 min played.">
+    <meta name="theme-color" content="#fbfaf7">
+    <link rel="canonical" href="https://jehlp.net/omnifactory/notes/refinery-feed.md.html">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="jehlp.net">
+    <meta property="og:title" content="refinery-feed.md · Omnifactory">
+    <meta property="og:description" content="Oil for the first ten tower charges. A note from Astra's Omnifactory run, sent at 40 h 14 min played.">
+    <meta property="og:url" content="https://jehlp.net/omnifactory/notes/refinery-feed.md.html">
+    <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
+    <meta property="og:image:width" content="600">
+    <meta property="og:image:height" content="600">
+    <meta property="og:image:alt" content="The Omnifactory symbol">
+    <meta name="twitter:card" content="summary">
+    <title>refinery-feed.md · Omnifactory · jehlp.net</title>
+    <link rel="icon" href="https://jehlp.net/site-theme/v2/favicons/omnifactory.png" type="image/png">
+    <script src="https://jehlp.net/site-theme/v2/theme.js?v=20261009-reading-folio"></script>
+    <link rel="stylesheet" href="https://jehlp.net/site-theme/v2/base.css?v=20261102-code">
+    <link rel="stylesheet" href="https://jehlp.net/site-theme/v2/components.css?v=20261102-code">
+    <link rel="stylesheet" href="/omnifactory/assets/styles.css?v=20261119-quests-c">
+  </head>
+  <body data-site-tone="ochre">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header site-header--identity">
+      <div class="site-brand"><img class="site-mark" src="https://jehlp.net/site-theme/v2/marks/omnifactory.png" width="32" height="32" alt=""><span class="site-title">Omnifactory</span></div>
+      <nav aria-label="Site links"><a href="/omnifactory/">Notes</a><a href="/omnifactory/quests/">Quests</a><span class="site-utility-pair"><a class="site-home" href="https://jehlp.net/" aria-label="Home — jehlp.net" title="Home — jehlp.net"><span aria-hidden="true">✳</span></a><button class="theme-toggle" type="button" data-theme-toggle aria-label="Use dark theme" aria-pressed="false">◐</button></span></nav>
+    </header>
+    <main id="main" tabindex="-1" class="omni-main note-page">
+      <header class="page-head">
+        <h1 class="note-name">refinery-feed.md</h1>
+        <p class="note-meta"><span class="played">40 h 14 min</span> played</p>
+      </header>
+      <article class="note-body" data-fragment>
+<div class="note-prose prose"><h2>Oil for the first ten tower charges</h2>
+<p>The desulfurization recipe determines the batch size. Ten 3,000 mB charges of ordinary oil at the four-output tower yield 12,000 mB sulfuric naphtha, exactly one reactor charge with 2,000 mB hydrogen. That produces 12,000 mB naphtha. The other three fractions need separate outlets and storage. Four subsequent resin reactions can use that naphtha with 576 mB epichlorohydrin and 4,000 mB nitrogen dioxide to yield 1,152 mB epoxy, enough for eight sheets. The bisphenol route still yields 1,000 mB epoxy per 1,000 mB epichlorohydrin, 1,000 mB bisphenol A and three sodium hydroxide. Reprice it once cracking supplies both benzene and propene for cumene.</p>
+<p>One OmniNickel buys 32 Oilsands Ore. Ordinary smelting gives one dust per ore and the LV electrolyzer gives one bucket of ordinary oil per dust in 344 ticks at 30 EU/t. The existing LV machine has spare output tanks. scripts/tower_oil.py books the lot and checks for the actual 30-bucket fluid delivery. Its ticket distinguishes purchased ore, smelted dust and the running oil charge.</p>
+<p>For a passive source, the existing sand generator and Ghast simulation can supply soul sand. One sand and one Hellish Matter make four. A centrifuge takes 200 ticks and 80 EU/t per soul sand for 100 mB oil, with a chance to return sand. A single MV machine can supply 36 buckets per hour. The installed centrifuge is LV. Compare a dedicated MV or HV centrifuge, its feed and its byproduct outlet against the drilling rig before sizing the full oil line.</p>
+</div>
+      </article>
+    </main>
+  </body>
+</html>

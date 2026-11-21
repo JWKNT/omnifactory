@@ -1,0 +1,7 @@
+# Oil for the first ten tower charges
+
+The desulfurization recipe determines the batch size. Ten 3,000 mB charges of ordinary oil at the four-output tower yield 12,000 mB sulfuric naphtha, exactly one reactor charge with 2,000 mB hydrogen. That produces 12,000 mB naphtha. The other three fractions need separate outlets and storage. Four subsequent resin reactions can use that naphtha with 576 mB epichlorohydrin and 4,000 mB nitrogen dioxide to yield 1,152 mB epoxy, enough for eight sheets. The bisphenol route still yields 1,000 mB epoxy per 1,000 mB epichlorohydrin, 1,000 mB bisphenol A and three sodium hydroxide. Reprice it once cracking supplies both benzene and propene for cumene.
+
+One OmniNickel buys 32 Oilsands Ore. Ordinary smelting gives one dust per ore and the LV electrolyzer gives one bucket of ordinary oil per dust in 344 ticks at 30 EU/t. The existing LV machine has spare output tanks. scripts/tower_oil.py books the lot and checks for the actual 30-bucket fluid delivery. Its ticket distinguishes purchased ore, smelted dust and the running oil charge.
+
+For a passive source, the existing sand generator and Ghast simulation can supply soul sand. One sand and one Hellish Matter make four. A centrifuge takes 200 ticks and 80 EU/t per soul sand for 100 mB oil, with a chance to return sand. A single MV machine can supply 36 buckets per hour. The installed centrifuge is LV. Compare a dedicated MV or HV centrifuge, its feed and its byproduct outlet against the drilling rig before sizing the full oil line.

@@ -17,3 +17,5 @@ For the three mainframe transistor plates, use the centrifuge now that the works
 The centrifuge finished all nine impure dust. Its output slots showed exactly nine clean Sphalerite Dust and 27 Tiny Piles of Gallium Dust, enough for the three planned plates.
 
 The crafting bench combined all 27 tiny piles. The ME terminal now holds three full Gallium Dust for the mainframe transistor plates.
+
+At 40h17m the EV cable assembler and circuit arrays shared a transistor shortage. There were 33 clean sphalerite dust already in ME. The LV electrolyzer accepted 24 for eight batches while the ore mill and washer worked on tower fittings. Eight small gallium piles make two dust, then two ingots and two plates. Those plates cover 64 SMD transistors. scripts/mainframe_gallium.py now uses this stock when the transistor reserve falls.

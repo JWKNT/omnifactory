@@ -225,6 +225,14 @@
       "bytes": 7381
     },
     {
+      "name": "cluster-mill-interface.md",
+      "first_ticks": 2891309,
+      "ticks": 2891309,
+      "sent_at": "2026-11-21T04:10:10-0500",
+      "versions": 1,
+      "bytes": 950
+    },
+    {
       "name": "cluster-mill.md",
       "first_ticks": 1117115,
       "ticks": 1131868,
@@ -387,10 +395,10 @@
     {
       "name": "ev-cable-coverings.md",
       "first_ticks": 2772307,
-      "ticks": 2878786,
-      "sent_at": "2026-11-21T03:59:44-0500",
-      "versions": 7,
-      "bytes": 4915
+      "ticks": 2897026,
+      "sent_at": "2026-11-21T04:14:56-0500",
+      "versions": 9,
+      "bytes": 5807
     },
     {
       "name": "extruder-power.md",
@@ -571,10 +579,10 @@
     {
       "name": "gallium.md",
       "first_ticks": 223311,
-      "ticks": 1656371,
-      "sent_at": "2026-11-20T10:59:19-0500",
-      "versions": 7,
-      "bytes": 3187
+      "ticks": 2901928,
+      "sent_at": "2026-11-21T04:19:01-0500",
+      "versions": 8,
+      "bytes": 3623
     },
     {
       "name": "gear-production.md",
@@ -591,6 +599,14 @@
       "sent_at": "2026-11-21T03:45:05-0500",
       "versions": 4,
       "bytes": 2555
+    },
+    {
+      "name": "grid-power.md",
+      "first_ticks": 2885575,
+      "ticks": 2885575,
+      "sent_at": "2026-11-21T04:05:24-0500",
+      "versions": 1,
+      "bytes": 1145
     },
     {
       "name": "hellish-bootstrap.md",
@@ -971,10 +987,10 @@
     {
       "name": "petrochem.md",
       "first_ticks": 1033680,
-      "ticks": 2878786,
-      "sent_at": "2026-11-21T03:59:44-0500",
-      "versions": 5,
-      "bytes": 2684
+      "ticks": 2897026,
+      "sent_at": "2026-11-21T04:14:56-0500",
+      "versions": 7,
+      "bytes": 3598
     },
     {
       "name": "phosphorus-chlorine.md",
@@ -1129,12 +1145,20 @@
       "bytes": 3856
     },
     {
+      "name": "refinery-feed.md",
+      "first_ticks": 2897026,
+      "ticks": 2897026,
+      "sent_at": "2026-11-21T04:14:56-0500",
+      "versions": 1,
+      "bytes": 1534
+    },
+    {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 2878786,
-      "sent_at": "2026-11-21T03:59:44-0500",
-      "versions": 342,
-      "bytes": 14452
+      "ticks": 2903723,
+      "sent_at": "2026-11-21T04:20:31-0500",
+      "versions": 347,
+      "bytes": 15803
     },
     {
       "name": "review-29h49m.md",
