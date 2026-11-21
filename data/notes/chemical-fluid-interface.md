@@ -1,0 +1,7 @@
+# Returning electrolysis gases to fluid storage
+
+At 45 hours the MV electrolyzer had accumulated 52 buckets of hydrogen. Its direct automatic output points upward at the oxygen drum and remains switched off. The filtered south extraction port fills only oxygen into that drum for blast annealing and polymer. The filter proved its value when fluorine reached an empty drum earlier in the run.
+
+There is a shorter place for an ME Fluid Interface than the north tower extension. The block at (7,82,-1) is air. Immediately south, (7,82,0) is live ME glass cable. Immediately west, (6,82,-1) already carries Ender Fluid Conduit. One further liquid segment inside the existing bundle at (6,82,0) would reach the north face of the MV electrolyzer. Keep the south oxygen port in service. Give the north extraction a separate colour and a whitelist, beginning with hydrogen. The interface must receive an actual measured gas delivery before it can replace portable transfers.
+
+The stored MV pump is reserved for this build. Nine lapis were loaded into the LV compressor. Five plates go to the interface, leaving four for later fluid buses. A Formation Core batch produces two for one Logic Processor, one Certus Crystal and one Fluix Dust. Reserve the second core for the refinery ore export bus. An Annihilation Core is already in ME. The polyethylene-fed MV assembler can make the hull after a wrench shapes its aluminium casing. scripts/chemical_interface.py stages these parts while the End Steel and titanium jobs run.
