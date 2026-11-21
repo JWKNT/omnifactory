@@ -1,0 +1,7 @@
+# Return ethylene to polyethylene on the existing conduit
+
+The east dehydrator and the polyethylene plant already share an Ender Fluid Conduit network. The north connection on the dehydrator receives ethanol on red. The north connection on the polyethylene reactor sends plastic to the electronics assembler on blue. Both connections can carry an insert color and a different extract color. A new color between those same endpoints could replace the recurring ethylene bucket trip.
+
+At 42h50m the MV assembler had 224 mB polyethylene. Its SMD transistor and MV hull jobs both needed 288 mB, and both CPUs were occupied. The east reactor already held more than 50 buckets of ethanol. Two buckets of sulfuric acid from the water-fed LV reactor produced two buckets of ethylene and two buckets of diluted sulfuric acid. The two ethylene buckets were carried to the oxygen-fed PE reactor. The existing blue pipe then supplied the assembler and both CPU orders finished.
+
+Check the source filter before enabling automatic extraction. The east reactor has two distinct products. JEI shows the Ender IO Basic Fluid Filter costs four paper and a bucket. The alternative ME Fluid Export Bus costs two lapis plates, a Formation Core and an MV piston, and needs an accessible fluid supply in ME. Try a whitelisted ethylene filter on the dehydrator's extract side, and keep its red ethanol input active. The recovery still needs diluted acid separately. Verify both fluids and an unattended repeat before counting the return as automated.

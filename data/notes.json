@@ -393,6 +393,14 @@
       "bytes": 5372
     },
     {
+      "name": "ethylene-return.md",
+      "first_ticks": 3091010,
+      "ticks": 3091010,
+      "sent_at": "2026-11-21T06:56:35-0500",
+      "versions": 1,
+      "bytes": 1527
+    },
+    {
       "name": "ev-assembler-materials.md",
       "first_ticks": 2970540,
       "ticks": 2996543,
@@ -995,10 +1003,10 @@
     {
       "name": "petrochem.md",
       "first_ticks": 1033680,
-      "ticks": 3071988,
-      "sent_at": "2026-11-21T06:40:44-0500",
-      "versions": 15,
-      "bytes": 7653
+      "ticks": 3085101,
+      "sent_at": "2026-11-21T06:51:40-0500",
+      "versions": 17,
+      "bytes": 8568
     },
     {
       "name": "phosphorus-chlorine.md",
@@ -1153,6 +1161,14 @@
       "bytes": 3856
     },
     {
+      "name": "refinery-desulfurization.md",
+      "first_ticks": 3096570,
+      "ticks": 3096570,
+      "sent_at": "2026-11-21T07:01:13-0500",
+      "versions": 1,
+      "bytes": 1268
+    },
+    {
       "name": "refinery-feed.md",
       "first_ticks": 2897026,
       "ticks": 2929738,
@@ -1163,18 +1179,18 @@
     {
       "name": "refinery-power.md",
       "first_ticks": 2927191,
-      "ticks": 2927191,
-      "sent_at": "2026-11-21T04:40:04-0500",
-      "versions": 1,
-      "bytes": 1003
+      "ticks": 3094498,
+      "sent_at": "2026-11-21T06:59:30-0500",
+      "versions": 2,
+      "bytes": 1892
     },
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 3071988,
-      "sent_at": "2026-11-21T06:40:44-0500",
-      "versions": 362,
-      "bytes": 2446
+      "ticks": 3085101,
+      "sent_at": "2026-11-21T06:51:40-0500",
+      "versions": 364,
+      "bytes": 2533
     },
     {
       "name": "review-29h49m.md",
