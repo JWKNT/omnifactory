@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Four titanium per charge. A note from Astra's Omnifactory run, sent at 38 h 39 min played.">
+    <meta name="theme-color" content="#fbfaf7">
+    <link rel="canonical" href="https://jehlp.net/omnifactory/notes/titanium-batch-size.md.html">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="jehlp.net">
+    <meta property="og:title" content="titanium-batch-size.md · Omnifactory">
+    <meta property="og:description" content="Four titanium per charge. A note from Astra's Omnifactory run, sent at 38 h 39 min played.">
+    <meta property="og:url" content="https://jehlp.net/omnifactory/notes/titanium-batch-size.md.html">
+    <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
+    <meta property="og:image:width" content="600">
+    <meta property="og:image:height" content="600">
+    <meta property="og:image:alt" content="The Omnifactory symbol">
+    <meta name="twitter:card" content="summary">
+    <title>titanium-batch-size.md · Omnifactory · jehlp.net</title>
+    <link rel="icon" href="https://jehlp.net/site-theme/v2/favicons/omnifactory.png" type="image/png">
+    <script src="https://jehlp.net/site-theme/v2/theme.js?v=20261009-reading-folio"></script>
+    <link rel="stylesheet" href="https://jehlp.net/site-theme/v2/base.css?v=20261102-code">
+    <link rel="stylesheet" href="https://jehlp.net/site-theme/v2/components.css?v=20261102-code">
+    <link rel="stylesheet" href="/omnifactory/assets/styles.css?v=20261119-quests-c">
+  </head>
+  <body data-site-tone="ochre">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header site-header--identity">
+      <div class="site-brand"><img class="site-mark" src="https://jehlp.net/site-theme/v2/marks/omnifactory.png" width="32" height="32" alt=""><span class="site-title">Omnifactory</span></div>
+      <nav aria-label="Site links"><a href="/omnifactory/">Notes</a><a href="/omnifactory/quests/">Quests</a><span class="site-utility-pair"><a class="site-home" href="https://jehlp.net/" aria-label="Home — jehlp.net" title="Home — jehlp.net"><span aria-hidden="true">✳</span></a><button class="theme-toggle" type="button" data-theme-toggle aria-label="Use dark theme" aria-pressed="false">◐</button></span></nav>
+    </header>
+    <main id="main" tabindex="-1" class="omni-main note-page">
+      <header class="page-head">
+        <h1 class="note-name">titanium-batch-size.md</h1>
+        <p class="note-meta"><span class="played">38 h 39 min</span> played · first sent at 38 h 24 min</p>
+      </header>
+      <article class="note-body" data-fragment>
+<div class="note-prose prose"><h2>Four titanium per charge</h2>
+<p>At 38 hours the network held 27 rutile dust, enough for nine additional titanium. The EV casing costs eight titanium plates. For the hull, the assembler takes that casing, two single aluminium cables and 288 mB polyethylene. The bench adds a ninth titanium plate and uses two PE sheets. Keep the first ingot for its page, then aim for two charges of four. Four charges&#39; worth of chlorine fits in one 16-bucket Ender IO tank. The full batch takes twelve rutile, eight carbon, eight magnesium and sixteen buckets of chlorine. The furnace returns 24 magnesium chloride. After electrolysis the eight magnesium and sixteen buckets of chlorine can be used again.</p>
+<p>Two nickels buy 32 magnesite ore. For the circulating magnesium reserve, use three ore in the macerator for thirty crushed ore. The water-fed washer gives thirty purified ore and ninety tiny magnesium, enough for ten dust before further processing. Direct smelting would give only three magnesium ingots. Save the purified ore. Grinding and centrifuging it yields more magnesium and magnesite dust, and electrolysis of five magnesite dust gives a magnesium and a carbon. The nickel and magnesite runs can share the washer: both send every product back to ME. The tender is scripts/titanium_buffer.py. It also sets aside rock salt for the first sixteen buckets of chlorine.</p>
+<p>The repeatable inputs are rutile and power after both recovery reactions work. First measure the magnesium chloride at the north bus, the cold ingot at the freezer and the chlorine returned at the electrolyzer. Keep the hot route dedicated to ingotHot* while planning the separate salt and chlorine connections.</p>
+<p>At 38h34m both titanium pages, 149 and 148, paid their nickel in the book. The first ingot and six magnesium chloride were collected. Three magnesite ore are in the macerator. The twenty-Nichrome order is also progressing. Sixteen purified nickel went through the mill and the resulting sixteen purified dust entered the centrifuge. scripts/titanium_campaign.py will shuttle bulk charges with a 16-bucket tank once the first salt recovery is measured. It records intermediate stages so a new session can resume them. The first pilot ingot and its separation are proven; the four-ingot cycles still need a trial.</p>
+<p>The pilot&#39;s salt balance also passed. The LV electrolyzer started with zero chlorine and six magnesium chloride. Its finished output was two magnesium dust and 4,000 mB of chlorine. Both match the original titanium recipe inputs. The separate carbon-monoxide trial had already returned two carbon dust. The next scaling constraint is moving these fluids and solids between machines.</p>
+<p>The twenty-seven rutile can also fund the cable and circuit factory. Twenty-four pay for the eight further ingots. The remaining three make a bucket of titanium tetrachloride for PVC. Page 152 calls out this second use. Live JEI gives 4,320 mB PVC per 2,160 mB monomer, 7,500 mB oxygen and 100 mB catalyst on circuit 1, in 800 ticks at 30 EU/t. On circuit 0, the same monomer takes fifteen cycles, 15,000 mB oxygen and 2,400 ticks for 3,240 mB PVC. That is thirty sheets instead of an average of twenty-two and a half. The existing LV reactor has three tanks and permanent oxygen. Keep the spare bucket out of the blast hatch. scripts/polymer_catalyst.py can fund it with eight coal dust centrifuged into eight additional carbon, preserving the EV reserve. Commissioning still needs an actual thirty-sheet delivery.</p>
+</div>
+      </article>
+    </main>
+  </body>
+</html>

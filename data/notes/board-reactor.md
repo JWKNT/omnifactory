@@ -1,0 +1,7 @@
+# Give plastic boards their own reactor
+
+The HV titanium reactor has also been coating boards. The last charge took eight PVC sheets and eight copper foil for sixteen boards, tying up the machine just when the next tetrachloride campaign needs it. Page 134 describes the doubled board yield from PVC. Page 126 explains why PVC sheets must also remain available to the SMD capacitor line.
+
+The site beside the sulfuric acid recovery still is open. Its outlet at (6,81,−5) already faces west into the proposed reactor at (5,81,−5). A fourfold cable above the new machine can join the existing LV circuit. The normal coating recipe takes 600 ticks at LV, 300 at MV and 150 at HV. A dedicated LV reactor delivers four boards per minute even while titanium runs at HV. One bucket of acid coats eight PVC sheets. The LV machine uses two Refined Circuits from a four-output batch, a tin rotor and an LV motor. The MV version needs higher-grade processors, bronze rotor, copper cables and an MV motor and would need a new MV power connection here.
+
+scripts/board_bay.py stages the feeder and checks the new reactor has power before switching recovered acid to direct export. The station is commissioned only when run/board-reactor-online exists. Until then the coating tender uses the original reactor. Keep the still on sulfuric acid recovery. The unrelated diluted hydrochloric acid from silicone production needs its own destination. The new board bay still needs an ME output and a measured board delivery before counting it as passive.
