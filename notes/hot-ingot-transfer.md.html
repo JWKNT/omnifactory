@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="A filtered feed from the blast furnace to the freezer">
+    <meta name="theme-color" content="#fbfaf7">
+    <link rel="canonical" href="https://jehlp.net/omnifactory/notes/hot-ingot-transfer.md.html">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="jehlp.net">
+    <meta property="og:title" content="hot-ingot-transfer.md · Omnifactory">
+    <meta property="og:description" content="A filtered feed from the blast furnace to the freezer">
+    <meta property="og:url" content="https://jehlp.net/omnifactory/notes/hot-ingot-transfer.md.html">
+    <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
+    <meta property="og:image:width" content="600">
+    <meta property="og:image:height" content="600">
+    <meta property="og:image:alt" content="The Omnifactory symbol">
+    <meta name="twitter:card" content="summary">
+    <title>hot-ingot-transfer.md · Omnifactory · jehlp.net</title>
+    <link rel="icon" href="https://jehlp.net/site-theme/v2/favicons/omnifactory.png" type="image/png">
+    <script src="https://jehlp.net/site-theme/v2/theme.js?v=20261009-reading-folio"></script>
+    <link rel="stylesheet" href="https://jehlp.net/site-theme/v2/base.css?v=20261102-code">
+    <link rel="stylesheet" href="https://jehlp.net/site-theme/v2/components.css?v=20261102-code">
+    <link rel="stylesheet" href="/omnifactory/assets/styles.css?v=20261119-quests-c">
+  </head>
+  <body data-site-tone="ochre">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header site-header--identity">
+      <div class="site-brand"><img class="site-mark" src="https://jehlp.net/site-theme/v2/marks/omnifactory.png" width="32" height="32" alt=""><span class="site-title">Omnifactory</span></div>
+      <nav aria-label="Site links"><a href="/omnifactory/">Notes</a><a href="/omnifactory/quests/">Quests</a><span class="site-utility-pair"><a class="site-home" href="https://jehlp.net/" aria-label="Home — jehlp.net" title="Home — jehlp.net"><span aria-hidden="true">✳</span></a><button class="theme-toggle" type="button" data-theme-toggle aria-label="Use dark theme" aria-pressed="false">◐</button></span></nav>
+    </header>
+    <main id="main" tabindex="-1" class="omni-main note-page">
+      <header class="page-head">
+        <h1 class="note-name">hot-ingot-transfer.md</h1>
+        <p class="note-meta"><span class="played">35 h 33 min</span> played</p>
+      </header>
+      <article class="note-body" data-fragment>
+<div class="note-prose prose"><h2>A filtered feed from the blast furnace to the freezer</h2>
+<p>Quest 156 recommends sending hot metal directly between the two buses. The west-facing blast output is at (0,80,8). The planned freezer input faces east at (-3,80,8). Only two blocks separate them, and both spaces were air. The installed GregTech item buses push from their front or pull into their front through any cover on that face. That allows both machines to use the same double chest. It needs no power, keeps up with the ten-second blast cycle, and buffers production during a freezer outage.</p>
+<p>The iron Chest Transporter is crafted. The nine recovered hot Kanthal are still in their original chest at (4,81,2). After the freezer is formed and powered, scripts/freezer_kanthal.py checks that the chest holds only those nine ingots. It moves the chest intact to (-2,80,8). The freezer input should draw directly from it. Look for nine cooled Kanthal at the west output bus, then hold them for quest 156. The installed recipe takes 112 ticks per ingot at 120 EU/t.</p>
+<p>For subsequent hot ingots, scripts/hot_ingot_filter.py prepares a GregTech Ore Dictionary Filter from eight zinc foil and an emerald plate. The alternative uses olivine. Two foil already exist, and the remaining six can come from two zinc plates in the cluster mill. Set the blast bus&#39;s west cover to whitelist ingotHot* for extraction. The hot Kanthal tooltip has the ore name ingotHotKanthal. Once the nine cold ingots and filter have both been verified, a second chest at (-1,80,8) can join the first and bridge the gap. Cold aluminium and stainless should remain in the EBF output bus for other lines. Verify the first fresh blast reaches the freezer on its own before committing the longer coil run. The filter, joined chest and cooling trials are still pending.</p>
+</div>
+      </article>
+    </main>
+  </body>
+</html>

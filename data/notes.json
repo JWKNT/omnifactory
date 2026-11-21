@@ -299,10 +299,10 @@
     {
       "name": "dml-rubber.md",
       "first_ticks": 939246,
-      "ticks": 1012072,
-      "sent_at": "2026-11-20T02:02:24-0500",
-      "versions": 3,
-      "bytes": 1599
+      "ticks": 2569195,
+      "sent_at": "2026-11-20T23:40:20-0500",
+      "versions": 4,
+      "bytes": 2313
     },
     {
       "name": "drawer-network.md",
@@ -355,10 +355,10 @@
     {
       "name": "ethylene-repeats.md",
       "first_ticks": 1203094,
-      "ticks": 1325255,
-      "sent_at": "2026-11-20T06:23:23-0500",
-      "versions": 5,
-      "bytes": 3180
+      "ticks": 2564433,
+      "sent_at": "2026-11-20T23:36:22-0500",
+      "versions": 8,
+      "bytes": 5131
     },
     {
       "name": "extruder-power.md",
@@ -567,6 +567,14 @@
       "sent_at": "2026-11-20T18:12:55-0500",
       "versions": 5,
       "bytes": 3346
+    },
+    {
+      "name": "hot-ingot-transfer.md",
+      "first_ticks": 2560005,
+      "ticks": 2560005,
+      "sent_at": "2026-11-20T23:32:41-0500",
+      "versions": 1,
+      "bytes": 1797
     },
     {
       "name": "hv-array-supplies.md",
@@ -1011,10 +1019,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 2540379,
-      "sent_at": "2026-11-20T23:16:19-0500",
-      "versions": 301,
-      "bytes": 9243
+      "ticks": 2569995,
+      "sent_at": "2026-11-20T23:41:00-0500",
+      "versions": 305,
+      "bytes": 10374
     },
     {
       "name": "review-29h49m.md",
@@ -1243,10 +1251,10 @@
     {
       "name": "vacuum-freezer.md",
       "first_ticks": 1538556,
-      "ticks": 2319723,
-      "sent_at": "2026-11-20T20:12:06-0500",
-      "versions": 7,
-      "bytes": 5712
+      "ticks": 2569195,
+      "sent_at": "2026-11-20T23:40:20-0500",
+      "versions": 10,
+      "bytes": 7099
     },
     {
       "name": "vibrant-conduits.md",
