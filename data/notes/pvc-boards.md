@@ -55,3 +55,5 @@ Recycled HCl, ethylene and oxygen on circuit 3 produced 1,000 mB vinyl chloride 
 The second vinyl batch yielded eleven PVC sheets in the dedicated caster. The first two monomer charges have now delivered 21 sheets in total. The LV still still had two buckets of ethanol in reserve while this ran.
 
 The third vinyl charge gave ten more PVC sheets. The first three charges yielded 31. The drum only moves one bucket per right-click, even with a sixteen-bucket Ender IO tank. Filling the tank at the drum before returning to the reactor cut sixteen trips to one. The PVC machine showed 15,000 mB oxygen left after starting its next cycle.
+
+The fourth cast delivered eleven sheets, bringing the total to 42. Eight sheets and eight foil per coating batch produce sixteen boards. Recovered acid in the still can fund the next batch while the east chemistry rack is being expanded.
