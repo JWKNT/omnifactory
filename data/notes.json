@@ -403,10 +403,10 @@
     {
       "name": "epoxy-coater.md",
       "first_ticks": 3336950,
-      "ticks": 3336950,
-      "sent_at": "2026-11-21T10:21:32-0500",
-      "versions": 1,
-      "bytes": 1246
+      "ticks": 3354754,
+      "sent_at": "2026-11-21T10:36:22-0500",
+      "versions": 2,
+      "bytes": 1802
     },
     {
       "name": "epoxy-feed.md",
@@ -1243,10 +1243,10 @@
     {
       "name": "refinery-grid.md",
       "first_ticks": 3305321,
-      "ticks": 3305321,
-      "sent_at": "2026-11-21T09:55:11-0500",
-      "versions": 1,
-      "bytes": 1540
+      "ticks": 3354756,
+      "sent_at": "2026-11-21T10:36:23-0500",
+      "versions": 2,
+      "bytes": 2543
     },
     {
       "name": "refinery-oil-feed.md",
