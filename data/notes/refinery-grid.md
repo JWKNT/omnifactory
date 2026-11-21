@@ -1,0 +1,7 @@
+# Extending ME to the refinery
+
+The dedicated MV desulfurizer has passed its first full charge. It delivered 12,000 mB clean naphtha and 1,000 mB hydrogen sulfide to ME during commissioning. Eleven pressurized conduits now deliver raw naphtha from the drum without a player. When extraction started the drum fell from 20,400 to 18,900 mB while the reactor took the feed. The unused mixer port and tower hatch port are set to extract with redstone Never, so neither receives fluid from the pipe. The west line goes around the air collector.
+
+The next grid extension should follow the vibrant RF trunk in Ender IO bundles. Six covered glass cables and twelve binder yield sixteen ME Conduits in the LV assembler. The extractor below it can melt regular rubber sheets. Four spare glass cables are budgeted for mounting the buses. The terminal and machines can grow these materials through scripts/refinery_grid.py. No item or fluid buses are installed at the refinery yet.
+
+An ME Fluid Import Bus can collect both clean naphtha and the sulfide coproduct, releasing both output tanks. Use the hydrogen sample with a Fluid Export Bus to keep the refinery supplied. Each bus takes an MV piston and two lapis plates. One uses an Annihilation Core, the other a Formation Core. A third piston and a second Formation Core can fit an ordinary Export Bus to the oilsands furnace. Four lapis plates were left after installing the chemistry interface. Check that cell space accepts both output types and that the tower has enough spare power under load.
