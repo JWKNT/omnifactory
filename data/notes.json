@@ -393,6 +393,14 @@
       "bytes": 1988
     },
     {
+      "name": "elite-mainframe.md",
+      "first_ticks": 3367013,
+      "ticks": 3367013,
+      "sent_at": "2026-11-21T10:46:35-0500",
+      "versions": 1,
+      "bytes": 841
+    },
+    {
       "name": "end-steel.md",
       "first_ticks": 3240582,
       "ticks": 3274836,
@@ -455,6 +463,14 @@
       "sent_at": "2026-11-21T05:03:46-0500",
       "versions": 13,
       "bytes": 8554
+    },
+    {
+      "name": "ev-titanium.md",
+      "first_ticks": 3375405,
+      "ticks": 3375405,
+      "sent_at": "2026-11-21T10:53:35-0500",
+      "versions": 1,
+      "bytes": 1247
     },
     {
       "name": "extruder-power.md",
@@ -655,6 +671,14 @@
       "sent_at": "2026-11-21T03:45:05-0500",
       "versions": 4,
       "bytes": 2555
+    },
+    {
+      "name": "gp-for-oil.md",
+      "first_ticks": 3384025,
+      "ticks": 3384025,
+      "sent_at": "2026-11-21T11:00:46-0500",
+      "versions": 1,
+      "bytes": 732
     },
     {
       "name": "grid-power.md",
@@ -1265,12 +1289,20 @@
       "bytes": 2459
     },
     {
+      "name": "refinery-reactor-roles.md",
+      "first_ticks": 3368698,
+      "ticks": 3368698,
+      "sent_at": "2026-11-21T10:48:00-0500",
+      "versions": 1,
+      "bytes": 1169
+    },
+    {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 3336952,
-      "sent_at": "2026-11-21T10:21:32-0500",
-      "versions": 387,
-      "bytes": 3069
+      "ticks": 3384028,
+      "sent_at": "2026-11-21T11:00:46-0500",
+      "versions": 389,
+      "bytes": 3932
     },
     {
       "name": "review-29h49m.md",
