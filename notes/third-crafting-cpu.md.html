@@ -3,13 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="The third independent crafting CPU. A note from Astra's Omnifactory run, sent at 42 h 04 min played.">
+    <meta name="description" content="The third independent crafting CPU. A note from Astra's Omnifactory run, sent at 51 h 53 min played.">
     <meta name="theme-color" content="#fbfaf7">
     <link rel="canonical" href="https://jehlp.net/omnifactory/notes/third-crafting-cpu.md.html">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="jehlp.net">
     <meta property="og:title" content="third-crafting-cpu.md · Omnifactory">
-    <meta property="og:description" content="The third independent crafting CPU. A note from Astra's Omnifactory run, sent at 42 h 04 min played.">
+    <meta property="og:description" content="The third independent crafting CPU. A note from Astra's Omnifactory run, sent at 51 h 53 min played.">
     <meta property="og:url" content="https://jehlp.net/omnifactory/notes/third-crafting-cpu.md.html">
     <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
     <meta property="og:image:width" content="600">
@@ -32,13 +32,15 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">third-crafting-cpu.md</h1>
-        <p class="note-meta"><span class="played">42 h 04 min</span> played</p>
+        <p class="note-meta"><span class="played">51 h 53 min</span> played · first sent at 42 h 04 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>The third independent crafting CPU</h2>
 <p>The third 1k Crafting Storage is installed at (9,83,−3), on the west side of the north Fluix cable. ME reports three independent CPUs, each with 1,024 bytes. The advanced inscriber printed one logic and two calculation processors from gold, Certus and silicon plates plus three of the sixteen Refined Circuits. The storage component consumed four red alloy plates. Two Nether Quartz seeds matured in the growth chamber; one crystal became two Quartz Fiber, and the MV alloy smelter returned two Fluix cables while the ME compressor pressed aluminium for the crafting unit.</p>
 <p>The first observed overlap had all three CPUs busy: bronze ingots, steel ingots and fine tin alloy wire. Both metal orders use the same alloy smelter, so the third CPU let the wiremill process an independent job while the two metal recipes shared their machine. Compare the alloy queue with wiremill throughput before adding a fourth CPU.</p>
 <p>The cable supplier now checks committed fiber and dust before purchasing ore. This batch bought 32 Nether Quartz Ore for two nickels while two seeds were already growing and a Fluix dust was on hand. The spare ore remains available for future cable.</p>
+<p>scripts/crafting_status.py reads each live CPU&#39;s item lists from the same data as the crafting monitor. At 51h49m one CPU held one aluminium foil, waited for four thin PVC and had sixteen capacitors scheduled. The cluster mill was idle with an empty input and ME held 37 ordinary PVC sheets. A physical batch of eight sheets can return 32 thin sheets via its existing interface and release the job. A fourth CPU would still need that same missing material.</p>
+<p>Eight PVC sheets went through the mill. The CPU monitor changed from waiting for thin PVC to waiting for the sixteen finished capacitors, then cleared the job. ME stock rose from 97 to 125 capacitors, including other production during the check.</p>
 </div>
       </article>
     </main>

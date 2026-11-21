@@ -32,7 +32,7 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">refinery-oil-feed.md</h1>
-        <p class="note-meta"><span class="played">45 h 42 min</span> played · first sent at 44 h 27 min</p>
+        <p class="note-meta"><span class="played">51 h 53 min</span> played · first sent at 44 h 27 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>Oil supply for the remaining EV circuit boards</h2>
@@ -46,6 +46,8 @@
 <p>At 45h24m the first 32 ores had finished and the naphtha drum held 12 buckets. Four coin batches bought another 128 oilsands for twenty pennies. The furnace accepted 64. The second stack is reserved for the next load in scripts/refinery_oil_feed.py. This supplies enough for the 48 additional buckets of raw naphtha still needed for forty boards. The tower can hold the extra fractions in its four 256-bucket drums. The slow step is the tower&#39;s one-minute cycle. Keep it running during circuit and blast work.</p>
 <p>Both stacks have now entered the furnace. The next machine site is (12,81,-11), south of an existing powered fourfold copper cable. scripts/naphtha_reactor.py stages a dedicated MV chemical reactor there. Its first feed will be sulfuric naphtha from the drum and hydrogen from the chemical deck. Twelve buckets of raw naphtha and two of hydrogen yield twelve clean naphtha plus one hydrogen sulfide. Leave a separate outlet for the sulfide. The circuit shop already has patterns for the rotor, MV motor and hull. Their missing raw inputs on the first orders were four bronze plates, two aluminium rods and one MV casing.</p>
 <p>The dedicated MV reactor is installed and powered at (12,81,-11). ME made the bronze rotor and MV motor after the press and lathe supplied their missing ingredients. Two Refined Processors filled its Good circuit slots. Eleven pressurized conduits will take raw naphtha from the west face of the third drum to the top of the reactor. The first two sections are in place at y85. The route turns west at z-14 to keep the sky open above the air collector. It uses one fluid per pipe, so the LV assembler&#39;s eight-for-three-glass recipe saves the vibrant wire needed by circuits. The next test is a measured drum-to-reactor delivery.</p>
+<p>At 51h52m the gas drum held 256 buckets and its hatch another 16. All other tower hatches were empty. The tower had 14 buckets of oil, 2,048 EU in its hatch, and a formed structure, but could not start a charge. Banking 16 buckets sulfuric gas in ME immediately restarted the 96 EU/t distillation recipe; the live controller reached 585 of 1,200 ticks. The light fuel drum also held 204 of 256 buckets. scripts/refinery_overflow.py keeps backed-up fractions while the permanent collection system is built.</p>
+<p>The planned ME branch for gas and light fuel starts above the existing Fluix cable at (13,81,-11), runs up to y87, crosses the tower roof north to z-15 and descends beside the drums. All fourteen intended cable positions were clear when surveyed. Fluid import buses on the west faces at y86 and y84 will drain gas and light fuel. scripts/fraction_import.py shares the other refinery buses&#39; crafting route. Verify both imports against ME totals. The naphtha drum already feeds its own reactor. Heavy fuel was at 64 buckets and has room for a third bus later.</p>
 </div>
       </article>
     </main>
