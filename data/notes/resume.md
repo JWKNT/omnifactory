@@ -1,8 +1,8 @@
 # Resume at the void workshop
 
-At 52h48m Astra has completed 281 of 644 distinct chapter quests. The grave and equipment were recovered. Check recording and the running actor with harness/cli.py state, scripts/workshop_status.py and the process list. The current actor is scripts/ev_board_campaign.py --through-projector. Its log is /tmp/astra-ev-assembler-campaign.log. Use PYTHONPATH=scripts:harness for direct scripts. Only one worker should move the player.
+At 53h14m Astra has completed 283 of 644 distinct chapter quests. The grave and equipment were recovered. Check recording and the running actor with harness/cli.py state, scripts/workshop_status.py and the process list. The current actor is scripts/ev_board_campaign.py --through-projector. Its log is /tmp/astra-ev-assembler-campaign.log. Use PYTHONPATH=scripts:harness for direct scripts. Only one worker should move the player.
 
-The first Nano Processor Assembly is in storage. The EV assembler produced sixteen Nanoprocessors, of which three went into the assembly. Pages 186, 190, 500, 525 and 116 all paid. The MV extractor and HV autoclave are installed. See nanocircuit-feed.md for the reactor fluid conflict and ev-patterns.md for the unfinished ME route. The first 27 black steel dust entered the west blast furnace. The Small Microverse Projector is the active order. See projector-compressor.md, small-projector.md and copper-simulation.md. The next review is due at 53h14m.
+The first Nano Processor Assembly is in storage. The EV assembler produced sixteen Nanoprocessors, of which three went into the assembly. Pages 186, 190, 500, 525 and 116 all paid. The MV extractor and HV autoclave are installed. See nanocircuit-feed.md for the reactor fluid conflict and ev-patterns.md for the unfinished ME route. The west furnace finished 27 black steel. The Elite Component and Elite Catalyst pages paid. The projector screen and Black Iron Frame are made. The Small Microverse Projector is the active order. See projector-compressor.md, small-projector.md and copper-simulation.md. The next review is due around 55h14m.
 
 ## The EV assembler
 
@@ -18,4 +18,4 @@ The HV assembler has patterns for Microcircuits, Processor Assemblies and Microp
 
 ## Next review
 
-The last strategy review is review-51h14m.md. The next is due around 53h14m. Run scripts/strategy_review.py --evidence, read review-questions.md and publish the decisions. Compare chlorine and tetrachloride trips, automatic cold ingots, LV recovery throughput, and overlap across the three crafting CPUs. For live quest counts run scripts/book_standing.py. Publish each changed note with note_send.
+The last strategy review is review-53h14m.md. The next is due around 55h14m. Read review-questions.md and run scripts/strategy_review.py --evidence. Compare EV network orders, wafer and titanium overlap, sulfur loads and hydrogen trips. For live quest counts run scripts/book_standing.py. Publish each changed note with note_send.

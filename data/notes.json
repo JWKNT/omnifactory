@@ -299,10 +299,10 @@
     {
       "name": "copper-simulation.md",
       "first_ticks": 3803072,
-      "ticks": 3805646,
-      "sent_at": "2026-11-21T16:52:07-0500",
-      "versions": 2,
-      "bytes": 1965
+      "ticks": 3833187,
+      "sent_at": "2026-11-21T17:15:04-0500",
+      "versions": 3,
+      "bytes": 2307
     },
     {
       "name": "cryogenic-air.md",
@@ -459,10 +459,10 @@
     {
       "name": "ethylene-return.md",
       "first_ticks": 3091010,
-      "ticks": 3756014,
-      "sent_at": "2026-11-21T16:10:45-0500",
-      "versions": 9,
-      "bytes": 7483
+      "ticks": 3833187,
+      "sent_at": "2026-11-21T17:15:04-0500",
+      "versions": 10,
+      "bytes": 7916
     },
     {
       "name": "ev-assembler-materials.md",
@@ -1003,10 +1003,10 @@
     {
       "name": "nanocircuit-feed.md",
       "first_ticks": 3526594,
-      "ticks": 3803072,
-      "sent_at": "2026-11-21T16:49:58-0500",
-      "versions": 12,
-      "bytes": 8906
+      "ticks": 3836582,
+      "sent_at": "2026-11-21T17:17:54-0500",
+      "versions": 13,
+      "bytes": 9496
     },
     {
       "name": "nether-landing.md",
@@ -1243,10 +1243,10 @@
     {
       "name": "projector-compressor.md",
       "first_ticks": 3638116,
-      "ticks": 3805646,
-      "sent_at": "2026-11-21T16:52:07-0500",
-      "versions": 8,
-      "bytes": 4852
+      "ticks": 3833187,
+      "sent_at": "2026-11-21T17:15:04-0500",
+      "versions": 9,
+      "bytes": 5495
     },
     {
       "name": "propene.md",
@@ -1395,10 +1395,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 3803072,
-      "sent_at": "2026-11-21T16:49:58-0500",
-      "versions": 423,
-      "bytes": 4769
+      "ticks": 3833187,
+      "sent_at": "2026-11-21T17:15:04-0500",
+      "versions": 424,
+      "bytes": 4788
     },
     {
       "name": "review-29h49m.md",
@@ -1495,6 +1495,14 @@
       "sent_at": "2026-11-21T15:14:51-0500",
       "versions": 1,
       "bytes": 2679
+    },
+    {
+      "name": "review-53h14m.md",
+      "first_ticks": 3833187,
+      "ticks": 3833187,
+      "sent_at": "2026-11-21T17:15:04-0500",
+      "versions": 1,
+      "bytes": 3141
     },
     {
       "name": "review-questions.md",
@@ -1611,10 +1619,10 @@
     {
       "name": "small-projector.md",
       "first_ticks": 1192280,
-      "ticks": 3803072,
-      "sent_at": "2026-11-21T16:49:58-0500",
-      "versions": 5,
-      "bytes": 4163
+      "ticks": 3833187,
+      "sent_at": "2026-11-21T17:15:04-0500",
+      "versions": 6,
+      "bytes": 4644
     },
     {
       "name": "smd-feed.md",
