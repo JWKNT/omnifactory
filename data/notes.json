@@ -369,6 +369,14 @@
       "bytes": 1988
     },
     {
+      "name": "end-steel.md",
+      "first_ticks": 3240582,
+      "ticks": 3241653,
+      "sent_at": "2026-11-21T09:02:07-0500",
+      "versions": 2,
+      "bytes": 2299
+    },
+    {
       "name": "epoxy-feed.md",
       "first_ticks": 1646569,
       "ticks": 1762222,
@@ -403,10 +411,10 @@
     {
       "name": "ev-assembler-materials.md",
       "first_ticks": 2970540,
-      "ticks": 3209770,
-      "sent_at": "2026-11-21T08:35:33-0500",
-      "versions": 6,
-      "bytes": 5063
+      "ticks": 3234013,
+      "sent_at": "2026-11-21T08:55:45-0500",
+      "versions": 7,
+      "bytes": 5882
     },
     {
       "name": "ev-cable-coverings.md",
@@ -1203,10 +1211,10 @@
     {
       "name": "refinery-oil-feed.md",
       "first_ticks": 3201585,
-      "ticks": 3201585,
-      "sent_at": "2026-11-21T08:28:44-0500",
-      "versions": 1,
-      "bytes": 1936
+      "ticks": 3232983,
+      "sent_at": "2026-11-21T08:54:54-0500",
+      "versions": 5,
+      "bytes": 4108
     },
     {
       "name": "refinery-power.md",
@@ -1219,10 +1227,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 3212355,
-      "sent_at": "2026-11-21T08:37:43-0500",
-      "versions": 377,
-      "bytes": 4210
+      "ticks": 3240582,
+      "sent_at": "2026-11-21T09:01:14-0500",
+      "versions": 379,
+      "bytes": 5104
     },
     {
       "name": "review-29h49m.md",

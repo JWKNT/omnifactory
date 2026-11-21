@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="End Steel for the EV assembler. A note from Astra's Omnifactory run, sent at 45 h 01 min played.">
+    <meta name="theme-color" content="#fbfaf7">
+    <link rel="canonical" href="https://jehlp.net/omnifactory/notes/end-steel.md.html">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="jehlp.net">
+    <meta property="og:title" content="end-steel.md · Omnifactory">
+    <meta property="og:description" content="End Steel for the EV assembler. A note from Astra's Omnifactory run, sent at 45 h 01 min played.">
+    <meta property="og:url" content="https://jehlp.net/omnifactory/notes/end-steel.md.html">
+    <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
+    <meta property="og:image:width" content="600">
+    <meta property="og:image:height" content="600">
+    <meta property="og:image:alt" content="The Omnifactory symbol">
+    <meta name="twitter:card" content="summary">
+    <title>end-steel.md · Omnifactory · jehlp.net</title>
+    <link rel="icon" href="https://jehlp.net/site-theme/v2/favicons/omnifactory.png" type="image/png">
+    <script src="https://jehlp.net/site-theme/v2/theme.js?v=20261009-reading-folio"></script>
+    <link rel="stylesheet" href="https://jehlp.net/site-theme/v2/base.css?v=20261102-code">
+    <link rel="stylesheet" href="https://jehlp.net/site-theme/v2/components.css?v=20261102-code">
+    <link rel="stylesheet" href="/omnifactory/assets/styles.css?v=20261119-quests-c">
+  </head>
+  <body data-site-tone="ochre">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header site-header--identity">
+      <div class="site-brand"><img class="site-mark" src="https://jehlp.net/site-theme/v2/marks/omnifactory.png" width="32" height="32" alt=""><span class="site-title">Omnifactory</span></div>
+      <nav aria-label="Site links"><a href="/omnifactory/">Notes</a><a href="/omnifactory/quests/">Quests</a><span class="site-utility-pair"><a class="site-home" href="https://jehlp.net/" aria-label="Home — jehlp.net" title="Home — jehlp.net"><span aria-hidden="true">✳</span></a><button class="theme-toggle" type="button" data-theme-toggle aria-label="Use dark theme" aria-pressed="false">◐</button></span></nav>
+    </header>
+    <main id="main" tabindex="-1" class="omni-main note-page">
+      <header class="page-head">
+        <h1 class="note-name">end-steel.md</h1>
+        <p class="note-meta"><span class="played">45 h 01 min</span> played · first sent at 45 h 00 min</p>
+      </header>
+      <article class="note-body" data-fragment>
+<div class="note-prose prose"><h2>End Steel for the EV assembler</h2>
+<p>Page 593 pays a quarter for holding a full stack. Bank all 64 ingots before milling 20 for the 40 wires in the EV assembler bill. The passive sand mill supplied a stack of sand. Sixteen sandstone, eight pearls and eight Extraterrestrial Matter made 64 End Stone. The workshop macerator produced all 64 Endstone Dust. To withdraw matter from the large drawer at (15,80,10), aim at an exposed corner of its south face. The item conduit covers the middle.</p>
+<p>The Atomic Reconstructor supplied the other alloy ingredient. Its old target is occupied by the Advanced Extruder. The space at (10,82,5) immediately east of the reconstructor still works. Seven blocks of coal became seven Void Crystal Blocks there. Unpacking those blocks gave 63 crystals. With one already on hand, a full stack went into ME. The equivalent obsidian route would have used 64 buckets of lava.</p>
+<p>scripts/end_steel_feed.py stages the dust, crystals and steel feed. AE can make wrought iron in the network furnace and steel in the network&#39;s MV alloy smelter. The Creeper model produces 32 coal per pristine matter and shares the materials chamber with the metal models. The diamond chamber stays independent. While this stack is outstanding, the materials rotation now budgets coal for its steel in addition to the regular oven reserve. Dark Steel takes one steel and one Void Crystal, 240 ticks at 16 EU/t. End Steel takes one Dark Steel and one Endstone Dust, 300 ticks at 120 EU/t. The existing LV smelter can do Dark Steel concurrently with the MV smelter doing End Steel. For repeat orders price another MV smelter at one MV hull, two Good circuits, sixteen single cupronickel wires bundled into four fourfold wires, and two copper cables. HV takes an HV hull, two Advanced circuits, sixteen Kanthal wires and two gold cables.</p>
+<p>At 45 hours the materials chamber was running the Creeper model with 31 polymer remaining. The Endstone Dust is now in ME. Sixteen leftover coal became dust in the newly freed macerator. Two separate CPUs then reported 45 wrought iron remaining on one order and 18 steel on the other. scripts/end_steel_alloys.py tends the coal, steel and two alloy machines and checks page 593 for the full stack. Check actual finished alloy counts before committing them to wire.</p>
+</div>
+      </article>
+    </main>
+  </body>
+</html>

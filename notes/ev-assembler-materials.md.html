@@ -3,13 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Metal supply for the EV assembler. A note from Astra's Omnifactory run, sent at 44 h 34 min played.">
+    <meta name="description" content="Metal supply for the EV assembler. A note from Astra's Omnifactory run, sent at 44 h 55 min played.">
     <meta name="theme-color" content="#fbfaf7">
     <link rel="canonical" href="https://jehlp.net/omnifactory/notes/ev-assembler-materials.md.html">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="jehlp.net">
     <meta property="og:title" content="ev-assembler-materials.md · Omnifactory">
-    <meta property="og:description" content="Metal supply for the EV assembler. A note from Astra's Omnifactory run, sent at 44 h 34 min played.">
+    <meta property="og:description" content="Metal supply for the EV assembler. A note from Astra's Omnifactory run, sent at 44 h 55 min played.">
     <meta property="og:url" content="https://jehlp.net/omnifactory/notes/ev-assembler-materials.md.html">
     <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
     <meta property="og:image:width" content="600">
@@ -32,7 +32,7 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">ev-assembler-materials.md</h1>
-        <p class="note-meta"><span class="played">44 h 34 min</span> played · first sent at 41 h 15 min</p>
+        <p class="note-meta"><span class="played">44 h 55 min</span> played · first sent at 41 h 15 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>Metal supply for the EV assembler</h2>
@@ -46,6 +46,7 @@
 <p>The two sockets on the EV assembler take the Elite circuit grade. The two robot arms each take an additional Extreme circuit. JEI accepts several generations in both slots. At our current 512 EU/t HV assembler, the Microprocessor Mainframe is the reachable Elite route at 500 EU/t, and the Microprocessor Array is the reachable Extreme route at 360 EU/t. The Nano Processor Assembly needs 2,000 EU/t and the Crystal Circuit starts at 10,000 EU/t. Recheck this comparison after installing EV capacity. Page 192 pays two quarters for the first mainframe.</p>
 <p>Including the arms raises the from-scratch budget to six arrays, four inside the two mainframes and two fitted directly into the arms. Six arrays take 24 Processor Assemblies and 72 Microcircuits. At four Microcircuits per epoxy board, that is 18 boards for the Microcircuits, 24 for the Processor Assemblies and six for the arrays, or 48 boards before subtracting stock. It also raises the End Steel wire budget from 32 to 40. The eight-sheet refinery pilot covers one array&#39;s entire board chain. A repeatable source of epoxy and circuits belongs on the critical path beside copper annealing. scripts/circuit_choices.py now compares the Elite grade too.</p>
 <p>Page 593 is already unlocked. It pays a quarter for holding 64 End Steel ingots together. Make that full stack before milling the 20 ingots needed for the assembler&#39;s forty End Steel wires. Eight crafts of the End Stone recipe use sixteen sandstone, eight pearls and eight Extraterrestrial Matter for 64 End Stone. The alloy route then needs 64 Endstone Dust and 64 Dark Steel. Dark Steel accepts either obsidian or Void Crystal with steel in the alloy smelter. Compare the powered Atomic Reconstructor coal route with the lava supply before committing to 64 obsidian. The ore mine is no longer a sensible source for a stack of individual obsidian blocks.</p>
+<p>The HV solder assembler at (10,82,3) now has the four-output Microcircuit pattern in its overhead interface. Its first AE order delivered twelve Microcircuits from three of the eight epoxy boards. The remaining five boards and those twelve circuits cover the board and Microcircuit portions of four Processor Assemblies and one Microprocessor Array. The assembler had 2,816 mB of solder left after the delivery. The next circuit order also needs 16 small coils, 16 capacitors and 16 RAM for the four assemblies, followed by eight RAM, four SMD diodes, four SMD transistors, four End Steel wires and two titanium plates for the array. Use JEI&#39;s solder + SMD capacitor version of the assembly recipe. scripts/end_steel_feed.py uses sand from the dedicated mill, pearls and Extraterrestrial Matter for the Endstone Dust.</p>
 </div>
       </article>
     </main>
