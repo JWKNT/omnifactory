@@ -1,0 +1,9 @@
+# A dedicated copper simulation bay
+
+The workshop had five copper ingots while the shared materials chamber was running Guardian for aluminium. JEI gives twelve copper ingots per Pristine Spider Matter. Two nickels also buy 32 copper ore, but the trained Spider model already exists and can use the same renewable clay as the other chambers. The separate Shulker bay was idle with 232 diamonds banked, while the materials bay had 24 clay loaded and ME held another 24.
+
+For a third chamber and fabricator, the open sockets (14,83,7) and (14,82,8) sit beside the overhead item trunk at (14,83,8). Three energetic power segments east from (11,82,7) would power the two machines. The new fabricator needs a separate pristine matter channel and a copper output connection to storage. A stock limit should stop clay consumption when copper is plentiful.
+
+The paired machines need two Dark Steel Machine Hulls. The chamber alone needs four Pulsating Mesh. Its first material order actually returned four Carbon Mesh through ME at 52h48m. The alloy smelter needs sixteen more Pulsating Dust to turn those into Pulsating Mesh. The helper keeps five dust aside for chamber fuel. Compare remaining stock against both hulls before committing the sixteen dark steel. Each ingot can use steel and obsidian or steel and a Void Crystal. Neither machine is built yet. scripts/copper_simulation.py handles mesh procurement. The motor supplier also targets four spare MV motors after the EV assembler opens because two new robot arms consumed four and briefly delayed the extractor pump.
+
+Copper fell to five ingots and an actual MV piston order reported copper missing. The materials chamber was still running Guardian. scripts/ev_metal_feed.py now permits one two-nickel order for 32 copper ore to bridge that gap while the trained Spider is occupied elsewhere or in storage. It counts ore and intermediate dust before buying and skips the purchase when Spider is already running.

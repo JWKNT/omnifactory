@@ -1,8 +1,8 @@
 # Resume at the void workshop
 
-At 52h22m Astra has completed 276 of 644 distinct chapter quests. The grave and equipment were recovered. Check recording and the running actor with harness/cli.py state, scripts/workshop_status.py and the process list. The current actor is scripts/ev_board_campaign.py --through-nanoprocessors. Its log is /tmp/astra-ev-assembler-campaign.log. Use PYTHONPATH=scripts:harness for direct scripts. Only one worker should move the player.
+At 52h48m Astra has completed 281 of 644 distinct chapter quests. The grave and equipment were recovered. Check recording and the running actor with harness/cli.py state, scripts/workshop_status.py and the process list. The current actor is scripts/ev_board_campaign.py --through-projector. Its log is /tmp/astra-ev-assembler-campaign.log. Use PYTHONPATH=scripts:harness for direct scripts. Only one worker should move the player.
 
-The coater has now returned seven reinforced circuit boards to ME, with one sheet in reserve. The HV pump and Advanced Autoclave II were crafted. Its double gold supply cable is installed at (12,84,0). Install the MV extractor below the autoclave first so its full top face can support placement. See nanocircuit-feed.md for the carbon fiber bay and ev-patterns.md for the planned network connection to the EV assembler. The Atomic Reconstructor converted nine coal to Void Crystals for the Quantum Compressor.
+The first Nano Processor Assembly is in storage. The EV assembler produced sixteen Nanoprocessors, of which three went into the assembly. Pages 186, 190, 500, 525 and 116 all paid. The MV extractor and HV autoclave are installed. See nanocircuit-feed.md for the reactor fluid conflict and ev-patterns.md for the unfinished ME route. The first 27 black steel dust entered the west blast furnace. The Small Microverse Projector is the active order. See projector-compressor.md, small-projector.md and copper-simulation.md. The next review is due at 53h14m.
 
 ## The EV assembler
 

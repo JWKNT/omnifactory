@@ -32,7 +32,7 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">ev-patterns.md</h1>
-        <p class="note-meta"><span class="played">52 h 28 min</span> played · first sent at 52 h 12 min</p>
+        <p class="note-meta"><span class="played">52 h 49 min</span> played · first sent at 52 h 12 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>Extending autocrafting to the EV assembler</h2>
@@ -40,6 +40,7 @@
 <p>Compare the EV machine&#39;s two four-output recipes when encoding. At 2,000 EU/t, one takes 144 mB tin and the other 72 mB soldering alloy. Both use one board and one Nano CPU per four circuits. The eight-output SoC recipe requires 9,600 EU/t. Begin with the solder pattern and confirm an AE order returns four circuits while another CPU is busy. For repeat orders, bring the assembler its own solder supply. The HV assembler&#39;s directly fed solder tank still serves the older electronics.</p>
 <p>The EV interface order is now part of the workshop round. scripts/ev_pattern_bay.py extends the existing ME conduit at (8,83,-7) through the RF bundles. Eleven more ME segments reach the planned interface from above. Its only neighboring machine inventory will be the assembler below. The assembler&#39;s shared top face must allow inputs and return outputs automatically. The recipe encoder selects the second four-output recipe, which uses solder. Record a network delivery when one actually finishes. The supply order also prepares sixteen fine aluminium wires. The existing ME wiremill already has nine patterns. Until it has another interface or an expansion card, use the spare wiremill. Each bare aluminium wire gives four fine wires.</p>
 <p>The workshop can read the craftable flag from its online ME interface without walking the player to the terminal. The live grid reported 65 advertised item types, including 33 with none in storage. The HV hull pattern was present and the MV extractor pattern absent. scripts/workshop_pattern.py uses this for pattern checks. Encoding, ordering, taking and installing still use the relevant screens.</p>
+<p>Pages 500 and 525 both paid after the first physical EV assembler runs. Sixteen Nanoprocessors came out of the first four batches and three went into the first Nano Processor Assembly. The code can provision both solder patterns. Neither EV recipe has yet been proven as a network job. The first glass cable order returned two segments from the MV alloy smelter.</p>
 </div>
       </article>
     </main>

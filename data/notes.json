@@ -297,6 +297,14 @@
       "bytes": 1348
     },
     {
+      "name": "copper-simulation.md",
+      "first_ticks": 3803072,
+      "ticks": 3805646,
+      "sent_at": "2026-11-21T16:52:07-0500",
+      "versions": 2,
+      "bytes": 1965
+    },
+    {
       "name": "cryogenic-air.md",
       "first_ticks": 2705223,
       "ticks": 2705223,
@@ -491,10 +499,10 @@
     {
       "name": "ev-patterns.md",
       "first_ticks": 3759531,
-      "ticks": 3778373,
-      "sent_at": "2026-11-21T16:29:23-0500",
-      "versions": 3,
-      "bytes": 2448
+      "ticks": 3803072,
+      "sent_at": "2026-11-21T16:49:58-0500",
+      "versions": 4,
+      "bytes": 2812
     },
     {
       "name": "ev-plate-press.md",
@@ -995,10 +1003,10 @@
     {
       "name": "nanocircuit-feed.md",
       "first_ticks": 3526594,
-      "ticks": 3778373,
-      "sent_at": "2026-11-21T16:29:23-0500",
-      "versions": 11,
-      "bytes": 7686
+      "ticks": 3803072,
+      "sent_at": "2026-11-21T16:49:58-0500",
+      "versions": 12,
+      "bytes": 8906
     },
     {
       "name": "nether-landing.md",
@@ -1235,10 +1243,10 @@
     {
       "name": "projector-compressor.md",
       "first_ticks": 3638116,
-      "ticks": 3778373,
-      "sent_at": "2026-11-21T16:29:23-0500",
-      "versions": 6,
-      "bytes": 3977
+      "ticks": 3805646,
+      "sent_at": "2026-11-21T16:52:07-0500",
+      "versions": 8,
+      "bytes": 4852
     },
     {
       "name": "propene.md",
@@ -1387,10 +1395,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 3770541,
-      "sent_at": "2026-11-21T16:22:52-0500",
-      "versions": 422,
-      "bytes": 4730
+      "ticks": 3803072,
+      "sent_at": "2026-11-21T16:49:58-0500",
+      "versions": 423,
+      "bytes": 4769
     },
     {
       "name": "review-29h49m.md",
@@ -1603,10 +1611,10 @@
     {
       "name": "small-projector.md",
       "first_ticks": 1192280,
-      "ticks": 3641001,
-      "sent_at": "2026-11-21T14:34:55-0500",
-      "versions": 4,
-      "bytes": 3495
+      "ticks": 3803072,
+      "sent_at": "2026-11-21T16:49:58-0500",
+      "versions": 5,
+      "bytes": 4163
     },
     {
       "name": "smd-feed.md",
