@@ -32,7 +32,7 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">freezer-mainframes.md</h1>
-        <p class="note-meta"><span class="played">27 h 23 min</span> played · first sent at 24 h 59 min</p>
+        <p class="note-meta"><span class="played">31 h 47 min</span> played · first sent at 24 h 59 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>Three more mainframes for the Vacuum Freezer</h2>
@@ -47,6 +47,9 @@
 <p>The stock survey found eight CPUs, 36 RAM and nine plain silicon wafers. The HV assembler order uses six CPUs and twelve RAM, leaving two CPUs and 24 RAM for the freezer. Engrave two plain wafers with the glass lens and one with the diamond lens. The saw yields sixteen more CPUs and 32 RAM, enough for all three freezer mainframes with twenty RAM left. Use the spare MV machines alongside the pump and stainless work.</p>
 <p>The diamond lens engraved the third spare wafer and the MV saw cut it into 32 RAM. After the three new Processor Assemblies, the terminal survey showed 56 RAM. The two earlier CPU wafers were also cut. All three freezer wafer orders are complete.</p>
 <p>The centrifuge and bench finished all five gallium dust. There are also four SMD transistors and two SMD capacitors left from earlier circuits. Smelt the five dust and press the ingots in the workshop compressor at one plate per ingot. Each takes 100 ticks at 10 EU/t. The five plates cover 160 more transistors. The plate work order runs between other factory tasks.</p>
+<p>The existing HV assembler at (10,82,3) now has a working ME Interface and an empty 64-bucket fluid input. Use its open pattern slots for the high-volume soldered stages, leaving the MV assembler available for the polyethylene passives. Starting from no refined circuits, the first freezer&#39;s three mainframes consume six arrays, 24 processors and 72 refined circuits. In the 60 EU/t circuit recipe there are four outputs per operation, so the whole chain takes 18 + 24 + 6 + 3 = 51 soldered operations and 3,672 mB of solder. At 600 EU/t the SoC recipe yields eight refined circuits. It exceeds the installed HV assembler&#39;s voltage. The 360 EU/t alternative EV circuit needs titanium plates. None of the four circuitExtreme items has a direct quest reward.</p>
+<p>The three blanks left after the furnace patterns can encode the SMD versions of Refined Circuit, Refined Processor and Refined Processor Array. Check the encoded item slots at the terminal and keep the solder supplied in the machine. Test a four-circuit order first. The final mainframe can wait for the next batch of blanks. The program for the first two mainframes made player-fed batches; its earlier success does not establish that these new ME orders work.</p>
+<p>scripts/freezer_circuit_patterns.py is queued after the furnace, inscriber and PVC caster. It selects the SMD and solder recipe in live JEI, checks the encoded item identities and quantities, and requests four Refined Circuits when the inputs reach ME. Until run/freezer-circuit-patterns-online exists, the terminal trial is pending.</p>
 </div>
       </article>
     </main>

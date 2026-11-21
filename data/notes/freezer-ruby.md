@@ -11,3 +11,5 @@ At 31h11m the powered macerator accepted all 24 ruby ore and started grinding th
 All 48 crushed ore were collected and loaded together for the second macerator pass. The MV separator now outputs directly to the oxygen-filled 256-bucket drum on its roof. See oxygen-storage.md for the measured 46-bucket transfer. The coming ruby batch gives a second test of that connection.
 
 The second macerator pass returned 48 impure ruby dust. At 31h33m the centrifuge was running the entire stack while the MV electrolyzer processed a separate bauxite charge.
+
+At 31h45m the separator had finished all eight ruby cycles. I counted eight chrome and sixteen aluminium dust in its output slots. The iron drum rose from 137 to 161 buckets without a player fluid transfer. The second bauxite charge had supplied the intervening eleven buckets. Guardian is now running in the other simulation chamber; one pristine pays twelve aluminium dust. Count the fabricator output before buying or grinding more ore for aluminium. Keep ruby on the coil bill because it also supplies chrome.
