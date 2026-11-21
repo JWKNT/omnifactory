@@ -7,3 +7,7 @@ Use three of the eight blanks from the dry electronics build, after its two patt
 scripts/furnace_interface.py is queued after dry electronics. Its commissioning orders require four of each product to return through the terminal. Each blank, interface and machine still has to be paid for from survival stock. The site is surveyed and the build is pending.
 
 At 31h11m the transfer log showed 28 player-loaded furnace stacks since 29h50m. Eight were clathrate and six were iron ingots. The two corresponding patterns would cover half of those loads. The inscriber upgrade saves work too, but these two furnace recipes recur even when no ME hardware is being built. Give the furnace the next interface and commission it before upgrading the inscriber. Compare the two load counts again after a similar interval.
+
+The combined furnace and interface bill at 31h28m was short eighteen aluminium ingots before counting the ruby in progress. There are 44 bauxite ore in ME. Start a thirteen-ore bauxite charge while assembling the furnace. Its sixteen ingots and the ruby coproduct cover the interface and leave some aluminium for freezer casings. The existing core pair is reserved. Six glass cables are already on the shelf; the nine-block route still needs three.
+
+At 31h33m the second Basic Electric Furnace was placed at (10,82,-5) on the LV supply. Its top is configured for shared input and output. Its interface, cable extension and three terminal trials are still outstanding. The thirteen bauxite ore yielded 39 dust, now in the separator.

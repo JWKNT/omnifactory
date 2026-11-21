@@ -9,3 +9,5 @@ On the MV electrolyzer six clean ruby dust give one chrome dust, two aluminium d
 At 31h11m the powered macerator accepted all 24 ruby ore and started grinding the first. The blank pattern order and the aluminium blast batch can proceed while it works.
 
 All 48 crushed ore were collected and loaded together for the second macerator pass. The MV separator now outputs directly to the oxygen-filled 256-bucket drum on its roof. See oxygen-storage.md for the measured 46-bucket transfer. The coming ruby batch gives a second test of that connection.
+
+The second macerator pass returned 48 impure ruby dust. At 31h33m the centrifuge was running the entire stack while the MV electrolyzer processed a separate bauxite charge.
