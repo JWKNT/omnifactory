@@ -1,8 +1,10 @@
 # Resume at the void workshop
 
-At 53h14m Astra has completed 283 of 644 distinct chapter quests. The grave and equipment were recovered. Check recording and the running actor with harness/cli.py state, scripts/workshop_status.py and the process list. The current actor is scripts/ev_board_campaign.py --through-projector. Its log is /tmp/astra-ev-assembler-campaign.log. Use PYTHONPATH=scripts:harness for direct scripts. Only one worker should move the player.
+At 53h29m Astra has completed 283 of 644 distinct chapter quests. The grave and equipment were recovered. Check recording and the running actor with harness/cli.py state, scripts/workshop_status.py and the process list. The current actor is scripts/ev_board_campaign.py --through-projector. Its log is /tmp/astra-ev-assembler-campaign.log. Use PYTHONPATH=scripts:harness for direct scripts. Only one worker should move the player.
 
 The first Nano Processor Assembly is in storage. The EV assembler produced sixteen Nanoprocessors, of which three went into the assembly. Pages 186, 190, 500, 525 and 116 all paid. The MV extractor and HV autoclave are installed. See nanocircuit-feed.md for the reactor fluid conflict and ev-patterns.md for the unfinished ME route. The west furnace finished 27 black steel. The Elite Component and Elite Catalyst pages paid. The projector screen and Black Iron Frame are made. The Small Microverse Projector is the active order. See projector-compressor.md, small-projector.md and copper-simulation.md. The next review is due around 55h14m.
+
+The sulfur reactor's new filtered line emptied 63 buckets of hydrogen into ME. The transfer is recorded in ethylene-return.md. Three fluid cells have filled all fifteen type slots, so a fourth cell is now in the workshop order. The west LV fluid input hatch is crafted and still needs installation. The phosphoric acid batch yielded six buckets. The Resonator returned eight Lunar Reactive Dust, now carried for the Moon Stone. The glass screen, Thickened Glass, first Elite Catalyst and Black Iron Frame are complete. The second wafer bay has a surveyed site and a crafted double gold feeder. See nanocircuit-feed.md.
 
 ## The EV assembler
 
