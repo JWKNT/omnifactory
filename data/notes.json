@@ -483,10 +483,10 @@
     {
       "name": "freezer-mainframes.md",
       "first_ticks": 1799172,
-      "ticks": 2540379,
-      "sent_at": "2026-11-20T23:16:19-0500",
-      "versions": 16,
-      "bytes": 10071
+      "ticks": 2591480,
+      "sent_at": "2026-11-20T23:58:55-0500",
+      "versions": 17,
+      "bytes": 10406
     },
     {
       "name": "freezer-pumps.md",
@@ -611,10 +611,10 @@
     {
       "name": "kanthal-coils.md",
       "first_ticks": 1534817,
-      "ticks": 2523233,
-      "sent_at": "2026-11-20T23:02:02-0500",
-      "versions": 12,
-      "bytes": 6565
+      "ticks": 2591480,
+      "sent_at": "2026-11-20T23:58:55-0500",
+      "versions": 14,
+      "bytes": 7245
     },
     {
       "name": "lapidary-efficiency.md",
@@ -743,6 +743,14 @@
       "sent_at": "2026-11-19T17:11:23-0500",
       "versions": 3,
       "bytes": 2670
+    },
+    {
+      "name": "mv-alloy-bay.md",
+      "first_ticks": 2591480,
+      "ticks": 2591480,
+      "sent_at": "2026-11-20T23:58:55-0500",
+      "versions": 1,
+      "bytes": 1406
     },
     {
       "name": "mv-assembler.md",
@@ -1019,10 +1027,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 2569995,
-      "sent_at": "2026-11-20T23:41:00-0500",
-      "versions": 305,
-      "bytes": 10374
+      "ticks": 2591480,
+      "sent_at": "2026-11-20T23:58:55-0500",
+      "versions": 308,
+      "bytes": 10159
     },
     {
       "name": "review-29h49m.md",
@@ -1047,6 +1055,14 @@
       "sent_at": "2026-11-20T21:49:57-0500",
       "versions": 1,
       "bytes": 2944
+    },
+    {
+      "name": "review-35h50m.md",
+      "first_ticks": 2581395,
+      "ticks": 2581395,
+      "sent_at": "2026-11-20T23:50:30-0500",
+      "versions": 1,
+      "bytes": 3640
     },
     {
       "name": "review-questions.md",
@@ -1251,10 +1267,10 @@
     {
       "name": "vacuum-freezer.md",
       "first_ticks": 1538556,
-      "ticks": 2569195,
-      "sent_at": "2026-11-20T23:40:20-0500",
-      "versions": 10,
-      "bytes": 7099
+      "ticks": 2591480,
+      "sent_at": "2026-11-20T23:58:55-0500",
+      "versions": 11,
+      "bytes": 7532
     },
     {
       "name": "vibrant-conduits.md",

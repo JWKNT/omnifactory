@@ -2,10 +2,14 @@
 
 Run `python3 scripts/workshop_status.py` to see the live campaign, recorder and machines. One wafer_campaign.py process controls the player. If it has stopped, inspect the first error and affected block before resuming with `python3 scripts/wafer_campaign.py`. The recovered hot Kanthal is safe in the chest at (4,81,2); see kanthal-coils.md before moving it. The last counted standing was 234 of 644 chapter quests.
 
-## Current work at 35h41m
+## Current work at 36 hours
 
-- Four of six freezer arrays are in ME. The parallel HV orders delivered another eleven Refined Processors and two arrays. Two Refined Processors went into the separate MV dehydration reactor at (14,83,4). Its buffer showed 4,080 EU. Click its east face from (16,80,4) above the power cable. Its first charge delivered a bucket of ethylene to the polyethylene reactor. The MV electronics assembler rose from 548 to 2,060 mB polyethylene through the conduit. The recovery still holds 2,000 mB sulfuric acid. The EBF has started 32 aluminium dust for the freezer walls while the centrifuge recovers gallium for transistors. The old MV reactor processed clathrate independently. The controller's Iron Chest Transporter is also crafted. See hot-ingot-transfer.md for the bus filter and first cooling trial.
-- ME delivered all 31 ordered wrought iron plates. The freezer ports now have their full 44-plate bill. The wall order has 18 of 48 aluminium plates and all ten rods in ME. For insulation, the spare electric furnace is smelting 32 slimeballs while the blast furnace continues aluminium. See vacuum-freezer.md and dml-rubber.md.
+The twenty frost-proof freezer walls are placed and verified. The twenty-first casing is reserved for its controller. The campaign is now sourcing the four LV item and fluid ports. The MV energy hatch is already available. The controller still needs its pumps and mainframes. The HV assembler delivered 20 refined circuits and seven processors. Last survey had four of six arrays. See freezer-mainframes.md and vacuum-freezer.md.
+
+The terminal made 96 Kanthal dust. Keep the nine recovered hot ingots in their chest until the powered freezer and filtered transfer pass the test in hot-ingot-transfer.md. The next alloy mixes need eight more chrome, iron and aluminium each. The MV alloy bay has its fluix and power branches in place. See mv-alloy-bay.md for sockets and commissioning. The next factory strategy review is due at about 37h51m. Consult review-35h50m.md for comparable measures.
+
+## Other factory lines
+
 - Polyethylene now feeds the MV electronics assembler over the oxygen trunk on a separate color. It received 1,512 mB, then used the delivered fluid for 72 SMD resistors and 32 SMD transistors. See chemical-conduits.md for port access and buffer size. The freezer circuit orders can release the player while the HV assembler runs. The next capacitor batch used four thin sheets and one foil, making sixteen. ME delivered four processors, the second of six freezer arrays, and eight circuits. The remaining thin sheets are on hand, with two aluminium plates in the foil mill. Cold casings, additional arrays, frames and pumps are still in progress.
 - The planned freezer power route branches at (8,82,4), crosses overhead at y=83 along z=4 to x=-4, then turns south into a separate four-amp MV converter. The fourteen spaces were clear at survey. Four conduit upgrades need eight vibrant wires, and the converter needs eight single energetic wires bundled into two quadruples. Both are included in the alloy order. Verify the new branch and hatch when built.
 - All sixteen segments of the diamond dynamo RF network are now Vibrant Alloy Energy Conduit. Following the connections from the dynamo reached all sixteen, generation passed 2,633 RF/t, and the capacitor bank began recovering. Fifteen energetic conduits returned to storage. The replacement order for eight freezer wires is active. See dynamo-output.md.
@@ -28,4 +32,4 @@ Two independent 1k crafting CPUs are online. They delivered sixteen copper wires
 
 ## Next strategic review
 
-The 33h50m review is in review-33h50m.md. Next review around 35h50m played. Run scripts/strategy_review.py --evidence, read review-questions.md, publish the decisions, then use --reviewed. Check polymer hand loads, two concurrent CPU orders, automatic washer output, cell type slots and freezer deliveries.
+The 35h50m review is in review-35h50m.md. Next review around 37h50m played. Check installed alloy processing, actual ME deliveries of steel and solder, CPU availability, washer output and drive type slots. Run scripts/strategy_review.py --evidence and publish the next decisions before using --reviewed.

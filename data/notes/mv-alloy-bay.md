@@ -1,0 +1,7 @@
+# A second alloy smelter for the ME network
+
+At the 35h51 review the shared LV alloy smelter had taken 22 player loads in two hours. Polymer already has a separate smelter. The next split gives ME its own MV smelter for steel, tin alloy, electrical steel and solder. The LV machine can keep working on other recipes during a network order.
+
+The fluix branch at (10,83,4) and the fourfold copper branch at (11,83,4) are in place. The new kiln belongs at (11,83,5), with a dedicated interface immediately west at (10,83,5). scripts/alloy_bay.py handles cable, coils, hull and machine construction. Check nickel stock before spending coins. The freezer has first claim on its processors. The kiln, interface and four recipe patterns still need commissioning. Test two simultaneous CPU orders and count deliveries at the terminal. Use the next review to check how many manual alloy loads remain.
+
+Live JEI offers the following alloy-smelter processing recipes, using zero-based indices within that category. Steel index 0 takes wrought iron and coal dust. Tin alloy index 2 takes iron and tin ingots for two alloy. Electrical steel index 0 takes steel and silicon dust. Solder index 2 takes nine tin and one antimony for ten ingots. The commissioning script installs all four and asks ME for sixteen steel. Only after that delivery does the stock tender request bounded refills, with a separate CPU kept free.
