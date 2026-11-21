@@ -27,3 +27,5 @@ The existing HV assembler at (10,82,3) now has a working ME Interface and an emp
 The three blanks left after the furnace patterns can encode the SMD versions of Refined Circuit, Refined Processor and Refined Processor Array. Check the encoded item slots at the terminal and keep the solder supplied in the machine. Test a four-circuit order first. The final mainframe can wait for the next batch of blanks. The program for the first two mainframes made player-fed batches; its earlier success does not establish that these new ME orders work.
 
 scripts/freezer_circuit_patterns.py is queued after the furnace, inscriber and PVC caster. It selects the SMD and solder recipe in live JEI, checks the encoded item identities and quantities, and requests four Refined Circuits when the inputs reach ME. Until run/freezer-circuit-patterns-online exists, the terminal trial is pending.
+
+The HV assembler received the 72 mB of solder previously held in the MV assembler. This frees the MV machine for polyethylene-based SMD production while the HV machine takes soldered circuit orders. The first aluminium plate for the capacitor foil went through the cluster mill.
