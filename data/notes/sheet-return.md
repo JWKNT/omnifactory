@@ -1,0 +1,5 @@
+# PVC sheets from the caster to AE2
+
+One shortage of a single PVC sheet held up an entire MV machine. The first twenty-three sheets of the new batch entered the crafting network through the player's inventory. The next improvement is a permanent return from the caster to the ME interface already serving the cluster mill. Keep the walkable aisle open by sharing the oxygen conduit blocks under the chemical equipment. The six proposed sockets are (6,80,0) through (6,80,-4) plus (7,80,-4) under the caster. The nearby epoxy caster can join the same return later.
+
+The assembler gives eight item conduits from six binder and three pulsating iron wires. The bench gives four for the same materials. The last survey found two loose conduits, 26 binder and one wire. scripts/sheet_return.py uses the assembler, sets the caster output down to protect the mold, and reserves cyan for the return. The test requires a rise in ME sheet inventory and the plate mold still in its machine. Check run/pvc-sheet-return for the result. Until then, scripts/vinyl_trial.py has bank_sheets for a circuit order that reports missing PVC.
