@@ -2,9 +2,11 @@
 
 Run `python3 scripts/workshop_status.py` to see the live campaign, recorder and machines. One wafer_campaign.py process controls the player. If it has stopped, inspect the first error and affected block before resuming with `python3 scripts/wafer_campaign.py`. The recovered hot Kanthal is safe in the chest at (4,81,2); see kanthal-coils.md before moving it. The last counted standing was 234 of 644 chapter quests.
 
-## Current work at 36 hours
+## Current work at 36h16m
 
-The twenty frost-proof freezer walls are placed and verified. The twenty-first casing is reserved for its controller. The campaign is now sourcing the four LV item and fluid ports. The MV energy hatch is already available. The controller still needs its pumps and mainframes. The HV assembler delivered 20 refined circuits and seven processors. Last survey had four of six arrays. See freezer-mainframes.md and vacuum-freezer.md.
+The freezer now has twenty verified wall blocks and all five ports. The east item input, west item output, north fluid input, south fluid output and upward MV power hatch all face their intended connections. The twenty-first casing is reserved for its controller. All six Refined Processor Arrays reached ME. The terminal crafted all twelve stainless frames. The pump order has drawn eighteen gold wires and bundled twelve quadruple copper wires. The MV assembler brought the resistor stock to fifty. All seventeen insulated gold cables and both quadruple energetic wires reached the workshop. The EBF is processing eight energetic alloy with eight ender pearls for the remaining vibrant wires. See mv-hull-batch.md for the converter and interface hulls. The controller, mainframes, pumps and independent MV power feed are still in progress.
+
+The fourth 1k item cell is installed. The ore chest and the parts overflow are both gone. ME took all 711 items from the ore chest. The camp supply trip found none of the nickel, cupronickel, chrome, ruby, silver or Invar sought. Use the void terminal for the remaining ore reserves. See parts-storage-refill.md. The new 27-block floor extension leaves room for the second EBF and an east access aisle. See parallel-blast.md.
 
 The terminal made 96 Kanthal dust. Keep the nine recovered hot ingots in their chest until the powered freezer and filtered transfer pass the test in hot-ingot-transfer.md. The next alloy mixes need eight more chrome, iron and aluminium each. The MV alloy bay has its fluix and power branches in place. See mv-alloy-bay.md for sockets and commissioning. The next factory strategy review is due at about 37h51m. Consult review-35h50m.md for comparable measures.
 

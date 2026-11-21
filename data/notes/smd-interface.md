@@ -1,0 +1,5 @@
+# Patterns for the polyethylene assembler
+
+The fourth storage cell used one of the eight basic-grade circuits made on the HV line. Replenishing that line still sends the player to the MV assembler with SMD ingredients. The machine already receives polyethylene through its top conduit. Quest 104 explains processing patterns and quest 109 describes sharing the input and return face of an interface.
+
+The east face of the MV assembler at (7,82,1) has room for an interface at (8,82,1). Two fluix cables can connect along y83 from (10,83,1) through (9,83,1) to (8,83,1). The three recipes fit three of the eight blanks in the next pattern batch. The alloy smelter gets four, and the electric furnace gets one for slime to raw rubber. Live JEI gives 24 resistors per 144 mB, sixteen capacitors per 36 mB, or 32 transistors per 288 mB. The capacitor pattern will use thin PVC, which the factory already produces. scripts/smd_interface.py commissions these patterns after the alloy interface. The intended proof is an order returning through the east face while the HV assembler handles an independent circuit job. The SMD interface and that delivery are pending.

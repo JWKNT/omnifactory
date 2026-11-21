@@ -483,18 +483,18 @@
     {
       "name": "freezer-mainframes.md",
       "first_ticks": 1799172,
-      "ticks": 2591480,
-      "sent_at": "2026-11-20T23:58:55-0500",
-      "versions": 17,
-      "bytes": 10406
+      "ticks": 2616774,
+      "sent_at": "2026-11-21T00:19:59-0500",
+      "versions": 19,
+      "bytes": 11394
     },
     {
       "name": "freezer-pumps.md",
       "first_ticks": 2489095,
-      "ticks": 2489095,
-      "sent_at": "2026-11-20T22:33:35-0500",
-      "versions": 1,
-      "bytes": 2047
+      "ticks": 2616774,
+      "sent_at": "2026-11-21T00:19:59-0500",
+      "versions": 2,
+      "bytes": 2580
     },
     {
       "name": "freezer-ruby.md",
@@ -571,10 +571,10 @@
     {
       "name": "hot-ingot-transfer.md",
       "first_ticks": 2560005,
-      "ticks": 2560005,
-      "sent_at": "2026-11-20T23:32:41-0500",
-      "versions": 1,
-      "bytes": 1797
+      "ticks": 2600148,
+      "sent_at": "2026-11-21T00:06:08-0500",
+      "versions": 2,
+      "bytes": 2232
     },
     {
       "name": "hv-array-supplies.md",
@@ -611,10 +611,10 @@
     {
       "name": "kanthal-coils.md",
       "first_ticks": 1534817,
-      "ticks": 2591480,
-      "sent_at": "2026-11-20T23:58:55-0500",
-      "versions": 14,
-      "bytes": 7245
+      "ticks": 2612475,
+      "sent_at": "2026-11-21T00:16:24-0500",
+      "versions": 16,
+      "bytes": 8347
     },
     {
       "name": "lapidary-efficiency.md",
@@ -761,6 +761,14 @@
       "bytes": 2367
     },
     {
+      "name": "mv-hull-batch.md",
+      "first_ticks": 2616774,
+      "ticks": 2616774,
+      "sent_at": "2026-11-21T00:19:59-0500",
+      "versions": 1,
+      "bytes": 933
+    },
+    {
       "name": "mv-reactor-power.md",
       "first_ticks": 506697,
       "ticks": 780884,
@@ -843,10 +851,10 @@
     {
       "name": "parallel-blast.md",
       "first_ticks": 2404800,
-      "ticks": 2406874,
-      "sent_at": "2026-11-20T21:25:04-0500",
-      "versions": 2,
-      "bytes": 2208
+      "ticks": 2612475,
+      "sent_at": "2026-11-21T00:16:24-0500",
+      "versions": 3,
+      "bytes": 3075
     },
     {
       "name": "parallel-crafting.md",
@@ -855,6 +863,14 @@
       "sent_at": "2026-11-20T22:09:35-0500",
       "versions": 6,
       "bytes": 4748
+    },
+    {
+      "name": "parts-storage-refill.md",
+      "first_ticks": 2600148,
+      "ticks": 2612475,
+      "sent_at": "2026-11-21T00:16:24-0500",
+      "versions": 2,
+      "bytes": 1194
     },
     {
       "name": "passive-sand.md",
@@ -1027,10 +1043,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 2591480,
-      "sent_at": "2026-11-20T23:58:55-0500",
-      "versions": 308,
-      "bytes": 10159
+      "ticks": 2616774,
+      "sent_at": "2026-11-21T00:19:59-0500",
+      "versions": 311,
+      "bytes": 10996
     },
     {
       "name": "review-29h49m.md",
@@ -1185,6 +1201,14 @@
       "bytes": 5809
     },
     {
+      "name": "smd-interface.md",
+      "first_ticks": 2612475,
+      "ticks": 2612475,
+      "sent_at": "2026-11-21T00:16:24-0500",
+      "versions": 1,
+      "bytes": 1160
+    },
+    {
       "name": "sodium-hydroxide.md",
       "first_ticks": 857507,
       "ticks": 880239,
@@ -1267,10 +1291,10 @@
     {
       "name": "vacuum-freezer.md",
       "first_ticks": 1538556,
-      "ticks": 2591480,
-      "sent_at": "2026-11-20T23:58:55-0500",
-      "versions": 11,
-      "bytes": 7532
+      "ticks": 2600148,
+      "sent_at": "2026-11-21T00:06:08-0500",
+      "versions": 12,
+      "bytes": 8054
     },
     {
       "name": "vibrant-conduits.md",
