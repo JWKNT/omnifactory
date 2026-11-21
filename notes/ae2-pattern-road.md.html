@@ -32,7 +32,7 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">ae2-pattern-road.md</h1>
-        <p class="note-meta"><span class="played">24 h 45 min</span> played · first sent at 8 h 37 min</p>
+        <p class="note-meta"><span class="played">48 h 50 min</span> played · first sent at 8 h 37 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>From the first cell to a craftable pattern</h2>
@@ -58,6 +58,7 @@
 <p>The first crafting interface has nine occupied pattern slots. This instance has a Pattern Expansion Card (ME material 58), whose only JEI recipe consumes an Advanced Card and an entire ME Interface. Before buying one, compare placing the next processing interface beside the existing Molecular Assembler. A separate Molecular Assembler takes a Crafter, four aluminium plates, two quartz glass, an Annihilation Core and a Formation Core. The Crafter itself costs an Industrial Machine Chassis, two Infinity Bimetal Gears, two Resonating Redstone Crystals, a Compressed Crafting Table and three Item Conduits. The six Ender Shards have moved into the ME storage family and can supply the resonating crystals. No expansion card has been crafted.</p>
 <p>The six epoxy boards cover three HV Microcircuit batches and three Processor Assemblies. That gives twelve Microcircuits, nine of which go into the assemblies. Keep two assemblies for the titanium reactor. The third buys eight Blank Patterns with five polyethylene sheets and three fine silver wires. This uses the two spare epoxy boards and increases the solder allowance from 288 to 432 mB. The three assemblies need twelve RAM and twelve Small Coils in total. Draw extra fine electrum wire, annealed copper wire and red alloy wire in the AE2 wiremill as patterns become available. Those are recurring circuit materials, and all three can share the new interface.</p>
 <p>Live JEI shows that Fine Copper Wire, Fine Red Alloy Wire, Fine Annealed Copper Wire and Fine Electrum Wire each take one single wire and yield four fine wires. The tin-alloy fine-wire pattern is different: it takes an ingot directly and yields eight. For the next eight blanks, install the four fine-wire patterns and the three missing single-wire patterns in the seven free slots of the new wiremill interface. Put the eighth blank in the compressor interface for Stainless Steel Plate, which takes one ingot per plate. scripts/processing_wiremill.py will request eight Fine Red Alloy Wires through the terminal after installing the patterns. This expansion is queued after the three HV Processor Assemblies.</p>
+<p>The block directly above the Molecular Assembler at (11,83,9) is free. A second full ME Interface there can share the existing assembler. scripts/motion_interface.py stages this after the titanium fluid import bus. Its first five patterns are double and eightfold annealed copper wire, then the EV motor, piston and conveyor. This is a planned expansion. The original interface still has all nine ordinary slots occupied.</p>
 </div>
       </article>
     </main>

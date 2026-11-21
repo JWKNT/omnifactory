@@ -27,10 +27,10 @@
     {
       "name": "ae2-pattern-road.md",
       "first_ticks": 620868,
-      "ticks": 1782855,
-      "sent_at": "2026-11-20T12:44:43-0500",
-      "versions": 18,
-      "bytes": 12596
+      "ticks": 3516650,
+      "sent_at": "2026-11-21T12:51:17-0500",
+      "versions": 19,
+      "bytes": 13019
     },
     {
       "name": "ae2-storage-costs.md",
@@ -475,10 +475,10 @@
     {
       "name": "ev-motor-magnets.md",
       "first_ticks": 3459593,
-      "ticks": 3504341,
-      "sent_at": "2026-11-21T12:41:02-0500",
-      "versions": 3,
-      "bytes": 1147
+      "ticks": 3516650,
+      "sent_at": "2026-11-21T12:51:17-0500",
+      "versions": 4,
+      "bytes": 1370
     },
     {
       "name": "ev-motor-windings.md",
@@ -495,6 +495,14 @@
       "sent_at": "2026-11-21T12:22:09-0500",
       "versions": 3,
       "bytes": 1430
+    },
+    {
+      "name": "ev-power.md",
+      "first_ticks": 3511841,
+      "ticks": 3511841,
+      "sent_at": "2026-11-21T12:47:17-0500",
+      "versions": 1,
+      "bytes": 1587
     },
     {
       "name": "ev-titanium.md",
@@ -631,6 +639,14 @@
       "sent_at": "2026-11-21T00:23:28-0500",
       "versions": 20,
       "bytes": 11765
+    },
+    {
+      "name": "freezer-network-return.md",
+      "first_ticks": 3520485,
+      "ticks": 3520485,
+      "sent_at": "2026-11-21T12:54:29-0500",
+      "versions": 1,
+      "bytes": 1118
     },
     {
       "name": "freezer-pumps.md",
@@ -967,6 +983,14 @@
       "sent_at": "2026-11-19T23:19:17-0500",
       "versions": 13,
       "bytes": 7342
+    },
+    {
+      "name": "nanocircuit-feed.md",
+      "first_ticks": 3526594,
+      "ticks": 3526594,
+      "sent_at": "2026-11-21T12:59:34-0500",
+      "versions": 1,
+      "bytes": 1893
     },
     {
       "name": "nether-landing.md",
@@ -1339,10 +1363,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 3498338,
-      "sent_at": "2026-11-21T12:36:02-0500",
-      "versions": 396,
-      "bytes": 5292
+      "ticks": 3516650,
+      "sent_at": "2026-11-21T12:51:17-0500",
+      "versions": 397,
+      "bytes": 5759
     },
     {
       "name": "review-29h49m.md",

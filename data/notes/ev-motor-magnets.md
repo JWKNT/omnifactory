@@ -7,3 +7,5 @@ The first HV grinder will get bonus neodymium from bastnasite. Its diamond head 
 The centrifuge delivered all eight clean dust. The west blast furnace accepted them and started the neodymium ingot recipe at 120 EU/t.
 
 All eight ingots came out of the west furnace. The lathe took them in one load and showed two neodymium rods per ingot. The next step is the polarizer.
+
+The polarizer yielded sixteen magnetic neodymium rods. The first EV motor reached ME using one magnet, two titanium rods, two aluminium cables and four eightfold annealed copper wires. Fifteen magnets remained in storage.
