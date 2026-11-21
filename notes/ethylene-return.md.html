@@ -32,7 +32,7 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">ethylene-return.md</h1>
-        <p class="note-meta"><span class="played">51 h 51 min</span> played · first sent at 42 h 55 min</p>
+        <p class="note-meta"><span class="played">52 h 10 min</span> played · first sent at 42 h 55 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>Return ethylene to polyethylene on the existing conduit</h2>
@@ -48,6 +48,7 @@
 <p>At 51h38m all three CPUs had been occupied. The MV electronics assembler had a hull and transistor components waiting for 288 mB of polyethylene apiece, but just 224 mB in the tank. I found 64 finished sheets in the caster. The return-to-assembler check had only been called above 1,152 mB, so it could never react to the shortage. I changed that check, turned the reactor&#39;s sheet output off and restored extraction to the assembler. The first hull reached ME and the transistor reserve rose from 48 to 80. There are 67 sheets in storage. The sulfuric board coater also had over twenty buckets while the dehydrator held just 250 mB. Sixteen buckets moved to the dehydrator, which resumed converting ethanol. A filtered supply pipe from the water-fed acid reactor can remove this delivery trip. The route is in scripts/ethylene_acid_feed.py.</p>
 <p>At 51h44m four Ender Fluid Conduits joined the water-fed LV reactor to the overhead fluid trunk. Its west-facing connection at (7,81,4) extracts sulfuric acid through a whitelist on orange. The dehydrator accepts orange from above while its diluted-acid return remains connected. The receiving tank held 7,250 mB when extraction was enabled. Portable fresh-acid delivery is suspended so the next level increase can establish native delivery. Hydrogen is still banked separately to leave room for acid production.</p>
 <p>The pipe passed its first production test. The dehydrator consumed at least 2,000 mB ethanol, falling from 27,700 to 25,700 mB, while its sulfuric acid remained at 1,250 mB. The LV reactor finished two sulfur dust. Each mB of ethanol consumed in this recipe takes a mB of acid, so at least 2,000 mB arrived through the pipe with portable fresh-acid delivery suspended.</p>
+<p>Fresh acid is proven. The remaining repeated operation here is removing six buckets of hydrogen for every bucket of fresh acid. The return under construction uses the existing orange pipe for both products. Keep the source&#39;s acid filter installed until both receiving filters are checked. The overhead dehydrator port needs an insert filter for sulfuric acid while retaining its separate brown diluted-acid extraction. One additional Ender Fluid Conduit inside the bundle at (7,83,-1) reaches the top of the existing ME Fluid Interface. Its orange insert port takes only hydrogen. The west purple inlet of that interface continues accepting hydrogen from the separate electrolyzer. scripts/acid_hydrogen_return.py verifies the two whitelist settings before opening the shared source and compares the reactor with ME afterward.</p>
 </div>
       </article>
     </main>
