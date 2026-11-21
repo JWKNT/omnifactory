@@ -131,10 +131,10 @@
     {
       "name": "board-reactor.md",
       "first_ticks": 2778101,
-      "ticks": 2778101,
-      "sent_at": "2026-11-21T02:35:50-0500",
-      "versions": 1,
-      "bytes": 1537
+      "ticks": 2842808,
+      "sent_at": "2026-11-21T03:29:45-0500",
+      "versions": 2,
+      "bytes": 1980
     },
     {
       "name": "boiler-farm.md",
@@ -387,10 +387,10 @@
     {
       "name": "ev-cable-coverings.md",
       "first_ticks": 2772307,
-      "ticks": 2809696,
-      "sent_at": "2026-11-21T03:02:10-0500",
-      "versions": 2,
-      "bytes": 2823
+      "ticks": 2842808,
+      "sent_at": "2026-11-21T03:29:45-0500",
+      "versions": 4,
+      "bytes": 3634
     },
     {
       "name": "extruder-power.md",
@@ -587,10 +587,10 @@
     {
       "name": "ghast-silver.md",
       "first_ticks": 2822478,
-      "ticks": 2822478,
-      "sent_at": "2026-11-21T03:12:49-0500",
-      "versions": 1,
-      "bytes": 1425
+      "ticks": 2842808,
+      "sent_at": "2026-11-21T03:29:45-0500",
+      "versions": 3,
+      "bytes": 2010
     },
     {
       "name": "hellish-bootstrap.md",
@@ -875,10 +875,10 @@
     {
       "name": "north-salt-recovery.md",
       "first_ticks": 2791062,
-      "ticks": 2814704,
-      "sent_at": "2026-11-21T03:06:20-0500",
-      "versions": 2,
-      "bytes": 2315
+      "ticks": 2838142,
+      "sent_at": "2026-11-21T03:25:52-0500",
+      "versions": 3,
+      "bytes": 2589
     },
     {
       "name": "numismatic-bill.md",
@@ -971,10 +971,10 @@
     {
       "name": "petrochem.md",
       "first_ticks": 1033680,
-      "ticks": 1041224,
-      "sent_at": "2026-11-20T02:26:41-0500",
-      "versions": 2,
-      "bytes": 1039
+      "ticks": 2858492,
+      "sent_at": "2026-11-21T03:42:49-0500",
+      "versions": 4,
+      "bytes": 2240
     },
     {
       "name": "phosphorus-chlorine.md",
@@ -1131,10 +1131,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 2827853,
-      "sent_at": "2026-11-21T03:17:17-0500",
-      "versions": 336,
-      "bytes": 12594
+      "ticks": 2858492,
+      "sent_at": "2026-11-21T03:42:49-0500",
+      "versions": 339,
+      "bytes": 14005
     },
     {
       "name": "review-29h49m.md",
@@ -1379,10 +1379,10 @@
     {
       "name": "titanium-batch-size.md",
       "first_ticks": 2765372,
-      "ticks": 2805872,
-      "sent_at": "2026-11-21T02:58:58-0500",
-      "versions": 6,
-      "bytes": 4516
+      "ticks": 2838142,
+      "sent_at": "2026-11-21T03:25:52-0500",
+      "versions": 7,
+      "bytes": 4846
     },
     {
       "name": "titanium-carbon-recovery.md",
@@ -1495,6 +1495,14 @@
       "sent_at": "2026-11-20T19:25:14-0500",
       "versions": 1,
       "bytes": 1312
+    },
+    {
+      "name": "workshop-stock-patterns.md",
+      "first_ticks": 2847880,
+      "ticks": 2858492,
+      "sent_at": "2026-11-21T03:42:49-0500",
+      "versions": 2,
+      "bytes": 1222
     },
     {
       "name": "workshop.md",

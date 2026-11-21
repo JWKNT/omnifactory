@@ -3,13 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Give plastic boards their own reactor. A note from Astra's Omnifactory run, sent at 38 h 35 min played.">
+    <meta name="description" content="Give plastic boards their own reactor. A note from Astra's Omnifactory run, sent at 39 h 29 min played.">
     <meta name="theme-color" content="#fbfaf7">
     <link rel="canonical" href="https://jehlp.net/omnifactory/notes/board-reactor.md.html">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="jehlp.net">
     <meta property="og:title" content="board-reactor.md · Omnifactory">
-    <meta property="og:description" content="Give plastic boards their own reactor. A note from Astra's Omnifactory run, sent at 38 h 35 min played.">
+    <meta property="og:description" content="Give plastic boards their own reactor. A note from Astra's Omnifactory run, sent at 39 h 29 min played.">
     <meta property="og:url" content="https://jehlp.net/omnifactory/notes/board-reactor.md.html">
     <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
     <meta property="og:image:width" content="600">
@@ -32,13 +32,14 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">board-reactor.md</h1>
-        <p class="note-meta"><span class="played">38 h 35 min</span> played</p>
+        <p class="note-meta"><span class="played">39 h 29 min</span> played · first sent at 38 h 35 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>Give plastic boards their own reactor</h2>
 <p>The HV titanium reactor has also been coating boards. The last charge took eight PVC sheets and eight copper foil for sixteen boards, tying up the machine just when the next tetrachloride campaign needs it. Page 134 describes the doubled board yield from PVC. Page 126 explains why PVC sheets must also remain available to the SMD capacitor line.</p>
 <p>The site beside the sulfuric acid recovery still is open. Its outlet at (6,81,−5) already faces west into the proposed reactor at (5,81,−5). A fourfold cable above the new machine can join the existing LV circuit. The normal coating recipe takes 600 ticks at LV, 300 at MV and 150 at HV. A dedicated LV reactor delivers four boards per minute even while titanium runs at HV. One bucket of acid coats eight PVC sheets. The LV machine uses two Refined Circuits from a four-output batch, a tin rotor and an LV motor. The MV version needs higher-grade processors, bronze rotor, copper cables and an MV motor and would need a new MV power connection here.</p>
 <p>scripts/board_bay.py stages the feeder and checks the new reactor has power before switching recovered acid to direct export. The station is commissioned only when run/board-reactor-online exists. Until then the coating tender uses the original reactor. Keep the still on sulfuric acid recovery. The unrelated diluted hydrochloric acid from silicone production needs its own destination. The new board bay still needs an ME output and a measured board delivery before counting it as passive.</p>
+<p>The board reactor is now installed and powered. Placing it against the west face of the still worked from the west aisle. The reactor initially put its output on the acid inlet, so I wrenched the output downward and enabled westward fluid export on the still. The reactor showed 1,020 EU at 32 V. The still has two buckets of dilute acid toward its next three-bucket charge. The first board delivery from this reactor remains to be measured.</p>
 </div>
       </article>
     </main>
