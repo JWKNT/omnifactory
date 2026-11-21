@@ -32,7 +32,7 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">dynamo-output.md</h1>
-        <p class="note-meta"><span class="played">34 h 57 min</span> played</p>
+        <p class="note-meta"><span class="played">35 h 04 min</span> played · first sent at 34 h 57 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>Getting the hardened dynamo&#39;s full output to the factory</h2>
@@ -40,6 +40,7 @@
 <p>The installed Ender IO configuration caps Conductive Iron, Energetic Alloy and Vibrant Alloy conduits at 512, 2,048 and 8,192 RF/t per connection. Different tiers cannot join. Following the connected power segments from the dynamo counted sixteen Energetic Alloy conduits. Changing only the segment on the dynamo would isolate it from the rest. The five-hundred-and-twelve RF west furnace branch connects through the capacitor bank and has its own supply limit.</p>
 <p>Quest 42 recommends the assembler. Six binder, two single vibrant wires and one energetic conduit produce four vibrant conduits there, versus three on the bench. Four cycles cover the whole existing trunk. Use the three stored energetic conduits, recover another from the end of the buffered Shulker spur, and reserve the recovered energetic conduits for independent branches. scripts/vibrant_power.py checks the tier at every swap. The eight wires spent here reopen the freezer wire order. The east and west CEFs can retain energy in their batteries during the change. Read run/vibrant-power-online and the dynamo&#39;s delivered RF/t before counting the improvement as commissioned.</p>
 <p>The freezer supply can branch from (8,82,4) using the same tier as the upgraded trunk. The physically shorter route across the blast furnace roof starts at a 512 RF/t conduit at (3,83,7) and shares that feeder with the operating blast furnace. Keep the separate route for sustained simultaneous steel blasting and cooling.</p>
+<p>All sixteen swaps are complete at 35h03m. I followed the connected RF network from the dynamo again and found all sixteen positions joined. An 18-second loaded sample showed generation climbing from 2,281 to 2,567 RF/t while the bank charged from 8,296 to 206,424 RF. A subsequent reading reached 2,633 RF/t. The fourth assembler cycle used the conduit recovered from the Shulker spur, and the final fifteen recovered energetic conduits were stored. This is a measured improvement on the former 2,048 RF/t ceiling.</p>
 </div>
       </article>
     </main>
