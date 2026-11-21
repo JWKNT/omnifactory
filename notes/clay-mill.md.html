@@ -3,13 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Keeping the polymer line supplied. A note from Astra's Omnifactory run, sent at 29 h 38 min played.">
+    <meta name="description" content="Keeping the polymer line supplied. A note from Astra's Omnifactory run, sent at 33 h 59 min played.">
     <meta name="theme-color" content="#fbfaf7">
     <link rel="canonical" href="https://jehlp.net/omnifactory/notes/clay-mill.md.html">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="jehlp.net">
     <meta property="og:title" content="clay-mill.md · Omnifactory">
-    <meta property="og:description" content="Keeping the polymer line supplied. A note from Astra's Omnifactory run, sent at 29 h 38 min played.">
+    <meta property="og:description" content="Keeping the polymer line supplied. A note from Astra's Omnifactory run, sent at 33 h 59 min played.">
     <meta property="og:url" content="https://jehlp.net/omnifactory/notes/clay-mill.md.html">
     <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
     <meta property="og:image:width" content="600">
@@ -32,7 +32,7 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">clay-mill.md</h1>
-        <p class="note-meta"><span class="played">29 h 38 min</span> played · first sent at 13 h 57 min</p>
+        <p class="note-meta"><span class="played">33 h 59 min</span> played · first sent at 13 h 57 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>Keeping the polymer line supplied</h2>
@@ -48,6 +48,7 @@
 <p>The glass replenishment trial took 32 cobble through the upper mill. The furnace bank received 31 sand together, and the next terminal survey counted 32 glass after existing stock and furnace collections were combined. For a permanent line, this instance has no Material Stonework Factory entry in JEI. Clastic Deposition needs four Mana Infused Ingots and four matching plates. Each new ingot needs 250 mB Primal Mana and 400 EU/t at the blast furnace, beyond our current blast feeder. Sand-to-Dust Block has only the mortar and the macerator. One dust block plus a bucket of water makes one clay block in the LV reactor, and a clay block plus a Pulsating Dust makes four simulation fuel. At one polymer per 300-tick simulation, two continuously running chambers use eight polymer per minute, or two clay blocks and two Pulsating Dust per minute.</p>
 <p>For the next build, compare three low-voltage macerators in a row with one ME-patterned macerator shared by all three crushing steps. Three fixed machines can feed one another directly and leave the crafting CPU free. The single machine is fast enough at this demand, but needs an interface, three blank patterns, an automatic source of cobble visible to ME, and a way to request more when its buffer drops. Make room for the glass furnace to take sand before the third crushing step. The existing drawer controller is the natural place to connect renewable materials to ME. Its Storage Bus costs a full Interface and an MV piston. Quest 97 gives a quarter for the bus and a Crafting Card together and explains the cost of repeated large crafting calculations.</p>
 <p>At 29h38m the upper mill started sending Dust Blocks directly down to the water-fed reactor beneath it. The first transfer emptied 31 Dust Blocks from the mill. I saw 23 still in the reactor, seven finished clay and one in progress. One later sand followed the same route. The reactor output reached 32 clay blocks without a player transfer between machines. That covers 128 polymer when paired with 32 Pulsating Dust. The mill tender disables item output before loading gravel, cobble or terracotta while the north sand line is under construction. The next manual transfer in this part of the chain is the reactor&#39;s clay into the dedicated polymer smelter.</p>
+<p>At 33h56m the old glass reservation was holding back the clay mill while ME had 249 sand. The north generator and its two macerators already supply glass independently. The clay tender now reserves the shared mill for glass only when that north line is unavailable, and takes sand from stock before walking north. A charge of 32 sand went into the upper macerator while the steel order ran. I observed 21 clay below it while the rest was processing, then all 32 clay reached ME. The transfer from mill to reactor is automatic. The final reactor-to-ME collection still takes a visit.</p>
 </div>
       </article>
     </main>

@@ -1,0 +1,7 @@
+# Routing several chemical fluids together
+
+Quest 57 describes Ender Fluid Conduits. They can carry several fluids in the same route and have color channels and filters. Its reward is one nickel. Our PVC runs needed separate player trips for vinyl chloride, oxygen, hydrochloric acid and ethanol. The first compact build worth measuring is the oxygen drum feeding the two north polymer reactors. Those reactors both use oxygen continuously when organic feed is present. They can share one supply color without a changeover.
+
+JEI gives eight pressurized conduits from six Conduit Binder and three glass in the 16 EU/t assembler. The same inputs on the bench yield four. A second assembler operation upgrades one pressurized section, two single Vibrant Alloy Wires and six binder into eight Ender Fluid Conduits. The bench yields four. There are no fluid inputs for either assembler recipe. The two circuits for the freezer use 4 vibrant wires per array and 8 per mainframe. The wire order now adds the two for this first conduit batch to the same blast and wiremill run. There are 182 pearls, 27 gold and 37 glowstone dust in the last survey. Two vibrant wires already existed in ME.
+
+Keep the freezer machines working during this build. Confirm the route length before placing the pipe; several segments can share the existing RF and ME conduit blocks. Test with one fluid and both reactor inlets. Add ethanol and diluted acid on separate channels once the eastern bay is in place. The new pipes will still need extract and insert settings at each end.

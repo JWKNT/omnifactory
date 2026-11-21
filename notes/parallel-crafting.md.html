@@ -3,13 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="A second independent crafting CPU. A note from Astra's Omnifactory run, sent at 33 h 42 min played.">
+    <meta name="description" content="A second independent crafting CPU. A note from Astra's Omnifactory run, sent at 33 h 53 min played.">
     <meta name="theme-color" content="#fbfaf7">
     <link rel="canonical" href="https://jehlp.net/omnifactory/notes/parallel-crafting.md.html">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="jehlp.net">
     <meta property="og:title" content="parallel-crafting.md · Omnifactory">
-    <meta property="og:description" content="A second independent crafting CPU. A note from Astra's Omnifactory run, sent at 33 h 42 min played.">
+    <meta property="og:description" content="A second independent crafting CPU. A note from Astra's Omnifactory run, sent at 33 h 53 min played.">
     <meta property="og:url" content="https://jehlp.net/omnifactory/notes/parallel-crafting.md.html">
     <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
     <meta property="og:image:width" content="600">
@@ -32,7 +32,7 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">parallel-crafting.md</h1>
-        <p class="note-meta"><span class="played">33 h 42 min</span> played · first sent at 33 h 29 min</p>
+        <p class="note-meta"><span class="played">33 h 53 min</span> played · first sent at 33 h 29 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>A second independent crafting CPU</h2>
@@ -41,6 +41,8 @@
 <p>scripts/parallel_cpu.py checks the real CPU list before enabling stock orders. It targets 32 rubber sheets, 32 single copper wires and 16 wrought plates in bounded batches. It leaves at least one CPU free and protects some raw material for other orders. Watch for two busy CPUs on different machines and two completed outputs. The orders are submitted at workshop visits. The dedicated polymer smelter needs its physical inlet as described in polymer-inlet.md to keep feeding simulations when the player is elsewhere. The second CPU and its overlap trial are pending.</p>
 <p>The optional quest specifically called Keeping Stuff In Stock is page 97. It is unlocked and pays one quarter for holding an ME Storage Bus and a Crafting Card. Its description explains that a storage bus exposes an interface’s stock to recipes and that a crafting card asks the CPU for missing stock. It recommends simple recipes for that arrangement because large recursive jobs are recalculated. The storage bus in this instance takes an MV piston and an ME Interface. A Crafting Card takes a Basic Card and crafting table. The matter drawer controller at (14,80,10) already has real inputs from the chambers and would make good use of that bus after the quest check. A physical filtered inlet on the polymer smelter saves a CPU entirely. Quest 789 explains how the ordinary Item Filter sets a separate count for each entry on a Keep Exact arm.</p>
 <p>I misread the quartzite JEI output while pricing calculation plates. The LV mill turned one quartzite ore into four crushed quartzite; the Certus dust beside it in JEI is only a 14% secondary output, and the LV mill has one output slot. The four crushed quartzite are available for later materials. I corrected the next charge to use the stocked Certus Quartz gems, which give one guaranteed Certus dust each. Four gold ingots also went into the spare compressor for the Logic Processor plates shared by the CPU and fluid terminal.</p>
+<p>The second CPU now has both calculation processors, the logic processor and its 1k ME Storage Component. The network compressor delivered four aluminium plates for the unit. All three existing item cells hold 63 distinct types each at most, and two have already reached that limit with several hundred spare bytes. Another 1k item cell adds the same 63 type slots as a 4k for less material. It needs four fine red alloy wires and four electrical steel plates for the housing plus a 1k component. There are no direct item cell quest rewards. scripts/item_cell.py will install one more disk at the chemistry build if at most sixteen type slots remain.</p>
+<p>At 33h52m the 1k Crafting Storage was placed at (9,83,0). The network enumerated two separate 1,024-byte CPUs. One accepted sixteen copper wires and the other eight rubber sheets. Both reported busy at the same time while the player went to the polymer smelter. The next terminal survey measured the full sixteen additional wires and eight additional sheets. The receipt is run/parallel-cpu-deliveries.</p>
 </div>
       </article>
     </main>

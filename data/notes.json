@@ -177,6 +177,14 @@
       "bytes": 4603
     },
     {
+      "name": "chemical-conduits.md",
+      "first_ticks": 2450836,
+      "ticks": 2450836,
+      "sent_at": "2026-11-20T22:01:42-0500",
+      "versions": 1,
+      "bytes": 1553
+    },
+    {
       "name": "chemical-fluid-storage.md",
       "first_ticks": 2367016,
       "ticks": 2367016,
@@ -203,10 +211,10 @@
     {
       "name": "clay-mill.md",
       "first_ticks": 1005296,
-      "ticks": 2133909,
-      "sent_at": "2026-11-20T17:37:16-0500",
-      "versions": 9,
-      "bytes": 6797
+      "ticks": 2447874,
+      "sent_at": "2026-11-20T21:59:14-0500",
+      "versions": 10,
+      "bytes": 7381
     },
     {
       "name": "cluster-mill.md",
@@ -811,10 +819,10 @@
     {
       "name": "parallel-crafting.md",
       "first_ticks": 2410865,
-      "ticks": 2427199,
-      "sent_at": "2026-11-20T21:42:00-0500",
-      "versions": 3,
-      "bytes": 3088
+      "ticks": 2440264,
+      "sent_at": "2026-11-20T21:52:54-0500",
+      "versions": 5,
+      "bytes": 4143
     },
     {
       "name": "passive-sand.md",
@@ -875,10 +883,10 @@
     {
       "name": "polymer-inlet.md",
       "first_ticks": 2282481,
-      "ticks": 2416158,
-      "sent_at": "2026-11-20T21:32:48-0500",
-      "versions": 2,
-      "bytes": 2774
+      "ticks": 2435220,
+      "sent_at": "2026-11-20T21:48:41-0500",
+      "versions": 3,
+      "bytes": 3443
     },
     {
       "name": "polymer-smelter.md",
@@ -987,10 +995,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 2417730,
-      "sent_at": "2026-11-20T21:34:07-0500",
-      "versions": 287,
-      "bytes": 4950
+      "ticks": 2440264,
+      "sent_at": "2026-11-20T21:52:54-0500",
+      "versions": 290,
+      "bytes": 5267
     },
     {
       "name": "review-29h49m.md",
@@ -1007,6 +1015,14 @@
       "sent_at": "2026-11-20T19:49:15-0500",
       "versions": 1,
       "bytes": 2935
+    },
+    {
+      "name": "review-33h50m.md",
+      "first_ticks": 2436722,
+      "ticks": 2436722,
+      "sent_at": "2026-11-20T21:49:57-0500",
+      "versions": 1,
+      "bytes": 2944
     },
     {
       "name": "review-questions.md",
@@ -1043,10 +1059,10 @@
     {
       "name": "ruby-washer.md",
       "first_ticks": 2347250,
-      "ticks": 2410865,
-      "sent_at": "2026-11-20T21:28:24-0500",
-      "versions": 4,
-      "bytes": 3294
+      "ticks": 2447874,
+      "sent_at": "2026-11-20T21:59:14-0500",
+      "versions": 6,
+      "bytes": 3866
     },
     {
       "name": "second-hour.md",
@@ -1267,10 +1283,10 @@
     {
       "name": "washer-water.md",
       "first_ticks": 2425546,
-      "ticks": 2425546,
-      "sent_at": "2026-11-20T21:40:38-0500",
-      "versions": 1,
-      "bytes": 1708
+      "ticks": 2435220,
+      "sent_at": "2026-11-20T21:48:41-0500",
+      "versions": 2,
+      "bytes": 2391
     },
     {
       "name": "wireless-storage.md",
