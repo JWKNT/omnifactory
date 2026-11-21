@@ -1,0 +1,7 @@
+# Silver for cables, resistors and patterns
+
+The next electrolyzer needs four silver wires, blank patterns need fine silver wire, and resistor wire uses electrum. Silver ore can go straight into a furnace for one ingot, or into a macerator for two crushed ore with potential lead byproduct at HV. We have 26 ore. The ongoing alternative is twelve finished silver ingots from one Pristine Ghast Matter. Our materials chamber already supports this model’s 1,024 RF/t and the diamond chamber can keep operating.
+
+A Ghast model costs one blank, seven Hellish Matter and one Ghast Tear. A spider eye, sugar and two Hellish Matter craft three tears even on Peaceful. At the survey there were 58 Hellish Matter, 15 spider eyes, four electrical steel plates, three fine gold wire and seven pulsating dust. Four string and one coal dust give a carbon mesh. Four pulsating dust and that mesh give the last piece for the blank. The first request in scripts/ghast_silver.py comes after the SMD interface. The materials chamber can then include silver in its rotation with a 24-ingot stock target. Check ghast-model-made and the actual ingot count before relying on it.
+
+Side quest 689 pays ten quarters for carrying the Blaze, Ghast and Wither Skeleton models together. The Blaze model is already made. Three ordinary skeleton skulls and a Hellish Matter can make the wither skull for the third model. The quest consumes none of them.
