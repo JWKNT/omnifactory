@@ -1,0 +1,5 @@
+# The furnace after Kanthal
+
+The first north blast is reserved for titanium to prove its freezer delivery and salt recovery. Nichrome can follow without changing coils. Current JEI gives five hot Nichrome from four nickel ingots and one chrome ingot at 480 EU/t for 800 ticks. The original EBF can turn chrome dust into chrome ingots alongside the north furnace. The north furnace takes the two metals directly. Each new furnace has a reason to stay in operation after a hotter one comes online.
+
+Sixteen Nichrome coils need 128 double wires. At the current wiremill yield that is 128 ingots, or 26 blast cycles for 130 total. Budget 104 nickel ingots and 26 chrome ingots for the complete ring. The survey after Kanthal held two nickel ingots, eight nickel ore and eight chrome dust. Before buying nickel in quantity, price its full ore-processing route and the washer's by-products. The first cold ingot pays a nickel on page 158. Show the first stack to page 603 before winding the coils. Page 159 pays a quarter for sixteen coils and raises available heat to 3,600 K.
