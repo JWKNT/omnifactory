@@ -499,10 +499,10 @@
     {
       "name": "ev-patterns.md",
       "first_ticks": 3759531,
-      "ticks": 3890541,
-      "sent_at": "2026-11-21T18:02:52-0500",
-      "versions": 7,
-      "bytes": 4675
+      "ticks": 3904236,
+      "sent_at": "2026-11-21T18:14:17-0500",
+      "versions": 9,
+      "bytes": 5307
     },
     {
       "name": "ev-plate-press.md",
@@ -587,10 +587,18 @@
     {
       "name": "first-miner-fuel.md",
       "first_ticks": 3868997,
-      "ticks": 3883812,
-      "sent_at": "2026-11-21T17:57:15-0500",
+      "ticks": 3899685,
+      "sent_at": "2026-11-21T18:10:29-0500",
+      "versions": 5,
+      "bytes": 3276
+    },
+    {
+      "name": "first-miner-ship.md",
+      "first_ticks": 3899685,
+      "ticks": 3913667,
+      "sent_at": "2026-11-21T18:22:08-0500",
       "versions": 3,
-      "bytes": 2576
+      "bytes": 2070
     },
     {
       "name": "first-nether-star.md",
@@ -967,6 +975,14 @@
       "sent_at": "2026-11-19T17:11:23-0500",
       "versions": 3,
       "bytes": 2670
+    },
+    {
+      "name": "multi-smelter.md",
+      "first_ticks": 3911844,
+      "ticks": 3911844,
+      "sent_at": "2026-11-21T18:20:37-0500",
+      "versions": 1,
+      "bytes": 922
     },
     {
       "name": "mv-alloy-bay.md",
@@ -1403,10 +1419,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 3883812,
-      "sent_at": "2026-11-21T17:57:15-0500",
-      "versions": 429,
-      "bytes": 5625
+      "ticks": 3911844,
+      "sent_at": "2026-11-21T18:20:37-0500",
+      "versions": 433,
+      "bytes": 6325
     },
     {
       "name": "review-29h49m.md",
@@ -1537,6 +1553,14 @@
       "bytes": 1450
     },
     {
+      "name": "rubber-sheet-stock.md",
+      "first_ticks": 3904236,
+      "ticks": 3911844,
+      "sent_at": "2026-11-21T18:20:37-0500",
+      "versions": 3,
+      "bytes": 1283
+    },
+    {
       "name": "rubber.md",
       "first_ticks": 41148,
       "ticks": 2091618,
@@ -1627,10 +1651,10 @@
     {
       "name": "small-projector.md",
       "first_ticks": 1192280,
-      "ticks": 3890541,
-      "sent_at": "2026-11-21T18:02:52-0500",
-      "versions": 10,
-      "bytes": 6969
+      "ticks": 3914244,
+      "sent_at": "2026-11-21T18:22:37-0500",
+      "versions": 13,
+      "bytes": 7960
     },
     {
       "name": "smd-feed.md",

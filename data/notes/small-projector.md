@@ -27,3 +27,9 @@ The Builder's Wand has finished the north extension to z=-16. The five-by-five f
 The MV fluid input hatch was crafted. Four rubber logs supplied sixteen jungle planks and the two chests for the item ports. The shell routine now orders glass through the network and restocks the chests.
 
 The ore washer had already banked 42 Purified Iron Ore while recovering nickel. JEI shows the macerator can turn it into purified iron dust. The first 24 are reserved for stainless through the centrifuge; the balance can go directly to the electric furnace for ordinary steel. The steel supply routine now checks this by-product before drawing down fresh ore.
+
+The north blast furnace accepted 51 aluminium dust while the west furnace continued making Microversium. The north bus keeps four magnesium dust for titanium. That occupies one of four slots and does not prevent aluminium from using the others. This batch feeds the next interfaces, hulls and motors.
+
+All 51 aluminium ingots from the north batch were collected in two visits. The west furnace returned another three Microversium after the 32-ingot charge, bringing the cumulative total to 51. The primary macerator took all 42 stored Purified Iron Ore; ten purified dust were already visible while it was still grinding. The remaining bottleneck for ordinary steel is the supply of iron ingots.
+
+The LV item input bus is finished. The split iron route is running in parallel. The centrifuge accepted a charge of 22 purified iron dust for the stainless mix, and another 19 purified dust entered an electric furnace for ordinary iron. Its readout showed an iron ingot as the active product.
