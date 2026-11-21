@@ -9,6 +9,14 @@
       "bytes": 1121
     },
     {
+      "name": "advanced-inscriber.md",
+      "first_ticks": 2229002,
+      "ticks": 2229002,
+      "sent_at": "2026-11-20T18:56:30-0500",
+      "versions": 1,
+      "bytes": 1198
+    },
+    {
       "name": "ae2-entry.md",
       "first_ticks": 283860,
       "ticks": 324611,
@@ -455,6 +463,14 @@
       "sent_at": "2026-11-20T15:22:09-0500",
       "versions": 7,
       "bytes": 5050
+    },
+    {
+      "name": "freezer-ruby.md",
+      "first_ticks": 2226749,
+      "ticks": 2226749,
+      "sent_at": "2026-11-20T18:54:37-0500",
+      "versions": 1,
+      "bytes": 1545
     },
     {
       "name": "furnace-fuel.md",
@@ -923,10 +939,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 2208582,
-      "sent_at": "2026-11-20T18:39:29-0500",
-      "versions": 264,
-      "bytes": 3768
+      "ticks": 2220921,
+      "sent_at": "2026-11-20T18:49:46-0500",
+      "versions": 265,
+      "bytes": 4052
     },
     {
       "name": "review-29h49m.md",
@@ -935,6 +951,14 @@
       "sent_at": "2026-11-20T17:48:48-0500",
       "versions": 1,
       "bytes": 2848
+    },
+    {
+      "name": "review-questions.md",
+      "first_ticks": 2218163,
+      "ticks": 2220921,
+      "sent_at": "2026-11-20T18:49:46-0500",
+      "versions": 2,
+      "bytes": 3929
     },
     {
       "name": "reward-lookup.md",

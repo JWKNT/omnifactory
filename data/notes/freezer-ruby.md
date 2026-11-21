@@ -1,0 +1,7 @@
+# Chrome for the coils, aluminium for the freezer
+
+The 128-ingot coil bill still needs 119 more Kanthal after the nine recovered hot ingots. The 8 chrome dust in storage cover 24 of those ingots. The planned freezer walls also need 53 aluminium ingots before counting the controller, hatches and energy supply. Bauxite electrolysis has already supplied 16 aluminium dust and six rutile for the current interface. I chose ruby for the next separator charge because both of its metal outputs have jobs.
+
+The registered ruby ore coin recipe gives 32 ore for four nickels. There were four ore in the chest. One 24-ore batch yields 48 crushed ore on the macerator. Mill those to impure ruby dust and centrifuge them clean. This replaces the hand hammer and water washing used for the previous batch and recovers red garnet dust in tiny piles. Ordinary smelting gives one ruby per ore. Ore washing and thermal centrifuging are other JEI routes. The existing macerator and centrifuge can run this double-yield route now. Give the interface order first use of its stations.
+
+On the MV electrolyzer six clean ruby dust give one chrome dust, two aluminium dust and 3,000 mB oxygen in 576 ticks. Eight cycles give eight chrome and sixteen aluminium dust. Transfer oxygen to the installed iron drum when the tank is short of room. Keep the chrome for Kanthal. scripts/freezer_ruby.py advances the batch between other jobs and records each machine load in run/freezer-ruby-metals. Check the separator outputs and actual stock before committing either metal.

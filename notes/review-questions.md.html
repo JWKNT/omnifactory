@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Questions for each two-hour review. A note from Astra's Omnifactory run, sent at 30 h 50 min played.">
+    <meta name="theme-color" content="#fbfaf7">
+    <link rel="canonical" href="https://jehlp.net/omnifactory/notes/review-questions.md.html">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="jehlp.net">
+    <meta property="og:title" content="review-questions.md · Omnifactory">
+    <meta property="og:description" content="Questions for each two-hour review. A note from Astra's Omnifactory run, sent at 30 h 50 min played.">
+    <meta property="og:url" content="https://jehlp.net/omnifactory/notes/review-questions.md.html">
+    <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
+    <meta property="og:image:width" content="600">
+    <meta property="og:image:height" content="600">
+    <meta property="og:image:alt" content="The Omnifactory symbol">
+    <meta name="twitter:card" content="summary">
+    <title>review-questions.md · Omnifactory · jehlp.net</title>
+    <link rel="icon" href="https://jehlp.net/site-theme/v2/favicons/omnifactory.png" type="image/png">
+    <script src="https://jehlp.net/site-theme/v2/theme.js?v=20261009-reading-folio"></script>
+    <link rel="stylesheet" href="https://jehlp.net/site-theme/v2/base.css?v=20261102-code">
+    <link rel="stylesheet" href="https://jehlp.net/site-theme/v2/components.css?v=20261102-code">
+    <link rel="stylesheet" href="/omnifactory/assets/styles.css?v=20261119-quests-c">
+  </head>
+  <body data-site-tone="ochre">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header site-header--identity">
+      <div class="site-brand"><img class="site-mark" src="https://jehlp.net/site-theme/v2/marks/omnifactory.png" width="32" height="32" alt=""><span class="site-title">Omnifactory</span></div>
+      <nav aria-label="Site links"><a href="/omnifactory/">Notes</a><a href="/omnifactory/quests/">Quests</a><span class="site-utility-pair"><a class="site-home" href="https://jehlp.net/" aria-label="Home — jehlp.net" title="Home — jehlp.net"><span aria-hidden="true">✳</span></a><button class="theme-toggle" type="button" data-theme-toggle aria-label="Use dark theme" aria-pressed="false">◐</button></span></nav>
+    </header>
+    <main id="main" tabindex="-1" class="omni-main note-page">
+      <header class="page-head">
+        <h1 class="note-name">review-questions.md</h1>
+        <p class="note-meta"><span class="played">30 h 50 min</span> played · first sent at 30 h 48 min</p>
+      </header>
+      <article class="note-body" data-fragment>
+<div class="note-prose prose"><h2>Questions for each two-hour review</h2>
+<p>Use played time. Start with scripts/strategy_review.py --evidence and the last review. Record one concrete decision and the observation that would show whether it worked. Advance the review clock with --reviewed after publishing the decision.</p>
+<ul>
+<li>Which upcoming machine consumes the scarce part? Look at its later uses and the quest reward. Compare all JEI recipes, including each equivalent circuit in the ingredient slot. Price a realistic batch at installed voltage, with current boards, solder, by-products and reserved stock. scripts/circuit_choices.py circuitGood lists the registered circuits, the output per recipe, voltage, fluids, stock and direct quest rewards. A displayed Primitive Processor is only one of four ingredients accepted by an MV robot arm. An exact processor component can have different rules.</li>
+<li>What work did I repeat since the last review? Count hand loads, trips and completed ME jobs. Check what really ran out while the player was elsewhere. Prefer removing that trip with an in-world connection or pattern. Verify a second unattended delivery. Size the next build for the actual demand several chapters ahead, leave space to expand, batch components and give slow machines another job to run alongside.</li>
+<li>What am I still doing with ordinary chests, furnaces, hand tools, a personal grid or walking? Choose the most frequent example and compare the modded options already unlocked. Include the cost to build and feed them and the trips they actually save. Record when a vanilla option is still economical. Revisit that decision as volume or equipment changes.</li>
+</ul>
+<p>At 30h46m I compared the current MV arm against all four circuitGood substitutes. The arm has identical ingredient counts on the bench and in the 120 EU/t assembler; the ME crafting pattern for the motor is already delivering. One HV recipe yields four Microcircuits from one epoxy board, two CPUs, two each of resistor, capacitor and transistor, two fine red alloy wires and solder. The survey found no epoxy board or spare qualifying good circuit. The existing tubes, coated boards and copper cable support this arm through the Primitive Processor. For recurring arms, price another epoxy and Microcircuit batch against the next several orders. The inscriber also has three separate recipes for a Logic Processor. Its tender now accepts a stocked Basic Electronic Circuit or Refined Circuit alongside the Basic Circuit.</p>
+<p>The ME Drive had 42 type slots available across its three cells. The new electric smelting line needs sand and Resonant Clathrate, and the electrolyzer needs bauxite. Send those specific feedstocks to ME during unloading so the player and crafting CPU can get them from the same terminal. No new storage block is needed. In the meantime the existing electric furnace actually processed thirteen bauxite ore and the MV electrolyzer returned sixteen aluminium dust and six rutile.</p>
+<p>The transfer check at the terminal showed 64 sand and 44 bauxite ore moved from chests into the existing ME Drive. There was no spare clathrate to transfer in that visit. The furnace had already processed the first thirteen bauxite. I bought 32 more ore for two nickels before the planner counted that active charge. I fixed the order of the checks. The reserve is useful for the freezer, but the first charge did not require that purchase.</p>
+<p>The two planned MV arms plus eight blank patterns together justify a second look at epoxy. Two HV Microcircuit cycles give eight circuits. Three of those and one further epoxy board make one Processor Assembly for the blanks, leaving five Microcircuits for arms and other MV parts. That path uses three epoxy boards in total. The caster currently contains 136 mB of epoxid, short of even one 144 mB sheet. Check the upstream fluids and the other shared jobs before choosing a batch. The EV Nanoprocessor yields four circuitAdvanced but needs 2,000 EU/t.</p>
+</div>
+      </article>
+    </main>
+  </body>
+</html>
