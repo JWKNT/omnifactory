@@ -59,10 +59,10 @@
     {
       "name": "annealed-copper.md",
       "first_ticks": 841246,
-      "ticks": 1255454,
-      "sent_at": "2026-11-20T05:25:13-0500",
-      "versions": 4,
-      "bytes": 3006
+      "ticks": 2996543,
+      "sent_at": "2026-11-21T05:37:52-0500",
+      "versions": 6,
+      "bytes": 4513
     },
     {
       "name": "antimony-reserve.md",
@@ -395,10 +395,10 @@
     {
       "name": "ev-assembler-materials.md",
       "first_ticks": 2970540,
-      "ticks": 2978744,
-      "sent_at": "2026-11-21T05:23:02-0500",
-      "versions": 2,
-      "bytes": 1877
+      "ticks": 2996543,
+      "sent_at": "2026-11-21T05:37:52-0500",
+      "versions": 4,
+      "bytes": 3196
     },
     {
       "name": "ev-cable-coverings.md",
@@ -963,10 +963,10 @@
     {
       "name": "parallel-crafting.md",
       "first_ticks": 2410865,
-      "ticks": 2955618,
-      "sent_at": "2026-11-21T05:03:46-0500",
-      "versions": 9,
-      "bytes": 6489
+      "ticks": 2985451,
+      "sent_at": "2026-11-21T05:28:37-0500",
+      "versions": 10,
+      "bytes": 6948
     },
     {
       "name": "parts-storage-refill.md",
@@ -995,10 +995,10 @@
     {
       "name": "petrochem.md",
       "first_ticks": 1033680,
-      "ticks": 2908443,
-      "sent_at": "2026-11-21T04:24:27-0500",
-      "versions": 8,
-      "bytes": 4297
+      "ticks": 2990769,
+      "sent_at": "2026-11-21T05:33:03-0500",
+      "versions": 10,
+      "bytes": 5164
     },
     {
       "name": "phosphorus-chlorine.md",
@@ -1171,10 +1171,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 2960728,
-      "sent_at": "2026-11-21T05:08:01-0500",
-      "versions": 352,
-      "bytes": 18566
+      "ticks": 2985451,
+      "sent_at": "2026-11-21T05:28:37-0500",
+      "versions": 354,
+      "bytes": 20080
     },
     {
       "name": "review-29h49m.md",

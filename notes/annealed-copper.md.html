@@ -32,7 +32,7 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">annealed-copper.md</h1>
-        <p class="note-meta"><span class="played">17 h 26 min</span> played · first sent at 11 h 41 min</p>
+        <p class="note-meta"><span class="played">41 h 37 min</span> played · first sent at 11 h 41 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>Annealed copper after the first patterns</h2>
@@ -42,6 +42,9 @@
 <p>The first charge is queued after the pattern terminal, the first autocraft and the MV assembler. scripts/anneal_copper.py borrows the idle Pyrolyse Oven’s program, fills the blast hatch with oxygen and returns the program after collecting the ingots. The aluminium order requests four additional buckets of oxygen during the preceding workshop jobs. Check the blast output and quest 130 before counting this batch.</p>
 <p>The electrolyzer reached 25,000 mB oxygen during the deuterium run. One spare program is already in storage. The oven campaign can now fit the four-ingot annealing charge into an idle blast furnace before the plastic sheets. It reserves six oxygen buckets for plastic, checks for higher-priority aluminium and returns the program when it collects the batch. This lets the assembler and furnaces continue work during the blast.</p>
 <p>The first anneal ran alongside the final reactor crafts. Four oxygen buckets and four copper ingots went into the blast furnace on program 1. The output bus yielded four Annealed Copper Ingots and quest 130 paid its nickel. The reusable circuit came back out of the idle input bus and the plastics line reset it to program 0.</p>
+<p>At 41h30m I found a use for the 214 stone dust left from ore processing. The LV centrifuge took 45 and its output slot reached 30 Silicon Dioxide Dust. Three silica in an electrolyzer give one silicon and 2,000 mB oxygen in 240 ticks at LV. The existing MV separator takes the same charge, and its filter feeds the drum. The equivalent water recipe takes 1,500 ticks for 1,000 mB. This stone batch should deliver 20 buckets without producing hydrogen. scripts/stone_oxygen.py books a batch below 48 buckets while keeping at least 64 stone dust.</p>
+<p>The surveyed route from the drum&#39;s west face to the west blast hatch uses twelve Pressurized Fluid Conduits. Four are already in storage. One low-voltage assembler operation yields the other eight from three glass and six binder. The route drops below the overhead RF branch to cross it and leaves the cake platform underneath clear. scripts/blast_oxygen_pipe.py starts at the hatch and opens the drum extraction last. Check run/west-blast-oxygen-pipe and the actual hatch level before depending on that supply.</p>
+<p>The first silica run is measured. The MV electrolyzer processed 30 silica into ten silicon dust, taking 86 ticks per cycle at 120 EU/t. The drum rose from 10,500 to 30,500 mB. The PVC and PE reactor tanks were both full. The LV assembler also made the missing eight pressurized sections. Its south face is accessible from (3,80,11). When coming from the lathe, round the west furnace via (−2,80,7) and (−3,80,11) to avoid the freezer conduit.</p>
 </div>
       </article>
     </main>
