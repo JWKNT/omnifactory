@@ -3,13 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Second network plate press. A note from Astra's Omnifactory run, sent at 47 h 34 min played.">
+    <meta name="description" content="Second network plate press. A note from Astra's Omnifactory run, sent at 48 h 21 min played.">
     <meta name="theme-color" content="#fbfaf7">
     <link rel="canonical" href="https://jehlp.net/omnifactory/notes/ev-plate-press.md.html">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="jehlp.net">
     <meta property="og:title" content="ev-plate-press.md · Omnifactory">
-    <meta property="og:description" content="Second network plate press. A note from Astra's Omnifactory run, sent at 47 h 34 min played.">
+    <meta property="og:description" content="Second network plate press. A note from Astra's Omnifactory run, sent at 48 h 21 min played.">
     <meta property="og:url" content="https://jehlp.net/omnifactory/notes/ev-plate-press.md.html">
     <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
     <meta property="og:image:width" content="600">
@@ -32,12 +32,14 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">ev-plate-press.md</h1>
-        <p class="note-meta"><span class="played">47 h 34 min</span> played</p>
+        <p class="note-meta"><span class="played">48 h 21 min</span> played · first sent at 47 h 34 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>Second network plate press</h2>
 <p>Two Refined Processors, two MV pistons, two copper cables and an MV hull became a powered Advanced Compressor at (11,84,4), on top of the fourfold copper riser. The goal is to let two pressing jobs run at once and to stop visiting the LV compressor for individual titanium ingots. All nine pattern slots at the first network press are occupied.</p>
 <p>scripts/ev_plate_press.py builds the west interface at (10,84,4), configures item output and shared-face insertion, and installs the titanium plate pattern. The press is installed. The interface and first network plate delivery still need verification. scripts/ev_titanium_stock.py uses the new order path after the pattern is available. A native transfer from the freezer would remove the preceding collection trip too.</p>
+<p>The first press job used six ordinary steel plates and returned three Steel Heavy Plating. Quest 210 paid an OmniNickel. It opens the Suit Workstation, Launch Pad and Rocket Assembly Machine, and rocket parts quests. This is a real MV-only recipe at 100 EU/t. The titanium plate pattern still needs the interface west of the press.</p>
+<p>The west ME Interface is now installed at (10,84,4), with a titanium plate processing pattern. The press faces its output west, allows items in through that face and exports finished parts. The EV workshop requests plates there when it has a free titanium ingot after funding the current rod order.</p>
 </div>
       </article>
     </main>

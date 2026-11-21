@@ -467,10 +467,18 @@
     {
       "name": "ev-cable-coverings.md",
       "first_ticks": 2772307,
-      "ticks": 2955618,
-      "sent_at": "2026-11-21T05:03:46-0500",
-      "versions": 13,
-      "bytes": 8554
+      "ticks": 3481678,
+      "sent_at": "2026-11-21T12:22:09-0500",
+      "versions": 14,
+      "bytes": 9114
+    },
+    {
+      "name": "ev-motor-magnets.md",
+      "first_ticks": 3459593,
+      "ticks": 3459593,
+      "sent_at": "2026-11-21T12:03:44-0500",
+      "versions": 1,
+      "bytes": 857
     },
     {
       "name": "ev-motor-windings.md",
@@ -483,10 +491,10 @@
     {
       "name": "ev-plate-press.md",
       "first_ticks": 3425379,
-      "ticks": 3425379,
-      "sent_at": "2026-11-21T11:35:14-0500",
-      "versions": 1,
-      "bytes": 797
+      "ticks": 3481676,
+      "sent_at": "2026-11-21T12:22:09-0500",
+      "versions": 3,
+      "bytes": 1430
     },
     {
       "name": "ev-titanium.md",
@@ -993,6 +1001,14 @@
       "bytes": 3052
     },
     {
+      "name": "north-hv-feeder.md",
+      "first_ticks": 3481674,
+      "ticks": 3481674,
+      "sent_at": "2026-11-21T12:22:08-0500",
+      "versions": 1,
+      "bytes": 1276
+    },
+    {
       "name": "north-salt-recovery.md",
       "first_ticks": 2791062,
       "ticks": 2838142,
@@ -1459,10 +1475,10 @@
     {
       "name": "second-simulation.md",
       "first_ticks": 1688332,
-      "ticks": 2099928,
-      "sent_at": "2026-11-20T17:08:56-0500",
-      "versions": 10,
-      "bytes": 7582
+      "ticks": 3468091,
+      "sent_at": "2026-11-21T12:10:49-0500",
+      "versions": 11,
+      "bytes": 8132
     },
     {
       "name": "sheet-return.md",
