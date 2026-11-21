@@ -5,3 +5,5 @@ The freezer converter, second alloy smelter, alloy interface and SMD interface w
 The order in scripts/mv_hull_batch.py calls for five blocks' worth of aluminium plates. Thirty-two plates make the four cases and ten more go to the two interfaces. Twelve aluminium dust stay reserved for alloy mixing. Run the charge after the vibrant alloy for the mainframes is booked. The MV electronics assembler can share the job while the HV machine runs soldered electronics. The four-hull delivery has not yet been verified.
 
 The EBF accepted 43 aluminium dust and has started returning ingots. The hull order releases casings as each eight plates arrive. It counts each delivered hull even after another machine uses it. This lets the first consumer start while the EBF runs the rest of the charge.
+
+All 43 aluminium ingots have come out of the EBF. The shared MV assembler made the first two hulls from cases, four cables and 576 mB polyethylene. Both were counted in the parts chest. The second plate cut follows.

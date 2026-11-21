@@ -21,3 +21,5 @@ The first charge is one bucket each of ethanol and sulfuric acid. The MV reactor
 The first east charge delivered one bucket of ethylene to the polyethylene reactor. Its tank showed 944 mB just after delivery and 512 mB during polymerization. The MV electronics assembler at (7,82,1) rose from 548 to 1,196 mB polyethylene over the existing blue conduit. Moving the diluted acid also started the recovery still at (6,81,-5), observed at 842 of 1,200 ticks. Ethanol and acid still need transfers at the east reactor. The red ethanol connection is the next plumbing job.
 
 The cycle finished. The recovery still holds 2,000 mB sulfuric acid, and the electronics assembler reached 2,060 mB polyethylene. The next dehydration order draws recovered acid before fresh acid.
+
+The surveyed red ethanol conduit route now turns south from (7,84,1), runs east along z=2 to x=14 and then turns south to the reactor. This keeps (11,84,1) free for the proposed north blast furnace gold cable. Eleven segments are budgeted.
