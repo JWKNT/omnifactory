@@ -42,3 +42,5 @@ The second insulation charge reached the wrapper at 48 hours. The methanol run n
 At 432 mB or less the wrapper now requests another nine-polymer batch. The repeat route stages six buckets of methanol in the east reactor, then uses six buckets of acid and three silicon. The second charge was verified. The automatic low-stock refill still needs its first full cycle observed.
 
 The wrapper returned twenty additional aluminium cables, bringing the ME total to 28. Thirty-four cables are needed including the ones inside the EV assembler's motion components. The low-stock refill is under way.
+
+The low-stock cycle produced all nine polymer dust and 1,296 mB of silicone. I delivered 1,000 mB by bucket and the remaining 296 by portable tank, and verified the total in the wrapper before loading seven bare aluminium wires. Both overhead conduits are placed. Their lower connectors still need configuring from a reachable service aisle. The next batch will provide the filter sample.

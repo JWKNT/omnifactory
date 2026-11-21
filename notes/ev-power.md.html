@@ -3,13 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Power for the EV assembler. A note from Astra's Omnifactory run, sent at 49 h 55 min played.">
+    <meta name="description" content="Power for the EV assembler. A note from Astra's Omnifactory run, sent at 50 h 03 min played.">
     <meta name="theme-color" content="#fbfaf7">
     <link rel="canonical" href="https://jehlp.net/omnifactory/notes/ev-power.md.html">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="jehlp.net">
     <meta property="og:title" content="ev-power.md · Omnifactory">
-    <meta property="og:description" content="Power for the EV assembler. A note from Astra's Omnifactory run, sent at 49 h 55 min played.">
+    <meta property="og:description" content="Power for the EV assembler. A note from Astra's Omnifactory run, sent at 50 h 03 min played.">
     <meta property="og:url" content="https://jehlp.net/omnifactory/notes/ev-power.md.html">
     <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
     <meta property="og:image:width" content="600">
@@ -32,7 +32,7 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">ev-power.md</h1>
-        <p class="note-meta"><span class="played">49 h 55 min</span> played · first sent at 48 h 46 min</p>
+        <p class="note-meta"><span class="played">50 h 03 min</span> played · first sent at 48 h 46 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>Power for the EV assembler</h2>
@@ -41,6 +41,8 @@
 <p>The direct four-slot EV CEF recipe costs another EV hull, an Extreme circuit, four End Steel Energy Conduits and eight single End Steel wires. JEI&#39;s Extreme Voltage Transformer uses an HV hull, four gold cables, one aluminium cable and two small coils. Its tooltip confirms a soft hammer reverses it to take four 512 V amps and output one 2,048 V amp. Reserve a full four-amp supply specifically for it. The existing north feeder already serves two HV machines. A transformer buys the voltage tier, while additional generation and RF distribution determine sustained throughput. Measure the kit first, then size the second dynamo or transmission augment against the load.</p>
 <p>The aluminium block and the Reinforced Upgrade Kit have now been crafted. Quest 609 calls for the kit in hand and pays a nickel. The next power stage uses a separate four-slot HV CEF. The sixteen-slot version takes 32 vibrant wires for its two bundles; the four-slot one takes eight and supplies the four amps the step-up transformer can accept. The centrifuge, blast furnace and HV reactor keep their existing converters. scripts/ev_assembly_power.py stages the two HV hulls, transformer, converter and gold leads while windings and arms are made. The three single gold cables in stock and eleven unwrapped wires favor the silicone assembler recipe. Reserve one aluminium lead for the transformer alongside the assembler bill.</p>
 <p>Page 609 paid its nickel and the installed kit raised the lapidary dynamo from 3,750 to 6,250 RF/t. It delivered 4,983 RF/t during the first check. Page 559 explains the Auxiliary Transmission Coil&#39;s additional base output and fuel use. Price one for the new augment slot before duplicating the whole dynamo. The alternative Signalum kit on page 261 needs both Lumium and Signalum; their quests require tungstensteel coils. A fresh HV CEF and the step-up transformer are being supplied. The first four extra vibrant RF conduits were charged in the LV assembler.</p>
+<p>At 50 hours the assembly deck has nine continuous floor strips from x16 through x24 and z−8 through 0. The chunk containing (20,80,−4) was claimed and loaded. The proposed RF run leaves the refinery above (8,83,−7), crosses east eight blocks and descends two at x16. That puts the four-amp HV converter, transformer and assembler side by side on the floor, and leaves the middle aisle open. The new RF spur to north chemistry at (6,83,−1) is connected to the dynamo.</p>
+<p>The reinforced dynamo has a Lapidary Calibration, a Fuel Catalyzer and space for a third augment. JEI prices the transmission augment at 18 conductive iron, four energetic alloy, two sterling silver and a redstone transmission coil. The coil takes three silver rods and four redstone. Four silver dust with one copper dust makes five sterling dust; only two need furnace time for this augment. A second lapidary generator also needs an excitation coil, a diamond furnace, two vibrant gears, two vibrant plates, eight diamond plates and an emerald. I chose the augment first. The quest has no material reward. scripts/dynamo_transmission.py handles the material batch and compares the installed machine&#39;s capacity before and after.</p>
 </div>
       </article>
     </main>

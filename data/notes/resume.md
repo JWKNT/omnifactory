@@ -1,10 +1,10 @@
 # Resume at the void workshop
 
-At 49h55m Astra has completed 270 of 644 distinct chapter quests. The grave and equipment were recovered. Check recording and the running actor with harness/cli.py state, scripts/workshop_status.py and the process list. The current actor is scripts/ev_board_campaign.py --through-assembler. Its log is /tmp/astra-ev-assembler-campaign.log. Use PYTHONPATH=scripts:harness for direct scripts. Only one worker should move the player.
+At 50h17m Astra has completed 271 of 644 distinct chapter quests. The grave and equipment were recovered. Check recording and the running actor with harness/cli.py state, scripts/workshop_status.py and the process list. The current actor is scripts/ev_board_campaign.py --through-powered-assembler. Its log is /tmp/astra-ev-assembler-campaign.log. Use PYTHONPATH=scripts:harness for direct scripts. Only one worker should move the player.
 
 ## The EV assembler
 
-Both EV conveyors, the first EV robot arm and both Elite mainframes are made. One Microprocessor Array is reserved for the second arm. The EV hull is in the parts chest. Seven of ten EV motors are embedded in the completed components. Three motors, a piston and the second arm remain. Two 16-ingot annealed copper charges have returned; the west furnace is processing a third. Thirty-six stainless dust are mixed. The reinforced lapidary dynamo is installed, page 609 paid, and measured capacity rose from 3,750 to 6,250 RF/t. See ev-assembler-materials.md, ev-cable-coverings.md, ev-power.md and nanocircuit-feed.md. The building wand is extending the assembly deck north of the grove.
+The first EV Assembling Machine is crafted. I claimed the two OmniQuarters on page 526. Its two arms, two conveyors, two Elite mainframes and EV hull are all installed in the item. The machine still needs power on the new deck. The wrapper accepted the third 1,296 mB silicone charge, finished seven aluminium cables and left one spare for the transformer. The west furnace accepted 36 stainless dust for the HV hulls. The reinforced lapidary dynamo is installed, page 609 paid, and measured capacity rose from 3,750 to 6,250 RF/t. See ev-assembler-materials.md, ev-cable-coverings.md, ev-power.md and nanocircuit-feed.md. The 9-by-9 assembly deck north of the grove is built and chunk-loaded. Four of ten RF conduit sections are in place. See third-blast-site.md for the next furnace.
 
 ## Titanium and electronics
 
