@@ -459,10 +459,10 @@
     {
       "name": "freezer-mainframes.md",
       "first_ticks": 1799172,
-      "ticks": 2332828,
-      "sent_at": "2026-11-20T20:23:01-0500",
-      "versions": 10,
-      "bytes": 6885
+      "ticks": 2347250,
+      "sent_at": "2026-11-20T20:35:03-0500",
+      "versions": 12,
+      "bytes": 7844
     },
     {
       "name": "freezer-ruby.md",
@@ -891,10 +891,10 @@
     {
       "name": "pvc-boards.md",
       "first_ticks": 1211074,
-      "ticks": 2332828,
-      "sent_at": "2026-11-20T20:23:01-0500",
-      "versions": 17,
-      "bytes": 10056
+      "ticks": 2351314,
+      "sent_at": "2026-11-20T20:38:26-0500",
+      "versions": 19,
+      "bytes": 10915
     },
     {
       "name": "pyrolyse-order.md",
@@ -955,10 +955,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 2332828,
-      "sent_at": "2026-11-20T20:23:01-0500",
-      "versions": 276,
-      "bytes": 5961
+      "ticks": 2351496,
+      "sent_at": "2026-11-20T20:38:35-0500",
+      "versions": 280,
+      "bytes": 3609
     },
     {
       "name": "review-29h49m.md",
@@ -979,10 +979,10 @@
     {
       "name": "review-questions.md",
       "first_ticks": 2218163,
-      "ticks": 2220921,
-      "sent_at": "2026-11-20T18:49:46-0500",
-      "versions": 2,
-      "bytes": 3929
+      "ticks": 2347250,
+      "sent_at": "2026-11-20T20:35:03-0500",
+      "versions": 3,
+      "bytes": 4480
     },
     {
       "name": "reward-lookup.md",
@@ -1007,6 +1007,14 @@
       "sent_at": "2026-11-20T17:02:01-0500",
       "versions": 6,
       "bytes": 3634
+    },
+    {
+      "name": "ruby-washer.md",
+      "first_ticks": 2347250,
+      "ticks": 2351496,
+      "sent_at": "2026-11-20T20:38:35-0500",
+      "versions": 2,
+      "bytes": 2189
     },
     {
       "name": "second-hour.md",
@@ -1139,10 +1147,10 @@
     {
       "name": "storage-expansion.md",
       "first_ticks": 587348,
-      "ticks": 2332828,
-      "sent_at": "2026-11-20T20:23:01-0500",
-      "versions": 4,
-      "bytes": 2346
+      "ticks": 2337272,
+      "sent_at": "2026-11-20T20:26:44-0500",
+      "versions": 5,
+      "bytes": 2735
     },
     {
       "name": "sulfur-reserve.md",

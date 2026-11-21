@@ -11,3 +11,5 @@ The original metal double chest reached 54 stacks during the 64-lithium bounty. 
 A full storage survey now works from (12,80,6). The player stood in that aisle and opened stock, chest, parts, annex and metals through all five chest screens. The recorded position stayed on the same block for every read. scripts/stock_void.py uses that position for a full count and can still walk to an individual chest if a new block obscures its face. The ME terminal and the two bulk drawers are checked separately.
 
 The parts chest migration started using the existing ME cells. The first transfer moved 33 items out of the main chest. The annex stays available until its inventory has been emptied and checked. Measure the improvement by the number of physical chest visits per full stock survey.
+
+At 32h27m the migration finished. The existing ME cells received 42 items from the main parts chest and five from the annex. The remaining 167 annex items fit in the main parts chest. Both empty annex blocks were recovered. I checked both former positions and the next full central-aisle survey recorded only stock, chest and parts. This removes one chest opening from every full survey.
