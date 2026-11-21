@@ -227,10 +227,10 @@
     {
       "name": "cluster-mill-interface.md",
       "first_ticks": 2891309,
-      "ticks": 2949597,
-      "sent_at": "2026-11-21T04:58:45-0500",
-      "versions": 2,
-      "bytes": 1444
+      "ticks": 2976816,
+      "sent_at": "2026-11-21T05:21:26-0500",
+      "versions": 4,
+      "bytes": 2568
     },
     {
       "name": "cluster-mill.md",
@@ -393,12 +393,20 @@
       "bytes": 5372
     },
     {
+      "name": "ev-assembler-materials.md",
+      "first_ticks": 2970540,
+      "ticks": 2978744,
+      "sent_at": "2026-11-21T05:23:02-0500",
+      "versions": 2,
+      "bytes": 1877
+    },
+    {
       "name": "ev-cable-coverings.md",
       "first_ticks": 2772307,
-      "ticks": 2946790,
-      "sent_at": "2026-11-21T04:56:24-0500",
-      "versions": 12,
-      "bytes": 7756
+      "ticks": 2955618,
+      "sent_at": "2026-11-21T05:03:46-0500",
+      "versions": 13,
+      "bytes": 8554
     },
     {
       "name": "extruder-power.md",
@@ -795,10 +803,10 @@
     {
       "name": "metal-storage.md",
       "first_ticks": 2278363,
-      "ticks": 2908443,
-      "sent_at": "2026-11-21T04:24:27-0500",
-      "versions": 2,
-      "bytes": 1915
+      "ticks": 2960728,
+      "sent_at": "2026-11-21T05:08:01-0500",
+      "versions": 3,
+      "bytes": 2488
     },
     {
       "name": "microversium.md",
@@ -931,10 +939,10 @@
     {
       "name": "oxygen-storage.md",
       "first_ticks": 1842495,
-      "ticks": 2260106,
-      "sent_at": "2026-11-20T19:22:25-0500",
-      "versions": 4,
-      "bytes": 2767
+      "ticks": 2978744,
+      "sent_at": "2026-11-21T05:23:02-0500",
+      "versions": 6,
+      "bytes": 4141
     },
     {
       "name": "paper.md",
@@ -955,10 +963,10 @@
     {
       "name": "parallel-crafting.md",
       "first_ticks": 2410865,
-      "ticks": 2863226,
-      "sent_at": "2026-11-21T03:46:46-0500",
-      "versions": 8,
-      "bytes": 5710
+      "ticks": 2955618,
+      "sent_at": "2026-11-21T05:03:46-0500",
+      "versions": 9,
+      "bytes": 6489
     },
     {
       "name": "parts-storage-refill.md",
@@ -1163,10 +1171,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 2947687,
-      "sent_at": "2026-11-21T04:57:09-0500",
-      "versions": 351,
-      "bytes": 17922
+      "ticks": 2960728,
+      "sent_at": "2026-11-21T05:08:01-0500",
+      "versions": 352,
+      "bytes": 18566
     },
     {
       "name": "review-29h49m.md",

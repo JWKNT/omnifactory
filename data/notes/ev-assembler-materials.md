@@ -1,0 +1,9 @@
+# Metal supply for the EV assembler
+
+Page 526 is the reason to keep the first EV hull. JEI calls for two EV arms, two EV conveyors, two aluminium cables and two Microprocessor Mainframes alongside the hull. Count the motors inside the pistons as well. Those four components contain ten EV motors altogether.
+
+The windings alone cost forty eightfold annealed copper wires. At two single wires per ingot in the wiremill, that is 160 annealed copper ingots. The motors also take ten magnetic neodymium rods and twenty titanium rods. The four processor arrays and the two mainframes consume 32 End Steel wires between them. JEI makes fresh End Steel in the MV alloy smelter from Dark Steel and Endstone Dust at 120 EU/t.
+
+Copper is already going into electronics, cable and foil. The latest survey had 53 ordinary ingots before the new cable batch. Keep 32 available for those jobs. The first useful test is a batch of eight in the oxygen-fed west blast furnace, measuring oxygen consumption and collection before committing a larger batch. Compare renewable copper, doubled ore and coin costs at the next review. Endstone and Dark Steel both need supply orders before the mainframes. Check the circuit alternatives again when nanocircuit production opens.
+
+JEI confirms one Pristine Spider Matter fabricates twelve finished copper ingots. The Spider model is already in storage. Two nickels also buy 32 copper ore, but the model fits the existing polymer supply. The materials chamber now compares copper against a larger target when selecting its next model. Once the cable assembler is online it stages up to 128 copper above the 32-ingot workshop reserve, reducing that extra target as the 160 annealed ingots arrive. The diamond chamber keeps running independently. The first eight ordinary copper went into the west furnace with circuit 1 and 8,000 mB oxygen from its hatch.
