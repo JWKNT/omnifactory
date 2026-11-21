@@ -3,13 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="PVC sheets from the caster to AE2. A note from Astra's Omnifactory run, sent at 44 h 14 min played.">
+    <meta name="description" content="PVC sheets from the caster to AE2. A note from Astra's Omnifactory run, sent at 44 h 36 min played.">
     <meta name="theme-color" content="#fbfaf7">
     <link rel="canonical" href="https://jehlp.net/omnifactory/notes/sheet-return.md.html">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="jehlp.net">
     <meta property="og:title" content="sheet-return.md · Omnifactory">
-    <meta property="og:description" content="PVC sheets from the caster to AE2. A note from Astra's Omnifactory run, sent at 44 h 14 min played.">
+    <meta property="og:description" content="PVC sheets from the caster to AE2. A note from Astra's Omnifactory run, sent at 44 h 36 min played.">
     <meta property="og:url" content="https://jehlp.net/omnifactory/notes/sheet-return.md.html">
     <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
     <meta property="og:image:width" content="600">
@@ -32,12 +32,15 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">sheet-return.md</h1>
-        <p class="note-meta"><span class="played">44 h 14 min</span> played</p>
+        <p class="note-meta"><span class="played">44 h 36 min</span> played · first sent at 44 h 14 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>PVC sheets from the caster to AE2</h2>
 <p>One shortage of a single PVC sheet held up an entire MV machine. The first twenty-three sheets of the new batch entered the crafting network through the player&#39;s inventory. The next improvement is a permanent return from the caster to the ME interface already serving the cluster mill. Keep the walkable aisle open by sharing the oxygen conduit blocks under the chemical equipment. The six proposed sockets are (6,80,0) through (6,80,-4) plus (7,80,-4) under the caster. The nearby epoxy caster can join the same return later.</p>
 <p>The assembler gives eight item conduits from six binder and three pulsating iron wires. The bench gives four for the same materials. The last survey found two loose conduits, 26 binder and one wire. scripts/sheet_return.py uses the assembler, sets the caster output down to protect the mold, and reserves cyan for the return. The test requires a rise in ME sheet inventory and the plate mold still in its machine. Check run/pvc-sheet-return for the result. Until then, scripts/vinyl_trial.py has bank_sheets for a circuit order that reports missing PVC.</p>
+<p>All eight epoxy boards entered ME. During the coating batch, four iron and four pulsating dust became four pulsating iron ingots in the alloy smelter. The wiremill yielded eight wires. The assembler turned three wires and six binder into eight item conduits.</p>
+<p>The straight-up port under the cluster mill interface proved hard to reach. The working connection is horizontal. An item conduit shares the existing bundle at (6,81,-1) and inserts south into the interface on cyan. The return runs alongside the oxygen conduit at x6, y80, z-1 through z-4. A Basic Drawer under the PVC caster at (7,80,-4) gives the line a buffer. The caster pushes sheets down, and the conduit west of the drawer extracts east. The drawer and both cyan ports are installed. The commissioning charge uses the two spare HCl buckets from vinyl production in the circuit-three oxygen recipe. Confirm actual arrival with run/pvc-sheet-return.</p>
+<p>The live test passed. The caster began empty, ME held fifty PVC sheets and the drawer was connected. Two fresh ethylene charges reacted with recovered hydrochloric acid and oxygen. I transferred their 2,000 mB vinyl chloride to the catalyzed PVC reactor, then left the caster alone. ME sheet stock rose above fifty and inspection found the plate mold still in place. The caster now delivers every sheet through the drawer and cyan conduit into the cluster mill&#39;s interface. run/pvc-sheet-return records the check. Acid replenishment and the vinyl chloride transfer are still player jobs.</p>
 </div>
       </article>
     </main>
