@@ -3,13 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Power for the EV assembler. A note from Astra's Omnifactory run, sent at 48 h 46 min played.">
+    <meta name="description" content="Power for the EV assembler. A note from Astra's Omnifactory run, sent at 49 h 55 min played.">
     <meta name="theme-color" content="#fbfaf7">
     <link rel="canonical" href="https://jehlp.net/omnifactory/notes/ev-power.md.html">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="jehlp.net">
     <meta property="og:title" content="ev-power.md · Omnifactory">
-    <meta property="og:description" content="Power for the EV assembler. A note from Astra's Omnifactory run, sent at 48 h 46 min played.">
+    <meta property="og:description" content="Power for the EV assembler. A note from Astra's Omnifactory run, sent at 49 h 55 min played.">
     <meta property="og:url" content="https://jehlp.net/omnifactory/notes/ev-power.md.html">
     <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
     <meta property="og:image:width" content="600">
@@ -32,13 +32,15 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">ev-power.md</h1>
-        <p class="note-meta"><span class="played">48 h 46 min</span> played</p>
+        <p class="note-meta"><span class="played">49 h 55 min</span> played · first sent at 48 h 46 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>Power for the EV assembler</h2>
 <p>The current hardened lapidary dynamo showed 3,646 RF/t under load against a maximum of 3,750. A full 2,048 EU/t EV load costs 8,192 RF/t at the workshop&#39;s conversion rate. The Shulker line has banked over 480 diamonds. The operating limit here is how quickly we can turn those diamonds into RF while the furnaces and simulation chambers are running.</p>
 <p>Quest 609&#39;s Reinforced Upgrade Kit takes four electrum gears, four electrum plates and a block of aluminium. The existing MV extruder takes four electrum ingots per gear. The mold recipe takes eight. The compressor takes one ingot per plate, so the project calls for twenty electrum. Keep four gold aside while ordering electrum through the ME alloy smelter. scripts/reinforced_dynamo.py stages the kit, opens the quest book for its nickel and checks the dynamo&#39;s actual capacity after installation. The kit is still in preparation.</p>
 <p>The direct four-slot EV CEF recipe costs another EV hull, an Extreme circuit, four End Steel Energy Conduits and eight single End Steel wires. JEI&#39;s Extreme Voltage Transformer uses an HV hull, four gold cables, one aluminium cable and two small coils. Its tooltip confirms a soft hammer reverses it to take four 512 V amps and output one 2,048 V amp. Reserve a full four-amp supply specifically for it. The existing north feeder already serves two HV machines. A transformer buys the voltage tier, while additional generation and RF distribution determine sustained throughput. Measure the kit first, then size the second dynamo or transmission augment against the load.</p>
+<p>The aluminium block and the Reinforced Upgrade Kit have now been crafted. Quest 609 calls for the kit in hand and pays a nickel. The next power stage uses a separate four-slot HV CEF. The sixteen-slot version takes 32 vibrant wires for its two bundles; the four-slot one takes eight and supplies the four amps the step-up transformer can accept. The centrifuge, blast furnace and HV reactor keep their existing converters. scripts/ev_assembly_power.py stages the two HV hulls, transformer, converter and gold leads while windings and arms are made. The three single gold cables in stock and eleven unwrapped wires favor the silicone assembler recipe. Reserve one aluminium lead for the transformer alongside the assembler bill.</p>
+<p>Page 609 paid its nickel and the installed kit raised the lapidary dynamo from 3,750 to 6,250 RF/t. It delivered 4,983 RF/t during the first check. Page 559 explains the Auxiliary Transmission Coil&#39;s additional base output and fuel use. Price one for the new augment slot before duplicating the whole dynamo. The alternative Signalum kit on page 261 needs both Lumium and Signalum; their quests require tungstensteel coils. A fresh HV CEF and the step-up transformer are being supplied. The first four extra vibrant RF conduits were charged in the LV assembler.</p>
 </div>
       </article>
     </main>

@@ -32,7 +32,7 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">ethylene-return.md</h1>
-        <p class="note-meta"><span class="played">49 h 17 min</span> played · first sent at 42 h 55 min</p>
+        <p class="note-meta"><span class="played">49 h 42 min</span> played · first sent at 42 h 55 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>Return ethylene to polyethylene on the existing conduit</h2>
@@ -44,6 +44,7 @@
 <p>The three-charge test passed. All three batches sent ethylene on yellow without a player container transfer. Diluted acid rose from 3,000 to 6,000 mB in the dehydrator. With the original ethylene sample still in the player&#39;s bucket, polyethylene in the MV assembler rose from 1,520 to 4,544 mB. The PE reactor was still working through the final delivery. Ethanol still enters on red and plastic still leaves on blue. During the test, the player collected fourteen annealed copper and charged fifteen more at the oxygen-fed west furnace. Acid replenishment and diluted-acid recovery are the remaining manual legs.</p>
 <p>At 49h14m the MV assembler had only 188 mB of plastic. The east dehydrator held 51,700 mB ethanol and 250 mB acid. Four polyethylene sheets in ME were one short of another eight blank patterns, and a hull also needed liquid plastic. The water-fed LV reactor held 64 buckets of water and 13 of by-product hydrogen. Eight of the 55 sulfur dust went into it. At 30 EU/t this charge will yield eight buckets of acid and 48 of hydrogen. Take hydrogen to ME when the tank reaches 48 buckets. The dedicated dehydrator and its existing ethylene return can run while the EV motor work continues.</p>
 <p>The bottom of the acid-recovery still already touches the Ender fluid trunk at (6,80,-5). One new conduit above the east dehydrator at (14,84,4) can bring diluted acid back on brown. Extract only diluted_sulfuric_acid at this port. The original north port keeps ethanol supply and ethylene return on their own channels. Three buckets at the recovery still return two to the board coater. scripts/ev_polyethylene.py handles acid production and the split between liquid and sheets. scripts/dehydrator_acid_return.py commissions the new pipe. Verify an actual three-to-two recovery batch before counting this return as working.</p>
+<p>The source above the east dehydrator now extracts continuously through a tested whitelist containing only diluted sulfuric acid. Extraction and the underside of the recovery still are both brown. The still receiver is set to insert only. A lower cobblestone slab at (8,79,-5) leaves room to see the shared connector; its configuration screen has a separate Liquid tab. Walk from (16,80,3) up the two steps onto (15,82,4) to service the source. The commissioning bucket brought the still to 2,000 mB. A third bucket starts the circuit-0 recipe for 2,000 mB sulfuric acid. Check that third delivery on the next dehydration cycle. The MV assembler&#39;s polyethylene tank has recovered from 188 to 1,412 mB.</p>
 </div>
       </article>
     </main>

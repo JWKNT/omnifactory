@@ -451,10 +451,10 @@
     {
       "name": "ethylene-return.md",
       "first_ticks": 3091010,
-      "ticks": 3549578,
-      "sent_at": "2026-11-21T13:18:44-0500",
-      "versions": 4,
-      "bytes": 4227
+      "ticks": 3579022,
+      "sent_at": "2026-11-21T13:43:16-0500",
+      "versions": 5,
+      "bytes": 4929
     },
     {
       "name": "ev-assembler-materials.md",
@@ -499,10 +499,10 @@
     {
       "name": "ev-power.md",
       "first_ticks": 3511841,
-      "ticks": 3511841,
-      "sent_at": "2026-11-21T12:47:17-0500",
-      "versions": 1,
-      "bytes": 1587
+      "ticks": 3595097,
+      "sent_at": "2026-11-21T13:56:40-0500",
+      "versions": 3,
+      "bytes": 2879
     },
     {
       "name": "ev-titanium.md",
@@ -1017,6 +1017,14 @@
       "bytes": 3020
     },
     {
+      "name": "north-chemistry-power.md",
+      "first_ticks": 3595097,
+      "ticks": 3595097,
+      "sent_at": "2026-11-21T13:56:40-0500",
+      "versions": 1,
+      "bytes": 1362
+    },
+    {
       "name": "north-hot-transfer.md",
       "first_ticks": 2636501,
       "ticks": 2774935,
@@ -1363,10 +1371,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 3577950,
-      "sent_at": "2026-11-21T13:42:22-0500",
-      "versions": 404,
-      "bytes": 6754
+      "ticks": 3595097,
+      "sent_at": "2026-11-21T13:56:40-0500",
+      "versions": 406,
+      "bytes": 2651
     },
     {
       "name": "review-29h49m.md",
@@ -1691,10 +1699,10 @@
     {
       "name": "titanium-network.md",
       "first_ticks": 3494168,
-      "ticks": 3535422,
-      "sent_at": "2026-11-21T13:06:56-0500",
-      "versions": 2,
-      "bytes": 2322
+      "ticks": 3588639,
+      "sent_at": "2026-11-21T13:51:17-0500",
+      "versions": 3,
+      "bytes": 3165
     },
     {
       "name": "titanium.md",
