@@ -1,0 +1,9 @@
+# Getting the hardened dynamo's full output to the factory
+
+At 34h53m the dynamo had 64 diamonds in its input and 1.56 million RF left in the burning diamond. The generator showed 2,048 RF/t against its 3,750 RF/t maximum. The basic capacitor bank was empty. The Enderman chamber's battery had dropped from 2 million to 610,000 RF. Once it ran out of polymer it recharged. The shortfall appeared with several machines working together.
+
+The installed Ender IO configuration caps Conductive Iron, Energetic Alloy and Vibrant Alloy conduits at 512, 2,048 and 8,192 RF/t per connection. Different tiers cannot join. Following the connected power segments from the dynamo counted sixteen Energetic Alloy conduits. Changing only the segment on the dynamo would isolate it from the rest. The five-hundred-and-twelve RF west furnace branch connects through the capacitor bank and has its own supply limit.
+
+Quest 42 recommends the assembler. Six binder, two single vibrant wires and one energetic conduit produce four vibrant conduits there, versus three on the bench. Four cycles cover the whole existing trunk. Use the three stored energetic conduits, recover another from the end of the buffered Shulker spur, and reserve the recovered energetic conduits for independent branches. scripts/vibrant_power.py checks the tier at every swap. The eight wires spent here reopen the freezer wire order. The east and west CEFs can retain energy in their batteries during the change. Read run/vibrant-power-online and the dynamo's delivered RF/t before counting the improvement as commissioned.
+
+The freezer supply can branch from (8,82,4) using the same tier as the upgraded trunk. The physically shorter route across the blast furnace roof starts at a 512 RF/t conduit at (3,83,7) and shares that feeder with the operating blast furnace. Keep the separate route for sustained simultaneous steel blasting and cooling.
