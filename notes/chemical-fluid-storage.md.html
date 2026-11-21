@@ -32,12 +32,14 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">chemical-fluid-storage.md</h1>
-        <p class="note-meta"><span class="played">32 h 52 min</span> played</p>
+        <p class="note-meta"><span class="played">34 h 40 min</span> played · first sent at 32 h 52 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>Chemical fluid storage at the void workshop</h2>
 <p>The water-fed LV chemical reactor at (6,81,4) accumulated 59 buckets of hydrogen while supplying sulfuric acid. Its tank holds 64. Carrying away one bucket at a time would make every future acid batch depend on a visit.</p>
 <p>The planned ME Fluid Terminal uses a regular terminal, lapis plate and Logic Processor. A 1k Fluid Storage Component needs another Logic Processor, four certus quartz and four lapis. The empty housing uses four electrical steel plates and four fine red alloy wires. The drive at (10,80,9) has room. Check the chemistry-fluid-terminal ticket and the actual drive before ordering parts. The commissioning test in scripts/fluid_terminal.py is to deposit sixteen buckets of hydrogen and verify the change on the terminal. This establishes storage. A fluid import bus on the reactor would remove the next repeated trip once configured and tested.</p>
+<p>The fluid disk and terminal now take priority when 59 buckets of hydrogen block the next acid cycle. Four stocked GregTech Certus Quartz ran through the water-fed autoclave for four AE2 Certus Quartz Crystals. Two of the 31 lapis ore can yield twelve lapis in the spare electric furnace. Together these cover the lapis plate and fluid storage component. The housing needs four electrical steel plates and four fine red alloy wires. The compressor already has the plate pattern. Test an actual hydrogen deposit before relying on the disk.</p>
+<p>For larger acid demand compare the alternate chemistry. Sulfur and four buckets of water take 1,150 ticks at 30 EU/t per bucket of acid and co-produce six buckets of hydrogen. One sulfur and two buckets of that hydrogen can instead make hydrogen sulfide in 60 ticks at 8 EU/t. A second reactor with the right circuit then combines that sulfide with four buckets of oxygen in 320 ticks at 30 EU/t. This consumes both gases the workshop has already accumulated. The other two-reactor route makes sulfur trioxide from one sulfur and three oxygen in 280 ticks, then hydrates it with one bucket of water in 320 ticks. Desulfurizing refinery products will also supply the sulfide. Revisit the dedicated pair when chemistry can keep it fed.</p>
 </div>
       </article>
     </main>

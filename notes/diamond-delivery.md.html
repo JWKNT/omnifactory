@@ -3,13 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Diamonds from the dedicated Shulker bay. A note from Astra's Omnifactory run, sent at 29 h 20 min played.">
+    <meta name="description" content="Diamonds from the dedicated Shulker bay. A note from Astra's Omnifactory run, sent at 34 h 43 min played.">
     <meta name="theme-color" content="#fbfaf7">
     <link rel="canonical" href="https://jehlp.net/omnifactory/notes/diamond-delivery.md.html">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="jehlp.net">
     <meta property="og:title" content="diamond-delivery.md · Omnifactory">
-    <meta property="og:description" content="Diamonds from the dedicated Shulker bay. A note from Astra's Omnifactory run, sent at 29 h 20 min played.">
+    <meta property="og:description" content="Diamonds from the dedicated Shulker bay. A note from Astra's Omnifactory run, sent at 34 h 43 min played.">
     <meta property="og:url" content="https://jehlp.net/omnifactory/notes/diamond-delivery.md.html">
     <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
     <meta property="og:image:width" content="600">
@@ -32,7 +32,7 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">diamond-delivery.md</h1>
-        <p class="note-meta"><span class="played">29 h 20 min</span> played</p>
+        <p class="note-meta"><span class="played">34 h 43 min</span> played · first sent at 29 h 20 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>Diamonds from the dedicated Shulker bay</h2>
@@ -40,6 +40,8 @@
 <p>Four energetic RF conduits connect the two new machines to the existing supply. The Shulker chamber stands at (11,83,7), the Loot Fabricator at (12,82,8). Red conduits carry pristine matter into the fabricator through its top and take ordinary matter toward its drawer. I found 30 diamonds sitting in the fabricator before inspecting its sided slots. The top exposes the single input slot. The sides and bottom expose the diamond output. A seventh item conduit shares the RF bundle at (11,82,8) and extracts east from the fabricator&#39;s west face. Round-robin extraction on purple stays enabled. Its two receivers are the dynamo&#39;s east face and the wiremill interface&#39;s south face. Leave the south port at (11,82,8) disabled.</p>
 <p>For access, the walkable approach to the chamber is (12,80,6), and (13,80,8) reaches the fabricator. The west outlet can be set from (12,80,8). There is a storage chest at (12,80,7). The commissioning readings are saved in run/diamond-deliveries and displayed by scripts/workshop_status.py.</p>
 <p>The tender still supplies clay to the chambers. The next physical feed is the ME level emitter and brown conduit channel in shulker-polymer-feed.md.</p>
+<p>At 34h38m ME had over 460 diamonds, but a dynamo queue of eight reopened the Shulker polymer gate. Its old round-robin payout could fill ME even while the dynamo burned through its own share. I changed the existing conduits. The fabricator now pays diamonds into ME on purple. The compressor interface at (5,83,8) stocks one diamond. Its east neighbor at (6,83,8) still inserts ordinary fabricator products on blue, and now extracts stocked diamonds on yellow. Only the dynamo receives yellow. The interface&#39;s crafting arrow points down toward the compressor.</p>
+<p>After enabling yellow extraction, the dynamo&#39;s queue rose from 21 to 64 diamonds. The network and the fuel slot now share the stockpile without a player transfer. The Shulker tender closes its polymer gate at 256 stored diamonds and reopens at 128. The level emitter still protects the 33-polymer reserve. scripts/diamond_bank_feed.py contains the commissioning steps. After the change, an AE2 processing order delivered all four Electrical Steel Plates for the fluid cell housing. The measured output is in run/fluid-housing-plates-delivered.</p>
 </div>
       </article>
     </main>

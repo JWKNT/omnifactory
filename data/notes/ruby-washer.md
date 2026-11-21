@@ -15,3 +15,5 @@ The washer itself is crafted. The ME terminal's JEI transfer refused a recipe wi
 The entire first wash reached the ME network at 33h50m: 36 purified ruby and 108 tiny chrome, equivalent to twelve full chrome dust. The washer has no ore left. The purified ore still needs the second grind, centrifuge and electrolysis for the remaining six chrome and twelve aluminium. This verifies the wash yield on the full production batch.
 
 The crafting terminal converted all 108 tiny piles into twelve full Chrome Dust. The purified-ore ticket now reserves its short grinding and separation visits ahead of unrelated construction work when the machines are free.
+
+The remaining thirty-six purified ore finished grinding, centrifuging and electrolysis. The complete eighteen-ore lot yielded eighteen full chrome and twelve aluminium. ME now holds 42 chrome and 48 aluminium dust. Four chrome are budgeted for the 36 stainless steel dust order, leaving 38 for Kanthal. With the first nine hot Kanthal already banked, find two further chrome for the last two alloy mixes. Two raw ruby remain in the ore chest. Count small and tiny piles when choosing the finishing batch.
