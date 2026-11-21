@@ -937,6 +937,14 @@
       "bytes": 2823
     },
     {
+      "name": "oil-rig.md",
+      "first_ticks": 3099411,
+      "ticks": 3099411,
+      "sent_at": "2026-11-21T07:03:35-0500",
+      "versions": 1,
+      "bytes": 1308
+    },
+    {
       "name": "ore-hammer.md",
       "first_ticks": 1045023,
       "ticks": 1188138,
@@ -1003,10 +1011,10 @@
     {
       "name": "petrochem.md",
       "first_ticks": 1033680,
-      "ticks": 3085101,
-      "sent_at": "2026-11-21T06:51:40-0500",
-      "versions": 17,
-      "bytes": 8568
+      "ticks": 3107331,
+      "sent_at": "2026-11-21T07:10:11-0500",
+      "versions": 18,
+      "bytes": 9400
     },
     {
       "name": "phosphorus-chlorine.md",
@@ -1163,10 +1171,10 @@
     {
       "name": "refinery-desulfurization.md",
       "first_ticks": 3096570,
-      "ticks": 3096570,
-      "sent_at": "2026-11-21T07:01:13-0500",
-      "versions": 1,
-      "bytes": 1268
+      "ticks": 3117121,
+      "sent_at": "2026-11-21T07:18:21-0500",
+      "versions": 2,
+      "bytes": 2323
     },
     {
       "name": "refinery-feed.md",
@@ -1187,10 +1195,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 3085101,
-      "sent_at": "2026-11-21T06:51:40-0500",
-      "versions": 364,
-      "bytes": 2533
+      "ticks": 3117121,
+      "sent_at": "2026-11-21T07:18:21-0500",
+      "versions": 366,
+      "bytes": 2929
     },
     {
       "name": "review-29h49m.md",

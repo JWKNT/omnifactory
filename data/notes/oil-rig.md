@@ -1,0 +1,7 @@
+# Supplying a full-speed tower
+
+The tower consumes three buckets per minute, or 180 per hour at this voltage. One MV centrifuge on renewable soul sand makes 36 buckets an hour. Five machines would keep this tower busy continuously. The centrifuge recipe takes 160,000 EU per bucket before making the soul sand.
+
+The Oil Drilling Rig recipe in this instance takes 1,000 mB drilling fluid and 100 ticks at 875 EU/t per bucket of ordinary oil. The pipe has a one percent consumption chance. At that rate one rig running a quarter of the time matches the tower. The mixer makes five buckets of drilling fluid from one stone dust, 4,980 mB water and 20 mB lubricant. Existing creosote can supply the lubricant through a distillery. The rig needs a power feeder capable of the full 875 EU/t during each active charge.
+
+Quest 549 pays one OmniDollar. Its components include 29 steel frames, twelve boiler casings, nine turbine casings, twelve pipes, eight solid steel casings, the controller and four ports. JEI also lists converting a Modular Machine Controller, but this instance shows no recipe for that old controller. Compare the steel-and-screen recipe when pricing the build. Banked oilsands cover commissioning. Use measured oil demand and available power to decide when the permanent rig should take over.
