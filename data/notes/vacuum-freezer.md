@@ -33,3 +33,5 @@ At 36h07m all five ports were installed and verified in the game. The eight tin 
 At 36h36m the east-facing controller at (−3,81,8) reported a formed multiblock. All twenty Frost Proof Machine Casings and the five ports are in place. Quest 150 paid a quarter when claimed on screen. The next dependency is the MV hatch's independent power feed. The recovered hot ingots are still in their original chest. See hot-ingot-transfer.md for the two cooling trials.
 
 Four conduit upgrades made sixteen Vibrant Alloy Energy Conduits. Fourteen installed segments now connect the diamond dynamo network to the converter bay. Two new seven-block rows of cobblestone under the west end provide footing to reach the narrow conduit faces. The 4x Copper Cable for the hatch is in ME. Verify EU at the hatch after placing the converter.
+
+At 37h03m the south-facing MV converter and fourfold copper cable charged the roof hatch to 2,016 EU. The moved chest fed its nine hot Kanthal to the freezer. During the run I counted three cold at the west bus, five hot at the east bus and one cooling.

@@ -1,16 +1,16 @@
 # Resume at the void workshop
 
-Run `python3 scripts/workshop_status.py` to see the live campaign, recorder and machines. One wafer_campaign.py process controls the player. If it has stopped, inspect the first error and affected block before resuming with `python3 scripts/wafer_campaign.py`. The recovered hot Kanthal is safe in the chest at (4,81,2); see kanthal-coils.md before moving it. The last counted standing was 235 of 644 chapter quests.
+Run `python3 scripts/workshop_status.py` to see the live campaign, recorder and machines. One wafer_campaign.py process controls the player. If it has stopped, inspect the first error and affected block before resuming with `python3 scripts/wafer_campaign.py`. The recovered Kanthal chest moved intact from (4,81,2) to the east freezer input. See hot-ingot-transfer.md for the filter and trials. The last counted standing was 237 of 644 chapter quests.
 
-## Current work at 36h51m
+## Current work at 37h18m
 
-The formed Vacuum Freezer now has a verified fourteen-segment Vibrant Alloy conduit branch. The fourfold copper cable is ready. The MV converter still needs a good-tier circuit. The first two of four MV hulls are in the parts chest, and the blast furnace returned all 43 aluminium ingots. Keep the nine recovered hot Kanthal in their chest until the hatch has power and the transfer is ready.
+The Vacuum Freezer is powered. Its fourfold copper cable connects the south-facing MV converter to the roof hatch. The Chest Transporter moved all nine recovered hot Kanthal to the east input. All nine reached the west output as cold ingots. Quest 156 paid its nickel. The single item conduit now connects the filtered blast output to the chest and three fresh blasts reached the freezer and delivered three cold Kanthal automatically. The first bulk blast funded the stack on quest page 602, which paid a quarter. The plain wiremill took 32 cold ingots. All 24 final dust were mixed from the washer chrome.
 
-The capacitor order exhausted the PVC stock. Read pvc-stock.md for its refill. The old smelter also made eight cupronickel for the independent alloy bay, the wiremill accepted all eight, and the macerator started eighteen ruby ore for chrome. The next proof at the freezer is a cold ingot in the output bus.
+The first PVC stock refill delivered ten sheets, and the MV assembler made sixteen capacitors. Its first refined processor went into the converter. The cupronickel coils for the separate MV alloy smelter are ready. Thirty-two item conduits are funded for the two blast outputs, and the builders' wand added 77 blocks of floor under the north route. The MV washer took 36 crushed ruby ore. Its new four-conduit outlet sent 21 purified ruby and 69 tiny chrome to ME through the HV electronics interface, then the machine continued washing. See washer-water.md. See north-hot-transfer.md, pvc-stock.md and kanthal-coils.md.
 
 The fourth 1k item cell is installed. The ore chest and the parts overflow are both gone. ME took all 711 items from the ore chest. The camp supply trip found none of the nickel, cupronickel, chrome, ruby, silver or Invar sought. Use the void terminal for the remaining ore reserves. See parts-storage-refill.md. The new 27-block floor extension leaves room for the second EBF and an east access aisle. See parallel-blast.md.
 
-The terminal made 96 Kanthal dust. Keep the nine recovered hot ingots in their chest until the powered freezer and filtered transfer pass the test in hot-ingot-transfer.md. The next alloy mixes need eight more chrome, iron and aluminium each. The MV alloy bay has its fluix and power branches in place. See mv-alloy-bay.md for sockets and commissioning. The next factory strategy review is due at about 37h51m. Consult review-35h50m.md for comparable measures.
+The terminal made 96 Kanthal dust. The first new blast charge is a three-ingot transfer test. The next alloy mixes need eight more chrome, iron and aluminium each. The MV alloy bay has its fluix and power branches in place. See mv-alloy-bay.md for sockets and commissioning. The next factory strategy review is due at about 37h51m. Consult review-35h50m.md for comparable measures.
 
 ## Other factory lines
 
