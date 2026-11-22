@@ -32,7 +32,7 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">second-lapidary.md</h1>
-        <p class="note-meta"><span class="played">63 h 42 min</span> played · first sent at 61 h 44 min</p>
+        <p class="note-meta"><span class="played">68 h 56 min</span> played · first sent at 61 h 44 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>A second diamond generator for simultaneous work</h2>
@@ -42,6 +42,7 @@
 <p>The excitation coil is made. The HV smelter now offers all three bimetal gear patterns. The MV lathe has the silver and gold rod patterns. An iron gear is gregtech:meta_item_2@26033. The extruder produced six while the old demand check was looking for the same metadata on meta_item_1. Four were stored and two were in its output when the check was corrected. Use those six before extruding more.</p>
 <p>The second dynamo and calibration augment are now installed at (12,83,7), facing down. It reports a 2,500 RF/t maximum before reinforcement. The conduit north outlet is set to insert diamonds on yellow. At the first inspection the west machine still had 57 diamonds queued and the east one had none. scripts/lapidary_fuel_split.py sets the source on the stocking interface to round-robin. If needed it releases twelve spare diamonds from the west queue into ME for this test. Verify a diamond in the new machine and actual RF/t before counting that capacity.</p>
 <p>The yellow source now alternates between generators. I returned twelve diamonds from the west queue to ME. The east fuel slot reached four diamonds through the yellow conduit, with 217,862 RF of fuel remaining and 1,499 RF/t measured under load. The first generator therefore kept its working stock while the second came online. The east maximum is 2,500 RF/t at basic tier.</p>
+<p>At 68h56m the west queue was empty while the east held a full stack. The east machine alone supplied 2,500 RF/t, and both the freezer and the east blast furnace were stuck on their first tick. I retrieved twenty diamonds through the east dynamo inventory and loaded them in the west. The west returned to 7,500 RF/t. Four Invar gears, four Invar plates and a block of Electrical Steel made the first Thermal upgrade kit for the east machine. I applied it there and measured 3,750 RF/t. The restart tender now checks individual queues and transfers twenty when the west has fewer than ten and the east has at least 42. The higher-tier kit and transmission augment remain to be made.</p>
 </div>
       </article>
     </main>

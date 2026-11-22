@@ -1011,10 +1011,10 @@
     {
       "name": "lumium-and-mana.md",
       "first_ticks": 4639804,
-      "ticks": 4802010,
-      "sent_at": "2026-11-22T06:42:25-0500",
-      "versions": 3,
-      "bytes": 2599
+      "ticks": 4963861,
+      "sent_at": "2026-11-22T09:04:32-0500",
+      "versions": 4,
+      "bytes": 3272
     },
     {
       "name": "lv-batteries.md",
@@ -1643,10 +1643,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 4950495,
-      "sent_at": "2026-11-22T08:53:24-0500",
-      "versions": 534,
-      "bytes": 7524
+      "ticks": 4984614,
+      "sent_at": "2026-11-22T09:21:50-0500",
+      "versions": 536,
+      "bytes": 8019
     },
     {
       "name": "review-29h49m.md",
@@ -1809,6 +1809,14 @@
       "bytes": 4383
     },
     {
+      "name": "review-69h04m.md",
+      "first_ticks": 4974088,
+      "ticks": 4974088,
+      "sent_at": "2026-11-22T09:13:04-0500",
+      "versions": 1,
+      "bytes": 4178
+    },
+    {
       "name": "review-questions.md",
       "first_ticks": 2218163,
       "ticks": 2410865,
@@ -1875,10 +1883,10 @@
     {
       "name": "second-lapidary.md",
       "first_ticks": 4444905,
-      "ticks": 4587005,
-      "sent_at": "2026-11-22T03:43:15-0500",
-      "versions": 5,
-      "bytes": 2810
+      "ticks": 4963861,
+      "sent_at": "2026-11-22T09:04:32-0500",
+      "versions": 6,
+      "bytes": 3493
     },
     {
       "name": "second-miner-cargo.md",
@@ -2171,10 +2179,10 @@
     {
       "name": "tungstensteel-coil-bill.md",
       "first_ticks": 4426117,
-      "ticks": 4952928,
-      "sent_at": "2026-11-22T08:55:26-0500",
-      "versions": 10,
-      "bytes": 8100
+      "ticks": 4975912,
+      "sent_at": "2026-11-22T09:14:35-0500",
+      "versions": 11,
+      "bytes": 8506
     },
     {
       "name": "vacuum-freezer.md",
@@ -2203,10 +2211,10 @@
     {
       "name": "vinyl-reactor-oxygen.md",
       "first_ticks": 4947829,
-      "ticks": 4950495,
-      "sent_at": "2026-11-22T08:53:24-0500",
-      "versions": 2,
-      "bytes": 1702
+      "ticks": 4972887,
+      "sent_at": "2026-11-22T09:12:04-0500",
+      "versions": 3,
+      "bytes": 2243
     },
     {
       "name": "vinyl-stock-line.md",
@@ -2255,6 +2263,14 @@
       "sent_at": "2026-11-19T13:51:28-0500",
       "versions": 1,
       "bytes": 1260
+    },
+    {
+      "name": "wafer-and-clathrate-inlets.md",
+      "first_ticks": 4984614,
+      "ticks": 4984614,
+      "sent_at": "2026-11-22T09:21:50-0500",
+      "versions": 1,
+      "bytes": 1172
     },
     {
       "name": "washer-water.md",
