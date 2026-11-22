@@ -107,10 +107,10 @@
     {
       "name": "barium-for-superconductors.md",
       "first_ticks": 4900510,
-      "ticks": 4911938,
-      "sent_at": "2026-11-22T08:21:16-0500",
-      "versions": 2,
-      "bytes": 1209
+      "ticks": 4927893,
+      "sent_at": "2026-11-22T08:34:34-0500",
+      "versions": 3,
+      "bytes": 1492
     },
     {
       "name": "bauxite-line.md",
@@ -947,10 +947,10 @@
     {
       "name": "iron-and-stainless-for-iv.md",
       "first_ticks": 4708524,
-      "ticks": 4858579,
-      "sent_at": "2026-11-22T07:29:35-0500",
-      "versions": 2,
-      "bytes": 2643
+      "ticks": 4927893,
+      "sent_at": "2026-11-22T08:34:34-0500",
+      "versions": 4,
+      "bytes": 4210
     },
     {
       "name": "iv-assembler-windings.md",
@@ -1643,10 +1643,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 4911938,
-      "sent_at": "2026-11-22T08:21:16-0500",
-      "versions": 529,
-      "bytes": 7118
+      "ticks": 4935675,
+      "sent_at": "2026-11-22T08:41:03-0500",
+      "versions": 533,
+      "bytes": 7605
     },
     {
       "name": "review-29h49m.md",
@@ -2171,10 +2171,10 @@
     {
       "name": "tungstensteel-coil-bill.md",
       "first_ticks": 4426117,
-      "ticks": 4871068,
-      "sent_at": "2026-11-22T07:39:59-0500",
-      "versions": 6,
-      "bytes": 5056
+      "ticks": 4935675,
+      "sent_at": "2026-11-22T08:41:03-0500",
+      "versions": 8,
+      "bytes": 7007
     },
     {
       "name": "vacuum-freezer.md",
