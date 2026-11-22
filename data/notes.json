@@ -585,6 +585,14 @@
       "bytes": 6316
     },
     {
+      "name": "ev-solder-reserve.md",
+      "first_ticks": 5211901,
+      "ticks": 5211901,
+      "sent_at": "2026-11-22T12:31:14-0500",
+      "versions": 1,
+      "bytes": 836
+    },
+    {
       "name": "ev-titanium.md",
       "first_ticks": 3375405,
       "ticks": 3375405,
@@ -979,10 +987,10 @@
     {
       "name": "iv-assembler-windings.md",
       "first_ticks": 4401872,
-      "ticks": 5199826,
-      "sent_at": "2026-11-22T12:21:11-0500",
-      "versions": 12,
-      "bytes": 8776
+      "ticks": 5213952,
+      "sent_at": "2026-11-22T12:32:57-0500",
+      "versions": 13,
+      "bytes": 9030
     },
     {
       "name": "iv-metal-bill.md",
@@ -995,10 +1003,10 @@
     {
       "name": "iv-quantumprocessor-power.md",
       "first_ticks": 5146298,
-      "ticks": 5146298,
-      "sent_at": "2026-11-22T11:36:34-0500",
-      "versions": 1,
-      "bytes": 1346
+      "ticks": 5224529,
+      "sent_at": "2026-11-22T12:41:46-0500",
+      "versions": 3,
+      "bytes": 3256
     },
     {
       "name": "kanthal-coils.md",
@@ -1219,10 +1227,10 @@
     {
       "name": "nanocircuit-feed.md",
       "first_ticks": 3526594,
-      "ticks": 5125354,
-      "sent_at": "2026-11-22T11:19:07-0500",
-      "versions": 19,
-      "bytes": 12502
+      "ticks": 5222816,
+      "sent_at": "2026-11-22T12:40:20-0500",
+      "versions": 20,
+      "bytes": 13082
     },
     {
       "name": "nether-landing.md",
@@ -1683,10 +1691,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 5187583,
-      "sent_at": "2026-11-22T12:10:59-0500",
-      "versions": 554,
-      "bytes": 15658
+      "ticks": 5213952,
+      "sent_at": "2026-11-22T12:32:57-0500",
+      "versions": 555,
+      "bytes": 15859
     },
     {
       "name": "review-29h49m.md",
@@ -2219,10 +2227,10 @@
     {
       "name": "tungsten-carbide.md",
       "first_ticks": 5192535,
-      "ticks": 5195562,
-      "sent_at": "2026-11-22T12:17:37-0500",
-      "versions": 2,
-      "bytes": 1566
+      "ticks": 5206225,
+      "sent_at": "2026-11-22T12:26:31-0500",
+      "versions": 3,
+      "bytes": 1868
     },
     {
       "name": "tungsten-from-cargo.md",
