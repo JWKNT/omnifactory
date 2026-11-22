@@ -179,10 +179,10 @@
     {
       "name": "bulk-furnace-deck.md",
       "first_ticks": 4081095,
-      "ticks": 4119426,
-      "sent_at": "2026-11-21T21:13:36-0500",
-      "versions": 5,
-      "bytes": 3571
+      "ticks": 4161247,
+      "sent_at": "2026-11-21T21:48:27-0500",
+      "versions": 6,
+      "bytes": 4165
     },
     {
       "name": "cake-supplies.md",
@@ -259,10 +259,10 @@
     {
       "name": "clathrate-network.md",
       "first_ticks": 4115343,
-      "ticks": 4119845,
-      "sent_at": "2026-11-21T21:13:57-0500",
-      "versions": 2,
-      "bytes": 1397
+      "ticks": 4163215,
+      "sent_at": "2026-11-21T21:50:06-0500",
+      "versions": 3,
+      "bytes": 2180
     },
     {
       "name": "clay-mill.md",
@@ -491,10 +491,10 @@
     {
       "name": "ev-cable-coverings.md",
       "first_ticks": 2772307,
-      "ticks": 3726119,
-      "sent_at": "2026-11-21T15:45:51-0500",
-      "versions": 20,
-      "bytes": 11407
+      "ticks": 4176878,
+      "sent_at": "2026-11-21T22:01:29-0500",
+      "versions": 21,
+      "bytes": 12101
     },
     {
       "name": "ev-motor-magnets.md",
@@ -595,10 +595,10 @@
     {
       "name": "first-cargo-processing.md",
       "first_ticks": 4003850,
-      "ticks": 4059147,
-      "sent_at": "2026-11-21T20:23:22-0500",
-      "versions": 10,
-      "bytes": 6185
+      "ticks": 4176878,
+      "sent_at": "2026-11-21T22:01:29-0500",
+      "versions": 11,
+      "bytes": 6575
     },
     {
       "name": "first-metals.md",
@@ -1483,10 +1483,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 4138278,
-      "sent_at": "2026-11-21T21:29:19-0500",
-      "versions": 459,
-      "bytes": 6118
+      "ticks": 4161247,
+      "sent_at": "2026-11-21T21:48:27-0500",
+      "versions": 461,
+      "bytes": 6909
     },
     {
       "name": "review-29h49m.md",
@@ -1715,10 +1715,10 @@
     {
       "name": "silicon-for-processors.md",
       "first_ticks": 4126693,
-      "ticks": 4147708,
-      "sent_at": "2026-11-21T21:37:10-0500",
-      "versions": 3,
-      "bytes": 1783
+      "ticks": 4174836,
+      "sent_at": "2026-11-21T21:59:47-0500",
+      "versions": 4,
+      "bytes": 1928
     },
     {
       "name": "silver-reserve.md",
@@ -1811,10 +1811,10 @@
     {
       "name": "steel-stock-bay.md",
       "first_ticks": 3975767,
-      "ticks": 4089563,
-      "sent_at": "2026-11-21T20:48:43-0500",
-      "versions": 7,
-      "bytes": 3792
+      "ticks": 4156804,
+      "sent_at": "2026-11-21T21:44:45-0500",
+      "versions": 8,
+      "bytes": 4327
     },
     {
       "name": "steel.md",
@@ -1867,10 +1867,10 @@
     {
       "name": "tier-two-miner-order.md",
       "first_ticks": 4135528,
-      "ticks": 4142413,
-      "sent_at": "2026-11-21T21:32:45-0500",
-      "versions": 2,
-      "bytes": 1688
+      "ticks": 4173445,
+      "sent_at": "2026-11-21T21:58:37-0500",
+      "versions": 3,
+      "bytes": 2175
     },
     {
       "name": "titanium-batch-size.md",

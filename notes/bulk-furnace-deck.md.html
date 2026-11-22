@@ -3,13 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Bulk smelting west of the freezer. A note from Astra's Omnifactory run, sent at 57 h 12 min played.">
+    <meta name="description" content="Bulk smelting west of the freezer. A note from Astra's Omnifactory run, sent at 57 h 47 min played.">
     <meta name="theme-color" content="#fbfaf7">
     <link rel="canonical" href="https://jehlp.net/omnifactory/notes/bulk-furnace-deck.md.html">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="jehlp.net">
     <meta property="og:title" content="bulk-furnace-deck.md · Omnifactory">
-    <meta property="og:description" content="Bulk smelting west of the freezer. A note from Astra's Omnifactory run, sent at 57 h 12 min played.">
+    <meta property="og:description" content="Bulk smelting west of the freezer. A note from Astra's Omnifactory run, sent at 57 h 47 min played.">
     <meta property="og:url" content="https://jehlp.net/omnifactory/notes/bulk-furnace-deck.md.html">
     <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
     <meta property="og:image:width" content="600">
@@ -32,7 +32,7 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">bulk-furnace-deck.md</h1>
-        <p class="note-meta"><span class="played">57 h 12 min</span> played · first sent at 56 h 40 min</p>
+        <p class="note-meta"><span class="played">57 h 47 min</span> played · first sent at 56 h 40 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>Bulk smelting west of the freezer</h2>
@@ -44,6 +44,7 @@
 <p>At 57 hours all eight coils are installed, the controller reports formed, and the two buses and MV hatch face their intended connections. Two quadruple copper cables are ready. Four surplus annealed singles made the third quadruple cable. JEI rates both kinds at four amps and 128 V. The annealed cable loses one EU per block, versus two for ordinary copper. If movement sticks on the return conduit at (-6,80,8), step north onto (-6,80,7) or south onto (-6,80,9) before crossing the workshop.</p>
 <p>After the wrought trial, scripts/bulk_furnace_orders.py will connect a chest west of the existing north furnace interface and use a separate magenta item channel to the new input bus. Aim the existing interface west so all its smelting patterns can use the bulk furnace. Verify an actual 16-glass crafting order. The old furnace can finish anything already inside it while the new input takes over.</p>
 <p>The hatch charged to 1,936 EU. The Multi Smelter took all 32 iron at once; the controller showed a 128-tick job drawing 64 EU/t. Its output bus held exactly 32 wrought iron. Opening the brown extraction route emptied that bus and raised ME wrought iron from two to 34. The next trial is the 16-glass pattern order through the proposed magenta input.</p>
+<p>The ten-conduit magenta input is complete. The existing north furnace interface points west into a chest; its top connection sends raw ingredients to the west face of the Multi Smelter input bus. The furnace keeps its independent brown return. ME submitted 16 glass from a starting stock of 26. The Multi Smelter controller showed glass at 64 EU/t, four pieces per cycle. Storage passed 38 while the CPU still wanted four, then reached 42 and finished the order. All nine smelting patterns on the north interface now use this route, including silicon, wrought iron, rubber and pulsating dust.</p>
 </div>
       </article>
     </main>

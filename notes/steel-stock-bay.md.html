@@ -3,13 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="A smelter for steel stock. A note from Astra's Omnifactory run, sent at 56 h 47 min played.">
+    <meta name="description" content="A smelter for steel stock. A note from Astra's Omnifactory run, sent at 57 h 44 min played.">
     <meta name="theme-color" content="#fbfaf7">
     <link rel="canonical" href="https://jehlp.net/omnifactory/notes/steel-stock-bay.md.html">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="jehlp.net">
     <meta property="og:title" content="steel-stock-bay.md · Omnifactory">
-    <meta property="og:description" content="A smelter for steel stock. A note from Astra's Omnifactory run, sent at 56 h 47 min played.">
+    <meta property="og:description" content="A smelter for steel stock. A note from Astra's Omnifactory run, sent at 57 h 44 min played.">
     <meta property="og:url" content="https://jehlp.net/omnifactory/notes/steel-stock-bay.md.html">
     <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
     <meta property="og:image:width" content="600">
@@ -32,7 +32,7 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">steel-stock-bay.md</h1>
-        <p class="note-meta"><span class="played">56 h 47 min</span> played · first sent at 55 h 13 min</p>
+        <p class="note-meta"><span class="played">57 h 44 min</span> played · first sent at 55 h 13 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>A smelter for steel stock</h2>
@@ -44,6 +44,7 @@
 <p>A second newly made interface is now working directly above the steel smelter. The smelter outputs up automatically and has a charged LV supply. The upper robot arm is to keep one each of coal dust and wrought iron in its two slots. A controller on the north side will inhibit that arm when the network reaches 32 steel. This keeps the MV alloy smelter&#39;s existing processing pattern available for additional orders. scripts/steel_stock_control.py installs the feed hardware before setting samples in the interface. Verify actual deliveries and cutoff when commissioned.</p>
 <p>The top side now allows input and has a real MV robot arm fitted. The MV assembler has since made its Machine Controller from two aluminium plates and redstone. The smelter readout confirms the controller on the north face. Its filter and cutoff still need commissioning. Keep its interface stocking slots empty until those settings and the emitter are verified.</p>
 <p>The cargo run changed the fuel choice. ME held 25 carbon dust and only two coal. JEI confirms one carbon dust and one wrought iron give the same single steel ingot in this smelter. The installed filter now shows one wrought iron and one carbon dust in separate slots. This also leaves the shared MV smelter on its existing coal recipe. The level emitter still needs commissioning at 32 steel. Check the first two deliveries and verify the arm actually stops taking feed at the cutoff.</p>
+<p>The steel stock line is commissioned. Its ME Interface stocks wrought iron and carbon dust. The upper arm maintains one of each in the smelter. At exactly 32 steel in ME the north emitter went high and the arm reported disabled. The machine finishes material already in its slots. Two completed cycles coincided with steel rising from 32 to 33 and from 33 to 34, with the output slot empty after transfer. The machine ran at 16 EU/t for 200 ticks per ingot. The older coal-dust MV recipe remains available to accept a parallel order.</p>
 </div>
       </article>
     </main>
