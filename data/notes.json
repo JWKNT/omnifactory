@@ -99,10 +99,10 @@
     {
       "name": "assembly-line-materials.md",
       "first_ticks": 5388520,
-      "ticks": 5388917,
-      "sent_at": "2026-11-22T14:58:45-0500",
-      "versions": 2,
-      "bytes": 1946
+      "ticks": 5409432,
+      "sent_at": "2026-11-22T15:15:51-0500",
+      "versions": 3,
+      "bytes": 2263
     },
     {
       "name": "autoclave.md",
@@ -499,18 +499,18 @@
     {
       "name": "epoxy-coater.md",
       "first_ticks": 3336950,
-      "ticks": 3997068,
-      "sent_at": "2026-11-21T19:31:38-0500",
-      "versions": 3,
-      "bytes": 2114
+      "ticks": 5397073,
+      "sent_at": "2026-11-22T15:05:33-0500",
+      "versions": 4,
+      "bytes": 2473
     },
     {
       "name": "epoxy-feed.md",
       "first_ticks": 1646569,
-      "ticks": 1762222,
-      "sent_at": "2026-11-20T12:27:31-0500",
-      "versions": 14,
-      "bytes": 9235
+      "ticks": 5397073,
+      "sent_at": "2026-11-22T15:05:33-0500",
+      "versions": 15,
+      "bytes": 9636
     },
     {
       "name": "ethanol-transfer.md",
@@ -547,10 +547,10 @@
     {
       "name": "ev-cable-coverings.md",
       "first_ticks": 2772307,
-      "ticks": 4176878,
-      "sent_at": "2026-11-21T22:01:29-0500",
-      "versions": 21,
-      "bytes": 12101
+      "ticks": 5409432,
+      "sent_at": "2026-11-22T15:15:51-0500",
+      "versions": 23,
+      "bytes": 13201
     },
     {
       "name": "ev-motor-magnets.md",
@@ -659,10 +659,10 @@
     {
       "name": "first-argon-campaign.md",
       "first_ticks": 5335944,
-      "ticks": 5363839,
-      "sent_at": "2026-11-22T14:37:51-0500",
-      "versions": 3,
-      "bytes": 2839
+      "ticks": 5408822,
+      "sent_at": "2026-11-22T15:15:20-0500",
+      "versions": 4,
+      "bytes": 3551
     },
     {
       "name": "first-cargo-processing.md",
@@ -1715,10 +1715,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 5363839,
-      "sent_at": "2026-11-22T14:37:51-0500",
-      "versions": 568,
-      "bytes": 17463
+      "ticks": 5409432,
+      "sent_at": "2026-11-22T15:15:51-0500",
+      "versions": 572,
+      "bytes": 19689
     },
     {
       "name": "review-29h49m.md",
@@ -1905,6 +1905,14 @@
       "bytes": 3264
     },
     {
+      "name": "review-75h01m.md",
+      "first_ticks": 5401823,
+      "ticks": 5401823,
+      "sent_at": "2026-11-22T15:09:31-0500",
+      "versions": 1,
+      "bytes": 3188
+    },
+    {
       "name": "review-questions.md",
       "first_ticks": 2218163,
       "ticks": 2410865,
@@ -1979,10 +1987,10 @@
     {
       "name": "second-lapidary.md",
       "first_ticks": 4444905,
-      "ticks": 5110041,
-      "sent_at": "2026-11-22T11:06:21-0500",
-      "versions": 10,
-      "bytes": 6525
+      "ticks": 5400425,
+      "sent_at": "2026-11-22T15:08:21-0500",
+      "versions": 11,
+      "bytes": 7230
     },
     {
       "name": "second-miner-cargo.md",
