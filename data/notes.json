@@ -849,6 +849,14 @@
       "bytes": 732
     },
     {
+      "name": "graphite-carbon.md",
+      "first_ticks": 5154263,
+      "ticks": 5166179,
+      "sent_at": "2026-11-22T11:53:08-0500",
+      "versions": 2,
+      "bytes": 1593
+    },
+    {
       "name": "grid-power.md",
       "first_ticks": 2885575,
       "ticks": 2885575,
@@ -971,10 +979,10 @@
     {
       "name": "iv-assembler-windings.md",
       "first_ticks": 4401872,
-      "ticks": 5135802,
-      "sent_at": "2026-11-22T11:27:49-0500",
-      "versions": 10,
-      "bytes": 7680
+      "ticks": 5166181,
+      "sent_at": "2026-11-22T11:53:08-0500",
+      "versions": 11,
+      "bytes": 8174
     },
     {
       "name": "iv-metal-bill.md",
@@ -1675,10 +1683,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 5152498,
-      "sent_at": "2026-11-22T11:41:44-0500",
-      "versions": 552,
-      "bytes": 14810
+      "ticks": 5172709,
+      "sent_at": "2026-11-22T11:58:35-0500",
+      "versions": 553,
+      "bytes": 15652
     },
     {
       "name": "review-29h49m.md",
@@ -1879,6 +1887,14 @@
       "sent_at": "2026-11-20T01:06:09-0500",
       "versions": 4,
       "bytes": 1450
+    },
+    {
+      "name": "rotating-chamber-power.md",
+      "first_ticks": 5163437,
+      "ticks": 5172707,
+      "sent_at": "2026-11-22T11:58:35-0500",
+      "versions": 3,
+      "bytes": 1410
     },
     {
       "name": "rubber-sheet-stock.md",
