@@ -1,0 +1,5 @@
+# Silicon for the inscriber
+
+A steel level emitter exposed a shared shortage. The calculation processor needed printed silicon, and the logic processors for new ME interfaces need the same print. The workshop had 30 silicon dioxide dust from stone processing and two silicon dust already separated.
+
+The MV electrolyzer can split 30 silicon dioxide dust into ten silicon dust and oxygen. This puts the oxygen separator's material stream to use and leaves carbon and blast-furnace time free. JEI confirms ordinary smelting turns each dust into one ingot. The compressor already advertises silicon plates. The north furnace interface had one remaining slot, so scripts/silicon_stock.py assigns it to silicon ingots. The workshop requests eight plates and holds up to sixteen combined plates and ingots. Once the north interface feeds the Multi Smelter, its silicon pattern moves with its glass and wrought iron recipes. Check for an actual delivery and the steel cutoff before treating either buffer as commissioned.

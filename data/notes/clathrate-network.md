@@ -1,0 +1,7 @@
+# Resonant Clathrate for the three simulation chambers
+
+The existing Basic Fluid Extractor at (5,81,2) melts ender pearls straight into the Advanced Chemical Reactor at (6,81,2). Page 728 describes the renewable route. Each pearl supplies 250 mB molten ender, enough for one quartz and one clathrate. The north furnace advertises the clathrate-to-pulsating-dust pattern. One dust plus one clay makes four polymer in the dedicated alloy smelter. The next source of saved trips is letting the reactor return its product while the player is elsewhere.
+
+Three existing conduit bundles at y82,z2 connect the top of the reactor at x6 to the south face of the network assembler interface at x8. scripts/clathrate_return.py adds an item conduit to each and configures a separate magenta channel. Compare the clathrate in the reactor with the increase in ME before marking delivery. The extractor and reactor still receive pearls and quartz by hand. Any upgrade to those inputs should preserve the other use of this reactor for phenolic boards.
+
+The three item conduits are installed. The top extraction port on the reactor and the north insertion port at the assembler interface use magenta. Nine clathrate were visible in the reactor with zero in ME. After extraction the reactor was empty and nine were in ME. This closes the collection trip. The north furnace pattern can now use this supply directly.
