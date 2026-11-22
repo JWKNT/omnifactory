@@ -179,10 +179,10 @@
     {
       "name": "breeder-alloys.md",
       "first_ticks": 5105674,
-      "ticks": 5105674,
-      "sent_at": "2026-11-22T11:02:43-0500",
-      "versions": 1,
-      "bytes": 1000
+      "ticks": 5125579,
+      "sent_at": "2026-11-22T11:19:18-0500",
+      "versions": 5,
+      "bytes": 2745
     },
     {
       "name": "brewery-cane.md",
@@ -963,10 +963,10 @@
     {
       "name": "iv-assembler-windings.md",
       "first_ticks": 4401872,
-      "ticks": 5022406,
-      "sent_at": "2026-11-22T09:53:20-0500",
-      "versions": 7,
-      "bytes": 5907
+      "ticks": 5125356,
+      "sent_at": "2026-11-22T11:19:07-0500",
+      "versions": 9,
+      "bytes": 7242
     },
     {
       "name": "iv-metal-bill.md",
@@ -1195,10 +1195,10 @@
     {
       "name": "nanocircuit-feed.md",
       "first_ticks": 3526594,
-      "ticks": 5097856,
-      "sent_at": "2026-11-22T10:56:12-0500",
-      "versions": 18,
-      "bytes": 11917
+      "ticks": 5125354,
+      "sent_at": "2026-11-22T11:19:07-0500",
+      "versions": 19,
+      "bytes": 12502
     },
     {
       "name": "nether-landing.md",
@@ -1347,10 +1347,10 @@
     {
       "name": "parallel-crafting.md",
       "first_ticks": 2410865,
-      "ticks": 2985451,
-      "sent_at": "2026-11-21T05:28:37-0500",
-      "versions": 10,
-      "bytes": 6948
+      "ticks": 5114927,
+      "sent_at": "2026-11-22T11:10:26-0500",
+      "versions": 11,
+      "bytes": 7497
     },
     {
       "name": "parts-storage-refill.md",
@@ -1659,10 +1659,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 5101490,
-      "sent_at": "2026-11-22T10:59:14-0500",
-      "versions": 546,
-      "bytes": 12757
+      "ticks": 5125581,
+      "sent_at": "2026-11-22T11:19:18-0500",
+      "versions": 548,
+      "bytes": 13698
     },
     {
       "name": "review-29h49m.md",
@@ -1833,6 +1833,14 @@
       "bytes": 4178
     },
     {
+      "name": "review-71h01m.md",
+      "first_ticks": 5113546,
+      "ticks": 5113546,
+      "sent_at": "2026-11-22T11:09:17-0500",
+      "versions": 1,
+      "bytes": 3065
+    },
+    {
       "name": "review-questions.md",
       "first_ticks": 2218163,
       "ticks": 2410865,
@@ -1899,10 +1907,10 @@
     {
       "name": "second-lapidary.md",
       "first_ticks": 4444905,
-      "ticks": 5102042,
-      "sent_at": "2026-11-22T10:59:41-0500",
-      "versions": 9,
-      "bytes": 5963
+      "ticks": 5110041,
+      "sent_at": "2026-11-22T11:06:21-0500",
+      "versions": 10,
+      "bytes": 6525
     },
     {
       "name": "second-miner-cargo.md",
