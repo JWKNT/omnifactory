@@ -723,10 +723,10 @@
     {
       "name": "fourth-furnace-power-plan.md",
       "first_ticks": 4691252,
-      "ticks": 4996583,
-      "sent_at": "2026-11-22T09:31:49-0500",
-      "versions": 4,
-      "bytes": 4819
+      "ticks": 5022406,
+      "sent_at": "2026-11-22T09:53:20-0500",
+      "versions": 5,
+      "bytes": 5349
     },
     {
       "name": "freezer-mainframes.md",
@@ -955,10 +955,10 @@
     {
       "name": "iv-assembler-windings.md",
       "first_ticks": 4401872,
-      "ticks": 4802010,
-      "sent_at": "2026-11-22T06:42:25-0500",
-      "versions": 5,
-      "bytes": 4626
+      "ticks": 5022406,
+      "sent_at": "2026-11-22T09:53:20-0500",
+      "versions": 7,
+      "bytes": 5907
     },
     {
       "name": "iv-metal-bill.md",
@@ -1643,10 +1643,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 5000775,
-      "sent_at": "2026-11-22T09:35:18-0500",
-      "versions": 539,
-      "bytes": 8443
+      "ticks": 5029734,
+      "sent_at": "2026-11-22T09:59:26-0500",
+      "versions": 542,
+      "bytes": 9727
     },
     {
       "name": "review-29h49m.md",
@@ -1883,10 +1883,10 @@
     {
       "name": "second-lapidary.md",
       "first_ticks": 4444905,
-      "ticks": 4963861,
-      "sent_at": "2026-11-22T09:04:32-0500",
-      "versions": 6,
-      "bytes": 3493
+      "ticks": 5012667,
+      "sent_at": "2026-11-22T09:45:13-0500",
+      "versions": 7,
+      "bytes": 4112
     },
     {
       "name": "second-miner-cargo.md",
