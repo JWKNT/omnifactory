@@ -32,13 +32,15 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">tower-workshop-shift.md</h1>
-        <p class="note-meta"><span class="played">77 h 45 min</span> played</p>
+        <p class="note-meta"><span class="played">78 h 11 min</span> played · first sent at 77 h 45 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>One player for the tower and circuit workshop</h2>
 <p>The normal player runs <code>scripts/quantum_array_workshop.py</code>. Read its PID from <code>run/iv-campaign.pgid</code> and check the live process before taking control. The same round checks cryogenic power, gas storage, silicon, circuit supplies and the other factory lines. <code>scripts/first_argon_run.py</code> switches the tower once stored noble gases reach 53 buckets. It checks the inlet between portable-tank trips and leaves during machine processing.</p>
 <p>Use <code>PYTHONPATH=harness:scripts python3 -u scripts/tower_shift.py</code> when the tower needs several consecutive visits while its materials are arriving. It requests the broad workshop to finish its current player action, waits for that process to exit, then uses the same PID file for the focused visits. It resumes the broad workshop in the same process afterward. A running shift or a stop request already in progress means the player is occupied. Read-only checks of machine tanks, item stocks and quests can run alongside the player.</p>
 <p>The south walkway at y80, z16 is now continuous from x3 to x−11. It connects the main platform to the tower&#39;s south service aisle. On the east wall the energy hatch sits behind the CEF, and the five gas outlets sit behind the Ender Fluid Conduits. The west liquid-air hatch is at (−17,80,13).</p>
+<p>Pass <code>--argon</code> during the first changeover to alternate a tower visit with laser construction and Hellish model work. The actor returns to the broad workshop after the first argon receipt or ten rounds. See <a href="/omnifactory/notes/noble-gas-feed.md.html">the noble-gas feed plan</a> for the permanent second inlet surveyed on the east wall.</p>
+<p>After page 175, use <code>--power-ic</code> to alternate the east furnace, the laser, the IV assembler, the second tower inlet and the LuV hull. This shift hands control back after page 269 pays or after ten passes. On the first changeover all 18.2 buckets left in the inlet returned to the tank, the extra bucket of noble gases returned to ME, and both source connectors reopened.</p>
 </div>
       </article>
     </main>

@@ -19,3 +19,5 @@ Once the receiver was online, the north wall of its block also accepted liquid a
 The four new fluix cables run east from (−10,82,10) directly above the quantum tank. Its upper face now has an active ME Fluid Export Bus filtered to liquid air. The bank fell from 1,177.5 to 1,046.5 buckets by 77h43m while the stray supply-to-receiver connection stayed disabled. The tank and hatch continue to feed the tower. The south service walkway at z16 now connects the original deck to the back of the tower.
 
 At 77h53m the export had returned all 1,177.5 buckets of diverted air. The fluid terminal held no liquid air and 34 buckets of noble gases. Leave the filtered export in place to return future inlet cleanout to the tank.
+
+At 78h08m the first 53-bucket noble-gas charge finished at 750 EU/t. The fluid terminal independently showed 35 buckets of argon, eleven of neon, five of helium and one each of krypton and xenon. All five tower outlets drained into ME. The first batch took no dedicated second hatch. The next supply expansion is the single-cable [permanent inlet](noble-gas-feed.md) on the east corner.
