@@ -23,3 +23,5 @@ The second fuel batch produced its other mixer ingredient. Its spare bucket of h
 The second mixer charge yielded 6,000 mB and the terminal accepted the entire batch. ME now reports 12,000 mB Rocket Fuel. That funds the first 8,000 mB cargo mission and leaves 4,000 mB for the next one.
 
 The first cargo mission consumes one Tier One Micro Miner, one Quantum Flux, one ordinary chest and 8,000 mB of rocket fuel at 500 EU/t for 500 ticks. scripts/first_miner_launch.py checks the formed controller, energy hatch, paid ship page and actual bus contents. It takes fuel through the ME fluid terminal, loads the ship last, and records the returned cargo from the output bus. This route is prepared but has not flown. The campaign option --through-first-cargo includes these checks after each workshop round.
+
+The north MV hatch at (18,80,-14) received all 12,000 mB from ME. Its tank read 12,000 of 32,000 mB afterward. This funds the first 8,000 mB ore mission with 4,000 mB left toward the second.

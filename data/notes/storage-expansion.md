@@ -13,3 +13,5 @@ A full storage survey now works from (12,80,6). The player stood in that aisle a
 The parts chest migration started using the existing ME cells. The first transfer moved 33 items out of the main chest. The annex stays available until its inventory has been emptied and checked. Measure the improvement by the number of physical chest visits per full stock survey.
 
 At 32h27m the migration finished. The existing ME cells received 42 items from the main parts chest and five from the annex. The remaining 167 annex items fit in the main parts chest. Both empty annex blocks were recovered. I checked both former positions and the next full central-aisle survey recorded only stock, chest and parts. This removes one chest opening from every full survey.
+
+A sixth 1k item cell now occupies slot ten. The first drive is full with six item cells and four fluid cells. The new disk provides 63 item types ahead of the first ore cargo. The next disk needs a second drive.

@@ -1,0 +1,9 @@
+# What the ore mission can supply
+
+Page 217 opens Dilithium, page 250. The same ship returns the Moon Turf, dilithium ore and dense iron that these next processes need. Keep the first cargo intact through the output-bus count and the dense iron delivery check.
+
+Two dilithium ore through an HV macerator yield four dust at 420 EU/t for 200 ticks per ore. The furnace gives one dust per ore. The same HV macerator can grind ten Moon Turf into ten Moon Dust at 400 EU/t for 200 ticks each. The LV centrifuge then gives 100 mB deuterium per dust at 20 EU/t for 200 ticks. Together the ten turf stages take about 200 seconds before handling. Making the same bucket from hydrogen alone occupies the LV centrifuge for about 67 minutes. The first mission brings 64 turf.
+
+An MV autoclave turns four dilithium dust and 1,000 mB deuterium into four crystals in 400 ticks at 110 EU/t. The crystal autoclave had an empty input tank after its pulsating iron charge. Batch the four crystals there once the cargo arrives and the fuel crystal reserve is stocked. Page 250 needs one crystal and pays one Omninickel. Warp Core also depends on Space Station Assembler. Later missions use stacks of crystals, so reserve floor space for a moon ore mill with an ME interface and a separate deuterium centrifuge. The HV macerator grinding head is ready. Confirm the machine is built, installed and charged before ordering ore into it.
+
+In an HV chemical reactor, one dense iron ore plus 1,000 mB nitric acid yields sixteen ordinary iron ore in 200 ticks at 500 EU/t. The whole stack can yield 1,024 ore ahead of crushing. ME held no nitric acid when I priced this route. Stage a small acid batch before committing bulk iron processing. Ahead of the cargo, two nickels bought 32 ordinary iron ore for the immediate motor and steel work.

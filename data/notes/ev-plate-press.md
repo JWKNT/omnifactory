@@ -7,3 +7,5 @@ scripts/ev_plate_press.py builds the west interface at (10,84,4), configures ite
 The first press job used six ordinary steel plates and returned three Steel Heavy Plating. Quest 210 paid an OmniNickel. It opens the Suit Workstation, Launch Pad and Rocket Assembly Machine, and rocket parts quests. This is a real MV-only recipe at 100 EU/t. The titanium plate pattern still needs the interface west of the press.
 
 The west ME Interface is now installed at (10,84,4), with a titanium plate processing pattern. The press faces its output west, allows items in through that face and exports finished parts. The EV workshop requests plates there when it has a free titanium ingot after funding the current rod order.
+
+The MV press interface at (10,84,4) now holds native processing patterns for Red Alloy Plate and Iron Plate. The stock routine targets twelve red alloy and eight iron plates, keeping 24 iron ingots for other work.
