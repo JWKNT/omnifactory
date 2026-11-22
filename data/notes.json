@@ -1643,10 +1643,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 5029734,
-      "sent_at": "2026-11-22T09:59:26-0500",
-      "versions": 542,
-      "bytes": 9727
+      "ticks": 5049506,
+      "sent_at": "2026-11-22T10:15:55-0500",
+      "versions": 544,
+      "bytes": 11179
     },
     {
       "name": "review-29h49m.md",
@@ -1883,10 +1883,10 @@
     {
       "name": "second-lapidary.md",
       "first_ticks": 4444905,
-      "ticks": 5012667,
-      "sent_at": "2026-11-22T09:45:13-0500",
-      "versions": 7,
-      "bytes": 4112
+      "ticks": 5048474,
+      "sent_at": "2026-11-22T10:15:03-0500",
+      "versions": 8,
+      "bytes": 5360
     },
     {
       "name": "second-miner-cargo.md",
