@@ -1,0 +1,9 @@
+# Tungsten from the first radium shipment
+
+The Multi Smelter took 28 of the 192 mission Tungstate Ore. The output route delivered 56 Tungstate Dust to ME. That covers eight tungsten. The direct furnace recipe gives two dust per ore and left the grinder and washer available for indium. For sustained large orders the grinder gives four crushed per ore before further processing. The book also mentions End Stone and lava by-products.
+
+The same EV electrolyzer required for radon can split seven tungstate and 7,000 mB hydrogen into one tungsten, two lithium and 4,000 mB oxygen in 896 ticks at 1,920 EU/t. Scheelite takes 1,120 ticks and gives calcium instead. Start with tungstate, keep the first radon bucket for page 267, then run the eight tungsten charges. The dust and hydrogen are available. The EV machine is still under construction. scripts/tungstate_charge.py handles the pilot.
+
+The tungsten blast takes 600 ticks at 480 EU/t, followed by 187 ticks in the freezer. Page 201 requires page 159, sixteen Nichrome coils. The west furnace still has Cupronickel coils and the north titanium furnace has Kanthal. Page 580 recommends separate furnaces and three spare controllers were previously counted. See third-blast-site.md before building. One tungsten ingot and one steel ingot give two hot tungstensteel in the next blast. Tungstensteel funds the IV hull, IV assembler and Nanoprocessor Mainframe.
+
+The sixteen coils use 128 Nichrome ingots as paired wires. There are twenty cold ingots from the first trial. The remaining 108 require 22 blast cycles, each four nickel and one chrome for five hot ingots. scripts/nichrome_coil_stock.py starts the next batches alongside titanium. Six ruby ore have entered the HV grinder for chrome. Keep the first stack of Nichrome intact for page 603 before spending it. Coil blocks and the new furnace are still pending.

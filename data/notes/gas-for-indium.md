@@ -1,0 +1,7 @@
+# Sulfuric gas for the indium line
+
+The released MV fuel reactor converted fifteen buckets of refinery hydrogen sulfide into fifteen buckets of sulfuric acid. ME received three transfers of eight, five and two buckets. The first nine indium take thirty-six buckets of acid. The silicon dioxide separator supplied oxygen for the acid while its silicon went into electrical steel and cable insulation.
+
+The tower already had 480,800 mB sulfuric gas and 366,000 mB sulfuric light fuel in ME. JEI gives one bucket of hydrogen sulfide per sixteen buckets of sulfuric gas and two of hydrogen. It also returns sixteen buckets of clean refinery gas, an existing ME fluid type. Light fuel uses twelve buckets per reaction. Heavy fuel uses eight but none was stored. Naphtha is committed to circuit boards.
+
+I tried one portable tank on the naphtha line. The MV reactor retained 9,600 mB raw naphtha and refused the other gas in its empty input. All 16,000 mB went back to ME. The new plan is an independent MV chemical reactor at (14,82,3), on the copper cable at (14,82,4). Its east face touches a Fluix cable with an available west attachment. scripts/refinery_sulfide_acid.py builds the machine and fits an ME fluid import bus for both products. Verify an actual sulfide increase and acid return. Hydrogen and raw gas still use portable supply during commissioning. The indium reactor can now reduce a partial charge with four aluminium dust per bucket of concentrate, reducing storage pressure while more acid is cooking.

@@ -769,6 +769,14 @@
       "bytes": 3623
     },
     {
+      "name": "gas-for-indium.md",
+      "first_ticks": 4328562,
+      "ticks": 4328562,
+      "sent_at": "2026-11-22T00:07:53-0500",
+      "versions": 1,
+      "bytes": 1517
+    },
+    {
       "name": "gear-production.md",
       "first_ticks": 1486508,
       "ticks": 2150143,
@@ -1515,10 +1523,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 4315466,
-      "sent_at": "2026-11-21T23:56:58-0500",
-      "versions": 475,
-      "bytes": 11265
+      "ticks": 4341114,
+      "sent_at": "2026-11-22T00:18:20-0500",
+      "versions": 477,
+      "bytes": 11816
     },
     {
       "name": "review-29h49m.md",
@@ -1711,6 +1719,14 @@
       "sent_at": "2026-11-19T14:01:06-0500",
       "versions": 1,
       "bytes": 426
+    },
+    {
+      "name": "second-miner-cargo.md",
+      "first_ticks": 4328562,
+      "ticks": 4328562,
+      "sent_at": "2026-11-22T00:07:53-0500",
+      "versions": 1,
+      "bytes": 1342
     },
     {
       "name": "second-miner-plating.md",
@@ -1967,6 +1983,14 @@
       "sent_at": "2026-11-21T01:32:08-0500",
       "versions": 11,
       "bytes": 6441
+    },
+    {
+      "name": "tungsten-from-cargo.md",
+      "first_ticks": 4341114,
+      "ticks": 4341114,
+      "sent_at": "2026-11-22T00:18:20-0500",
+      "versions": 1,
+      "bytes": 1869
     },
     {
       "name": "vacuum-freezer.md",
