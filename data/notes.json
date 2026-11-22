@@ -1201,6 +1201,14 @@
       "bytes": 1644
     },
     {
+      "name": "north-drawer-bank.md",
+      "first_ticks": 4764737,
+      "ticks": 4764737,
+      "sent_at": "2026-11-22T06:11:22-0500",
+      "versions": 1,
+      "bytes": 2045
+    },
+    {
       "name": "north-hot-transfer.md",
       "first_ticks": 2636501,
       "ticks": 2774935,
@@ -1611,10 +1619,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 4750038,
-      "sent_at": "2026-11-22T05:59:07-0500",
-      "versions": 514,
-      "bytes": 6238
+      "ticks": 4778509,
+      "sent_at": "2026-11-22T06:22:50-0500",
+      "versions": 516,
+      "bytes": 7758
     },
     {
       "name": "review-29h49m.md",
@@ -2115,10 +2123,10 @@
     {
       "name": "tungsten-power-restart.md",
       "first_ticks": 4726876,
-      "ticks": 4731897,
-      "sent_at": "2026-11-22T05:44:00-0500",
-      "versions": 2,
-      "bytes": 2211
+      "ticks": 4764737,
+      "sent_at": "2026-11-22T06:11:22-0500",
+      "versions": 3,
+      "bytes": 2688
     },
     {
       "name": "tungstensteel-coil-bill.md",
