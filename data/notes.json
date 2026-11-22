@@ -771,10 +771,10 @@
     {
       "name": "gas-for-indium.md",
       "first_ticks": 4328562,
-      "ticks": 4377476,
-      "sent_at": "2026-11-22T00:48:39-0500",
-      "versions": 4,
-      "bytes": 2932
+      "ticks": 4418521,
+      "sent_at": "2026-11-22T01:22:51-0500",
+      "versions": 5,
+      "bytes": 3306
     },
     {
       "name": "gear-production.md",
@@ -895,6 +895,14 @@
       "sent_at": "2026-11-21T21:37:57-0500",
       "versions": 3,
       "bytes": 1870
+    },
+    {
+      "name": "iv-assembler-windings.md",
+      "first_ticks": 4401872,
+      "ticks": 4401872,
+      "sent_at": "2026-11-22T01:08:58-0500",
+      "versions": 1,
+      "bytes": 1887
     },
     {
       "name": "kanthal-coils.md",
@@ -1199,6 +1207,14 @@
       "sent_at": "2026-11-20T04:29:07-0500",
       "versions": 3,
       "bytes": 1721
+    },
+    {
+      "name": "oxygen-electrolysis-bay.md",
+      "first_ticks": 4410893,
+      "ticks": 4410893,
+      "sent_at": "2026-11-22T01:16:29-0500",
+      "versions": 1,
+      "bytes": 1948
     },
     {
       "name": "oxygen-storage.md",
@@ -1523,10 +1539,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 4388515,
-      "sent_at": "2026-11-22T00:57:51-0500",
-      "versions": 483,
-      "bytes": 2791
+      "ticks": 4418523,
+      "sent_at": "2026-11-22T01:22:51-0500",
+      "versions": 485,
+      "bytes": 3299
     },
     {
       "name": "review-29h49m.md",
@@ -1655,6 +1671,14 @@
       "sent_at": "2026-11-21T23:02:53-0500",
       "versions": 1,
       "bytes": 2588
+    },
+    {
+      "name": "review-61h02m.md",
+      "first_ticks": 4394986,
+      "ticks": 4394986,
+      "sent_at": "2026-11-22T01:03:14-0500",
+      "versions": 1,
+      "bytes": 3637
     },
     {
       "name": "review-questions.md",
@@ -1931,10 +1955,10 @@
     {
       "name": "third-blast-site.md",
       "first_ticks": 3612230,
-      "ticks": 4365627,
-      "sent_at": "2026-11-22T00:38:46-0500",
-      "versions": 4,
-      "bytes": 2909
+      "ticks": 4408153,
+      "sent_at": "2026-11-22T01:14:12-0500",
+      "versions": 6,
+      "bytes": 3935
     },
     {
       "name": "third-crafting-cpu.md",
