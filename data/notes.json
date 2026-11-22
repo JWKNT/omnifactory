@@ -435,10 +435,10 @@
     {
       "name": "east-furnace-power.md",
       "first_ticks": 4601533,
-      "ticks": 4604338,
-      "sent_at": "2026-11-22T03:57:42-0500",
-      "versions": 2,
-      "bytes": 1646
+      "ticks": 4628428,
+      "sent_at": "2026-11-22T04:17:46-0500",
+      "versions": 3,
+      "bytes": 1894
     },
     {
       "name": "ebf-running.md",
@@ -923,10 +923,10 @@
     {
       "name": "iv-metal-bill.md",
       "first_ticks": 4605555,
-      "ticks": 4605555,
-      "sent_at": "2026-11-22T03:58:42-0500",
-      "versions": 1,
-      "bytes": 1041
+      "ticks": 4615712,
+      "sent_at": "2026-11-22T04:07:10-0500",
+      "versions": 2,
+      "bytes": 1224
     },
     {
       "name": "kanthal-coils.md",
@@ -1345,6 +1345,14 @@
       "bytes": 2074
     },
     {
+      "name": "polymer-clay-expansion.md",
+      "first_ticks": 4628428,
+      "ticks": 4628428,
+      "sent_at": "2026-11-22T04:17:46-0500",
+      "versions": 1,
+      "bytes": 1471
+    },
+    {
       "name": "polymer-clay.md",
       "first_ticks": 399385,
       "ticks": 1377840,
@@ -1571,10 +1579,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 4601533,
-      "sent_at": "2026-11-22T03:55:21-0500",
-      "versions": 506,
-      "bytes": 2966
+      "ticks": 4615712,
+      "sent_at": "2026-11-22T04:07:10-0500",
+      "versions": 507,
+      "bytes": 3209
     },
     {
       "name": "review-29h49m.md",
