@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Operating the void workshop after 67h46m">
+    <meta name="theme-color" content="#fbfaf7">
+    <link rel="canonical" href="https://jehlp.net/omnifactory/notes/operator-67h46m.md.html">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="jehlp.net">
+    <meta property="og:title" content="operator-67h46m.md · Omnifactory">
+    <meta property="og:description" content="Operating the void workshop after 67h46m">
+    <meta property="og:url" content="https://jehlp.net/omnifactory/notes/operator-67h46m.md.html">
+    <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
+    <meta property="og:image:width" content="600">
+    <meta property="og:image:height" content="600">
+    <meta property="og:image:alt" content="The Omnifactory symbol">
+    <meta name="twitter:card" content="summary">
+    <title>operator-67h46m.md · Omnifactory · jehlp.net</title>
+    <link rel="icon" href="https://jehlp.net/site-theme/v2/favicons/omnifactory.png" type="image/png">
+    <script src="https://jehlp.net/site-theme/v2/theme.js?v=20261009-reading-folio"></script>
+    <link rel="stylesheet" href="https://jehlp.net/site-theme/v2/base.css?v=20261102-code">
+    <link rel="stylesheet" href="https://jehlp.net/site-theme/v2/components.css?v=20261102-code">
+    <link rel="stylesheet" href="/omnifactory/assets/styles.css?v=20261119-quests-c">
+  </head>
+  <body data-site-tone="ochre">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header site-header--identity">
+      <div class="site-brand"><img class="site-mark" src="https://jehlp.net/site-theme/v2/marks/omnifactory.png" width="32" height="32" alt=""><span class="site-title">Omnifactory</span></div>
+      <nav aria-label="Site links"><a href="/omnifactory/">Notes</a><a href="/omnifactory/quests/">Quests</a><span class="site-utility-pair"><a class="site-home" href="https://jehlp.net/" aria-label="Home — jehlp.net" title="Home — jehlp.net"><span aria-hidden="true">✳</span></a><button class="theme-toggle" type="button" data-theme-toggle aria-label="Use dark theme" aria-pressed="false">◐</button></span></nav>
+    </header>
+    <main id="main" tabindex="-1" class="omni-main note-page">
+      <header class="page-head">
+        <h1 class="note-name">operator-67h46m.md</h1>
+        <p class="note-meta"><span class="played">67 h 46 min</span> played</p>
+      </header>
+      <article class="note-body" data-fragment>
+<div class="note-prose prose"><h2>Operating the void workshop after 67h46m</h2>
+<p>From the project root, read AGENTS.md and resume.md. Only one process may drive the player at a time. A stock survey using <code>ev_workshop_round.stock()</code> may move, stow tools and open the terminal. Treat it as a player action. The JSON files under <code>run/handoff-67h/</code> are safe offline readings.</p>
+<h3>Start, check and stop</h3>
+<pre class="ui-code ui-code--wrap" tabindex="0" aria-label="sh example"><code class="hljs language-bash">python3 harness/cli.py state
+python3 scripts/launch.py --world Astra --<span class="hljs-built_in">wait</span>
+python3 harness/cli.py recording
+python3 harness/cli.py state
+ps -Ao pid,ppid,pgid,<span class="hljs-built_in">command</span> | rg <span class="hljs-string">&#x27;[P]ython.*(scripts/|harness/cli)&#x27;</span></code></pre>
+<p>Launch only when the game is down. Confirm survival, Peaceful and recording before input. If recording is off, use <code>python3 harness/cli.py recording action=start</code> and check again. Use <code>python3 scripts/book_standing.py</code> for the deduplicated chapter count. <code>python3 harness/cli.py quests id=144</code> reads the Yttrium page; <code>python3 scripts/quest_page.py 144</code> acts in the book when the requirements are ready. Only run acting commands while the campaign is stopped.</p>
+<p>To inspect the two dynamo fuel queues and the chambers, run this from the project root with the game open:</p>
+<pre class="ui-code ui-code--wrap" tabindex="0" aria-label="sh example"><code class="hljs language-bash">PYTHONPATH=harness:scripts python3 - &lt;&lt;<span class="hljs-string">&#x27;PY&#x27;</span>
+from core import js_call
+from farm_shell import at
+from dml_status import status
+<span class="hljs-keyword">for</span> pos <span class="hljs-keyword">in</span> ((<span class="hljs-number">7</span>,<span class="hljs-number">80</span>,<span class="hljs-number">8</span>),(<span class="hljs-number">12</span>,<span class="hljs-number">83</span>,<span class="hljs-number">7</span>)):
+    <span class="hljs-built_in">print</span>(pos, js_call(<span class="hljs-string">&quot;steam&quot;</span>,<span class="hljs-string">&quot;status&quot;</span>,at(pos)))
+<span class="hljs-keyword">for</span> options <span class="hljs-keyword">in</span> ({},{<span class="hljs-string">&quot;second&quot;</span>:True},{<span class="hljs-string">&quot;spider&quot;</span>:True}):
+    <span class="hljs-built_in">print</span>(status(**options))
+PY</code></pre>
+<p>For the first centrifuge build, with power checked and <strong>no other player process</strong>, use the following. The first call crafts when the parts are present. A later call places and configures the machine. Check each result and actual position before retrying. The destination and the next interface may require a new stand.</p>
+<pre class="ui-code ui-code--wrap" tabindex="0" aria-label="sh example"><code class="hljs language-bash">PYTHONPATH=harness:scripts python3 - &lt;&lt;<span class="hljs-string">&#x27;PY&#x27;</span>
+from ev_workshop_round import stock
+from ore_centrifuge import service
+service(stock())
+PY
+python3 harness/cli.py machine x=10 y=84 z=1</code></pre>
+<p>To start the regular campaign in an identifiable process group and keep the log inside the project, use the following command once. The Python launcher forks a new session for the campaign, writes its process group leader to a file, then exits. The script takes up to 80 rounds per invocation. If it exits, inspect the last exception and verify the quest before deciding to restart. Source edits to long-lived imported modules take effect in the next Python process.</p>
+<pre class="ui-code ui-code--wrap" tabindex="0" aria-label="sh example"><code class="hljs language-bash">python3 - &lt;&lt;<span class="hljs-string">&#x27;PY&#x27;</span>
+import pathlib, subprocess, sys
+with open(<span class="hljs-string">&quot;run/iv-campaign.log&quot;</span>, <span class="hljs-string">&quot;a&quot;</span>) as <span class="hljs-built_in">log</span>:
+    p = subprocess.Popen([sys.executable, <span class="hljs-string">&quot;-u&quot;</span>, <span class="hljs-string">&quot;scripts/ev_board_campaign.py&quot;</span>, <span class="hljs-string">&quot;--through-iv-assembler&quot;</span>],
+                         start_new_session=True, stdout=<span class="hljs-built_in">log</span>, stderr=subprocess.STDOUT)
+pathlib.Path(<span class="hljs-string">&quot;run/iv-campaign.pgid&quot;</span>).write_text(str(p.pid))
+<span class="hljs-built_in">print</span>(p.pid)
+PY
+<span class="hljs-built_in">tail</span> -30 run/iv-campaign.log
+ps -Ao pid,ppid,pgid,<span class="hljs-built_in">command</span> | rg <span class="hljs-string">&#x27;[P]ython.*(scripts/|harness/cli)&#x27;</span>
+python3 harness/cli.py state</code></pre>
+<p>For a clean stop, look at the current child, its screen and the recent log. Prefer a closed screen between jobs. Check that the saved group ID still belongs to this campaign in the process list before sending the group signal. These commands are for that isolated group:</p>
+<pre class="ui-code ui-code--wrap" tabindex="0" aria-label="sh example"><code class="hljs language-bash"><span class="hljs-built_in">kill</span> -TERM -- -<span class="hljs-string">&quot;<span class="hljs-subst">$(cat run/iv-campaign.pgid)</span>&quot;</span>
+python3 harness/cli.py stop
+ps -Ao pid,ppid,pgid,<span class="hljs-built_in">command</span> | rg <span class="hljs-string">&#x27;[P]ython.*(scripts/|harness/cli)&#x27;</span>
+python3 harness/cli.py screen
+python3 harness/cli.py state</code></pre>
+<p>Finish or undo an interrupted inventory transfer, clear the cursor, close the screen and stand on solid ground. Read the queues and cargo, then run <code>scripts/stop.sh</code>. Check the game log for player/world saves and the final recording in the timeline. Preserve recordings. The server for greg tools can stay up. At this handoff the campaign group and bridge action were stopped during the coil pickup sequence, the fifth coil and wrench were in the pack, and the screen and cursor were clear. The saved campaign log ends before some final actions because process termination can leave child output buffered.</p>
+<h3>What keeps moving</h3>
+<ul>
+<li>With the world loaded, ME CPUs run their own orders, drawers buffer their products, the northern cobble → gravel → sand → dust → clay machines transfer directly, water refills locally and the freezer can return hot-metal orders. The west diamond dynamo has a direct physical feed from the Shulker fabricator. These systems still depend on power, available inputs and room for outputs.</li>
+<li>The campaign places stock orders, carries sand and clay until the drawer bus is online, replenishes clathrate/quartz and model fuel, rotates models and loads shared machines. The game has no independent process to replace those visits. Check DML and power each round and immediately after a restart. All three fuel slots were empty at the stop. For a shortage see tungsten-power-restart.md, shulker-polymer-feed.md and scripts/lapidary_restart_stock.py. Use stored diamonds or the physical fuel reserve for a cold start; observe an actual Shulker run and fuel moving to the generator. EV load control handles charge thresholds. The surveyed EV assembler and electrolyzer were enabled at shutdown.</li>
+<li>Watch fluid <strong>types</strong>, destination compatibility, leftover reagent and reserved output space. If a transfer loses its source to an active ME bus, read the actual source and portable tank before trying again. Use the direct desulfurizer hydrogen feed for fresh hydrochloric acid; recover diluted acid separately. Silicone stage was “rubber”. The wrapper held 2,064 mB silicone rubber and its selector stays on 24. See cable-acid-recovery.md and iron-and-stainless-for-iv.md.</li>
+<li>Use JEI, quest descriptions and payouts together before committing. Read upcoming chapters, side quests and alternative machine recipes. Compare actual usable circuit substitutions, batch size, yield, voltage, by-products, energy and wiring. Consider parallel machines and higher tiers as soon as queues form. Replace repeated player trips and vanilla arrangements early when a modded tool, buffer or permanent line will remove them. Give widespread inputs dedicated replenishment and a bounded reserve. Add autocrafting patterns and independent CPUs so unrelated consumers can work together. Rebuild an unsuitable aisle or machine row when it costs more time to keep working around it.</li>
+<li>Every two <strong>played</strong> hours, and sooner if a single ingredient starts consuming hours, step back from the current quest. Compare actual deliveries, player loads, CPU occupancy, power interruptions and items that held up other lines. Re-read the original tenets and review-questions.md. Check the best recipe for the next machine against its alternatives and the side quests. Record what decision changed and why. Run <code>python3 scripts/strategy_review.py --evidence</code> at 69h04m35s; only run <code>python3 scripts/strategy_review.py --reviewed</code> once the review is written. Keep one public note per subject and send it when changed with <code>python3 harness/cli.py note_send</code>. Work autonomously and use machine time for other jobs.</li>
+</ul>
+<h3>Tool changes, dead ends and remaining tests</h3>
+<p>The narrow Ender IO conduit arm can be visible while its external control plate is occluded. The quartz and clay hatches give a lower sight line to both upper plates. scripts/conduit_sight.py samples near the edges; use connector=True in reach_port when opening those GUIs. scripts/north_service_hatch.py installed the north hatch, and scripts/north_clay_feed.py set the red ports and produced clay. The final receipt change recognizes a filled drawer on the next visit if the first product arrives after configuration. It compiled and passed an offline check for empty and filled drawers. The live line already has its receipt. The active hopper cleaner also recovers stray non-cane items; it recovered two charged crystals. The ten-tick cane timer is on the south wall; the Enderman fuel connector belongs on the chamber lid. Leave the north crop wall closed.</p>
+<p>scripts/tungstate_milling.py encodes mission ore metadata 1 and the primary output, with the interface pointing down. The mill returns items south through the washer conduit. Wrenching it upward wasted time. scripts/network_cable_wrapper.py can order two gold cables when two wires are available even without a bare-wire pattern; the cables were delivered. scripts/iv_dense_iron.py, fluid_terminal.py and silicone_refill.py handle the acid transfers; the first dense block is proved, the complete repeated cycle is still to test. scripts/ore_centrifuge.py and the new wiremill.py station have yet to commission the HV centrifuge. Verify the rare-earth batch and tungstate pattern before declaring the new station automatic. The north controller, stock bus and fourth CPU helpers are partial factory builds, with their intended acceptance checks in resume.md.</p>
+<p>Long walks sometimes time out within a few blocks of a target. Check the actual player position; a short approach from the service aisle can finish the job. Some carried items use nonzero metadata, including terracotta and worn tools. Avoid a long terminal trip caused by a false zero count. Leaving a GUI closed and recording an actual stock increase proved more reliable than inferring delivery from a successfully started job.</p>
+<p>The stop snapshot, previous campaign log and shutdown confirmation are under run/handoff-67h/. Temporary scratch experiments, old stdout logs and paths printed under /tmp in earlier notes are expendable. None is required to launch the next campaign. Older reviews are time-stamped history. Use their reasoning and repeat observations where the stop ledger has no reading.</p>
+</div>
+      </article>
+    </main>
+  </body>
+</html>

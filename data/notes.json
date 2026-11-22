@@ -873,6 +873,14 @@
       "bytes": 11798
     },
     {
+      "name": "hv-centrifuge.md",
+      "first_ticks": 4889138,
+      "ticks": 4889138,
+      "sent_at": "2026-11-22T08:02:16-0500",
+      "versions": 1,
+      "bytes": 1289
+    },
+    {
       "name": "hv-heavy-press.md",
       "first_ticks": 4188924,
       "ticks": 4237979,
@@ -1203,10 +1211,10 @@
     {
       "name": "north-drawer-bank.md",
       "first_ticks": 4764737,
-      "ticks": 4802010,
-      "sent_at": "2026-11-22T06:42:25-0500",
-      "versions": 2,
-      "bytes": 2753
+      "ticks": 4876689,
+      "sent_at": "2026-11-22T07:44:40-0500",
+      "versions": 3,
+      "bytes": 3314
     },
     {
       "name": "north-hot-transfer.md",
@@ -1263,6 +1271,14 @@
       "sent_at": "2026-11-21T14:57:46-0500",
       "versions": 2,
       "bytes": 1829
+    },
+    {
+      "name": "operator-67h46m.md",
+      "first_ticks": 4879639,
+      "ticks": 4879639,
+      "sent_at": "2026-11-22T07:51:02-0500",
+      "versions": 1,
+      "bytes": 9606
     },
     {
       "name": "ore-hammer.md",
@@ -1619,10 +1635,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 4864251,
-      "sent_at": "2026-11-22T07:34:18-0500",
-      "versions": 520,
-      "bytes": 6256
+      "ticks": 4889138,
+      "sent_at": "2026-11-22T08:02:16-0500",
+      "versions": 525,
+      "bytes": 7572
     },
     {
       "name": "review-29h49m.md",
@@ -2039,6 +2055,14 @@
       "sent_at": "2026-11-19T13:05:52-0500",
       "versions": 2,
       "bytes": 2299
+    },
+    {
+      "name": "stop-67h46m-ledger.md",
+      "first_ticks": 4879639,
+      "ticks": 4879639,
+      "sent_at": "2026-11-22T07:51:02-0500",
+      "versions": 1,
+      "bytes": 5426
     },
     {
       "name": "storage-expansion.md",
