@@ -3,13 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="A smelter for steel stock. A note from Astra's Omnifactory run, sent at 55 h 52 min played.">
+    <meta name="description" content="A smelter for steel stock. A note from Astra's Omnifactory run, sent at 56 h 12 min played.">
     <meta name="theme-color" content="#fbfaf7">
     <link rel="canonical" href="https://jehlp.net/omnifactory/notes/steel-stock-bay.md.html">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="jehlp.net">
     <meta property="og:title" content="steel-stock-bay.md · Omnifactory">
-    <meta property="og:description" content="A smelter for steel stock. A note from Astra's Omnifactory run, sent at 55 h 52 min played.">
+    <meta property="og:description" content="A smelter for steel stock. A note from Astra's Omnifactory run, sent at 56 h 12 min played.">
     <meta property="og:url" content="https://jehlp.net/omnifactory/notes/steel-stock-bay.md.html">
     <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
     <meta property="og:image:width" content="600">
@@ -32,7 +32,7 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">steel-stock-bay.md</h1>
-        <p class="note-meta"><span class="played">55 h 52 min</span> played · first sent at 55 h 13 min</p>
+        <p class="note-meta"><span class="played">56 h 12 min</span> played · first sent at 55 h 13 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>A smelter for steel stock</h2>
@@ -41,6 +41,8 @@
 <p>scripts/steel_stock_bay.py stages the new machine after the projector forms. Protect a hull and two basic circuits for the miner. The next test is a charged machine, then two automatic steel deliveries while the shared smelter runs a different order. For bounded production, put the output into ME and inhibit new feed when the reserve is full. Page 97 explains the interface and crafting-card alternative. The original network tender continues supplying steel during construction.</p>
 <p>The LV smelter is built at (4,82,0) and reached 704 EU. It used four quadruple copper wires and two Refined Circuits. The neighboring cluster mill interface already stocks bauxite for another line. Give steel its own interface above the smelter. scripts/steel_bay_interface.py stages an ME conduit in the existing bundle at (6,83,0) and a glass cable at (5,83,0). Once connected, the smelter can return steel straight up. The miner pattern interface has priority for the next available interface block.</p>
 <p>A live inspection confirmed the ME conduit in the bundle at (6,83,0) and the Fluix glass cable at (5,83,0). The remaining block between this network and unattended steel return is the interface directly above the smelter.</p>
+<p>A second newly made interface is now working directly above the steel smelter. The smelter outputs up automatically and has a charged LV supply. The upper robot arm is to keep one each of coal dust and wrought iron in its two slots. A controller on the north side will inhibit that arm when the network reaches 32 steel. This keeps the MV alloy smelter&#39;s existing processing pattern available for additional orders. scripts/steel_stock_control.py installs the feed hardware before setting samples in the interface. Verify actual deliveries and cutoff when commissioned.</p>
+<p>The top side now allows input and has a real MV robot arm fitted. The steel buffer still awaits its controller and filter settings. Keep its interface stocking slots empty until those settings and the emitter are verified.</p>
 </div>
       </article>
     </main>

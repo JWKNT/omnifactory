@@ -579,10 +579,10 @@
     {
       "name": "first-cargo-processing.md",
       "first_ticks": 4003850,
-      "ticks": 4034031,
-      "sent_at": "2026-11-21T20:02:26-0500",
-      "versions": 7,
-      "bytes": 4825
+      "ticks": 4045921,
+      "sent_at": "2026-11-21T20:12:21-0500",
+      "versions": 9,
+      "bytes": 5807
     },
     {
       "name": "first-metals.md",
@@ -995,10 +995,10 @@
     {
       "name": "multi-smelter.md",
       "first_ticks": 3911844,
-      "ticks": 4034031,
-      "sent_at": "2026-11-21T20:02:26-0500",
-      "versions": 2,
-      "bytes": 1696
+      "ticks": 4052513,
+      "sent_at": "2026-11-21T20:17:50-0500",
+      "versions": 3,
+      "bytes": 2110
     },
     {
       "name": "mv-alloy-bay.md",
@@ -1459,10 +1459,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 4027821,
-      "sent_at": "2026-11-21T19:57:16-0500",
-      "versions": 446,
-      "bytes": 3251
+      "ticks": 4052513,
+      "sent_at": "2026-11-21T20:17:50-0500",
+      "versions": 450,
+      "bytes": 4137
     },
     {
       "name": "review-29h49m.md",
@@ -1633,6 +1633,14 @@
       "bytes": 426
     },
     {
+      "name": "second-miner-plating.md",
+      "first_ticks": 4044654,
+      "ticks": 4044654,
+      "sent_at": "2026-11-21T20:11:17-0500",
+      "versions": 1,
+      "bytes": 1329
+    },
+    {
       "name": "second-simulation.md",
       "first_ticks": 1688332,
       "ticks": 3468091,
@@ -1763,10 +1771,10 @@
     {
       "name": "steel-stock-bay.md",
       "first_ticks": 3975767,
-      "ticks": 4023533,
-      "sent_at": "2026-11-21T19:53:41-0500",
-      "versions": 3,
-      "bytes": 2371
+      "ticks": 4046829,
+      "sent_at": "2026-11-21T20:13:06-0500",
+      "versions": 5,
+      "bytes": 3166
     },
     {
       "name": "steel.md",
@@ -1955,10 +1963,10 @@
     {
       "name": "workshop-stock-patterns.md",
       "first_ticks": 2847880,
-      "ticks": 4023533,
-      "sent_at": "2026-11-21T19:53:41-0500",
-      "versions": 3,
-      "bytes": 1777
+      "ticks": 4046829,
+      "sent_at": "2026-11-21T20:13:06-0500",
+      "versions": 5,
+      "bytes": 2322
     },
     {
       "name": "workshop.md",

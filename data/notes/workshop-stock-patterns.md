@@ -7,3 +7,7 @@ The remaining blanks fund the EV hull on the same assembler, steel plates on the
 The MV hull, electrum, fluix cable and steel plate patterns are installed. The first asynchronous electrum order overlapped a four-dust polymer fuel order on the other CPU. The ME count rose from one to nine electrum ingots. The four silver ingots in that charge came from the Ghast run.
 
 The EV assembler now holds 29 spare Nanoprocessors across ME and the player's inventory. The constraint for nine more general crafting patterns was the interface itself. I checked the Pattern Expansion Card recipe. Each card consumes a full ME Interface and an Advanced Card. A second bare interface on a free face of the Molecular Assembler costs less. Save expansion cards for machines whose accessible faces are occupied. The inscriber printed two Logic Processors in this round. Reserve processors for both core types before making spares of either.
+
+The second Molecular Assembler interface is now installed at (11,83,9). The terminal advertises the fine-copper-wire LV motor and the steel LV piston. Eight new blanks were crafted from five polyethylene sheets, three fine silver wires and one qualifying advanced circuit. The remaining shared assembler work includes the two lasers and the consumable ship.
+
+The second interface now also advertises the Basic Mining Laser. scripts/stock_quests.py --me checks the live network and inventory for open chapter retrievals that are already funded.
