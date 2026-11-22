@@ -913,12 +913,20 @@
       "bytes": 1870
     },
     {
+      "name": "interface-production.md",
+      "first_ticks": 4660437,
+      "ticks": 4671315,
+      "sent_at": "2026-11-22T04:53:30-0500",
+      "versions": 2,
+      "bytes": 2167
+    },
+    {
       "name": "iv-assembler-windings.md",
       "first_ticks": 4401872,
-      "ticks": 4541326,
-      "sent_at": "2026-11-22T03:05:11-0500",
-      "versions": 3,
-      "bytes": 3156
+      "ticks": 4681603,
+      "sent_at": "2026-11-22T05:02:05-0500",
+      "versions": 4,
+      "bytes": 3881
     },
     {
       "name": "iv-metal-bill.md",
@@ -1355,10 +1363,10 @@
     {
       "name": "polymer-clay-expansion.md",
       "first_ticks": 4628428,
-      "ticks": 4628428,
-      "sent_at": "2026-11-22T04:17:46-0500",
-      "versions": 1,
-      "bytes": 1471
+      "ticks": 4675273,
+      "sent_at": "2026-11-22T04:56:48-0500",
+      "versions": 2,
+      "bytes": 2620
     },
     {
       "name": "polymer-clay.md",
