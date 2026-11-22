@@ -475,10 +475,10 @@
     {
       "name": "elite-mainframe.md",
       "first_ticks": 3367013,
-      "ticks": 3498338,
-      "sent_at": "2026-11-21T12:36:02-0500",
-      "versions": 3,
-      "bytes": 1458
+      "ticks": 5240280,
+      "sent_at": "2026-11-22T12:54:53-0500",
+      "versions": 4,
+      "bytes": 2070
     },
     {
       "name": "end-steel.md",
@@ -587,10 +587,10 @@
     {
       "name": "ev-solder-reserve.md",
       "first_ticks": 5211901,
-      "ticks": 5211901,
-      "sent_at": "2026-11-22T12:31:14-0500",
-      "versions": 1,
-      "bytes": 836
+      "ticks": 5227165,
+      "sent_at": "2026-11-22T12:43:58-0500",
+      "versions": 2,
+      "bytes": 1317
     },
     {
       "name": "ev-titanium.md",
@@ -1003,10 +1003,10 @@
     {
       "name": "iv-quantumprocessor-power.md",
       "first_ticks": 5146298,
-      "ticks": 5224529,
-      "sent_at": "2026-11-22T12:41:46-0500",
-      "versions": 3,
-      "bytes": 3256
+      "ticks": 5240280,
+      "sent_at": "2026-11-22T12:54:53-0500",
+      "versions": 4,
+      "bytes": 3730
     },
     {
       "name": "kanthal-coils.md",
@@ -1051,10 +1051,10 @@
     {
       "name": "lumium-and-mana.md",
       "first_ticks": 4639804,
-      "ticks": 5179053,
-      "sent_at": "2026-11-22T12:03:52-0500",
-      "versions": 5,
-      "bytes": 3600
+      "ticks": 5240280,
+      "sent_at": "2026-11-22T12:54:53-0500",
+      "versions": 6,
+      "bytes": 4236
     },
     {
       "name": "lv-batteries.md",
@@ -1691,10 +1691,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 5213952,
-      "sent_at": "2026-11-22T12:32:57-0500",
-      "versions": 555,
-      "bytes": 15859
+      "ticks": 5240539,
+      "sent_at": "2026-11-22T12:55:06-0500",
+      "versions": 558,
+      "bytes": 15842
     },
     {
       "name": "review-29h49m.md",
