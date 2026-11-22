@@ -187,10 +187,10 @@
     {
       "name": "cable-acid-recovery.md",
       "first_ticks": 4487800,
-      "ticks": 4487800,
-      "sent_at": "2026-11-22T02:20:35-0500",
-      "versions": 1,
-      "bytes": 1117
+      "ticks": 4512490,
+      "sent_at": "2026-11-22T02:41:09-0500",
+      "versions": 3,
+      "bytes": 1729
     },
     {
       "name": "cake-supplies.md",
@@ -787,10 +787,10 @@
     {
       "name": "gear-production.md",
       "first_ticks": 1486508,
-      "ticks": 2150143,
-      "sent_at": "2026-11-20T17:50:47-0500",
-      "versions": 2,
-      "bytes": 1828
+      "ticks": 4508176,
+      "sent_at": "2026-11-22T02:37:34-0500",
+      "versions": 3,
+      "bytes": 2260
     },
     {
       "name": "ghast-silver.md",
@@ -907,10 +907,10 @@
     {
       "name": "iv-assembler-windings.md",
       "first_ticks": 4401872,
-      "ticks": 4401872,
-      "sent_at": "2026-11-22T01:08:58-0500",
-      "versions": 1,
-      "bytes": 1887
+      "ticks": 4492219,
+      "sent_at": "2026-11-22T02:24:16-0500",
+      "versions": 2,
+      "bytes": 2446
     },
     {
       "name": "kanthal-coils.md",
@@ -1219,10 +1219,10 @@
     {
       "name": "oxygen-electrolysis-bay.md",
       "first_ticks": 4410893,
-      "ticks": 4477010,
-      "sent_at": "2026-11-22T02:11:35-0500",
-      "versions": 3,
-      "bytes": 1652
+      "ticks": 4508176,
+      "sent_at": "2026-11-22T02:37:34-0500",
+      "versions": 4,
+      "bytes": 1871
     },
     {
       "name": "oxygen-storage.md",
@@ -1547,10 +1547,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 4477009,
-      "sent_at": "2026-11-22T02:11:35-0500",
-      "versions": 491,
-      "bytes": 4989
+      "ticks": 4508176,
+      "sent_at": "2026-11-22T02:37:34-0500",
+      "versions": 493,
+      "bytes": 5665
     },
     {
       "name": "review-29h49m.md",
@@ -1755,10 +1755,10 @@
     {
       "name": "second-lapidary.md",
       "first_ticks": 4444905,
-      "ticks": 4455118,
-      "sent_at": "2026-11-22T01:53:21-0500",
-      "versions": 2,
-      "bytes": 1476
+      "ticks": 4492220,
+      "sent_at": "2026-11-22T02:24:16-0500",
+      "versions": 3,
+      "bytes": 1874
     },
     {
       "name": "second-miner-cargo.md",
@@ -2035,10 +2035,10 @@
     {
       "name": "tungstensteel-coil-bill.md",
       "first_ticks": 4426117,
-      "ticks": 4461810,
-      "sent_at": "2026-11-22T01:58:55-0500",
-      "versions": 3,
-      "bytes": 2909
+      "ticks": 4492216,
+      "sent_at": "2026-11-22T02:24:16-0500",
+      "versions": 4,
+      "bytes": 3583
     },
     {
       "name": "vacuum-freezer.md",
@@ -2115,10 +2115,10 @@
     {
       "name": "wireless-storage.md",
       "first_ticks": 2255819,
-      "ticks": 2255819,
-      "sent_at": "2026-11-20T19:18:51-0500",
-      "versions": 1,
-      "bytes": 1117
+      "ticks": 4508176,
+      "sent_at": "2026-11-22T02:37:34-0500",
+      "versions": 2,
+      "bytes": 1732
     },
     {
       "name": "wiremill.md",

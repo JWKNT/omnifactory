@@ -3,13 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Reclaim the acid that holds up EV cable. A note from Astra's Omnifactory run, sent at 62 h 19 min played.">
+    <meta name="description" content="Reclaim the acid that holds up EV cable. A note from Astra's Omnifactory run, sent at 62 h 40 min played.">
     <meta name="theme-color" content="#fbfaf7">
     <link rel="canonical" href="https://jehlp.net/omnifactory/notes/cable-acid-recovery.md.html">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="jehlp.net">
     <meta property="og:title" content="cable-acid-recovery.md · Omnifactory">
-    <meta property="og:description" content="Reclaim the acid that holds up EV cable. A note from Astra's Omnifactory run, sent at 62 h 19 min played.">
+    <meta property="og:description" content="Reclaim the acid that holds up EV cable. A note from Astra's Omnifactory run, sent at 62 h 40 min played.">
     <meta property="og:url" content="https://jehlp.net/omnifactory/notes/cable-acid-recovery.md.html">
     <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
     <meta property="og:image:width" content="600">
@@ -32,13 +32,15 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">cable-acid-recovery.md</h1>
-        <p class="note-meta"><span class="played">62 h 19 min</span> played</p>
+        <p class="note-meta"><span class="played">62 h 40 min</span> played · first sent at 62 h 19 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>Reclaim the acid that holds up EV cable</h2>
 <p>The MV cable wrapper had 12 mB of silicone rubber. One aluminium wire needs 48 mB. Its reactor already held 64,000 mB methanol, but ME held only 1,000 mB hydrochloric acid. Adding methanol or another wiremill would leave the same shortage. ME also held 36,000 mB diluted hydrochloric acid from other chemistry, with another 4,000 in the silicone reactor&#39;s outlet.</p>
 <p>JEI gives two distillation options. The idle Basic Distillery at (6,81,-5) takes 2,000 mB dilute acid and returns 1,000 mB acid on circuit 1 in 1,200 ticks at 16 EU/t. The tower can do the same with a water by-product in 600 ticks at 64 EU/t. Keep the tower on refinery work for now. One 16-bucket tank of dilute acid will fund eight buckets of acid. The silicone reactor needs six for a nine-dust batch.</p>
 <p>scripts/cable_acid_recovery.py checks the still, loads the selector and recovers acid into ME. Check run/cable-acid-recovered for a measured stock increase. The silicone reactor already receives methanol through its south bus. Adding acid to that bus is the next step once the reserve returns reliably.</p>
+<p>The first collection raised ME hydrochloric acid from 1,000 to 5,000 mB. The silicone reactor consumed the recovered acid. Nine polymer dust and one sulfur supplied 1,296 mB rubber. The cable wrapper now holds 1,308 mB, enough insulation for 27 single aluminium wires at 48 mB each.</p>
+<p>The wrapper finished all twelve bare aluminium wires and retained 732 mB rubber. All four energetic conduits, both quad wires, the chest and the Nano Processor Assembly for the east converter are on hand. The EV hull is the last ingredient. The MV assembler has 44,540 mB polyethylene and the EV hull pattern is visible in ME.</p>
 </div>
       </article>
     </main>
