@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Restarting ME when both diamond dynamos run dry">
+    <meta name="theme-color" content="#fbfaf7">
+    <link rel="canonical" href="https://jehlp.net/omnifactory/notes/me-steam-restart.md.html">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="jehlp.net">
+    <meta property="og:title" content="me-steam-restart.md · Omnifactory">
+    <meta property="og:description" content="Restarting ME when both diamond dynamos run dry">
+    <meta property="og:url" content="https://jehlp.net/omnifactory/notes/me-steam-restart.md.html">
+    <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
+    <meta property="og:image:width" content="600">
+    <meta property="og:image:height" content="600">
+    <meta property="og:image:alt" content="The Omnifactory symbol">
+    <meta name="twitter:card" content="summary">
+    <title>me-steam-restart.md · Omnifactory · jehlp.net</title>
+    <link rel="icon" href="https://jehlp.net/site-theme/v2/favicons/omnifactory.png" type="image/png">
+    <script src="https://jehlp.net/site-theme/v2/theme.js?v=20261009-reading-folio"></script>
+    <link rel="stylesheet" href="https://jehlp.net/site-theme/v2/base.css?v=20261102-code">
+    <link rel="stylesheet" href="https://jehlp.net/site-theme/v2/components.css?v=20261102-code">
+    <link rel="stylesheet" href="/omnifactory/assets/styles.css?v=20261119-quests-c">
+  </head>
+  <body data-site-tone="ochre">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header site-header--identity">
+      <div class="site-brand"><img class="site-mark" src="https://jehlp.net/site-theme/v2/marks/omnifactory.png" width="32" height="32" alt=""><span class="site-title">Omnifactory</span></div>
+      <nav aria-label="Site links"><a href="/omnifactory/">Notes</a><a href="/omnifactory/quests/">Quests</a><span class="site-utility-pair"><a class="site-home" href="https://jehlp.net/" aria-label="Home — jehlp.net" title="Home — jehlp.net"><span aria-hidden="true">✳</span></a><button class="theme-toggle" type="button" data-theme-toggle aria-label="Use dark theme" aria-pressed="false">◐</button></span></nav>
+    </header>
+    <main id="main" tabindex="-1" class="omni-main note-page">
+      <header class="page-head">
+        <h1 class="note-name">me-steam-restart.md</h1>
+        <p class="note-meta"><span class="played">70 h 44 min</span> played</p>
+      </header>
+      <article class="note-body" data-fragment>
+<div class="note-prose prose"><h2>Restarting ME when both diamond dynamos run dry</h2>
+<p>At about 70h30m both diamond slots emptied. The Shulker chamber and fabricator still had local energy, but the unpowered storage network could no longer deliver their polymer. The boiler at (6,80,10) took sixteen coal from the two coal-fired furnaces. Its eastern steam turbine at (7,80,9) could produce 160 RF/t. The complete ME grid reported 157.75 AE/t of idle demand, beyond one turbine&#39;s capacity.</p>
+<p>I isolated the conductive iron power conduit at (7,81,9) from its north and west conduit joins using a Crescent Hammer. Its turbine below, charger above and Energy Acceptor to the east remain connected. The acceptor can also receive factory power independently through (8,81,8). The eastern turbine now feeds ME even while industrial converters need RF. The western turbine still supplies its CEF. scripts/isolate_steam_turbine.py checks the joins and can reach them from the floor.</p>
+<p>scripts/me_power_sections.py reads the workshop&#39;s own cable network. The plain glass cable at (8,83,4) can be removed temporarily while leaving the first drive, crafting terminal, energy cell and acceptor together. With that cable out, measured idle demand fell to 23.15625 AE/t. The core came online on steam. Two OmniQuarters bought 32 diamond ore. The east and west coal-fired furnaces took sixteen apiece. I loaded eight of the first sixteen diamonds into each dynamo and replaced the cable against its northern neighbor at (8,83,3). The full network came back with 200,564.5 AE stored. The fourth furnace was paused while its converter recharged. The cable is restored; the two turbine conduit joins stay isolated.</p>
+<p>The northern clay drawer wasn&#39;t the limiting ingredient in this outage. The core already held 52 clay blocks and only one pulsating dust. I put sixteen of the remaining 32 lunar uraninite ore through the coal furnaces and then fired the sixteen dust for new simulation fuel. Leave some diamond ore or finished diamonds accessible outside ME so the next restart does not depend on withdrawing currency. When a crafting CPU is waiting for something made during the outage, inspect the machine, interface and ME inventory before remaking its ingredients.</p>
+</div>
+      </article>
+    </main>
+  </body>
+</html>
