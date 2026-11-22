@@ -11,3 +11,7 @@ The output return passed its live test. The coater pushes boards down into a jun
 When foil is already in the first input and sulfuric acid is available, the feeder can add PVC to the second input. Eight stocked PVC sheets yielded sixteen Plastic Circuit Boards in ME. For this charge the available alternatives were polyethylene at one board per sheet or PTFE at four, with no PTFE in stock.
 
 The ME interface at (4,81,−5) supplies copper foil to the coater’s west robot arm. After removing one foil, I watched its replacement enter the machine. The arm holds one foil. The workshop can add Reinforced Epoxy Resin Sheet to the interface and arm when a sheet is available. Check one physical replacement before relying on automatic sheet delivery.
+
+I configured the arm’s second filter sample from the cable roof. A jetpack crossing from the refinery reached the roof. A final short walk to (5,83,−5) gave a clear hit on the west strip of the top face. From that perch I opened the arm with the screwdriver, copied one reinforced sheet into its second sample, then configured the ME interface’s second stock slot. I verified one copper foil and one reinforced sheet in the coater while it was actively making a Fiber-Reinforced Circuit Board at 10 EU/t for 500 ticks. Both ingredients replenished while the first board was still running.
+
+Four Fiber-Reinforced Circuit Boards subsequently reached ME from the coater without a player carrying them. The same drawer and cyan return used for ordinary epoxy boards handled this grade.

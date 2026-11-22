@@ -10,3 +10,8 @@ Keep the first Signalum mana charge for its eight ingots. The Nether Star core c
 
 
 The LV electrolyzer order used the twelve stored vanadium magnetite dust. The recipe’s first listed output is magnetite, so the native order requests six magnetite. I verified all six vanadium dust in storage once the CPU finished. The next step is the east blast furnace and freezer before the 3:1 alloy charge.
+
+
+The east Nichrome furnace smelted six vanadium dust at 1,920 EU/t, taking 284 ticks per ingot. The freezer returned cold vanadium. Three ingots and one gallium went into the fourth furnace, which produced four hot alloy ingots in 1,276 ticks at 1,920 EU/t. All four reached ME cold. Page 285 paid one OmniNickel. The first southern Nether Star tip is also crafted. For page 138, the wiremill makes two single wires from just one alloy ingot. Coat each in 72 mB silicone rubber. Eight Lumium plates make the casing, and the assembler combines it with the cables and 288 mB polyethylene.
+
+One Vanadium-Gallium ingot passed through the LV wiremill for two single wires. The MV cable assembler then insulated both wires at 128 EU/t; both LuV cables reached ME. The outstanding hull ingredient is the casing made from eight Lumium plates.
