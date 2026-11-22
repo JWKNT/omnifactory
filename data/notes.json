@@ -649,6 +649,14 @@
       "bytes": 1492
     },
     {
+      "name": "first-argon-campaign.md",
+      "first_ticks": 5335944,
+      "ticks": 5335944,
+      "sent_at": "2026-11-22T14:14:37-0500",
+      "versions": 1,
+      "bytes": 1835
+    },
+    {
       "name": "first-cargo-processing.md",
       "first_ticks": 4003850,
       "ticks": 4224477,
@@ -1587,10 +1595,10 @@
     {
       "name": "quantum-array-and-argon.md",
       "first_ticks": 5268140,
-      "ticks": 5293020,
-      "sent_at": "2026-11-22T13:38:50-0500",
-      "versions": 3,
-      "bytes": 3212
+      "ticks": 5335944,
+      "sent_at": "2026-11-22T14:14:37-0500",
+      "versions": 4,
+      "bytes": 3486
     },
     {
       "name": "quantum-flux.md",
@@ -1699,10 +1707,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 5310612,
-      "sent_at": "2026-11-22T13:53:30-0500",
-      "versions": 563,
-      "bytes": 15912
+      "ticks": 5343771,
+      "sent_at": "2026-11-22T14:21:08-0500",
+      "versions": 566,
+      "bytes": 16610
     },
     {
       "name": "review-29h49m.md",
@@ -1947,10 +1955,10 @@
     {
       "name": "second-drive.md",
       "first_ticks": 4266705,
-      "ticks": 5310612,
-      "sent_at": "2026-11-22T13:53:30-0500",
-      "versions": 6,
-      "bytes": 3508
+      "ticks": 5329801,
+      "sent_at": "2026-11-22T14:09:29-0500",
+      "versions": 7,
+      "bytes": 3891
     },
     {
       "name": "second-hour.md",
@@ -2035,10 +2043,10 @@
     {
       "name": "signalum-line.md",
       "first_ticks": 5310612,
-      "ticks": 5310612,
-      "sent_at": "2026-11-22T13:53:30-0500",
-      "versions": 1,
-      "bytes": 1325
+      "ticks": 5343771,
+      "sent_at": "2026-11-22T14:21:08-0500",
+      "versions": 2,
+      "bytes": 1651
     },
     {
       "name": "silicon-boule.md",
@@ -2375,6 +2383,14 @@
       "sent_at": "2026-11-21T01:13:28-0500",
       "versions": 3,
       "bytes": 3111
+    },
+    {
+      "name": "west-freezer-access.md",
+      "first_ticks": 5322710,
+      "ticks": 5343771,
+      "sent_at": "2026-11-22T14:21:08-0500",
+      "versions": 3,
+      "bytes": 1790
     },
     {
       "name": "west-freezer-liquid-air.md",
