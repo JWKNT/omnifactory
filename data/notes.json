@@ -99,10 +99,10 @@
     {
       "name": "assembly-line-materials.md",
       "first_ticks": 5388520,
-      "ticks": 5633532,
-      "sent_at": "2026-11-22T18:22:36-0500",
-      "versions": 6,
-      "bytes": 4021
+      "ticks": 5653754,
+      "sent_at": "2026-11-22T18:39:27-0500",
+      "versions": 8,
+      "bytes": 5205
     },
     {
       "name": "autoclave.md",
@@ -723,10 +723,10 @@
     {
       "name": "first-nether-star.md",
       "first_ticks": 1690701,
-      "ticks": 1690701,
-      "sent_at": "2026-11-20T11:27:55-0500",
-      "versions": 1,
-      "bytes": 1636
+      "ticks": 5642509,
+      "sent_at": "2026-11-22T18:30:05-0500",
+      "versions": 2,
+      "bytes": 2221
     },
     {
       "name": "first-palladium.md",
@@ -891,10 +891,10 @@
     {
       "name": "glowstone-boule.md",
       "first_ticks": 5576450,
-      "ticks": 5622154,
-      "sent_at": "2026-11-22T18:13:07-0500",
-      "versions": 2,
-      "bytes": 1722
+      "ticks": 5639060,
+      "sent_at": "2026-11-22T18:27:12-0500",
+      "versions": 5,
+      "bytes": 3054
     },
     {
       "name": "gp-for-oil.md",
@@ -943,6 +943,14 @@
       "sent_at": "2026-11-21T01:11:50-0500",
       "versions": 5,
       "bytes": 1476
+    },
+    {
+      "name": "hssg-frames.md",
+      "first_ticks": 5656986,
+      "ticks": 5656986,
+      "sent_at": "2026-11-22T18:42:09-0500",
+      "versions": 1,
+      "bytes": 1419
     },
     {
       "name": "hv-array-supplies.md",
@@ -1059,10 +1067,10 @@
     {
       "name": "iv-quantumprocessor-power.md",
       "first_ticks": 5146298,
-      "ticks": 5460386,
-      "sent_at": "2026-11-22T15:58:19-0500",
-      "versions": 11,
-      "bytes": 6755
+      "ticks": 5648027,
+      "sent_at": "2026-11-22T18:34:41-0500",
+      "versions": 13,
+      "bytes": 7620
     },
     {
       "name": "kanthal-coils.md",
@@ -1315,10 +1323,10 @@
     {
       "name": "noble-gas-feed.md",
       "first_ticks": 5611736,
-      "ticks": 5624007,
-      "sent_at": "2026-11-22T18:14:40-0500",
-      "versions": 4,
-      "bytes": 2487
+      "ticks": 5653940,
+      "sent_at": "2026-11-22T18:39:36-0500",
+      "versions": 6,
+      "bytes": 2930
     },
     {
       "name": "north-chemistry-power.md",
@@ -1763,10 +1771,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 5626855,
-      "sent_at": "2026-11-22T18:17:02-0500",
-      "versions": 596,
-      "bytes": 22005
+      "ticks": 5653942,
+      "sent_at": "2026-11-22T18:39:36-0500",
+      "versions": 600,
+      "bytes": 21592
     },
     {
       "name": "review-29h49m.md",

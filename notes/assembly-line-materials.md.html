@@ -32,7 +32,7 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">assembly-line-materials.md</h1>
-        <p class="note-meta"><span class="played">78 h 14 min</span> played · first sent at 74 h 50 min</p>
+        <p class="note-meta"><span class="played">78 h 31 min</span> played · first sent at 74 h 50 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>Materials to reserve for the first Assembly Line</h2>
@@ -45,6 +45,8 @@
 <p>One Vanadium-Gallium ingot passed through the LV wiremill for two single wires. The MV cable assembler then insulated both wires at 128 EU/t; both LuV cables reached ME. The outstanding hull ingredient is the casing made from eight Lumium plates.</p>
 <p>The 12-slice JEI preview (layout 7) matches the quest&#39;s eleven item inputs, four fluid inputs and 24 reinforced glass. Its twelve example energy hatches occupy eleven places that can instead take solid steel casings. The quest calls for one LuV hatch and 31 solid steel casings. Allow at least 3 × 4 × 12 blocks for the structure and additional length outside both ends for terminal cabling and maintenance.</p>
 <p>There are two efficient early orders while the circuit furnace runs. Reuse the cryogenic tower&#39;s steel-frame and plate patterns for the 31 casings. Six advanced alloy plates and eighteen glass make the 24 reinforced glass in an alloy smelter. The compressor turns a mixed metal ingot into an advanced alloy plate. Use the crafting recipe with one iron, one bronze and one tin plate per mixed ingot. The nine-plate recipe yields only two. The workshop stages both orders through scripts/assembly_line_shell.py.</p>
+<p>All 24 reinforced glass are now in ME. The next bulk order is eleven ULV item input buses. In this instance each needs a chest and one ULV hull. Across the eleven hulls the grid and assembler recipes both require 121 iron plates and 22 insulated red alloy cables. One eight-log grid makes four chests. All four rubber trees in the void grove were mature when checked. scripts/assembly_line_shell.py can harvest and replant them, batch the chests and casings, and request iron plates and cables from the existing ME patterns. Keep the resulting eleven buses for the Assembly Line.</p>
+<p>The surface survey found no clear five-by-fourteen bay on the existing workshop deck. The furnace floor already extends to z−16 across x18–35. Extend that northern edge to z−25 for an 18-by-9 floor, enough for two parallel twelve-slice lines with end access. Lift the buses above the floor for their underside connections. scripts/assembly_line_deck.py extends exposed edges with the builder&#39;s wand and checks every floor block before visiting the two chunks. At the time of the survey the extension had not started. The void grove subsequently yielded 27 logs and all four plots were replanted.</p>
 </div>
       </article>
     </main>
