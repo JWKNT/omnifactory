@@ -105,6 +105,14 @@
       "bytes": 2429
     },
     {
+      "name": "barium-for-superconductors.md",
+      "first_ticks": 4900510,
+      "ticks": 4911938,
+      "sent_at": "2026-11-22T08:21:16-0500",
+      "versions": 2,
+      "bytes": 1209
+    },
+    {
       "name": "bauxite-line.md",
       "first_ticks": 3441535,
       "ticks": 3504341,
@@ -875,10 +883,10 @@
     {
       "name": "hv-centrifuge.md",
       "first_ticks": 4889138,
-      "ticks": 4889138,
-      "sent_at": "2026-11-22T08:02:16-0500",
-      "versions": 1,
-      "bytes": 1289
+      "ticks": 4911938,
+      "sent_at": "2026-11-22T08:21:16-0500",
+      "versions": 3,
+      "bytes": 2606
     },
     {
       "name": "hv-heavy-press.md",
@@ -1635,10 +1643,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 4889138,
-      "sent_at": "2026-11-22T08:02:16-0500",
-      "versions": 525,
-      "bytes": 7572
+      "ticks": 4911938,
+      "sent_at": "2026-11-22T08:21:16-0500",
+      "versions": 529,
+      "bytes": 7118
     },
     {
       "name": "review-29h49m.md",
