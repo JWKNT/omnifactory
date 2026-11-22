@@ -1,0 +1,9 @@
+# Materials to reserve for the first Assembly Line
+
+The Quantum Processor Array alone will not unlock the first tier-seven circuit. Page 531 also requires the crafted Nether Star on page 391 and the Assembly Line on page 286. Page 286 requires a LuV hull. The IV hull and the old tier-five circuit prerequisite are already checked. The LuV hull and the Assembly Line each pay one OmniDollar.
+
+Give the steel line another 31 solid steel casings of capacity after the 84 for the air tower. The first Assembly Line quest also asks for 12 Assembly Line Casings, 24 Reinforced Glass, 11 Assembler Machine Casings, 24 Grate Machine Casings, four LV fluid input hatches, 11 ULV input buses, one LV output bus, one LuV energy input hatch and the controller. Keep room for a second line for recipes with a different circuit setting.
+
+There are 12 Vanadium Magnetite Dust and three Gallium Ingots on hand. The LV electrolyzer can separate two magnetite dust into one vanadium dust and one ordinary magnetite dust at 30 EU/t. The Nichrome furnace and existing freezer can make the first six cold vanadium ingots while the fourth furnace runs Signalum. After that, three vanadium and one gallium make four hot alloy ingots in the fourth furnace at 4,000 K. Cool them on its existing return, then hold one for page 285. Ordinary smelting of alloy dust is in JEI but does not turn our separate metals into alloy. The LuV hull uses two insulated alloy cables, an eight-Lumium-plate casing and 288 mB polyethylene in the assembler. The grid recipe costs another Lumium plate.
+
+Keep the first Signalum mana charge for its eight ingots. The Nether Star core can reuse the dedicated Luminessence reactor. Craft the four tips while that reactor makes its block. The first star advances two branches and gives the molecular assembler a recipe that later stars can reuse. Scripts for these orders are first_vanadium_gallium.py and nether_star_parts.py under scripts/.
