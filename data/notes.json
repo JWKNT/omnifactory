@@ -659,10 +659,10 @@
     {
       "name": "first-argon-campaign.md",
       "first_ticks": 5335944,
-      "ticks": 5427243,
-      "sent_at": "2026-11-22T15:30:42-0500",
-      "versions": 5,
-      "bytes": 4448
+      "ticks": 5465727,
+      "sent_at": "2026-11-22T16:02:46-0500",
+      "versions": 8,
+      "bytes": 5505
     },
     {
       "name": "first-cargo-processing.md",
@@ -1019,10 +1019,10 @@
     {
       "name": "iv-quantumprocessor-power.md",
       "first_ticks": 5146298,
-      "ticks": 5439714,
-      "sent_at": "2026-11-22T15:41:05-0500",
-      "versions": 9,
-      "bytes": 5855
+      "ticks": 5460386,
+      "sent_at": "2026-11-22T15:58:19-0500",
+      "versions": 11,
+      "bytes": 6755
     },
     {
       "name": "kanthal-coils.md",
@@ -1715,10 +1715,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 5419782,
-      "sent_at": "2026-11-22T15:24:28-0500",
-      "versions": 573,
-      "bytes": 20595
+      "ticks": 5465727,
+      "sent_at": "2026-11-22T16:02:46-0500",
+      "versions": 577,
+      "bytes": 20588
     },
     {
       "name": "review-29h49m.md",
@@ -2339,10 +2339,10 @@
     {
       "name": "vinyl-stock-line.md",
       "first_ticks": 4735976,
-      "ticks": 5141522,
-      "sent_at": "2026-11-22T11:32:35-0500",
-      "versions": 2,
-      "bytes": 2126
+      "ticks": 5460386,
+      "sent_at": "2026-11-22T15:58:19-0500",
+      "versions": 3,
+      "bytes": 2826
     },
     {
       "name": "void-factory.md",
