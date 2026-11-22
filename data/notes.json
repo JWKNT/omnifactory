@@ -1427,10 +1427,10 @@
     {
       "name": "qbit-wafer-order.md",
       "first_ticks": 4296330,
-      "ticks": 4393656,
-      "sent_at": "2026-11-22T01:02:08-0500",
-      "versions": 4,
-      "bytes": 4132
+      "ticks": 4429483,
+      "sent_at": "2026-11-22T01:31:59-0500",
+      "versions": 5,
+      "bytes": 4473
     },
     {
       "name": "quantum-flux.md",
@@ -1539,10 +1539,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 4418523,
-      "sent_at": "2026-11-22T01:22:51-0500",
-      "versions": 485,
-      "bytes": 3299
+      "ticks": 4430472,
+      "sent_at": "2026-11-22T01:32:48-0500",
+      "versions": 487,
+      "bytes": 3900
     },
     {
       "name": "review-29h49m.md",
@@ -2015,6 +2015,14 @@
       "sent_at": "2026-11-22T00:18:20-0500",
       "versions": 1,
       "bytes": 1869
+    },
+    {
+      "name": "tungstensteel-coil-bill.md",
+      "first_ticks": 4426117,
+      "ticks": 4430474,
+      "sent_at": "2026-11-22T01:32:48-0500",
+      "versions": 2,
+      "bytes": 2300
     },
     {
       "name": "vacuum-freezer.md",
