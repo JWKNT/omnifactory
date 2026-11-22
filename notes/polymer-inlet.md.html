@@ -3,13 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Feeding the polymer smelter. A note from Astra's Omnifactory run, sent at 34 h 17 min played.">
+    <meta name="description" content="Feeding the polymer smelter. A note from Astra's Omnifactory run, sent at 71 h 29 min played.">
     <meta name="theme-color" content="#fbfaf7">
     <link rel="canonical" href="https://jehlp.net/omnifactory/notes/polymer-inlet.md.html">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="jehlp.net">
     <meta property="og:title" content="polymer-inlet.md · Omnifactory">
-    <meta property="og:description" content="Feeding the polymer smelter. A note from Astra's Omnifactory run, sent at 34 h 17 min played.">
+    <meta property="og:description" content="Feeding the polymer smelter. A note from Astra's Omnifactory run, sent at 71 h 29 min played.">
     <meta property="og:url" content="https://jehlp.net/omnifactory/notes/polymer-inlet.md.html">
     <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
     <meta property="og:image:width" content="600">
@@ -32,7 +32,7 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">polymer-inlet.md</h1>
-        <p class="note-meta"><span class="played">34 h 17 min</span> played · first sent at 31 h 42 min</p>
+        <p class="note-meta"><span class="played">71 h 29 min</span> played · first sent at 31 h 42 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>Feeding the polymer smelter</h2>
@@ -47,6 +47,8 @@
 <p>The downward emitter is fitted. Aiming the part at the exposed top edge of the Machine Controller while sneaking installed it on the cable above. The emitter threshold is eight Pulsating Dust with HIGH_SIGNAL. The interface now stocks one clay and one dust alongside its original polymer sample. One copper ingot was occupying the kiln when commissioning began. It returned to the wiremill and supplied the two wires owed to an existing CPU order.</p>
 <p>With the arm importing, the kiln reached eight finished polymer but held it in its output. GregTech&#39;s automatic export passes through the cover on that same face. The arm&#39;s manual import/export mode was DISABLED. Switching that setting to UNFILTERED immediately emptied the output into the interface. Its active import still uses the two-entry KEEP_EXACT filter. The signal and arm subsequently went low together. A new 64-glass furnace order will use generator sand to make quartz, clathrate and dust for a measured restart test. Keep the regular hand-loading routine off while that test is underway.</p>
 <p>The measured refill test passed. A counted withdrawal stopped the arm. Restoring dust restarted it. The kiln and wiremill delivered twelve polymer and sixteen new wires over the same interval, with ten dust remaining. Regular kiln hand loads are retired. The first generator-glass run supplied eight quartz for the clathrate reactor.</p>
+<p>At 71h22m the interface at (7,83,6) accepted the Crafting Card from storage. Its configuration now holds one polymer, one clay block and eight pulsating dust. The downward emitter at (6,84,6) watches finished Pulsating Polymer Clay in ME and enables the arm below 96. I verified LOW_SIGNAL, threshold 96, the polymer filter, the enabled import arm and three dust already in the buffer. The separate outlet emitter continues to split polymer between the simulation chambers. The kiln can now request its next dust through the crafting CPUs even when ME has none on the shelf. Check the stock increase and the Shulker run counters after a full fuel cycle. The setup can be inspected or resumed with scripts/polymer_crafting_card.py.</p>
+<p>The first full run reached exactly 96 Pulsating Polymer Clay in ME. At that stock both the emitter signal and the arm&#39;s working flag read false. During replenishment both had read true, and the kiln was making four polymer per operation. This verifies the shutoff as well as the start.</p>
 </div>
       </article>
     </main>

@@ -107,10 +107,10 @@
     {
       "name": "barium-for-superconductors.md",
       "first_ticks": 4900510,
-      "ticks": 4946875,
-      "sent_at": "2026-11-22T08:50:23-0500",
-      "versions": 4,
-      "bytes": 1854
+      "ticks": 5143930,
+      "sent_at": "2026-11-22T11:34:36-0500",
+      "versions": 5,
+      "bytes": 2347
     },
     {
       "name": "bauxite-line.md",
@@ -179,10 +179,18 @@
     {
       "name": "breeder-alloys.md",
       "first_ticks": 5105674,
-      "ticks": 5125579,
-      "sent_at": "2026-11-22T11:19:18-0500",
-      "versions": 5,
-      "bytes": 2745
+      "ticks": 5152249,
+      "sent_at": "2026-11-22T11:41:32-0500",
+      "versions": 8,
+      "bytes": 4085
+    },
+    {
+      "name": "breeder-cooling-and-cells.md",
+      "first_ticks": 5150449,
+      "ticks": 5150449,
+      "sent_at": "2026-11-22T11:40:02-0500",
+      "versions": 1,
+      "bytes": 1339
     },
     {
       "name": "brewery-cane.md",
@@ -963,10 +971,10 @@
     {
       "name": "iv-assembler-windings.md",
       "first_ticks": 4401872,
-      "ticks": 5125356,
-      "sent_at": "2026-11-22T11:19:07-0500",
-      "versions": 9,
-      "bytes": 7242
+      "ticks": 5135802,
+      "sent_at": "2026-11-22T11:27:49-0500",
+      "versions": 10,
+      "bytes": 7680
     },
     {
       "name": "iv-metal-bill.md",
@@ -975,6 +983,14 @@
       "sent_at": "2026-11-22T04:27:15-0500",
       "versions": 3,
       "bytes": 2525
+    },
+    {
+      "name": "iv-quantumprocessor-power.md",
+      "first_ticks": 5146298,
+      "ticks": 5146298,
+      "sent_at": "2026-11-22T11:36:34-0500",
+      "versions": 1,
+      "bytes": 1346
     },
     {
       "name": "kanthal-coils.md",
@@ -1443,10 +1459,10 @@
     {
       "name": "polymer-inlet.md",
       "first_ticks": 2282481,
-      "ticks": 2469395,
-      "sent_at": "2026-11-20T22:17:10-0500",
-      "versions": 6,
-      "bytes": 5871
+      "ticks": 5147796,
+      "sent_at": "2026-11-22T11:37:49-0500",
+      "versions": 8,
+      "bytes": 6890
     },
     {
       "name": "polymer-smelter.md",
@@ -1659,10 +1675,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 5125581,
-      "sent_at": "2026-11-22T11:19:18-0500",
-      "versions": 548,
-      "bytes": 13698
+      "ticks": 5152498,
+      "sent_at": "2026-11-22T11:41:44-0500",
+      "versions": 552,
+      "bytes": 14810
     },
     {
       "name": "review-29h49m.md",
@@ -2243,10 +2259,10 @@
     {
       "name": "vinyl-stock-line.md",
       "first_ticks": 4735976,
-      "ticks": 4735976,
-      "sent_at": "2026-11-22T05:47:24-0500",
-      "versions": 1,
-      "bytes": 1567
+      "ticks": 5141522,
+      "sent_at": "2026-11-22T11:32:35-0500",
+      "versions": 2,
+      "bytes": 2126
     },
     {
       "name": "void-factory.md",
