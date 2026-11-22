@@ -1003,10 +1003,10 @@
     {
       "name": "iv-quantumprocessor-power.md",
       "first_ticks": 5146298,
-      "ticks": 5240280,
-      "sent_at": "2026-11-22T12:54:53-0500",
-      "versions": 4,
-      "bytes": 3730
+      "ticks": 5265062,
+      "sent_at": "2026-11-22T13:15:32-0500",
+      "versions": 6,
+      "bytes": 4271
     },
     {
       "name": "kanthal-coils.md",
@@ -1051,10 +1051,10 @@
     {
       "name": "lumium-and-mana.md",
       "first_ticks": 4639804,
-      "ticks": 5240280,
-      "sent_at": "2026-11-22T12:54:53-0500",
-      "versions": 6,
-      "bytes": 4236
+      "ticks": 5256098,
+      "sent_at": "2026-11-22T13:08:04-0500",
+      "versions": 7,
+      "bytes": 4693
     },
     {
       "name": "lv-batteries.md",
@@ -1585,6 +1585,14 @@
       "bytes": 4473
     },
     {
+      "name": "quantum-array-and-argon.md",
+      "first_ticks": 5268140,
+      "ticks": 5268483,
+      "sent_at": "2026-11-22T13:18:24-0500",
+      "versions": 2,
+      "bytes": 2009
+    },
+    {
       "name": "quantum-flux.md",
       "first_ticks": 1146576,
       "ticks": 3983095,
@@ -1691,10 +1699,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 5240539,
-      "sent_at": "2026-11-22T12:55:06-0500",
-      "versions": 558,
-      "bytes": 15842
+      "ticks": 5265062,
+      "sent_at": "2026-11-22T13:15:32-0500",
+      "versions": 560,
+      "bytes": 15682
     },
     {
       "name": "review-29h49m.md",
@@ -1873,6 +1881,14 @@
       "bytes": 3065
     },
     {
+      "name": "review-73h01m.md",
+      "first_ticks": 5257601,
+      "ticks": 5257601,
+      "sent_at": "2026-11-22T13:09:19-0500",
+      "versions": 1,
+      "bytes": 3264
+    },
+    {
       "name": "review-questions.md",
       "first_ticks": 2218163,
       "ticks": 2410865,
@@ -1931,10 +1947,10 @@
     {
       "name": "second-drive.md",
       "first_ticks": 4266705,
-      "ticks": 5187583,
-      "sent_at": "2026-11-22T12:10:59-0500",
-      "versions": 3,
-      "bytes": 2150
+      "ticks": 5256098,
+      "sent_at": "2026-11-22T13:08:04-0500",
+      "versions": 4,
+      "bytes": 2697
     },
     {
       "name": "second-hour.md",
