@@ -1179,10 +1179,10 @@
     {
       "name": "nanocircuit-feed.md",
       "first_ticks": 3526594,
-      "ticks": 4252508,
-      "sent_at": "2026-11-21T23:04:30-0500",
-      "versions": 14,
-      "bytes": 9878
+      "ticks": 5065328,
+      "sent_at": "2026-11-22T10:29:06-0500",
+      "versions": 17,
+      "bytes": 11322
     },
     {
       "name": "nether-landing.md",
@@ -1219,10 +1219,10 @@
     {
       "name": "north-drawer-bank.md",
       "first_ticks": 4764737,
-      "ticks": 4876689,
-      "sent_at": "2026-11-22T07:44:40-0500",
-      "versions": 3,
-      "bytes": 3314
+      "ticks": 5061289,
+      "sent_at": "2026-11-22T10:25:44-0500",
+      "versions": 4,
+      "bytes": 4172
     },
     {
       "name": "north-hot-transfer.md",
@@ -1643,10 +1643,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 5049506,
-      "sent_at": "2026-11-22T10:15:55-0500",
-      "versions": 544,
-      "bytes": 11179
+      "ticks": 5070039,
+      "sent_at": "2026-11-22T10:33:01-0500",
+      "versions": 545,
+      "bytes": 11988
     },
     {
       "name": "review-29h49m.md",
