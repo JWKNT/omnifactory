@@ -59,10 +59,10 @@
     {
       "name": "annealed-copper.md",
       "first_ticks": 841246,
-      "ticks": 3004329,
-      "sent_at": "2026-11-21T05:44:21-0500",
-      "versions": 7,
-      "bytes": 5136
+      "ticks": 4218704,
+      "sent_at": "2026-11-21T22:36:20-0500",
+      "versions": 8,
+      "bytes": 5673
     },
     {
       "name": "antimony-reserve.md",
@@ -595,10 +595,10 @@
     {
       "name": "first-cargo-processing.md",
       "first_ticks": 4003850,
-      "ticks": 4176878,
-      "sent_at": "2026-11-21T22:01:29-0500",
-      "versions": 11,
-      "bytes": 6575
+      "ticks": 4224477,
+      "sent_at": "2026-11-21T22:41:09-0500",
+      "versions": 13,
+      "bytes": 7485
     },
     {
       "name": "first-metals.md",
@@ -1339,18 +1339,18 @@
     {
       "name": "projector-power.md",
       "first_ticks": 3929842,
-      "ticks": 4016346,
-      "sent_at": "2026-11-21T19:47:42-0500",
-      "versions": 3,
-      "bytes": 1676
+      "ticks": 4224479,
+      "sent_at": "2026-11-21T22:41:09-0500",
+      "versions": 4,
+      "bytes": 2261
     },
     {
       "name": "propene.md",
       "first_ticks": 3157508,
-      "ticks": 3191210,
-      "sent_at": "2026-11-21T08:20:05-0500",
-      "versions": 4,
-      "bytes": 3576
+      "ticks": 4213094,
+      "sent_at": "2026-11-21T22:31:39-0500",
+      "versions": 5,
+      "bytes": 4391
     },
     {
       "name": "pulsating.md",
@@ -1491,10 +1491,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 4200353,
-      "sent_at": "2026-11-21T22:21:02-0500",
-      "versions": 463,
-      "bytes": 7841
+      "ticks": 4218704,
+      "sent_at": "2026-11-21T22:36:20-0500",
+      "versions": 464,
+      "bytes": 8523
     },
     {
       "name": "review-29h49m.md",
@@ -1875,10 +1875,10 @@
     {
       "name": "tier-two-miner-order.md",
       "first_ticks": 4135528,
-      "ticks": 4192941,
-      "sent_at": "2026-11-21T22:14:52-0500",
-      "versions": 5,
-      "bytes": 3388
+      "ticks": 4213094,
+      "sent_at": "2026-11-21T22:31:39-0500",
+      "versions": 6,
+      "bytes": 4038
     },
     {
       "name": "titanium-batch-size.md",
