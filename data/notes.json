@@ -307,10 +307,10 @@
     {
       "name": "component-wiremill.md",
       "first_ticks": 4292435,
-      "ticks": 4292435,
-      "sent_at": "2026-11-21T23:37:47-0500",
-      "versions": 1,
-      "bytes": 1433
+      "ticks": 4359705,
+      "sent_at": "2026-11-22T00:33:50-0500",
+      "versions": 3,
+      "bytes": 2338
     },
     {
       "name": "compressor.md",
@@ -771,10 +771,10 @@
     {
       "name": "gas-for-indium.md",
       "first_ticks": 4328562,
-      "ticks": 4328562,
-      "sent_at": "2026-11-22T00:07:53-0500",
-      "versions": 1,
-      "bytes": 1517
+      "ticks": 4361784,
+      "sent_at": "2026-11-22T00:35:34-0500",
+      "versions": 3,
+      "bytes": 2430
     },
     {
       "name": "gear-production.md",
@@ -875,10 +875,10 @@
     {
       "name": "indium-bay.md",
       "first_ticks": 4247096,
-      "ticks": 4296330,
-      "sent_at": "2026-11-21T23:41:01-0500",
-      "versions": 4,
-      "bytes": 4356
+      "ticks": 4359705,
+      "sent_at": "2026-11-22T00:33:50-0500",
+      "versions": 6,
+      "bytes": 5102
     },
     {
       "name": "inscriber.md",
@@ -1411,10 +1411,10 @@
     {
       "name": "qbit-wafer-order.md",
       "first_ticks": 4296330,
-      "ticks": 4296330,
-      "sent_at": "2026-11-21T23:41:01-0500",
-      "versions": 1,
-      "bytes": 2191
+      "ticks": 4365627,
+      "sent_at": "2026-11-22T00:38:46-0500",
+      "versions": 2,
+      "bytes": 2963
     },
     {
       "name": "quantum-flux.md",
@@ -1523,10 +1523,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 4341114,
-      "sent_at": "2026-11-22T00:18:20-0500",
-      "versions": 477,
-      "bytes": 11816
+      "ticks": 4365627,
+      "sent_at": "2026-11-22T00:38:46-0500",
+      "versions": 481,
+      "bytes": 12271
     },
     {
       "name": "review-29h49m.md",
@@ -1931,10 +1931,10 @@
     {
       "name": "third-blast-site.md",
       "first_ticks": 3612230,
-      "ticks": 3621820,
-      "sent_at": "2026-11-21T14:18:56-0500",
-      "versions": 2,
-      "bytes": 2088
+      "ticks": 4365627,
+      "sent_at": "2026-11-22T00:38:46-0500",
+      "versions": 4,
+      "bytes": 2909
     },
     {
       "name": "third-crafting-cpu.md",
