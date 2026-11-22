@@ -379,18 +379,18 @@
     {
       "name": "cryogenic-gas-return.md",
       "first_ticks": 5496545,
-      "ticks": 5576448,
-      "sent_at": "2026-11-22T17:35:02-0500",
-      "versions": 5,
-      "bytes": 3126
+      "ticks": 5608585,
+      "sent_at": "2026-11-22T18:01:49-0500",
+      "versions": 8,
+      "bytes": 4423
     },
     {
       "name": "cryogenic-tower-power.md",
       "first_ticks": 5485310,
-      "ticks": 5567854,
-      "sent_at": "2026-11-22T17:27:52-0500",
-      "versions": 6,
-      "bytes": 3682
+      "ticks": 5592077,
+      "sent_at": "2026-11-22T17:48:03-0500",
+      "versions": 7,
+      "bytes": 4134
     },
     {
       "name": "crystal-bay.md",
@@ -1755,10 +1755,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 5578713,
-      "sent_at": "2026-11-22T17:36:55-0500",
-      "versions": 588,
-      "bytes": 21095
+      "ticks": 5608583,
+      "sent_at": "2026-11-22T18:01:49-0500",
+      "versions": 593,
+      "bytes": 21469
     },
     {
       "name": "review-29h49m.md",
@@ -2113,6 +2113,14 @@
       "bytes": 2833
     },
     {
+      "name": "signalum-tool-bag.md",
+      "first_ticks": 5601341,
+      "ticks": 5601341,
+      "sent_at": "2026-11-22T17:55:46-0500",
+      "versions": 1,
+      "bytes": 652
+    },
+    {
       "name": "silicon-boule.md",
       "first_ticks": 341042,
       "ticks": 358596,
@@ -2327,6 +2335,14 @@
       "sent_at": "2026-11-22T17:06:42-0500",
       "versions": 5,
       "bytes": 2997
+    },
+    {
+      "name": "tower-workshop-shift.md",
+      "first_ticks": 5598871,
+      "ticks": 5598871,
+      "sent_at": "2026-11-22T17:53:43-0500",
+      "versions": 1,
+      "bytes": 1316
     },
     {
       "name": "tungsten-carbide.md",
