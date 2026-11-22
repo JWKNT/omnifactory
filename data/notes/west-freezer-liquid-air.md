@@ -1,0 +1,5 @@
+# West freezer liquid-air pilot
+
+The existing input hatch at (−4,81,7) and output hatch at (−4,81,9) were both empty while the item bus was idle. ME held 64,000 mB of air. I took one 16,000 mB tank to the input. The controller ran at 120 EU/t and showed 143 ticks for each 4,000 mB batch. All 16,000 mB reached the output. At that speed, the 2,809 buckets for a first argon run would take about 84 minutes of uninterrupted freezer time, excluding distillation. Check whether hot metal backs up as air feed becomes continuous.
+
+An iron drum now stands at (−4,81,10), touching the output hatch. Its fluid gauge read 16,000 of 256,000 mB after placement. Extend the fluix cable to the north hatch for a filtered air export bus. The route starts at (3,82,5), crosses above the furnace aisle at y83, and descends beside the hatch. The first pilot used a portable tank. `scripts/west_freezer_air_feed.py` handles the drum and export bus. The [tower plan](quantum-array-and-argon.md) explains what those gases pay for.
