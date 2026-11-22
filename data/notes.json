@@ -929,6 +929,14 @@
       "bytes": 3376
     },
     {
+      "name": "iron-and-stainless-for-iv.md",
+      "first_ticks": 4708524,
+      "ticks": 4708524,
+      "sent_at": "2026-11-22T05:24:31-0500",
+      "versions": 1,
+      "bytes": 1801
+    },
+    {
       "name": "iv-assembler-windings.md",
       "first_ticks": 4401872,
       "ticks": 4681603,
@@ -1603,10 +1611,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 4695684,
-      "sent_at": "2026-11-22T05:13:49-0500",
-      "versions": 511,
-      "bytes": 4234
+      "ticks": 4708524,
+      "sent_at": "2026-11-22T05:24:31-0500",
+      "versions": 512,
+      "bytes": 4906
     },
     {
       "name": "review-29h49m.md",
@@ -2103,6 +2111,14 @@
       "sent_at": "2026-11-22T00:18:20-0500",
       "versions": 1,
       "bytes": 1869
+    },
+    {
+      "name": "tungsten-power-restart.md",
+      "first_ticks": 4726876,
+      "ticks": 4726876,
+      "sent_at": "2026-11-22T05:39:49-0500",
+      "versions": 1,
+      "bytes": 1659
     },
     {
       "name": "tungstensteel-coil-bill.md",

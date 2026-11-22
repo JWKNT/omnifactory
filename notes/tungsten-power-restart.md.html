@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Restarting the workshop when ME loses power">
+    <meta name="theme-color" content="#fbfaf7">
+    <link rel="canonical" href="https://jehlp.net/omnifactory/notes/tungsten-power-restart.md.html">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="jehlp.net">
+    <meta property="og:title" content="tungsten-power-restart.md · Omnifactory">
+    <meta property="og:description" content="Restarting the workshop when ME loses power">
+    <meta property="og:url" content="https://jehlp.net/omnifactory/notes/tungsten-power-restart.md.html">
+    <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
+    <meta property="og:image:width" content="600">
+    <meta property="og:image:height" content="600">
+    <meta property="og:image:alt" content="The Omnifactory symbol">
+    <meta name="twitter:card" content="summary">
+    <title>tungsten-power-restart.md · Omnifactory · jehlp.net</title>
+    <link rel="icon" href="https://jehlp.net/site-theme/v2/favicons/omnifactory.png" type="image/png">
+    <script src="https://jehlp.net/site-theme/v2/theme.js?v=20261009-reading-folio"></script>
+    <link rel="stylesheet" href="https://jehlp.net/site-theme/v2/base.css?v=20261102-code">
+    <link rel="stylesheet" href="https://jehlp.net/site-theme/v2/components.css?v=20261102-code">
+    <link rel="stylesheet" href="/omnifactory/assets/styles.css?v=20261119-quests-c">
+  </head>
+  <body data-site-tone="ochre">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header site-header--identity">
+      <div class="site-brand"><img class="site-mark" src="https://jehlp.net/site-theme/v2/marks/omnifactory.png" width="32" height="32" alt=""><span class="site-title">Omnifactory</span></div>
+      <nav aria-label="Site links"><a href="/omnifactory/">Notes</a><a href="/omnifactory/quests/">Quests</a><span class="site-utility-pair"><a class="site-home" href="https://jehlp.net/" aria-label="Home — jehlp.net" title="Home — jehlp.net"><span aria-hidden="true">✳</span></a><button class="theme-toggle" type="button" data-theme-toggle aria-label="Use dark theme" aria-pressed="false">◐</button></span></nav>
+    </header>
+    <main id="main" tabindex="-1" class="omni-main note-page">
+      <header class="page-head">
+        <h1 class="note-name">tungsten-power-restart.md</h1>
+        <p class="note-meta"><span class="played">65 h 39 min</span> played</p>
+      </header>
+      <article class="note-body" data-fragment>
+<div class="note-prose prose"><h2>Restarting the workshop when ME loses power</h2>
+<p>The east furnace and EV electrolyzer both reached one tick of progress and flagged insufficient energy as the two diamond queues emptied. Together they draw 3,840 EU/t, equivalent to 15,360 RF/t before other factory loads. The west dynamo can supply 7,500 RF/t and the basic east dynamo 2,500. More fuel addresses duration. Another generator or a tier upgrade also has to cover the sustained load.</p>
+<p>The Shulker chamber retained 1.8 million RF. With ME offline, I opened the physical wiremill interface at (7,83,6). Its stocked slots still held one polymer, one clay block and one Pulsating Dust. The real stored stacks are below the configuration samples. One polymer started a Shulker simulation. Its fabricator delivered diamonds directly to the west dynamo, which reached 6,162 RF/t and brought ME back online. I also put 64 cane from the stock chest into the steam boiler. The reserved clay and dust supplied another four polymer in the kiln.</p>
+<p>Two quest quarters bought 32 diamond ore, split between the east and west coal-fired furnaces. These can release restart fuel even with the terminals dark. Half the 64 uraninite ore in stock can cover another 32 Pulsating Dust via two furnace passes and save the scarce quartz for the renewable line. Keep the other half for later recipes. Give the working quartz cell its interface before the HV ore mill. The load control in scripts/ev_load_control.py uses the soft hammer to hold the EV electrolyzer when both it and the furnace report insufficient power, then restores it when the furnace clears. Check run/ev-electrolyzer-waiting-for-furnace during recovery.</p>
+</div>
+      </article>
+    </main>
+  </body>
+</html>
