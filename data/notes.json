@@ -859,10 +859,10 @@
     {
       "name": "indium-bay.md",
       "first_ticks": 4247096,
-      "ticks": 4247096,
-      "sent_at": "2026-11-21T23:00:00-0500",
-      "versions": 1,
-      "bytes": 2492
+      "ticks": 4257464,
+      "sent_at": "2026-11-21T23:08:38-0500",
+      "versions": 2,
+      "bytes": 3217
     },
     {
       "name": "inscriber.md",
@@ -1083,10 +1083,10 @@
     {
       "name": "nanocircuit-feed.md",
       "first_ticks": 3526594,
-      "ticks": 3836582,
-      "sent_at": "2026-11-21T17:17:54-0500",
-      "versions": 13,
-      "bytes": 9496
+      "ticks": 4252508,
+      "sent_at": "2026-11-21T23:04:30-0500",
+      "versions": 14,
+      "bytes": 9878
     },
     {
       "name": "nether-landing.md",
@@ -1499,10 +1499,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 4230717,
-      "sent_at": "2026-11-21T22:46:21-0500",
-      "versions": 465,
-      "bytes": 9354
+      "ticks": 4271565,
+      "sent_at": "2026-11-21T23:20:23-0500",
+      "versions": 469,
+      "bytes": 10130
     },
     {
       "name": "review-29h49m.md",
@@ -1679,6 +1679,14 @@
       "sent_at": "2026-11-20T22:24:07-0500",
       "versions": 7,
       "bytes": 4372
+    },
+    {
+      "name": "second-drive.md",
+      "first_ticks": 4266705,
+      "ticks": 4268510,
+      "sent_at": "2026-11-21T23:17:50-0500",
+      "versions": 2,
+      "bytes": 1672
     },
     {
       "name": "second-hour.md",
@@ -1891,10 +1899,10 @@
     {
       "name": "tier-two-miner-order.md",
       "first_ticks": 4135528,
-      "ticks": 4237981,
-      "sent_at": "2026-11-21T22:52:24-0500",
-      "versions": 8,
-      "bytes": 5829
+      "ticks": 4271563,
+      "sent_at": "2026-11-21T23:20:23-0500",
+      "versions": 10,
+      "bytes": 6879
     },
     {
       "name": "titanium-batch-size.md",
@@ -1915,10 +1923,10 @@
     {
       "name": "titanium-network.md",
       "first_ticks": 3494168,
-      "ticks": 3656128,
-      "sent_at": "2026-11-21T14:47:31-0500",
-      "versions": 6,
-      "bytes": 5030
+      "ticks": 4268827,
+      "sent_at": "2026-11-21T23:18:06-0500",
+      "versions": 8,
+      "bytes": 5987
     },
     {
       "name": "titanium.md",
