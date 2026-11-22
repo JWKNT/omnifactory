@@ -7,3 +7,5 @@ The converter site (21,80,-13) has a cobblestone foundation and faces west towar
 The four-amp CEF takes an HV hull, two quadruple vibrant wires, four vibrant conduits, a chest and one advanced circuit. Use a Nanoprocessor when stocked. The sixteen-amp version takes two sixteen-wire bundles. The north furnace can alloy vibrant metal while the west makes Microversium.
 
 The first two vibrant sections are installed and connected, at (16,83,-8) and (17,83,-8). Eleven sections remain in the surveyed run.
+
+All thirteen vibrant conduit sections now connect the EV deck to the projector. The converter used a Nanoprocessor, the HV hull, two quadruple vibrant wires, four conduits and a chest. It faces west from (21,80,-13). The east projector hatch measured 7,168 EU at commissioning and later reached its full 8,192 EU. The converter itself held 16,384 EU.

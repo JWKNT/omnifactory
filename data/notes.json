@@ -579,10 +579,10 @@
     {
       "name": "first-cargo-processing.md",
       "first_ticks": 4003850,
-      "ticks": 4003850,
-      "sent_at": "2026-11-21T19:37:17-0500",
-      "versions": 1,
-      "bytes": 1814
+      "ticks": 4034031,
+      "sent_at": "2026-11-21T20:02:26-0500",
+      "versions": 7,
+      "bytes": 4825
     },
     {
       "name": "first-metals.md",
@@ -603,10 +603,10 @@
     {
       "name": "first-miner-ship.md",
       "first_ticks": 3899685,
-      "ticks": 4003850,
-      "sent_at": "2026-11-21T19:37:17-0500",
-      "versions": 7,
-      "bytes": 4015
+      "ticks": 4022353,
+      "sent_at": "2026-11-21T19:52:42-0500",
+      "versions": 8,
+      "bytes": 4494
     },
     {
       "name": "first-nether-star.md",
@@ -971,10 +971,10 @@
     {
       "name": "methanol-from-titanium.md",
       "first_ticks": 3992668,
-      "ticks": 3994547,
-      "sent_at": "2026-11-21T19:29:32-0500",
-      "versions": 2,
-      "bytes": 1576
+      "ticks": 4026770,
+      "sent_at": "2026-11-21T19:56:23-0500",
+      "versions": 5,
+      "bytes": 2618
     },
     {
       "name": "microversium.md",
@@ -995,10 +995,10 @@
     {
       "name": "multi-smelter.md",
       "first_ticks": 3911844,
-      "ticks": 3911844,
-      "sent_at": "2026-11-21T18:20:37-0500",
-      "versions": 1,
-      "bytes": 922
+      "ticks": 4034031,
+      "sent_at": "2026-11-21T20:02:26-0500",
+      "versions": 2,
+      "bytes": 1696
     },
     {
       "name": "mv-alloy-bay.md",
@@ -1235,10 +1235,10 @@
     {
       "name": "polyethylene-oxygen.md",
       "first_ticks": 3963820,
-      "ticks": 3983095,
-      "sent_at": "2026-11-21T19:20:00-0500",
-      "versions": 2,
-      "bytes": 1347
+      "ticks": 4016346,
+      "sent_at": "2026-11-21T19:47:42-0500",
+      "versions": 3,
+      "bytes": 2074
     },
     {
       "name": "polymer-clay.md",
@@ -1307,10 +1307,10 @@
     {
       "name": "projector-power.md",
       "first_ticks": 3929842,
-      "ticks": 3935337,
-      "sent_at": "2026-11-21T18:40:12-0500",
-      "versions": 2,
-      "bytes": 1324
+      "ticks": 4016346,
+      "sent_at": "2026-11-21T19:47:42-0500",
+      "versions": 3,
+      "bytes": 1676
     },
     {
       "name": "propene.md",
@@ -1459,10 +1459,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 4003850,
-      "sent_at": "2026-11-21T19:37:17-0500",
-      "versions": 441,
-      "bytes": 3239
+      "ticks": 4027821,
+      "sent_at": "2026-11-21T19:57:16-0500",
+      "versions": 446,
+      "bytes": 3251
     },
     {
       "name": "review-29h49m.md",
@@ -1763,10 +1763,10 @@
     {
       "name": "steel-stock-bay.md",
       "first_ticks": 3975767,
-      "ticks": 3992668,
-      "sent_at": "2026-11-21T19:27:58-0500",
-      "versions": 2,
-      "bytes": 2148
+      "ticks": 4023533,
+      "sent_at": "2026-11-21T19:53:41-0500",
+      "versions": 3,
+      "bytes": 2371
     },
     {
       "name": "steel.md",
@@ -1955,10 +1955,10 @@
     {
       "name": "workshop-stock-patterns.md",
       "first_ticks": 2847880,
-      "ticks": 2858492,
-      "sent_at": "2026-11-21T03:42:49-0500",
-      "versions": 2,
-      "bytes": 1222
+      "ticks": 4023533,
+      "sent_at": "2026-11-21T19:53:41-0500",
+      "versions": 3,
+      "bytes": 1777
     },
     {
       "name": "workshop.md",
