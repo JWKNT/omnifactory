@@ -939,10 +939,10 @@
     {
       "name": "iv-assembler-windings.md",
       "first_ticks": 4401872,
-      "ticks": 4681603,
-      "sent_at": "2026-11-22T05:02:05-0500",
-      "versions": 4,
-      "bytes": 3881
+      "ticks": 4802010,
+      "sent_at": "2026-11-22T06:42:25-0500",
+      "versions": 5,
+      "bytes": 4626
     },
     {
       "name": "iv-metal-bill.md",
@@ -995,10 +995,10 @@
     {
       "name": "lumium-and-mana.md",
       "first_ticks": 4639804,
-      "ticks": 4651904,
-      "sent_at": "2026-11-22T04:37:20-0500",
-      "versions": 2,
-      "bytes": 1910
+      "ticks": 4802010,
+      "sent_at": "2026-11-22T06:42:25-0500",
+      "versions": 3,
+      "bytes": 2599
     },
     {
       "name": "lv-batteries.md",
@@ -1203,10 +1203,10 @@
     {
       "name": "north-drawer-bank.md",
       "first_ticks": 4764737,
-      "ticks": 4764737,
-      "sent_at": "2026-11-22T06:11:22-0500",
-      "versions": 1,
-      "bytes": 2045
+      "ticks": 4802010,
+      "sent_at": "2026-11-22T06:42:25-0500",
+      "versions": 2,
+      "bytes": 2753
     },
     {
       "name": "north-hot-transfer.md",
@@ -2123,10 +2123,10 @@
     {
       "name": "tungsten-power-restart.md",
       "first_ticks": 4726876,
-      "ticks": 4764737,
-      "sent_at": "2026-11-22T06:11:22-0500",
-      "versions": 3,
-      "bytes": 2688
+      "ticks": 4787958,
+      "sent_at": "2026-11-22T06:30:43-0500",
+      "versions": 4,
+      "bytes": 3929
     },
     {
       "name": "tungstensteel-coil-bill.md",
