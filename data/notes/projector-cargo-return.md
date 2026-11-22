@@ -1,0 +1,5 @@
+# Ore return from the projector
+
+One early ore mission fills twelve stacks across ten materials, including two stacks each of rutile and galena. The HV output bus can hold the lot. The next trip can send different ores through the same port. Use item conduits to return them all to the EV assembler interface at (18,81,-7). The survey found an open route overhead along x20 from z-7 to z-11. Eight conduit sections reach the block above the final port. The ninth extracts north from (20,80,-11). The assembler makes eight item conduits from six binder and three pulsating iron wires.
+
+scripts/projector_cargo_return.py can build the overhead return before launch. The first mission leaves the final connector off until the complete cargo has been counted in the bus. Each later mission can unload automatically through that connector. The line still needs construction and a measured network delivery. The ME Drive had fourteen spare item types at the first survey, so the workshop's cell supplier is active again.

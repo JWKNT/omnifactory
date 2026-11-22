@@ -1217,6 +1217,14 @@
       "bytes": 5173
     },
     {
+      "name": "polyethylene-oxygen.md",
+      "first_ticks": 3963820,
+      "ticks": 3983095,
+      "sent_at": "2026-11-21T19:20:00-0500",
+      "versions": 2,
+      "bytes": 1347
+    },
+    {
       "name": "polymer-clay.md",
       "first_ticks": 399385,
       "ticks": 1377840,
@@ -1263,6 +1271,14 @@
       "sent_at": "2026-11-19T11:59:04-0500",
       "versions": 1,
       "bytes": 1388
+    },
+    {
+      "name": "projector-cargo-return.md",
+      "first_ticks": 3963820,
+      "ticks": 3963820,
+      "sent_at": "2026-11-21T19:03:56-0500",
+      "versions": 1,
+      "bytes": 1015
     },
     {
       "name": "projector-compressor.md",
@@ -1323,10 +1339,10 @@
     {
       "name": "quantum-flux.md",
       "first_ticks": 1146576,
-      "ticks": 3878348,
-      "sent_at": "2026-11-21T17:52:42-0500",
-      "versions": 2,
-      "bytes": 2107
+      "ticks": 3983095,
+      "sent_at": "2026-11-21T19:20:00-0500",
+      "versions": 4,
+      "bytes": 2682
     },
     {
       "name": "quarry-drum.md",
@@ -1427,10 +1443,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 3956752,
-      "sent_at": "2026-11-21T18:58:02-0500",
-      "versions": 438,
-      "bytes": 9084
+      "ticks": 3977692,
+      "sent_at": "2026-11-21T19:15:29-0500",
+      "versions": 439,
+      "bytes": 3097
     },
     {
       "name": "review-29h49m.md",
@@ -1535,6 +1551,14 @@
       "sent_at": "2026-11-21T17:15:04-0500",
       "versions": 1,
       "bytes": 3141
+    },
+    {
+      "name": "review-55h14m.md",
+      "first_ticks": 3977157,
+      "ticks": 3977157,
+      "sent_at": "2026-11-21T19:15:03-0500",
+      "versions": 1,
+      "bytes": 3055
     },
     {
       "name": "review-questions.md",
@@ -1659,10 +1683,10 @@
     {
       "name": "small-projector.md",
       "first_ticks": 1192280,
-      "ticks": 3956752,
-      "sent_at": "2026-11-21T18:58:02-0500",
-      "versions": 16,
-      "bytes": 9617
+      "ticks": 3977692,
+      "sent_at": "2026-11-21T19:15:29-0500",
+      "versions": 18,
+      "bytes": 10617
     },
     {
       "name": "smd-feed.md",
@@ -1719,6 +1743,14 @@
       "sent_at": "2026-11-20T04:51:44-0500",
       "versions": 5,
       "bytes": 2398
+    },
+    {
+      "name": "steel-stock-bay.md",
+      "first_ticks": 3975767,
+      "ticks": 3975767,
+      "sent_at": "2026-11-21T19:13:53-0500",
+      "versions": 1,
+      "bytes": 1644
     },
     {
       "name": "steel.md",
