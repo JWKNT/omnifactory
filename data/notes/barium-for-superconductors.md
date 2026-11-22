@@ -5,3 +5,5 @@ The stores at 68h03m contained neither barite nor barium. Certus processing has 
 The purchase and both reactions completed at 68h11m. The bulk furnace made the twelve barite dust in one 48-tick cycle at 64 EU/t. The MV electrolyzer returned two barium dust to ME. I showed the first dust on page 234 and claimed the omninickel. Twenty Barite Ore remain for later use.
 
 The workshop mixer completed the first charge in 400 ticks at 32 EU/t. Thirteen cuprate dust were collected and the remaining 9,000 mB of oxygen returned to ME. The shared mixer is available for rocket fuel again. Page 199 still requires the ingot and the tungstensteel coil quest.
+
+The actual hot-ingot recipe needs 4,500 K. One YBCO dust gives one hot ingot in 4,590 base ticks at 120 EU/t, then the vacuum freezer takes 281 base ticks at 120 EU/t. There is no gas charge. Both the YBCO and Lumium recipes fit the fourth furnace. Lumium comes out cold and goes directly into wire. Route hot YBCO into the freezer before starting that charge.
