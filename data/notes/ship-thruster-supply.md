@@ -1,0 +1,11 @@
+# Three thrusters for the second miner
+
+The HV alloy smelter took the engine frame and two redstone blocks at 480 EU/t for 500 ticks. The finished engine core, basic guidance system and advanced diesel generator reached ME. Compared the full 5×5 recipe with the network inventory. Only the three electrical steel thrusters were missing.
+
+Together the thrusters take twelve electrical steel plates, twelve conductive iron plates, fifteen red alloy plates, six conductive iron energy conduits, three pulsating crystals and three resonating redstone crystals. Each upper thruster uses one lower thruster. Six conduits, fourteen conductive plates and four pulsating crystals are already in ME. The old kiln finished three resonating crystals from ender shards and Restonia. The EV assembler now advertises the conduit pattern. Check its first native delivery separately from the four conduits collected at the old LV assembler.
+
+Silicon is the common ingredient in electrical steel, cable insulation and chip wafers. Start each affordable batch of electrical steel plates as silicon returns. One charge of thirty silica gives ten silicon and twenty buckets of oxygen. That oxygen also lets the old refinery convert hydrogen sulfide to sulfuric acid. Two measured returns delivered eight and five buckets of acid to ME. Recheck stock after the first indium charge.
+
+After cargo, the campaign can continue through the indium and radon quest pages. The planned EV electrolyzer can share the new converter with the indium reactor. The multilayer board also uses that reactor, sulfuric acid and sixteen electrum foil. Keep sixteen more foil for the quest. Neither machine delivery nor either quest payment has been verified yet.
+
+All three lower thrusters reached the player's inventory. The LV separator delivered the first ten silicon dust, and a single ME order turned those ten into ten electrical steel plates. It ran alongside a titanium order on a second CPU. Six red alloy plates and three conduits remain for final assembly. The centrifuge collected seventeen finished carbon dust and accepted another forty-five stone dust. Twenty-six silica reached ME before the tail of that batch finished. The next two electrical steel plates complete the material bill.
