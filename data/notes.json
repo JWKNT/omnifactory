@@ -379,18 +379,18 @@
     {
       "name": "cryogenic-gas-return.md",
       "first_ticks": 5496545,
-      "ticks": 5558805,
-      "sent_at": "2026-11-22T17:20:20-0500",
-      "versions": 4,
-      "bytes": 2530
+      "ticks": 5576448,
+      "sent_at": "2026-11-22T17:35:02-0500",
+      "versions": 5,
+      "bytes": 3126
     },
     {
       "name": "cryogenic-tower-power.md",
       "first_ticks": 5485310,
-      "ticks": 5560263,
-      "sent_at": "2026-11-22T17:21:33-0500",
-      "versions": 5,
-      "bytes": 3174
+      "ticks": 5567854,
+      "sent_at": "2026-11-22T17:27:52-0500",
+      "versions": 6,
+      "bytes": 3682
     },
     {
       "name": "crystal-bay.md",
@@ -683,10 +683,10 @@
     {
       "name": "first-argon-campaign.md",
       "first_ticks": 5335944,
-      "ticks": 5519008,
-      "sent_at": "2026-11-22T16:47:10-0500",
-      "versions": 11,
-      "bytes": 6974
+      "ticks": 5568629,
+      "sent_at": "2026-11-22T17:28:31-0500",
+      "versions": 12,
+      "bytes": 7278
     },
     {
       "name": "first-cargo-processing.md",
@@ -887,6 +887,14 @@
       "sent_at": "2026-11-21T03:45:05-0500",
       "versions": 4,
       "bytes": 2555
+    },
+    {
+      "name": "glowstone-boule.md",
+      "first_ticks": 5576450,
+      "ticks": 5576450,
+      "sent_at": "2026-11-22T17:35:02-0500",
+      "versions": 1,
+      "bytes": 1430
     },
     {
       "name": "gp-for-oil.md",
@@ -1747,10 +1755,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 5561591,
-      "sent_at": "2026-11-22T17:22:39-0500",
-      "versions": 585,
-      "bytes": 20996
+      "ticks": 5578713,
+      "sent_at": "2026-11-22T17:36:55-0500",
+      "versions": 588,
+      "bytes": 21095
     },
     {
       "name": "review-29h49m.md",

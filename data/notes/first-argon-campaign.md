@@ -32,3 +32,5 @@ The tower feed starts on the north face of the quantum tank. At 76h02m twelve pr
 By 76h16m the west aisle pipe reached (−18,80,13), one block west of the future inlet. All eighteen sections were checked in place. Both ends still need commissioning. The tank and drum together passed 1,008 buckets of the 2,809 required for 53 air runs. All five HV fluid outputs, the HV fluid input and the HV energy hatch are made. Keep the HV energy hatch for the quest and install an EV hatch for the planned EV converter.
 
 At 76h38m page 171 detected the entire bill in the pack and paid its 100-coin reward. The first eight blocks of the tower are placed. The tank contained 1,748,000 mB of liquid air on the first build pass. The EV components and formation test are still ahead.
+
+At 77h20m the quantum tank held 2,812 buckets of liquid air. The initial 2,809-bucket charge is ready. While the tower is being connected, the freezer can pause air production once its reserve reaches 3,072 buckets and resume below 2,809. This leaves freezer time for the four titanium ingots on order.
