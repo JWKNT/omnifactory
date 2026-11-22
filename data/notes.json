@@ -547,10 +547,10 @@
     {
       "name": "ev-motor-magnets.md",
       "first_ticks": 3459593,
-      "ticks": 3516650,
-      "sent_at": "2026-11-21T12:51:17-0500",
-      "versions": 4,
-      "bytes": 1370
+      "ticks": 5200701,
+      "sent_at": "2026-11-22T12:21:54-0500",
+      "versions": 6,
+      "bytes": 1985
     },
     {
       "name": "ev-motor-windings.md",
@@ -979,10 +979,10 @@
     {
       "name": "iv-assembler-windings.md",
       "first_ticks": 4401872,
-      "ticks": 5166181,
-      "sent_at": "2026-11-22T11:53:08-0500",
-      "versions": 11,
-      "bytes": 8174
+      "ticks": 5199826,
+      "sent_at": "2026-11-22T12:21:11-0500",
+      "versions": 12,
+      "bytes": 8776
     },
     {
       "name": "iv-metal-bill.md",
@@ -1043,10 +1043,10 @@
     {
       "name": "lumium-and-mana.md",
       "first_ticks": 4639804,
-      "ticks": 4963861,
-      "sent_at": "2026-11-22T09:04:32-0500",
-      "versions": 4,
-      "bytes": 3272
+      "ticks": 5179053,
+      "sent_at": "2026-11-22T12:03:52-0500",
+      "versions": 5,
+      "bytes": 3600
     },
     {
       "name": "lv-batteries.md",
@@ -1531,10 +1531,10 @@
     {
       "name": "propene.md",
       "first_ticks": 3157508,
-      "ticks": 4213094,
-      "sent_at": "2026-11-21T22:31:39-0500",
-      "versions": 5,
-      "bytes": 4391
+      "ticks": 5200701,
+      "sent_at": "2026-11-22T12:21:54-0500",
+      "versions": 8,
+      "bytes": 6003
     },
     {
       "name": "pulsating.md",
@@ -1683,10 +1683,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 5172709,
-      "sent_at": "2026-11-22T11:58:35-0500",
-      "versions": 553,
-      "bytes": 15652
+      "ticks": 5187583,
+      "sent_at": "2026-11-22T12:10:59-0500",
+      "versions": 554,
+      "bytes": 15658
     },
     {
       "name": "review-29h49m.md",
@@ -1923,10 +1923,10 @@
     {
       "name": "second-drive.md",
       "first_ticks": 4266705,
-      "ticks": 4268510,
-      "sent_at": "2026-11-21T23:17:50-0500",
-      "versions": 2,
-      "bytes": 1672
+      "ticks": 5187583,
+      "sent_at": "2026-11-22T12:10:59-0500",
+      "versions": 3,
+      "bytes": 2150
     },
     {
       "name": "second-hour.md",
@@ -2215,6 +2215,14 @@
       "sent_at": "2026-11-21T01:32:08-0500",
       "versions": 11,
       "bytes": 6441
+    },
+    {
+      "name": "tungsten-carbide.md",
+      "first_ticks": 5192535,
+      "ticks": 5195562,
+      "sent_at": "2026-11-22T12:17:37-0500",
+      "versions": 2,
+      "bytes": 1566
     },
     {
       "name": "tungsten-from-cargo.md",

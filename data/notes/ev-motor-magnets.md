@@ -9,3 +9,7 @@ The centrifuge delivered all eight clean dust. The west blast furnace accepted t
 All eight ingots came out of the west furnace. The lathe took them in one load and showed two neodymium rods per ingot. The next step is the polarizer.
 
 The polarizer yielded sixteen magnetic neodymium rods. The first EV motor reached ME using one magnet, two titanium rods, two aluminium cables and four eightfold annealed copper wires. Fifteen magnets remained in storage.
+
+For the remaining IV motors, the HV mill turned three ore into six crushed ore and then six impure dust. The ore centrifuge can clean this batch while the LV machines process silicon and carbon. Use either the available north furnace or the idle west furnace for neodymium, then turn the ingots into rods at the MV lathe. The north furnace was smelting aluminium when this batch began.
+
+The west furnace returned six ingots, the MV lathe at (14,82,0) returned twelve rods, and the polarizer returned twelve magnetic rods. Its south ME interface is at (14,82,1). The first two magnets went into two more IV motors.

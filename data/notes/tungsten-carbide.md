@@ -1,0 +1,7 @@
+# Tungsten carbide from the fourth furnace
+
+Page 255 asks for one cold tungsten carbide ingot and pays one OmniNickel. It opens the Gemstone Sensor, Tungsten Carbide Heavy Plating and Empowerer pages. Heavy Plating pays a quarter; the Empowerer pays two. JEI shows ordinary smelting of carbide dust, plus cooling a hot ingot. There is no carbide dust in ME. The blast recipe uses one existing tungsten ingot and one carbon dust for **two** hot ingots at 480 EU/t for 500 base ticks. Each then takes 153 base ticks in the vacuum freezer.
+
+Use one batch between Lumium jobs. Leave at least two tungsten ingots for cabling and two carbon dust for the next titanium charge. The fourth furnace's top filter matches all hot ingots, and the freezer already returns cold metal to ME. Retrieve one cold ingot and claim page 255 in the book. Keep both ingots for the next recipes.
+
+The local blast recipe specifies 2,700 K. The four existing furnaces include a tungstensteel-coil furnace with the filtered hot return, so no coil upgrade is needed. Page 246 needs an EV compressor to press two carbide plates into one heavy plating. The EV machine is called the Singularity Compressor. It needs an EV hull, two EV pistons, two aluminium cables and two advanced circuits. The IV compressor on page 121 would take the IV hull and both pistons already set aside for the assembler. Finish the assembler and its step-up before funding a second EV hull. The tier-three miner also requires the elite crafting table; the tier-four miner adds Signalum plating and the medium projector.
