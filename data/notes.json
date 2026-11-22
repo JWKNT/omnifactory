@@ -259,10 +259,10 @@
     {
       "name": "clathrate-network.md",
       "first_ticks": 4115343,
-      "ticks": 4163215,
-      "sent_at": "2026-11-21T21:50:06-0500",
-      "versions": 3,
-      "bytes": 2180
+      "ticks": 4200353,
+      "sent_at": "2026-11-21T22:21:02-0500",
+      "versions": 4,
+      "bytes": 2915
     },
     {
       "name": "clay-mill.md",
@@ -833,6 +833,14 @@
       "bytes": 11798
     },
     {
+      "name": "hv-heavy-press.md",
+      "first_ticks": 4188924,
+      "ticks": 4188924,
+      "sent_at": "2026-11-21T22:11:31-0500",
+      "versions": 1,
+      "bytes": 1270
+    },
+    {
       "name": "hv-hull.md",
       "first_ticks": 1451295,
       "ticks": 1761578,
@@ -883,10 +891,10 @@
     {
       "name": "lathe-order.md",
       "first_ticks": 152129,
-      "ticks": 158992,
-      "sent_at": "2026-11-19T14:11:30-0500",
-      "versions": 2,
-      "bytes": 1240
+      "ticks": 4202686,
+      "sent_at": "2026-11-21T22:22:59-0500",
+      "versions": 3,
+      "bytes": 1835
     },
     {
       "name": "lead-mine.md",
@@ -1483,10 +1491,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 4161247,
-      "sent_at": "2026-11-21T21:48:27-0500",
-      "versions": 461,
-      "bytes": 6909
+      "ticks": 4200353,
+      "sent_at": "2026-11-21T22:21:02-0500",
+      "versions": 463,
+      "bytes": 7841
     },
     {
       "name": "review-29h49m.md",
@@ -1867,10 +1875,10 @@
     {
       "name": "tier-two-miner-order.md",
       "first_ticks": 4135528,
-      "ticks": 4173445,
-      "sent_at": "2026-11-21T21:58:37-0500",
-      "versions": 3,
-      "bytes": 2175
+      "ticks": 4192941,
+      "sent_at": "2026-11-21T22:14:52-0500",
+      "versions": 5,
+      "bytes": 3388
     },
     {
       "name": "titanium-batch-size.md",

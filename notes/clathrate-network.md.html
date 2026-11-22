@@ -32,7 +32,7 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">clathrate-network.md</h1>
-        <p class="note-meta"><span class="played">57 h 49 min</span> played · first sent at 57 h 09 min</p>
+        <p class="note-meta"><span class="played">58 h 20 min</span> played · first sent at 57 h 09 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>Resonant Clathrate for the three simulation chambers</h2>
@@ -40,6 +40,7 @@
 <p>Three existing conduit bundles at y82,z2 connect the top of the reactor at x6 to the south face of the network assembler interface at x8. scripts/clathrate_return.py adds an item conduit to each and configures a separate magenta channel. Compare the clathrate in the reactor with the increase in ME before marking delivery. The extractor and reactor still receive pearls and quartz by hand. Any upgrade to those inputs should preserve the other use of this reactor for phenolic boards.</p>
 <p>The three item conduits are installed. The top extraction port on the reactor and the north insertion port at the assembler interface use magenta. Nine clathrate were visible in the reactor with zero in ME. After extraction the reactor was empty and nine were in ME. This closes the collection trip. The north furnace pattern can now use this supply directly.</p>
 <p>For paired ingredient orders, the steel stocking interface has free processing-pattern slots and a clear chest position immediately west. Its stocking slots can still serve the steel arm below while its processing arrow points west. scripts/clathrate_inlet.py stages a black channel from that chest, through the ceiling, to the west of the pearl extractor and the top of the reactor. The plan uses a pearl whitelist and a quartz whitelist so each machine receives only its ingredient. Keep the magenta clathrate return in service. The intended processing pattern is one pearl and one quartz for one clathrate. Both inputs still need commissioning. Check run/clathrate-ingredient-delivery for the first measured order. The fallback hand charge remains available during construction.</p>
+<p>At 58h20m the first complete AE ingredient order passed. The CPU requested four Resonant Clathrate with 28 already stored. Four pearls went through the filtered west inlet of the LV fluid extractor. The MV reactor received the quartz and molten ender, ran at 100 EU/t, and sent its output back through the existing return. ME then showed 32 Resonant Clathrate and an installed recipe. The shared steel interface still stocks its steel ingredients and directs its processing recipe into the chest west of it. To turn that arrow, the east face is reachable from above at (5,84,0). The AE2 fork calls its processing output slot SlotPatternOutputs. Both the simulation-fuel and glass-to-quartz routines can now request clathrate from ME.</p>
 </div>
       </article>
     </main>
