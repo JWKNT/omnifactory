@@ -771,10 +771,10 @@
     {
       "name": "gas-for-indium.md",
       "first_ticks": 4328562,
-      "ticks": 4361784,
-      "sent_at": "2026-11-22T00:35:34-0500",
-      "versions": 3,
-      "bytes": 2430
+      "ticks": 4377476,
+      "sent_at": "2026-11-22T00:48:39-0500",
+      "versions": 4,
+      "bytes": 2932
     },
     {
       "name": "gear-production.md",
@@ -875,10 +875,10 @@
     {
       "name": "indium-bay.md",
       "first_ticks": 4247096,
-      "ticks": 4359705,
-      "sent_at": "2026-11-22T00:33:50-0500",
-      "versions": 6,
-      "bytes": 5102
+      "ticks": 4377476,
+      "sent_at": "2026-11-22T00:48:39-0500",
+      "versions": 7,
+      "bytes": 5522
     },
     {
       "name": "inscriber.md",
@@ -1411,10 +1411,10 @@
     {
       "name": "qbit-wafer-order.md",
       "first_ticks": 4296330,
-      "ticks": 4365627,
-      "sent_at": "2026-11-22T00:38:46-0500",
-      "versions": 2,
-      "bytes": 2963
+      "ticks": 4393656,
+      "sent_at": "2026-11-22T01:02:08-0500",
+      "versions": 4,
+      "bytes": 4132
     },
     {
       "name": "quantum-flux.md",
@@ -1523,10 +1523,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 4365627,
-      "sent_at": "2026-11-22T00:38:46-0500",
-      "versions": 481,
-      "bytes": 12271
+      "ticks": 4388515,
+      "sent_at": "2026-11-22T00:57:51-0500",
+      "versions": 483,
+      "bytes": 2791
     },
     {
       "name": "review-29h49m.md",
