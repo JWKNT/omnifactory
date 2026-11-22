@@ -11,3 +11,5 @@ The HV assembler made the bronze rotor from four plates and one ring. The bench 
 The MV reactor is installed at (15,82,2) and has power from the west. It still needs selector zero and both gas feeds before it can produce methanol.
 
 Five ME conduits now share the existing ethanol bundles from (10,84,2) through (14,84,2). The west two middle connectors were reachable from (12,84,3); the east connectors were reachable from the existing staircase at (16,80,3), (15,81,3) and (15,82,4). The selector-zero MV reactor has power. The Fluix cable branch and its three fluid buses still need installation. Verify a methanol increase at the network after setting both gas filters.
+
+The overhead branch is in place. The return bus above the reactor reads active, and the north face now has an active fluid export bus. The shelf at (17,82,2) provided access to the top face. Set the north bus to carbon monoxide, fit and filter the south hydrogen export, and verify a rise in stored methanol.

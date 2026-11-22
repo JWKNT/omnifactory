@@ -179,10 +179,10 @@
     {
       "name": "bulk-furnace-deck.md",
       "first_ticks": 4081095,
-      "ticks": 4081095,
-      "sent_at": "2026-11-21T20:41:40-0500",
-      "versions": 1,
-      "bytes": 1304
+      "ticks": 4089563,
+      "sent_at": "2026-11-21T20:48:43-0500",
+      "versions": 3,
+      "bytes": 2325
     },
     {
       "name": "cake-supplies.md",
@@ -307,10 +307,10 @@
     {
       "name": "copper-simulation.md",
       "first_ticks": 3803072,
-      "ticks": 4072021,
-      "sent_at": "2026-11-21T20:34:06-0500",
-      "versions": 7,
-      "bytes": 4497
+      "ticks": 4097463,
+      "sent_at": "2026-11-21T20:55:18-0500",
+      "versions": 9,
+      "bytes": 5915
     },
     {
       "name": "cryogenic-air.md",
@@ -979,10 +979,10 @@
     {
       "name": "methanol-from-titanium.md",
       "first_ticks": 3992668,
-      "ticks": 4026770,
-      "sent_at": "2026-11-21T19:56:23-0500",
-      "versions": 5,
-      "bytes": 2618
+      "ticks": 4089563,
+      "sent_at": "2026-11-21T20:48:43-0500",
+      "versions": 6,
+      "bytes": 2928
     },
     {
       "name": "microversium.md",
@@ -1467,10 +1467,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 4072021,
-      "sent_at": "2026-11-21T20:34:06-0500",
-      "versions": 453,
-      "bytes": 4365
+      "ticks": 4104837,
+      "sent_at": "2026-11-21T21:01:27-0500",
+      "versions": 456,
+      "bytes": 4768
     },
     {
       "name": "review-29h49m.md",
@@ -1585,6 +1585,14 @@
       "bytes": 3055
     },
     {
+      "name": "review-57h00m.md",
+      "first_ticks": 4104837,
+      "ticks": 4104837,
+      "sent_at": "2026-11-21T21:01:27-0500",
+      "versions": 1,
+      "bytes": 3686
+    },
+    {
       "name": "review-questions.md",
       "first_ticks": 2218163,
       "ticks": 2410865,
@@ -1643,10 +1651,10 @@
     {
       "name": "second-miner-plating.md",
       "first_ticks": 4044654,
-      "ticks": 4044654,
-      "sent_at": "2026-11-21T20:11:17-0500",
-      "versions": 1,
-      "bytes": 1329
+      "ticks": 4097463,
+      "sent_at": "2026-11-21T20:55:18-0500",
+      "versions": 2,
+      "bytes": 2138
     },
     {
       "name": "second-simulation.md",
@@ -1779,10 +1787,10 @@
     {
       "name": "steel-stock-bay.md",
       "first_ticks": 3975767,
-      "ticks": 4059147,
-      "sent_at": "2026-11-21T20:23:22-0500",
-      "versions": 6,
-      "bytes": 3306
+      "ticks": 4089563,
+      "sent_at": "2026-11-21T20:48:43-0500",
+      "versions": 7,
+      "bytes": 3792
     },
     {
       "name": "steel.md",
