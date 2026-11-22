@@ -835,10 +835,10 @@
     {
       "name": "hv-heavy-press.md",
       "first_ticks": 4188924,
-      "ticks": 4188924,
-      "sent_at": "2026-11-21T22:11:31-0500",
-      "versions": 1,
-      "bytes": 1270
+      "ticks": 4237979,
+      "sent_at": "2026-11-21T22:52:24-0500",
+      "versions": 2,
+      "bytes": 1655
     },
     {
       "name": "hv-hull.md",
@@ -855,6 +855,14 @@
       "sent_at": "2026-11-21T12:41:02-0500",
       "versions": 3,
       "bytes": 2048
+    },
+    {
+      "name": "indium-bay.md",
+      "first_ticks": 4247096,
+      "ticks": 4247096,
+      "sent_at": "2026-11-21T23:00:00-0500",
+      "versions": 1,
+      "bytes": 2492
     },
     {
       "name": "inscriber.md",
@@ -1491,10 +1499,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 4218704,
-      "sent_at": "2026-11-21T22:36:20-0500",
-      "versions": 464,
-      "bytes": 8523
+      "ticks": 4230717,
+      "sent_at": "2026-11-21T22:46:21-0500",
+      "versions": 465,
+      "bytes": 9354
     },
     {
       "name": "review-29h49m.md",
@@ -1615,6 +1623,14 @@
       "sent_at": "2026-11-21T21:01:27-0500",
       "versions": 1,
       "bytes": 3686
+    },
+    {
+      "name": "review-59h00m.md",
+      "first_ticks": 4250562,
+      "ticks": 4250562,
+      "sent_at": "2026-11-21T23:02:53-0500",
+      "versions": 1,
+      "bytes": 2588
     },
     {
       "name": "review-questions.md",
@@ -1875,10 +1891,10 @@
     {
       "name": "tier-two-miner-order.md",
       "first_ticks": 4135528,
-      "ticks": 4213094,
-      "sent_at": "2026-11-21T22:31:39-0500",
-      "versions": 6,
-      "bytes": 4038
+      "ticks": 4237981,
+      "sent_at": "2026-11-21T22:52:24-0500",
+      "versions": 8,
+      "bytes": 5829
     },
     {
       "name": "titanium-batch-size.md",
@@ -1947,10 +1963,10 @@
     {
       "name": "void-grove.md",
       "first_ticks": 541511,
-      "ticks": 553802,
-      "sent_at": "2026-11-19T19:40:30-0500",
-      "versions": 2,
-      "bytes": 1527
+      "ticks": 4229008,
+      "sent_at": "2026-11-21T22:44:55-0500",
+      "versions": 3,
+      "bytes": 2706
     },
     {
       "name": "void-respawn.md",
