@@ -435,10 +435,10 @@
     {
       "name": "east-furnace-power.md",
       "first_ticks": 4601533,
-      "ticks": 4628428,
-      "sent_at": "2026-11-22T04:17:46-0500",
-      "versions": 3,
-      "bytes": 1894
+      "ticks": 4641696,
+      "sent_at": "2026-11-22T04:28:50-0500",
+      "versions": 4,
+      "bytes": 2384
     },
     {
       "name": "ebf-running.md",
@@ -923,10 +923,10 @@
     {
       "name": "iv-metal-bill.md",
       "first_ticks": 4605555,
-      "ticks": 4615712,
-      "sent_at": "2026-11-22T04:07:10-0500",
-      "versions": 2,
-      "bytes": 1224
+      "ticks": 4639804,
+      "sent_at": "2026-11-22T04:27:15-0500",
+      "versions": 3,
+      "bytes": 2525
     },
     {
       "name": "kanthal-coils.md",
@@ -967,6 +967,14 @@
       "sent_at": "2026-11-19T18:07:38-0500",
       "versions": 3,
       "bytes": 1782
+    },
+    {
+      "name": "lumium-and-mana.md",
+      "first_ticks": 4639804,
+      "ticks": 4651904,
+      "sent_at": "2026-11-22T04:37:20-0500",
+      "versions": 2,
+      "bytes": 1910
     },
     {
       "name": "lv-batteries.md",
@@ -1579,10 +1587,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 4615712,
-      "sent_at": "2026-11-22T04:07:10-0500",
-      "versions": 507,
-      "bytes": 3209
+      "ticks": 4651904,
+      "sent_at": "2026-11-22T04:37:20-0500",
+      "versions": 508,
+      "bytes": 3582
     },
     {
       "name": "review-29h49m.md",
@@ -2011,10 +2019,10 @@
     {
       "name": "third-blast-site.md",
       "first_ticks": 3612230,
-      "ticks": 4556219,
-      "sent_at": "2026-11-22T03:17:36-0500",
-      "versions": 10,
-      "bytes": 5292
+      "ticks": 4641696,
+      "sent_at": "2026-11-22T04:28:50-0500",
+      "versions": 11,
+      "bytes": 5760
     },
     {
       "name": "third-crafting-cpu.md",

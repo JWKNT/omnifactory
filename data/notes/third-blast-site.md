@@ -23,3 +23,5 @@ The east four-amp EV converter is installed at (24,83,-11), facing east. Its buf
 The 63h04m structure survey counted all twelve Heat Proof Machine Casings, the controller, both fluid hatches, the MV input bus and the EV energy hatch in their final positions. The seventeen open positions were the sixteen coil blocks and the roof output bus. A grid batch made two more Nichrome coils. Hold all sixteen together for the quest before installation.
 
 The roof Output Bus (MV) is now installed at (26,83,-11). Ten more cold Nichrome reached ME and the assembler wound another coil on program 8. All six machine blocks and twelve casings are in place. The sixteen-coil quest remains open.
+
+The east furnace is complete. The upper ring was placed from the outside by aiming at the underside of the roof. The red outlet feeds the existing freezer. Eight tungsten dust became eight cold tungsten ingots. After reserving two, six tungsten and six ordinary steel produced twelve tungstensteel. Pages 201 and 197 both paid. A later 4,500 K Lumium order needs tungstensteel coils. See lumium-and-mana.md before allocating floor space or spending more mission ore.
