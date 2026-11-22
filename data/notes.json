@@ -379,18 +379,18 @@
     {
       "name": "cryogenic-gas-return.md",
       "first_ticks": 5496545,
-      "ticks": 5511360,
-      "sent_at": "2026-11-22T16:40:47-0500",
-      "versions": 3,
-      "bytes": 2226
+      "ticks": 5558805,
+      "sent_at": "2026-11-22T17:20:20-0500",
+      "versions": 4,
+      "bytes": 2530
     },
     {
       "name": "cryogenic-tower-power.md",
       "first_ticks": 5485310,
-      "ticks": 5528114,
-      "sent_at": "2026-11-22T16:54:45-0500",
-      "versions": 4,
-      "bytes": 2671
+      "ticks": 5560263,
+      "sent_at": "2026-11-22T17:21:33-0500",
+      "versions": 5,
+      "bytes": 3174
     },
     {
       "name": "crystal-bay.md",
@@ -607,6 +607,14 @@
       "sent_at": "2026-11-21T15:14:51-0500",
       "versions": 8,
       "bytes": 6316
+    },
+    {
+      "name": "ev-salt-chlorine.md",
+      "first_ticks": 5553786,
+      "ticks": 5553786,
+      "sent_at": "2026-11-22T17:16:09-0500",
+      "versions": 1,
+      "bytes": 1366
     },
     {
       "name": "ev-solder-reserve.md",
@@ -1739,10 +1747,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 5528112,
-      "sent_at": "2026-11-22T16:54:45-0500",
-      "versions": 582,
-      "bytes": 20840
+      "ticks": 5561591,
+      "sent_at": "2026-11-22T17:22:39-0500",
+      "versions": 585,
+      "bytes": 20996
     },
     {
       "name": "review-29h49m.md",
@@ -1935,6 +1943,14 @@
       "sent_at": "2026-11-22T15:09:31-0500",
       "versions": 1,
       "bytes": 3188
+    },
+    {
+      "name": "review-77h01m.md",
+      "first_ticks": 5546895,
+      "ticks": 5553788,
+      "sent_at": "2026-11-22T17:16:09-0500",
+      "versions": 3,
+      "bytes": 3541
     },
     {
       "name": "review-questions.md",
@@ -2299,10 +2315,10 @@
     {
       "name": "tower-building-gadgets.md",
       "first_ticks": 5480918,
-      "ticks": 5535167,
-      "sent_at": "2026-11-22T17:00:38-0500",
-      "versions": 4,
-      "bytes": 2542
+      "ticks": 5542452,
+      "sent_at": "2026-11-22T17:06:42-0500",
+      "versions": 5,
+      "bytes": 2997
     },
     {
       "name": "tungsten-carbide.md",
