@@ -32,7 +32,7 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">oxygen-electrolysis-bay.md</h1>
-        <p class="note-meta"><span class="played">63 h 10 min</span> played · first sent at 61 h 15 min</p>
+        <p class="note-meta"><span class="played">63 h 38 min</span> played · first sent at 61 h 15 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>A continuous oxygen supply for windings and acid</h2>
@@ -43,6 +43,7 @@
 <p>Page 231 changed the design. Fused Quartz qualifies as hardened glass in all six outer slots of the Endervoir recipe. Eight fused blocks and one cauldron make four Endervoirs. The HV alloy smelter now has the three-quartz pattern. Its first native order delivered six fused blocks. A cauldron costs seven iron plates. The full quest also wants eight fused blocks on hand, so order sixteen total. The roof above the electrolyzer has a clear two-by-two space at (11–12,86,0–1). The pack describes one bucket per second per Endervoir. Only one corner needs to eject into the HV cell. Two buckets distributed among neighbouring reservoirs start regeneration. The normal NuclearCraft source at (12,85,0) can keep running during construction. scripts/oxygen_endervoir.py handles procurement and waits for the oxygen cutoff test before switching on the larger supply.</p>
 <p>One network order supplied sixteen fused quartz. Eight made four Endervoir blocks around one cauldron. The spare eight and four blocks satisfied page 231, which paid one nickel. scripts/oxygen_endervoir.py records the inlet level and subtracts the ordinary source’s maximum contribution of one mB per elapsed tick when verifying the first four buckets.</p>
 <p>All four roof blocks are now installed at y86. The ordinary source below (12,86,0) began filling the new square on its own. The four tanks initially had 60 mB each, then had 720 mB between them. Leave the source supplying the square as the factory works. Ejection and the oxygen cutoff still need their live tests.</p>
+<p>The roof and oxygen stock control passed both commissioning tests. The level emitter stopped the HV electrolyzer on high signal and enabled it on low. Its final threshold reads 64,000 mB oxygen. The Yeta Wrench set the roof block above the cell to auto-eject. Its first measured delivery was at least 10,886 mB after subtracting one mB per elapsed tick for the old source. The inlet subsequently reached 25,680 mB with the machine enabled. Keep the four roof blocks together. The emitter&#39;s accessible service perch is over the Fluix cable at (11,85,-1).</p>
 </div>
       </article>
     </main>
