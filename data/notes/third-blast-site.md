@@ -19,3 +19,7 @@ For hot metal I surveyed a branch from the existing red freezer line at (12,84,-
 All 22 hot-metal conduit sections are in place. The catwalk connects to the projector stairs. All twelve planned heat-proof casings have been fabricated. The roof output, independent EV power, remaining coils and a real hot-to-cold delivery still need verification before calling the third furnace operational.
 
 The east four-amp EV converter is installed at (24,83,-11), facing east. Its buffer reached 65,536 EU. The EV Energy Input Hatch is installed next to it at (25,83,-11). The floor fluid input and output hatches are installed. Two roof casings are in place. The two item buses and the five remaining coils are the next construction jobs. The ten cold Nichrome from the first two new charges were made into twenty single wires, then ten pairs.
+
+The 63h04m structure survey counted all twelve Heat Proof Machine Casings, the controller, both fluid hatches, the MV input bus and the EV energy hatch in their final positions. The seventeen open positions were the sixteen coil blocks and the roof output bus. A grid batch made two more Nichrome coils. Hold all sixteen together for the quest before installation.
+
+The roof Output Bus (MV) is now installed at (26,83,-11). Ten more cold Nichrome reached ME and the assembler wound another coil on program 8. All six machine blocks and twelve casings are in place. The sixteen-coil quest remains open.

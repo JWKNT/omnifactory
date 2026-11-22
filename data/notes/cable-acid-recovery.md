@@ -9,3 +9,7 @@ scripts/cable_acid_recovery.py checks the still, loads the selector and recovers
 The first collection raised ME hydrochloric acid from 1,000 to 5,000 mB. The silicone reactor consumed the recovered acid. Nine polymer dust and one sulfur supplied 1,296 mB rubber. The cable wrapper now holds 1,308 mB, enough insulation for 27 single aluminium wires at 48 mB each.
 
 The wrapper finished all twelve bare aluminium wires and retained 732 mB rubber. All four energetic conduits, both quad wires, the chest and the Nano Processor Assembly for the east converter are on hand. The EV hull is the last ingredient. The MV assembler has 44,540 mB polyethylene and the EV hull pattern is visible in ME.
+
+At 63h12m the silicone reactor's export bus gained a capacity card. Its two active filters are methanol and hydrochloric acid. The first reading showed 7,000 mB acid in the reactor and another 7,000 in ME. The filter tool now checks where a ray actually strikes the installed part. On this crowded branch, aiming at the right coordinates through the middle of the cable clicked the cable instead of the bus. The still's output is the remaining manual transfer in this loop.
+
+During a separate workshop job, acid in the reactor rose from 7,000 to 11,000 mB while ME fell from 7,000 to 3,000 mB. The reactor later reached 14,000 mB. The item-card and bucket test therefore measured a four-bucket delivery without moving a container.

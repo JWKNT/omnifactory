@@ -1,8 +1,10 @@
 # Resume at the void workshop
 
-At 62h42m Astra has completed 304 of 644 distinct chapter quests. The equipment was recovered long ago. The Tier Two Micro Miner has delivered its ore shipment. The EV electrolyzer at (18,82,-9) used four radium salt to make 4,000 mB radon. Page 267 paid, and the first 1,000 mB reached ME. All four buckets are now in ME. The survival recorder is active.
+At 63h07m Astra has completed 306 of 644 distinct chapter quests. The equipment was recovered long ago. The Tier Two Micro Miner has delivered its ore shipment. The EV electrolyzer at (18,82,-9) used four radium salt to make 4,000 mB radon. Page 267 paid, and the first 1,000 mB reached ME. All four buckets are now in ME. The survival recorder is active.
 
-Check the physical actor before starting one. The campaign writes to /tmp/astra-heavy-plating.log. The tungsten round tends power, coils, water and ore twice between general factory visits. The active command is python3 -u scripts/ev_board_campaign.py --through-tungstensteel. The last strategic review is review-61h02m.md. The next is due at 63h02m. Use scripts/strategy_review.py --evidence and read review-questions.md.
+Check the physical actor before starting one. The campaign writes to /tmp/astra-heavy-plating.log. The tungsten round tends power, coils, water and ore twice between general factory visits. The active command is python3 -u scripts/ev_board_campaign.py --through-tungstensteel. The last strategic review is review-63h02m.md. The next is due at 65h02m. Use scripts/strategy_review.py --evidence and read review-questions.md.
+
+The Hardened Satchel paid page 544. The east EV power converter and furnace energy hatch are in place. The Endervoir batch made four blocks and page 231 paid one nickel. All four roof blocks are installed, hold 4,000 mB and report active renewal. Test the oxygen cutoff and water delivery. The silicone reactor now receives both methanol and hydrochloric acid through its ME export bus. The PCB coater used surplus polyethylene and twelve Refined Circuits reached ME, and the next network build is a third hardware pattern shelf to support recurring ME interfaces and arms. See review-63h02m.md.
 
 ## Next five QBit CPUs
 
