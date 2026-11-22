@@ -1,0 +1,7 @@
+# A dedicated vinyl chloride reactor beside the PVC caster
+
+The east dehydrator's full ethanol tank proved the brewery repair. Its original 62,700 mB fell to 14,600 while the player worked elsewhere, and the receiving tank rose from 700 to 64,000. The PVC caster is downstream of a separate bottleneck. Its polymer reactor has oxygen, catalyst and 424 mB vinyl chloride. The shared chlorination reactor keeps 64,000 mB oxygen for its acid orders, limiting it to the recycled HCl recipe for vinyl. Cable insulation also consumes HCl.
+
+Live JEI gives a second route using 2,000 mB chlorine and 1,000 mB ethylene for 1,000 mB each of vinyl and HCl. It needs 30 EU/t for 160 ticks at LV. Give it its own cell. This frees the shared reactor for acid and returns HCl for silicone. An LV cell can process 7.5 buckets of ethylene per minute. The single east dehydrator takes 1,200 ticks per charge and also supplies polyethylene. Reactant supply sets the initial throughput.
+
+Reserve (6,81,-2) for the chlorinator and (6,82,-2) for one fourfold conductive iron cable. Its north neighbor is the existing fluid tap at (6,81,-3). The tap's north face is next to the polymer reactor, and its south face can supply the new cell with yellow-channel ethylene. This layout preserves the caster aisle at (7,80,-3). scripts/vinyl_stock_cell.py stages the machine, using the soldered four-plate-plus-ring tin rotor recipe. Initial product transfers are by tank until a new full batch proves both products. The cell is planned, and installation and sheet delivery remain to be verified.

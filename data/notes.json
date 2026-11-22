@@ -715,10 +715,10 @@
     {
       "name": "fourth-furnace-power-plan.md",
       "first_ticks": 4691252,
-      "ticks": 4691252,
-      "sent_at": "2026-11-22T05:10:07-0500",
-      "versions": 1,
-      "bytes": 1316
+      "ticks": 4750038,
+      "sent_at": "2026-11-22T05:59:07-0500",
+      "versions": 3,
+      "bytes": 3308
     },
     {
       "name": "freezer-mainframes.md",
@@ -923,10 +923,10 @@
     {
       "name": "interface-production.md",
       "first_ticks": 4660437,
-      "ticks": 4695684,
-      "sent_at": "2026-11-22T05:13:49-0500",
-      "versions": 4,
-      "bytes": 3376
+      "ticks": 4750038,
+      "sent_at": "2026-11-22T05:59:07-0500",
+      "versions": 5,
+      "bytes": 4197
     },
     {
       "name": "iron-and-stainless-for-iv.md",
@@ -1611,10 +1611,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 4708524,
-      "sent_at": "2026-11-22T05:24:31-0500",
-      "versions": 512,
-      "bytes": 4906
+      "ticks": 4750038,
+      "sent_at": "2026-11-22T05:59:07-0500",
+      "versions": 514,
+      "bytes": 6238
     },
     {
       "name": "review-29h49m.md",
@@ -2115,10 +2115,10 @@
     {
       "name": "tungsten-power-restart.md",
       "first_ticks": 4726876,
-      "ticks": 4726876,
-      "sent_at": "2026-11-22T05:39:49-0500",
-      "versions": 1,
-      "bytes": 1659
+      "ticks": 4731897,
+      "sent_at": "2026-11-22T05:44:00-0500",
+      "versions": 2,
+      "bytes": 2211
     },
     {
       "name": "tungstensteel-coil-bill.md",
@@ -2151,6 +2151,14 @@
       "sent_at": "2026-11-21T08:16:05-0500",
       "versions": 3,
       "bytes": 2515
+    },
+    {
+      "name": "vinyl-stock-line.md",
+      "first_ticks": 4735976,
+      "ticks": 4735976,
+      "sent_at": "2026-11-22T05:47:24-0500",
+      "versions": 1,
+      "bytes": 1567
     },
     {
       "name": "void-factory.md",
