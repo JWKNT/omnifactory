@@ -857,6 +857,14 @@
       "bytes": 5297
     },
     {
+      "name": "interface-capacity.md",
+      "first_ticks": 4131733,
+      "ticks": 4148638,
+      "sent_at": "2026-11-21T21:37:57-0500",
+      "versions": 3,
+      "bytes": 1870
+    },
+    {
       "name": "kanthal-coils.md",
       "first_ticks": 1534817,
       "ticks": 2710797,
@@ -987,10 +995,10 @@
     {
       "name": "methanol-from-titanium.md",
       "first_ticks": 3992668,
-      "ticks": 4115343,
-      "sent_at": "2026-11-21T21:10:12-0500",
-      "versions": 7,
-      "bytes": 3407
+      "ticks": 4135528,
+      "sent_at": "2026-11-21T21:27:01-0500",
+      "versions": 8,
+      "bytes": 3760
     },
     {
       "name": "microversium.md",
@@ -1475,10 +1483,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 4126693,
-      "sent_at": "2026-11-21T21:19:39-0500",
-      "versions": 458,
-      "bytes": 5404
+      "ticks": 4138278,
+      "sent_at": "2026-11-21T21:29:19-0500",
+      "versions": 459,
+      "bytes": 6118
     },
     {
       "name": "review-29h49m.md",
@@ -1707,10 +1715,10 @@
     {
       "name": "silicon-for-processors.md",
       "first_ticks": 4126693,
-      "ticks": 4126693,
-      "sent_at": "2026-11-21T21:19:39-0500",
-      "versions": 1,
-      "bytes": 1015
+      "ticks": 4147708,
+      "sent_at": "2026-11-21T21:37:10-0500",
+      "versions": 3,
+      "bytes": 1783
     },
     {
       "name": "silver-reserve.md",
@@ -1855,6 +1863,14 @@
       "sent_at": "2026-11-21T15:54:28-0500",
       "versions": 3,
       "bytes": 1909
+    },
+    {
+      "name": "tier-two-miner-order.md",
+      "first_ticks": 4135528,
+      "ticks": 4142413,
+      "sent_at": "2026-11-21T21:32:45-0500",
+      "versions": 2,
+      "bytes": 1688
     },
     {
       "name": "titanium-batch-size.md",
