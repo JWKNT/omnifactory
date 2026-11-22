@@ -433,6 +433,14 @@
       "bytes": 2421
     },
     {
+      "name": "east-furnace-power.md",
+      "first_ticks": 4601533,
+      "ticks": 4604338,
+      "sent_at": "2026-11-22T03:57:42-0500",
+      "versions": 2,
+      "bytes": 1646
+    },
+    {
       "name": "ebf-running.md",
       "first_ticks": 204715,
       "ticks": 204715,
@@ -911,6 +919,14 @@
       "sent_at": "2026-11-22T03:05:11-0500",
       "versions": 3,
       "bytes": 3156
+    },
+    {
+      "name": "iv-metal-bill.md",
+      "first_ticks": 4605555,
+      "ticks": 4605555,
+      "sent_at": "2026-11-22T03:58:42-0500",
+      "versions": 1,
+      "bytes": 1041
     },
     {
       "name": "kanthal-coils.md",
@@ -1555,10 +1571,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 4581793,
-      "sent_at": "2026-11-22T03:38:54-0500",
-      "versions": 504,
-      "bytes": 2960
+      "ticks": 4601533,
+      "sent_at": "2026-11-22T03:55:21-0500",
+      "versions": 506,
+      "bytes": 2966
     },
     {
       "name": "review-29h49m.md",
@@ -1771,10 +1787,10 @@
     {
       "name": "second-lapidary.md",
       "first_ticks": 4444905,
-      "ticks": 4579970,
-      "sent_at": "2026-11-22T03:37:23-0500",
-      "versions": 4,
-      "bytes": 2434
+      "ticks": 4587005,
+      "sent_at": "2026-11-22T03:43:15-0500",
+      "versions": 5,
+      "bytes": 2810
     },
     {
       "name": "second-miner-cargo.md",

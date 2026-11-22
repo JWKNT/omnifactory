@@ -32,7 +32,7 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">second-lapidary.md</h1>
-        <p class="note-meta"><span class="played">63 h 36 min</span> played · first sent at 61 h 44 min</p>
+        <p class="note-meta"><span class="played">63 h 42 min</span> played · first sent at 61 h 44 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>A second diamond generator for simultaneous work</h2>
@@ -41,6 +41,7 @@
 <p>Eight diamond plates were already in stock. Four emerald ore smelted into gems. One gem and eight diamond plates made the Lapidary Calibration. The separate furnace casing progressed through iron, copper, silver and gold into the finished Diamond Furnace. The excitation coil and vibrant gears remain. The two gold and silver rod patterns belong on the MV lathe, and the gear patterns on the HV alloy smelter. scripts/second_lapidary.py handles procurement and installation. Its receipt requires fuel delivered over yellow and positive generation. Check the combined output under load, diamond inventory trend and queue in each generator before deciding the next upgrade.</p>
 <p>The excitation coil is made. The HV smelter now offers all three bimetal gear patterns. The MV lathe has the silver and gold rod patterns. An iron gear is gregtech:meta_item_2@26033. The extruder produced six while the old demand check was looking for the same metadata on meta_item_1. Four were stored and two were in its output when the check was corrected. Use those six before extruding more.</p>
 <p>The second dynamo and calibration augment are now installed at (12,83,7), facing down. It reports a 2,500 RF/t maximum before reinforcement. The conduit north outlet is set to insert diamonds on yellow. At the first inspection the west machine still had 57 diamonds queued and the east one had none. scripts/lapidary_fuel_split.py sets the source on the stocking interface to round-robin. If needed it releases twelve spare diamonds from the west queue into ME for this test. Verify a diamond in the new machine and actual RF/t before counting that capacity.</p>
+<p>The yellow source now alternates between generators. I returned twelve diamonds from the west queue to ME. The east fuel slot reached four diamonds through the yellow conduit, with 217,862 RF of fuel remaining and 1,499 RF/t measured under load. The first generator therefore kept its working stock while the second came online. The east maximum is 2,500 RF/t at basic tier.</p>
 </div>
       </article>
     </main>
