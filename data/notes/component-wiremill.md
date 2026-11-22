@@ -1,0 +1,7 @@
+# More wire patterns for the component aisle
+
+The first AE wiremill has filled all nine pattern slots. The workshop still carries silver wire for blank patterns and conductive, pulsating and End Steel wire for conduits. Page 53 calls for stocking common components before the next motor or machine order.
+
+The east MV feeder has a free face at (14,82,4). An Advanced Wiremill can fit at (14,82,5) with an interface to the east at (15,82,5), immediately below an existing ME glass cable. Both sockets were air. There is a two-block-high walkable aisle below and room to extend east. The MV build needs four MV motors, two single copper cables, two good circuits and an MV hull. The HV and EV builds each need four motors of their own tier. MV can run all six selected recipes on the existing feeder. Keep the original wiremill processing its motor and circuit patterns while the new machine takes the conduit orders.
+
+Live JEI gives two single wires per ingot and four fine silver wires per single. Start with conductive iron, silver and fine silver, then add pulsating iron, End Steel and gold wires. The first end-to-end test is a blank-pattern batch from silver ingots. The workshop used two Nanoprocessors, ten polyethylene sheets and six fine silver wires to craft sixteen blank patterns at 59h35m. The component wiremill is still awaiting its hull and installation. Its build and stock routine is scripts/component_wiremill.py.
