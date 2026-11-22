@@ -1,0 +1,5 @@
+# Energy at the cryogenic tower
+
+The blueprint puts the energy input at (−12,80,13), on the east wall. Keep the HV hatch for the quest inventory check, then use an EV energy input hatch there so the same tower can run both recipes. Liquid air separation draws 500 EU/t and noble gas separation draws 750 EU/t. ME has already supplied four upgraded Quantum Processors, so the remaining time on that order depends on argon.
+
+Use a four-amp EV CEF at (−11,80,13) facing west, directly into the EV hatch. A separate converter leaves the freezer running at MV. The existing RF trunk reaches (−4,83,5). Nineteen new vibrant conduit sections can run above the freezer roof at y84 to z13, west to x−11 and down to y81. I checked all nineteen positions against the deck and found them clear. The sixteen-amp converter costs more End Steel for the same recipes; this line only needs a fraction of a single EV amp. The four-amp model is the cheaper of the two CEF recipes in this pack. Stage two EV hulls across the hatch and CEF, reusing the active silicone, titanium and aluminium cable lines.

@@ -377,6 +377,14 @@
       "bytes": 1720
     },
     {
+      "name": "cryogenic-tower-power.md",
+      "first_ticks": 5485310,
+      "ticks": 5485310,
+      "sent_at": "2026-11-22T16:19:05-0500",
+      "versions": 1,
+      "bytes": 1093
+    },
+    {
       "name": "crystal-bay.md",
       "first_ticks": 1870166,
       "ticks": 1884166,
@@ -659,10 +667,10 @@
     {
       "name": "first-argon-campaign.md",
       "first_ticks": 5335944,
-      "ticks": 5465727,
-      "sent_at": "2026-11-22T16:02:46-0500",
-      "versions": 8,
-      "bytes": 5505
+      "ticks": 5475819,
+      "sent_at": "2026-11-22T16:11:10-0500",
+      "versions": 9,
+      "bytes": 6283
     },
     {
       "name": "first-cargo-processing.md",
@@ -1715,10 +1723,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 5465727,
-      "sent_at": "2026-11-22T16:02:46-0500",
-      "versions": 577,
-      "bytes": 20588
+      "ticks": 5475819,
+      "sent_at": "2026-11-22T16:11:10-0500",
+      "versions": 578,
+      "bytes": 20472
     },
     {
       "name": "review-29h49m.md",
@@ -2271,6 +2279,14 @@
       "sent_at": "2026-11-21T01:32:08-0500",
       "versions": 11,
       "bytes": 6441
+    },
+    {
+      "name": "tower-building-gadgets.md",
+      "first_ticks": 5480918,
+      "ticks": 5480918,
+      "sent_at": "2026-11-22T16:15:25-0500",
+      "versions": 1,
+      "bytes": 873
     },
     {
       "name": "tungsten-carbide.md",
