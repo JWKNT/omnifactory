@@ -15,3 +15,5 @@ At 73h18m the ME Chest was crafted. The growth chamber returned its pure Certus 
 At 73h45m the second ME Drive was installed at (11,83,10) above the pattern aisle. The north furnace supplied the missing aluminium. A live read of the drive found all ten slots empty. The first cell housing and logic processor are the immediate storage jobs. Check the installed cells before counting capacity.
 
 At 74h01m the second drive held its first 1k fluid cell in slot one. The drive reported 1,024 bytes, zero of five fluid types used, and nine physical slots still free. The housing used four electrical steel plates and four fine red alloy wires. Four Certus crystals, four lapis and one logic processor went into the fluid component. Next install an item cell for its 63 item types.
+
+At 74h22m slot two held the first new 1k item cell. The drive reported 63 available item types on that cell and eight empty drive slots. Four red alloy plates came from the press, and one refined circuit went into the component. The first slot still holds the fluid cell.

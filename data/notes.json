@@ -651,10 +651,10 @@
     {
       "name": "first-argon-campaign.md",
       "first_ticks": 5335944,
-      "ticks": 5335944,
-      "sent_at": "2026-11-22T14:14:37-0500",
-      "versions": 1,
-      "bytes": 1835
+      "ticks": 5363839,
+      "sent_at": "2026-11-22T14:37:51-0500",
+      "versions": 3,
+      "bytes": 2839
     },
     {
       "name": "first-cargo-processing.md",
@@ -1707,10 +1707,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 5343771,
-      "sent_at": "2026-11-22T14:21:08-0500",
-      "versions": 566,
-      "bytes": 16610
+      "ticks": 5363839,
+      "sent_at": "2026-11-22T14:37:51-0500",
+      "versions": 568,
+      "bytes": 17463
     },
     {
       "name": "review-29h49m.md",
@@ -1955,10 +1955,10 @@
     {
       "name": "second-drive.md",
       "first_ticks": 4266705,
-      "ticks": 5329801,
-      "sent_at": "2026-11-22T14:09:29-0500",
-      "versions": 7,
-      "bytes": 3891
+      "ticks": 5354790,
+      "sent_at": "2026-11-22T14:30:19-0500",
+      "versions": 8,
+      "bytes": 4164
     },
     {
       "name": "second-hour.md",
@@ -2043,10 +2043,10 @@
     {
       "name": "signalum-line.md",
       "first_ticks": 5310612,
-      "ticks": 5343771,
-      "sent_at": "2026-11-22T14:21:08-0500",
-      "versions": 2,
-      "bytes": 1651
+      "ticks": 5363839,
+      "sent_at": "2026-11-22T14:37:51-0500",
+      "versions": 3,
+      "bytes": 2085
     },
     {
       "name": "silicon-boule.md",
