@@ -1,0 +1,11 @@
+# Five tower outlets, one fluid interface
+
+The first 53-bucket liquid-air run yields 40 buckets of nitrogen, 11 of oxygen, one of carbon dioxide and one of noble gases. After 53 runs, a 53-bucket noble-gas distillation yields 35 buckets of argon, 11 of neon, five of helium, one of krypton and one of xenon. Keep all five outlets available. Otherwise a full hatch can stop a run before enough noble gases accumulate.
+
+Use Ender Fluid Conduits for the mixed gas return, with an ME Fluid Interface as their common destination. The refinery already uses a fluid interface to receive hydrogen. The five east-facing taps go at x−11, y80 and z10, 11, 12, 14 and 15. Leave z13 to the energy converter. Join the taps with a six-block conduit along x−10. Extend the two missing floor tiles below its southern end first. The interface goes just above the trunk at (−10,81,10).
+
+At 76h20m the proposed ME route from the existing fluix cable at (−4,82,6) was clear. Go one west, rise to y84, go south to z10, west to x−10 and down to the interface. Check the receiver is on the network and the fluid cells accept every product. Prove delivery by measuring gas storage before and after the first run, including noble gases. The return is planned; only the separate liquid-air supply pipe has been laid.
+
+The six trunk conduits are now physically in place at (−10,80,10) through (−10,80,15), including the two new cobblestone supports at z14 and z15. The first glass cable is attached at (−5,82,6). The next overhead cable could not be reached reliably. A level route uses the same fourteen glass cables and has cobblestone floor beneath every position. From the first cable go north to z5, west to x−11, south to z10, then east to x−10 above the receiver.
+
+All eleven Ender Fluid Conduits were checked at 76h31m. The six trunk blocks and five west-facing taps are installed. The final tap at (−11,80,15) needed an approach from the open strip at z16. The old approach tile at (−11,80,12) is now occupied by a conduit. Nine of fourteen glass cables were in place by 76h32m. Configure each tap to extract without redstone and set the trunk's upper connection to insert once the interface and hatches are in position.

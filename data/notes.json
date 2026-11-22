@@ -377,6 +377,14 @@
       "bytes": 1720
     },
     {
+      "name": "cryogenic-gas-return.md",
+      "first_ticks": 5496545,
+      "ticks": 5511360,
+      "sent_at": "2026-11-22T16:40:47-0500",
+      "versions": 3,
+      "bytes": 2226
+    },
+    {
       "name": "cryogenic-tower-power.md",
       "first_ticks": 5485310,
       "ticks": 5485310,
@@ -667,10 +675,10 @@
     {
       "name": "first-argon-campaign.md",
       "first_ticks": 5335944,
-      "ticks": 5475819,
-      "sent_at": "2026-11-22T16:11:10-0500",
-      "versions": 9,
-      "bytes": 6283
+      "ticks": 5494618,
+      "sent_at": "2026-11-22T16:26:50-0500",
+      "versions": 10,
+      "bytes": 6714
     },
     {
       "name": "first-cargo-processing.md",
@@ -1015,6 +1023,14 @@
       "sent_at": "2026-11-22T12:32:57-0500",
       "versions": 13,
       "bytes": 9030
+    },
+    {
+      "name": "iv-chemical-models.md",
+      "first_ticks": 5511358,
+      "ticks": 5511358,
+      "sent_at": "2026-11-22T16:40:47-0500",
+      "versions": 1,
+      "bytes": 1347
     },
     {
       "name": "iv-metal-bill.md",
@@ -1723,10 +1739,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 5475819,
-      "sent_at": "2026-11-22T16:11:10-0500",
-      "versions": 578,
-      "bytes": 20472
+      "ticks": 5506199,
+      "sent_at": "2026-11-22T16:36:29-0500",
+      "versions": 580,
+      "bytes": 20539
     },
     {
       "name": "review-29h49m.md",
@@ -2283,10 +2299,10 @@
     {
       "name": "tower-building-gadgets.md",
       "first_ticks": 5480918,
-      "ticks": 5480918,
-      "sent_at": "2026-11-22T16:15:25-0500",
-      "versions": 1,
-      "bytes": 873
+      "ticks": 5502951,
+      "sent_at": "2026-11-22T16:33:47-0500",
+      "versions": 3,
+      "bytes": 1990
     },
     {
       "name": "tungsten-carbide.md",
