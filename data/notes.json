@@ -307,10 +307,10 @@
     {
       "name": "component-wiremill.md",
       "first_ticks": 4292435,
-      "ticks": 4359705,
-      "sent_at": "2026-11-22T00:33:50-0500",
-      "versions": 3,
-      "bytes": 2338
+      "ticks": 4461808,
+      "sent_at": "2026-11-22T01:58:55-0500",
+      "versions": 5,
+      "bytes": 3028
     },
     {
       "name": "compressor.md",
@@ -1211,10 +1211,10 @@
     {
       "name": "oxygen-electrolysis-bay.md",
       "first_ticks": 4410893,
-      "ticks": 4410893,
-      "sent_at": "2026-11-22T01:16:29-0500",
-      "versions": 1,
-      "bytes": 1948
+      "ticks": 4444903,
+      "sent_at": "2026-11-22T01:44:50-0500",
+      "versions": 2,
+      "bytes": 2161
     },
     {
       "name": "oxygen-storage.md",
@@ -1539,10 +1539,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 4430472,
-      "sent_at": "2026-11-22T01:32:48-0500",
-      "versions": 487,
-      "bytes": 3900
+      "ticks": 4461806,
+      "sent_at": "2026-11-22T01:58:55-0500",
+      "versions": 490,
+      "bytes": 4585
     },
     {
       "name": "review-29h49m.md",
@@ -1743,6 +1743,14 @@
       "sent_at": "2026-11-19T14:01:06-0500",
       "versions": 1,
       "bytes": 426
+    },
+    {
+      "name": "second-lapidary.md",
+      "first_ticks": 4444905,
+      "ticks": 4455118,
+      "sent_at": "2026-11-22T01:53:21-0500",
+      "versions": 2,
+      "bytes": 1476
     },
     {
       "name": "second-miner-cargo.md",
@@ -2019,10 +2027,10 @@
     {
       "name": "tungstensteel-coil-bill.md",
       "first_ticks": 4426117,
-      "ticks": 4430474,
-      "sent_at": "2026-11-22T01:32:48-0500",
-      "versions": 2,
-      "bytes": 2300
+      "ticks": 4461810,
+      "sent_at": "2026-11-22T01:58:55-0500",
+      "versions": 3,
+      "bytes": 2909
     },
     {
       "name": "vacuum-freezer.md",

@@ -1,0 +1,7 @@
+# A second diamond generator for simultaneous work
+
+The EV electrolyzer reported insufficient energy while processing tungstate. Its 1,920 EU/t recipe needs 7,680 RF/t at the CEF. The reinforced diamond dynamo read 6,822 RF/t out of a maximum of 7,500. The north furnace alone adds 480 EU/t. The Shulker line was supplying fuel and the dynamo had a full stack queued. The immediate limit was electrical output.
+
+Build a second lapidary dynamo at (12,83,7), facing down into the existing RF trunk. The item conduit at (12,83,8) can insert diamonds on yellow. This uses the same fuel factory and stock control. The Signalum upgrade is behind tungstensteel and both advanced alloy quests. Fission also needs several new alloy chains. Gas recovered by the refinery is an option for a separate turbine load.
+
+Eight diamond plates were already in stock. Four emerald ore smelted into gems. One gem and eight diamond plates made the Lapidary Calibration. The separate furnace casing progressed through iron, copper, silver and gold into the finished Diamond Furnace. The excitation coil and vibrant gears remain. The two gold and silver rod patterns belong on the MV lathe, and the gear patterns on the HV alloy smelter. scripts/second_lapidary.py handles procurement and installation. Its receipt requires fuel delivered over yellow and positive generation. Check the combined output under load, diamond inventory trend and queue in each generator before deciding the next upgrade.
