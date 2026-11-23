@@ -15,3 +15,5 @@ The chemistry bench already has an Ender Fluid Conduit directly above it at (6,8
 The second IV hull had six tungstensteel plates available at 93h38m. Ordering its two remaining plates uses much less material than waiting for thirteen loose tungstensteel ingots. The LuV fitting reserve can use the later tungstensteel furnace batches. Page 587 pays one quarter for showing 64 cold HSS-G ingots if the reserve reaches that count together.
 
 The first 16 buckets of steam reached the cracking reactor, and it made 8,000 mB of steam-cracked light fuel. The accessible overhead approach was verified at (5,83,3), reachable with the jetpack. When several Ender IO portable tanks share an item ID, the ME terminal now supports selecting the exact stored tag so an empty tank can be retrieved for the next fluid.
+
+At 94h49m the second 16-bucket charge of steam-cracked light fuel reached ME by portable tank. A bucket was taken for the conduit filter, leaving 31 buckets in fluid storage. That covers the 27-bucket distillery order. The filtered conduit has not yet demonstrated a delivery.
