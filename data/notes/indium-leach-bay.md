@@ -15,3 +15,9 @@ The cable rise offered no accessible north face from the aisle. The next placeme
 Launch the short roof approach from the west aisle at (18,80,−11). If the player ends up on the east furnace conduit at (28,84,−10), the square directly south has air down to the deck. The walking helper checks that floor and steps off instead of depending on the factory home cooldown.
 
 At 89h35m the transformer was physically installed. Its front faced south into the cable rise, it held 16,368 EU and the readout showed 2,048 V at one amp in and 512 V at four amps out. The steel rotor was also in stock. The HV motor and reactor together require four insulated gold cables. Both the cable wrapper and motor have patterns, but bare gold wire does not. Use one of the component wiremill’s three empty pattern slots for one gold ingot to two wires, the only wiremill recipe. This will also supply later HV hulls and motors.
+
+At 90h06m the new HV reactor at (19,83,−11) held 4,000 mB of indium concentrate from its first charge. It ran at 150 EU/t for 60 ticks per pair. Bank the concentrate in ME for the EV reactor below to reduce with aluminium. The two machines can now perform those operations independently.
+
+At 90h08m ME fluid storage received all 4,000 mB. The EV reactor banked its remaining 850 mB of radon to clear the inlet for concentrate. Allow reduction whenever no wafer charge is ready and the reactor is idle.
+
+The first reduction delivered four tiny piles of indium and four buckets of lead-zinc solution. A second four-bucket concentrate batch finished in the HV leacher while the other workshop jobs ran.

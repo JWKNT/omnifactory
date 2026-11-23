@@ -5,3 +5,5 @@ The floor aisle can serve the nano machines, but moving from one roof to another
 The workshop has one dark steel ingot, one vibrant alloy ingot, and 31 more emerald ore. Build the staff first, then check its RF and range on the open floor before trying a machine roof. A future anchor on the Assembly Line deck would give the staff a fixed destination.
 
 At 80h40m the MV lathe returned both dark steel rods and the MV crystal autoclave returned the Vibrant Crystal. The staff accepted 10,000 FE from the removable MV capacitor. The capacitor went back into its converter, the quest book paid the OmniNickel on page 213, and one Staff of Traveling is in ME. Page 219 for Travel Anchors is open. Keep the staff available for use when the anchor pair is installed.
+
+At 90h07m the player crafted the Travel Anchor from four Dark Steel Plates, four Vibrant Alloy Plates and one Pulsating Crystal. Page 219 paid its OmniNickel. The anchor is installed at (18,80,−18) on the north Assembly Line deck, within sight of the new work area.

@@ -7,3 +7,5 @@ Use the free third input on the hydrogen-fed MV refinery gas reactor. Leave its 
 The full 16-bucket portable tank stayed unchanged when clicked into the gas desulfurizer with hydrogen and residual sulfuric gas present. Keep that reactor on acid service. The east methanol reactor at (15,82,2) has a full hydrogen supply and two empty fluid tanks, so the pilot moved there.
 
 At 89h51m the east reactor accepted the 16-bucket light-fuel charge and started hydrocracking at 120 EU/t. The machine showed 58 ticks per recipe. At the same time the crude tower was active and the desulfurizer had accumulated 10,800 mB sulfuric naphtha toward its 12,000 mB batch.
+
+The sixteen-bucket pilot delivered 12,800 mB clean naphtha into ME. The MV distillery had program seven back in its input after delivery. The crude route independently supplied 12,000 mB and the resin bath received another 1,152 mB epoxy. Repeat a sixteen-bucket charge when clean naphtha falls below twelve buckets and resin, hydrogen and the propene schedule allow it. At this demand the two existing machines can supply the next casing batches.

@@ -107,18 +107,18 @@
     {
       "name": "assembly-casing-orders.md",
       "first_ticks": 6296766,
-      "ticks": 6425174,
-      "sent_at": "2026-11-23T05:22:18-0500",
-      "versions": 3,
-      "bytes": 3325
+      "ticks": 6496377,
+      "sent_at": "2026-11-23T06:21:38-0500",
+      "versions": 4,
+      "bytes": 3728
     },
     {
       "name": "assembly-gold.md",
       "first_ticks": 5989398,
-      "ticks": 6167967,
-      "sent_at": "2026-11-23T01:47:58-0500",
-      "versions": 8,
-      "bytes": 3850
+      "ticks": 6496377,
+      "sent_at": "2026-11-23T06:21:38-0500",
+      "versions": 9,
+      "bytes": 4256
     },
     {
       "name": "assembly-iron-and-coal.md",
@@ -1131,10 +1131,10 @@
     {
       "name": "indium-leach-bay.md",
       "first_ticks": 6306719,
-      "ticks": 6450966,
-      "sent_at": "2026-11-23T05:43:48-0500",
-      "versions": 6,
-      "bytes": 3252
+      "ticks": 6496377,
+      "sent_at": "2026-11-23T06:21:38-0500",
+      "versions": 9,
+      "bytes": 3955
     },
     {
       "name": "inscriber.md",
@@ -1259,10 +1259,10 @@
     {
       "name": "light-fuel-to-naphtha.md",
       "first_ticks": 6466071,
-      "ticks": 6470239,
-      "sent_at": "2026-11-23T05:59:51-0500",
-      "versions": 3,
-      "bytes": 1622
+      "ticks": 6479146,
+      "sent_at": "2026-11-23T06:07:17-0500",
+      "versions": 4,
+      "bytes": 2071
     },
     {
       "name": "logic-processor-orders.md",
@@ -1283,10 +1283,10 @@
     {
       "name": "lubricant-and-wafer-cutting.md",
       "first_ticks": 6355926,
-      "ticks": 6441162,
-      "sent_at": "2026-11-23T05:35:37-0500",
-      "versions": 5,
-      "bytes": 3146
+      "ticks": 6490564,
+      "sent_at": "2026-11-23T06:16:48-0500",
+      "versions": 6,
+      "bytes": 3392
     },
     {
       "name": "lumium-and-mana.md",
@@ -2019,10 +2019,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 6470239,
-      "sent_at": "2026-11-23T05:59:51-0500",
-      "versions": 682,
-      "bytes": 4214
+      "ticks": 6496377,
+      "sent_at": "2026-11-23T06:21:38-0500",
+      "versions": 687,
+      "bytes": 4616
     },
     {
       "name": "review-29h49m.md",
@@ -2539,10 +2539,10 @@
     {
       "name": "sphalerite-gallium-orders.md",
       "first_ticks": 5805545,
-      "ticks": 5805545,
-      "sent_at": "2026-11-22T20:45:57-0500",
-      "versions": 1,
-      "bytes": 992
+      "ticks": 6479146,
+      "sent_at": "2026-11-23T06:07:17-0500",
+      "versions": 2,
+      "bytes": 1255
     },
     {
       "name": "steam-upgrade.md",
@@ -2931,10 +2931,10 @@
     {
       "name": "workshop-travel-staff.md",
       "first_ticks": 5796016,
-      "ticks": 5810095,
-      "sent_at": "2026-11-22T20:49:44-0500",
-      "versions": 2,
-      "bytes": 1440
+      "ticks": 6489191,
+      "sent_at": "2026-11-23T06:15:39-0500",
+      "versions": 3,
+      "bytes": 1709
     },
     {
       "name": "workshop.md",
