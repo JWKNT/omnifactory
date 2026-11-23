@@ -497,6 +497,14 @@
       "bytes": 1680
     },
     {
+      "name": "crystal-workshop-power.md",
+      "first_ticks": 6956890,
+      "ticks": 6956890,
+      "sent_at": "2026-11-23T12:45:24-0500",
+      "versions": 1,
+      "bytes": 2103
+    },
+    {
       "name": "deuterium.md",
       "first_ticks": 864775,
       "ticks": 1080891,
@@ -1339,10 +1347,10 @@
     {
       "name": "luv-fittings-and-rubber.md",
       "first_ticks": 6719517,
-      "ticks": 6952244,
-      "sent_at": "2026-11-23T12:41:32-0500",
-      "versions": 12,
-      "bytes": 7254
+      "ticks": 6956890,
+      "sent_at": "2026-11-23T12:45:24-0500",
+      "versions": 13,
+      "bytes": 7509
     },
     {
       "name": "lv-batteries.md",
@@ -1567,6 +1575,14 @@
       "sent_at": "2026-11-21T02:53:49-0500",
       "versions": 5,
       "bytes": 3020
+    },
+    {
+      "name": "niobium-titanium-leads.md",
+      "first_ticks": 6970280,
+      "ticks": 6970280,
+      "sent_at": "2026-11-23T12:56:33-0500",
+      "versions": 1,
+      "bytes": 1238
     },
     {
       "name": "noble-gas-feed.md",
@@ -2067,10 +2083,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 6952244,
-      "sent_at": "2026-11-23T12:41:32-0500",
-      "versions": 733,
-      "bytes": 8659
+      "ticks": 6973949,
+      "sent_at": "2026-11-23T12:59:37-0500",
+      "versions": 735,
+      "bytes": 9319
     },
     {
       "name": "review-29h49m.md",
