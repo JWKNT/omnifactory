@@ -1931,10 +1931,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 6130863,
-      "sent_at": "2026-11-23T01:17:03-0500",
-      "versions": 654,
-      "bytes": 2404
+      "ticks": 6159270,
+      "sent_at": "2026-11-23T01:40:43-0500",
+      "versions": 656,
+      "bytes": 3251
     },
     {
       "name": "review-29h49m.md",
@@ -2275,10 +2275,10 @@
     {
       "name": "secondary-indium-acid.md",
       "first_ticks": 6075717,
-      "ticks": 6118747,
-      "sent_at": "2026-11-23T01:06:57-0500",
-      "versions": 6,
-      "bytes": 3001
+      "ticks": 6154786,
+      "sent_at": "2026-11-23T01:36:59-0500",
+      "versions": 7,
+      "bytes": 3506
     },
     {
       "name": "sheet-return.md",
@@ -2595,10 +2595,10 @@
     {
       "name": "tungsten-from-cargo.md",
       "first_ticks": 4341114,
-      "ticks": 6136609,
-      "sent_at": "2026-11-23T01:21:50-0500",
-      "versions": 9,
-      "bytes": 5876
+      "ticks": 6158074,
+      "sent_at": "2026-11-23T01:39:43-0500",
+      "versions": 12,
+      "bytes": 7896
     },
     {
       "name": "tungsten-power-restart.md",
@@ -2787,10 +2787,10 @@
     {
       "name": "workshop-lv-refeed.md",
       "first_ticks": 6134996,
-      "ticks": 6134996,
-      "sent_at": "2026-11-23T01:20:29-0500",
-      "versions": 1,
-      "bytes": 1133
+      "ticks": 6140729,
+      "sent_at": "2026-11-23T01:25:16-0500",
+      "versions": 2,
+      "bytes": 1559
     },
     {
       "name": "workshop-satchel.md",
