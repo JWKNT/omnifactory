@@ -1,0 +1,7 @@
+# The 5,400 K coil set
+
+Page 313 requires sixteen HSS-G coil blocks. It pays one OmniNickel and unlocks the engraved crystal chip, Naquadah and both later high-speed steels. The wiremill gives two single wires per ingot in 98 ticks at 32 EU/t. The extruder gives the same two wires in 196 ticks at 192 EU/t. Cutting a plate by hand loses half the metal. Two single wires make one double wire. An assembler on program eight winds eight double wires into one coil in 50 ticks at 16 EU/t. The same program serves the machine-casing bench.
+
+Allow 128 HSS-G ingots for the full set. Keep the first 64 together long enough to claim page 587 for a quarter. Each nine-dust batch uses five tungstensteel dust, one chrome, two molybdenum and one vanadium. The material requires 4,500 K. The fourth furnace was taking 1,125 ticks per ingot while the east furnace and freezer can make tungstensteel for its feed. That is two hours of furnace work for the full set. Start it after the LuV assembler, alongside the two miner builds. Give funded Signalum plating heats access to the hot furnace. The two robot arms already have their gear stock.
+
+The campaign uses `scripts/hssg_coil_sets.py` for the bounty, wiremill and coil orders. Produce the coils in storage before choosing which furnace to upgrade. The two existing furnaces must keep their shared freezer return working.

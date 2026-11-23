@@ -507,10 +507,10 @@
     {
       "name": "crystal-mission-consumables.md",
       "first_ticks": 7002417,
-      "ticks": 7037949,
-      "sent_at": "2026-11-23T13:52:57-0500",
-      "versions": 2,
-      "bytes": 1808
+      "ticks": 7069274,
+      "sent_at": "2026-11-23T14:19:03-0500",
+      "versions": 3,
+      "bytes": 2556
     },
     {
       "name": "crystal-workshop-power.md",
@@ -799,6 +799,14 @@
       "sent_at": "2026-11-23T07:12:50-0500",
       "versions": 3,
       "bytes": 1760
+    },
+    {
+      "name": "fifth-furnace-aisle.md",
+      "first_ticks": 7071748,
+      "ticks": 7071748,
+      "sent_at": "2026-11-23T14:21:07-0500",
+      "versions": 1,
+      "bytes": 1466
     },
     {
       "name": "filters.md",
@@ -1097,6 +1105,14 @@
       "bytes": 1476
     },
     {
+      "name": "hssg-coil-budget.md",
+      "first_ticks": 7056365,
+      "ticks": 7056365,
+      "sent_at": "2026-11-23T14:08:18-0500",
+      "versions": 1,
+      "bytes": 1364
+    },
+    {
       "name": "hssg-coil-order.md",
       "first_ticks": 5754936,
       "ticks": 6809211,
@@ -1355,10 +1371,10 @@
     {
       "name": "luv-arm-circuits.md",
       "first_ticks": 6879359,
-      "ticks": 7036837,
-      "sent_at": "2026-11-23T13:52:01-0500",
-      "versions": 6,
-      "bytes": 2908
+      "ticks": 7059445,
+      "sent_at": "2026-11-23T14:10:52-0500",
+      "versions": 8,
+      "bytes": 4252
     },
     {
       "name": "luv-assembler-orders.md",
@@ -1627,10 +1643,10 @@
     {
       "name": "niobium-titanium-leads.md",
       "first_ticks": 6970280,
-      "ticks": 7022935,
-      "sent_at": "2026-11-23T13:40:26-0500",
-      "versions": 3,
-      "bytes": 2159
+      "ticks": 7059445,
+      "sent_at": "2026-11-23T14:10:52-0500",
+      "versions": 4,
+      "bytes": 2378
     },
     {
       "name": "noble-gas-feed.md",
@@ -2131,10 +2147,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 7036837,
-      "sent_at": "2026-11-23T13:52:01-0500",
-      "versions": 741,
-      "bytes": 10128
+      "ticks": 7059445,
+      "sent_at": "2026-11-23T14:10:52-0500",
+      "versions": 743,
+      "bytes": 10501
     },
     {
       "name": "review-29h49m.md",
