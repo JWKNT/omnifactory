@@ -105,6 +105,14 @@
       "bytes": 1085
     },
     {
+      "name": "assembly-iron-and-coal.md",
+      "first_ticks": 5961706,
+      "ticks": 5961706,
+      "sent_at": "2026-11-22T22:56:05-0500",
+      "versions": 1,
+      "bytes": 778
+    },
+    {
       "name": "assembly-line-item-relays.md",
       "first_ticks": 5714954,
       "ticks": 5714954,
@@ -123,10 +131,10 @@
     {
       "name": "assembly-line-motion.md",
       "first_ticks": 5666916,
-      "ticks": 5923404,
-      "sent_at": "2026-11-22T22:24:10-0500",
-      "versions": 10,
-      "bytes": 8332
+      "ticks": 5951467,
+      "sent_at": "2026-11-22T22:47:33-0500",
+      "versions": 11,
+      "bytes": 8608
     },
     {
       "name": "assembly-motor-magnets.md",
@@ -259,10 +267,10 @@
     {
       "name": "bulk-element-quests.md",
       "first_ticks": 5940479,
-      "ticks": 5940479,
-      "sent_at": "2026-11-22T22:38:23-0500",
-      "versions": 1,
-      "bytes": 702
+      "ticks": 5957483,
+      "sent_at": "2026-11-22T22:52:34-0500",
+      "versions": 2,
+      "bytes": 967
     },
     {
       "name": "bulk-furnace-deck.md",
@@ -931,10 +939,10 @@
     {
       "name": "gear-production.md",
       "first_ticks": 1486508,
-      "ticks": 4508176,
-      "sent_at": "2026-11-22T02:37:34-0500",
-      "versions": 3,
-      "bytes": 2260
+      "ticks": 5951467,
+      "sent_at": "2026-11-22T22:47:33-0500",
+      "versions": 4,
+      "bytes": 2588
     },
     {
       "name": "ghast-silver.md",
@@ -1099,18 +1107,18 @@
     {
       "name": "iron-and-stainless-for-iv.md",
       "first_ticks": 4708524,
-      "ticks": 4927893,
-      "sent_at": "2026-11-22T08:34:34-0500",
-      "versions": 4,
-      "bytes": 4210
+      "ticks": 5955926,
+      "sent_at": "2026-11-22T22:51:16-0500",
+      "versions": 5,
+      "bytes": 4748
     },
     {
       "name": "iv-assembler-discharge.md",
       "first_ticks": 5937680,
-      "ticks": 5937680,
-      "sent_at": "2026-11-22T22:36:03-0500",
-      "versions": 1,
-      "bytes": 1535
+      "ticks": 5951467,
+      "sent_at": "2026-11-22T22:47:33-0500",
+      "versions": 2,
+      "bytes": 1813
     },
     {
       "name": "iv-assembler-windings.md",
@@ -1891,10 +1899,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 5937680,
-      "sent_at": "2026-11-22T22:36:03-0500",
-      "versions": 628,
-      "bytes": 28164
+      "ticks": 5957483,
+      "sent_at": "2026-11-22T22:52:34-0500",
+      "versions": 630,
+      "bytes": 28170
     },
     {
       "name": "review-29h49m.md",
