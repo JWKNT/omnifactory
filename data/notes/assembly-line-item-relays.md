@@ -29,3 +29,5 @@ For finished products, the shorter ME connection comes from the fourth furnace b
 The motor tender now has a commissioning test. With the active output import bus in place, count motors in ME before loading a motor by hand. Once ME gains a motor, the blocking ingredient interface can accept a pattern. Compare the terminal's ghost inputs with the seven JEI stacks before encoding. Ask for one motor at a time after checking both converter reserves and the two fluid hatches. The motor pattern and output return still need to pass these tests on the installed line.
 
 At 94h49m the player opened each spare input bus with its relay installed below it. The Laser Wrench connected x29 to x30, and both relays reported the same nonempty network. The next relay is mounted at x28. The cable for the dedicated output return has started from the fourth furnace branch.
+
+All eleven relays are linked. After the Item Interface was placed at (19,81,−19), its west item handler exposed eleven slots. The two end buses had also opened individually. The blocking ME Interface and the output import bus still need their cable runs and an actual motor delivery.
