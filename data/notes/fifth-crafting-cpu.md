@@ -7,3 +7,5 @@ The 1k Crafting Storage needs one Crafting Unit and one 1k ME Storage Component.
 Use the empty block east of the upper drive at (12,83,10). This keeps the terminal aisle open and separates the CPU from the other four. The drive supplies the network connection. The build runs through scripts/fourth_crafting_cpu.py. Count five distinct CPUs in the crafting monitor after placement, then check whether five jobs actually overlap.
 
 At 90h47m the block at (12,83,10) is 1k Crafting Storage, and the network monitor enumerates five independent CPUs. I saw bauxite dust and titanium ingots run concurrently after installation. The sampler continues to log occupied CPUs and job names so the next review can measure whether a fifth order used the extra capacity.
+
+The first five-job overlap was recorded at tick 6,549,226. The five CPUs held fine platinum wire, cuprate cable, sulfur dust, wrought iron ingots and electrical steel plates.

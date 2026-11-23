@@ -1,0 +1,7 @@
+# Return the HV centrifuge's water to ME
+
+At 90h54m the powered and enabled HV centrifuge at (10,84,1) was idle with six impure neodymium dust and 3,000 mB lead-zinc solution in its inputs. Its first output tank held 64,000 mB of water. The other five tanks were empty. GregTech can refuse more water when the matching tank is full. The centrifuge must clear this before it can reliably process ore for the IV casing motors and the EV wafer saw. JEI gives one clean neodymium dust per impure pile in the centrifuge. Lead-zinc recovery also supplies sulfur for acid.
+
+Reuse the Fluix glass cable directly underneath at (10,83,1). It already carries a downward ME Fluid Import Bus for the chemistry machine below, and its top face is empty. Fit the remaining bus facing up to import the centrifuge's fluid outputs. This keeps the top clear for the jetpack and the north item return available for ore. Check water leaving the machine and whether the six neodymium dust clear. If installation takes longer, bank one portable tank of output water from above and compare the next machine readout.
+
+At 91h00m the new upward fluid import bus was active. The player banked the first 16,000 mB of water to clear the output before fitting it. All six output tanks then emptied, the three buckets of lead-zinc solution and six impure piles cleared, and six clean neodymium dust reached storage. ME placed an order for six neodymium ingots.
