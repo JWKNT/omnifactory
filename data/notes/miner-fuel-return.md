@@ -1,0 +1,13 @@
+# Automatic return from the fuel reactor
+
+The first ammonia batch made 4,000 mB in the dedicated reactor at (13,81,0). Subsequent batches produced water, chloramine and dimethylamine. Each product had to leave in a portable tank before another reaction could start. The next miner missions use the same fluid families, so the output needs a permanent route to storage.
+
+The lathe's ME Interface at (14,82,1) is already powered. Two fluix glass cables fit below it at (14,81,1) and north at (14,81,0). An unfiltered ME Fluid Import Bus on the latter cable can face west into the fuel reactor. The refinery uses this bus for a reactor outlet. Five cables are in stock and the fluid bus has a crafting pattern. Use (14,80,−1) when tending the reactor to leave the cable aisle clear. The mixer can then withdraw the final liquids from ME while the player works on the ship. Verify a falling product tank and a corresponding increase in storage. The manual tender remains available if a batch fails to drain.
+
+Both cables and the powered import bus are installed. The limiting factor was fluid storage. One cell reported 1,025 of 1,024 bytes used while its type counter still suggested two spare slots. All six installed fluid cells refused a new type. The second drive has room for seven more cells. Its tender now reads each cell's actual acceptance before deciding whether to build another 1k cell. A portable tank caught 2,000 mB of dimethylamine. The next reaction consumed it directly with stored chloramine. This also gives the operator a recovery route when the drive fills mid-batch.
+
+The first hydrazine reaction provided a delivery check. With the reactor still processing its second charge, the output held 1,000 mB of 1,1-dimethylhydrazine and ME held zero. After the batch, the output was empty and ME held 2,000 mB. The 2,000 mB of hydrochloric acid by-product stayed in the reactor until a portable tank collected it. The fuel return tender can deposit that tank when a cell opens up.
+
+The cell tender built the processor core, assembled the new 1k fluid cell, and installed it in slot four of the upper drive. Its first readout showed five available types and six physical bays still free. The fuel reactor then accepted the four-bucket nitrogen dioxide batch on program 2 for dinitrogen tetroxide. The oxidation sequence finished with a reaction that took 229 ticks per bucket at 120 EU/t.
+
+The new cell also accepted the 2,000 mB hydrochloric acid by-product. The import bus delivered 2,000 mB dinitrogen tetroxide to ME. The workshop mixer took both stored liquids and made 12,000 mB of rocket fuel. The projector hatch rose from 4,000 to 16,000 mB before launch.

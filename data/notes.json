@@ -1353,6 +1353,14 @@
       "bytes": 4195
     },
     {
+      "name": "miner-fuel-return.md",
+      "first_ticks": 6188101,
+      "ticks": 6208982,
+      "sent_at": "2026-11-23T02:22:09-0500",
+      "versions": 5,
+      "bytes": 2681
+    },
+    {
       "name": "mixer.md",
       "first_ticks": 362912,
       "ticks": 374859,
@@ -1931,10 +1939,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 6167967,
-      "sent_at": "2026-11-23T01:47:58-0500",
-      "versions": 657,
-      "bytes": 3408
+      "ticks": 6208982,
+      "sent_at": "2026-11-23T02:22:09-0500",
+      "versions": 659,
+      "bytes": 3400
     },
     {
       "name": "review-29h49m.md",
@@ -2219,10 +2227,10 @@
     {
       "name": "ruby-chrome-orders.md",
       "first_ticks": 6175462,
-      "ticks": 6184598,
-      "sent_at": "2026-11-23T02:01:49-0500",
-      "versions": 2,
-      "bytes": 1341
+      "ticks": 6194344,
+      "sent_at": "2026-11-23T02:09:57-0500",
+      "versions": 3,
+      "bytes": 1480
     },
     {
       "name": "ruby-washer.md",
@@ -2603,10 +2611,10 @@
     {
       "name": "tungsten-from-cargo.md",
       "first_ticks": 4341114,
-      "ticks": 6181953,
-      "sent_at": "2026-11-23T01:59:37-0500",
-      "versions": 14,
-      "bytes": 8731
+      "ticks": 6208982,
+      "sent_at": "2026-11-23T02:22:09-0500",
+      "versions": 16,
+      "bytes": 9915
     },
     {
       "name": "tungsten-power-restart.md",
