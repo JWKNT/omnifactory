@@ -99,10 +99,10 @@
     {
       "name": "assembly-line-materials.md",
       "first_ticks": 5388520,
-      "ticks": 5670117,
-      "sent_at": "2026-11-22T18:53:05-0500",
-      "versions": 9,
-      "bytes": 6151
+      "ticks": 5687427,
+      "sent_at": "2026-11-22T19:07:31-0500",
+      "versions": 10,
+      "bytes": 6544
     },
     {
       "name": "assembly-line-motion.md",
@@ -731,10 +731,10 @@
     {
       "name": "first-nether-star.md",
       "first_ticks": 1690701,
-      "ticks": 5642509,
-      "sent_at": "2026-11-22T18:30:05-0500",
-      "versions": 2,
-      "bytes": 2221
+      "ticks": 5703344,
+      "sent_at": "2026-11-22T19:20:47-0500",
+      "versions": 4,
+      "bytes": 3542
     },
     {
       "name": "first-palladium.md",
@@ -899,10 +899,10 @@
     {
       "name": "glowstone-boule.md",
       "first_ticks": 5576450,
-      "ticks": 5639060,
-      "sent_at": "2026-11-22T18:27:12-0500",
-      "versions": 5,
-      "bytes": 3054
+      "ticks": 5701580,
+      "sent_at": "2026-11-22T19:19:18-0500",
+      "versions": 6,
+      "bytes": 3372
     },
     {
       "name": "gp-for-oil.md",
@@ -1331,10 +1331,10 @@
     {
       "name": "noble-gas-feed.md",
       "first_ticks": 5611736,
-      "ticks": 5653940,
-      "sent_at": "2026-11-22T18:39:36-0500",
-      "versions": 6,
-      "bytes": 2930
+      "ticks": 5697037,
+      "sent_at": "2026-11-22T19:15:31-0500",
+      "versions": 7,
+      "bytes": 3178
     },
     {
       "name": "north-chemistry-power.md",
@@ -1779,10 +1779,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 5661811,
-      "sent_at": "2026-11-22T18:46:10-0500",
-      "versions": 601,
-      "bytes": 21866
+      "ticks": 5703344,
+      "sent_at": "2026-11-22T19:20:47-0500",
+      "versions": 606,
+      "bytes": 22060
     },
     {
       "name": "review-29h49m.md",
@@ -1983,6 +1983,14 @@
       "sent_at": "2026-11-22T17:16:09-0500",
       "versions": 3,
       "bytes": 3541
+    },
+    {
+      "name": "review-79h02m.md",
+      "first_ticks": 5691589,
+      "ticks": 5691589,
+      "sent_at": "2026-11-22T19:10:59-0500",
+      "versions": 1,
+      "bytes": 4338
     },
     {
       "name": "review-questions.md",
