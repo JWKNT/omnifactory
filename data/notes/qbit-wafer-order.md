@@ -19,3 +19,5 @@ The first wafer is complete. The EV reactor consumed one compound dust, one Nano
 At 85h01m the roof board pattern had freed all nine slots in the EV reactor's west interface. The machine already accepts items from this face and automatically returns finished items there. Encode the 50 mB radon recipe explicitly by its Indium Gallium Phosphide input. Keep the improved eyes available for processor assembly. Let ME deliver the phosphide and Nano CPU wafers together, then check for a returned QBit wafer before the saw takes it. If a queued order lacks radon, top up the reactor before loading another set of items.
 
 The EV reactor interface at (18,82,−10) now contains the QBit CPU Wafer pattern with Indium Gallium Phosphide as its exact feed. Two wafers from the preceding player-loaded batch reached ME. A new native order still needs a measured return.
+
+The native recipe passed its first delivery test. AE ordered one QBit CPU Wafer, the EV reactor returned one to storage, and the MV saw accepted that same wafer. This verifies the installed indium-gallium-phosphide variant through the full processing interface.
