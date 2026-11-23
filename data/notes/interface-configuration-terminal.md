@@ -1,0 +1,5 @@
+# A single place to load processing patterns
+
+The workshop now has ME Interfaces at the north furnaces, the refinery roof, the wafer cutter and the component machines. Page 108 describes a terminal that shows the pattern slots of every Interface on the network. It pays an OmniNickel. Install it on the empty north face of the EV aisle cable at (14,81,−5), beside the existing east-facing item terminal. The aisle at (14,80,−6) is clear.
+
+The grid recipe uses one illuminated panel, one Engineering Processor and one ME Interface. The other two JEI recipes convert between existing terminals. Use the Advanced Inscriber for the processor. The Engineering Press prints a diamond plate. Printed silicon and any of the three basic electronic circuits finish it. The Engineering Press is already here. Use quartz glass and fluix plates for the panel, and share the existing Interface production. The next check after installation is to open the terminal and identify a specific machine's group of patterns before moving any card.
