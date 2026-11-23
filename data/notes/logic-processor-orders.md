@@ -9,3 +9,7 @@ The saw delivered 24 plain CPU chips, the assembler made four Refined Circuits a
 The inscriber printed a Logic Processor from the refined circuit and the two printed pieces. The player used it as the real filter sample and placed the item conduit at (11,81,10). The initial observation found extraction disabled. Check the whitelist before switching on the return and connecting the new input interface.
 
 The outlet is commissioned. The extractor now has the checked Logic Processor whitelist and runs continuously. The upper connection inserts into the ME shelf. The remaining step is fitting the inscriber's own input interface and verifying a complete ME processor order.
+
+The player fitted the inscriber's ME Interface at (12,81,9) and encoded the Refined Circuit recipe. AE now advertises the Logic Processor as craftable. Watch a CPU complete its first order through this input and the filtered outlet.
+
+The new interface accepted its first order with one Logic Processor in storage, two Printed Silicon, and three Printed Logic Circuits. Both finished processors returned. The crafting CPU cleared and ME held three Logic Processors. Requesting the number of complete ingredient sets lets a two-set delivery go through while the next silicon print is being prepared.

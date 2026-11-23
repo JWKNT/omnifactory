@@ -11,3 +11,7 @@ At 84h44m the old board coater at (5,81,−5) still held 7,625 mB of sulfuric ac
 The coater transfer brought ME from 2,000 to 8,625 mB after returning the coater's bucket. The roof board order completed, bringing stock to four multilayer boards. Eight aluminium dust are needed for the last two reductions. Thirty-two bauxite ore are available and the automated separator has three dust toward its next 39-dust charge.
 
 The EV reactor dissolved both ore pairs and its outlet reached 2,000 mB of indium concentrate. The bauxite separator supplied sixteen aluminium dust. Eight dust will finish both reductions. The roof's board CPU released after fresh acid reached it.
+
+The starter reactor took twelve sulfur dust. It began its first water recipe at 30 EU/t with 1,150 ticks per charge. The first fluid filter went into the vinyl outlet, so the acid line needs another. Six cane make six paper at the grid, the same yield as the water bath. The existing brewery plot and stock chests can supply it. Use a sample from the coater if ME lacks a full bucket for the filter.
+
+Both reductions finished. The workshop reached nine tiny indium piles, and the outlet held the two buckets of lead-zinc solution. The compound recipe can also use the stored gallium immediately: four small piles make one full gallium dust. Eight small piles and one phosphorus dust were available.

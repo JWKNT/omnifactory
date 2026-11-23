@@ -107,10 +107,10 @@
     {
       "name": "assembly-gold.md",
       "first_ticks": 5989398,
-      "ticks": 6077416,
-      "sent_at": "2026-11-23T00:32:30-0500",
-      "versions": 6,
-      "bytes": 2802
+      "ticks": 6114512,
+      "sent_at": "2026-11-23T01:03:25-0500",
+      "versions": 7,
+      "bytes": 3471
     },
     {
       "name": "assembly-iron-and-coal.md",
@@ -1219,10 +1219,10 @@
     {
       "name": "logic-processor-orders.md",
       "first_ticks": 5942332,
-      "ticks": 6107596,
-      "sent_at": "2026-11-23T00:57:39-0500",
-      "versions": 4,
-      "bytes": 2643
+      "ticks": 6136609,
+      "sent_at": "2026-11-23T01:21:50-0500",
+      "versions": 6,
+      "bytes": 3242
     },
     {
       "name": "loot-fabricator.md",
@@ -1803,10 +1803,10 @@
     {
       "name": "qbit-wafer-order.md",
       "first_ticks": 4296330,
-      "ticks": 4429483,
-      "sent_at": "2026-11-22T01:31:59-0500",
-      "versions": 5,
-      "bytes": 4473
+      "ticks": 6126408,
+      "sent_at": "2026-11-23T01:13:20-0500",
+      "versions": 7,
+      "bytes": 5254
     },
     {
       "name": "quantum-array-and-argon.md",
@@ -1931,10 +1931,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 6099951,
-      "sent_at": "2026-11-23T00:51:17-0500",
-      "versions": 651,
-      "bytes": 3097
+      "ticks": 6130863,
+      "sent_at": "2026-11-23T01:17:03-0500",
+      "versions": 654,
+      "bytes": 2404
     },
     {
       "name": "review-29h49m.md",
@@ -2161,6 +2161,14 @@
       "bytes": 3320
     },
     {
+      "name": "review-85h04m.md",
+      "first_ticks": 6125929,
+      "ticks": 6125929,
+      "sent_at": "2026-11-23T01:12:56-0500",
+      "versions": 1,
+      "bytes": 3323
+    },
+    {
       "name": "review-questions.md",
       "first_ticks": 2218163,
       "ticks": 2410865,
@@ -2267,10 +2275,10 @@
     {
       "name": "secondary-indium-acid.md",
       "first_ticks": 6075717,
-      "ticks": 6108432,
-      "sent_at": "2026-11-23T00:58:21-0500",
-      "versions": 4,
-      "bytes": 2301
+      "ticks": 6118747,
+      "sent_at": "2026-11-23T01:06:57-0500",
+      "versions": 6,
+      "bytes": 3001
     },
     {
       "name": "sheet-return.md",
@@ -2587,10 +2595,10 @@
     {
       "name": "tungsten-from-cargo.md",
       "first_ticks": 4341114,
-      "ticks": 6112023,
-      "sent_at": "2026-11-23T01:01:21-0500",
-      "versions": 4,
-      "bytes": 4138
+      "ticks": 6136609,
+      "sent_at": "2026-11-23T01:21:50-0500",
+      "versions": 9,
+      "bytes": 5876
     },
     {
       "name": "tungsten-power-restart.md",
@@ -2775,6 +2783,14 @@
       "sent_at": "2026-11-22T15:39:25-0500",
       "versions": 6,
       "bytes": 1940
+    },
+    {
+      "name": "workshop-lv-refeed.md",
+      "first_ticks": 6134996,
+      "ticks": 6134996,
+      "sent_at": "2026-11-23T01:20:29-0500",
+      "versions": 1,
+      "bytes": 1133
     },
     {
       "name": "workshop-satchel.md",
