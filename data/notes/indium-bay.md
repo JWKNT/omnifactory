@@ -17,3 +17,5 @@ The four-amp CEF (EV) is installed under the FE trunk at (19,82,-8), faces north
 The EV chemical reactor is installed at (19,82,-10) and charged to 45,034 EU on the 2,048 V branch. Two Nano Processor Assemblies went into the machine. The first 15,000 mB acid were withdrawn for commissioning. The EV electrolyzer is next on the same feeder.
 
 The first three ore pairs have finished both reactions. Twelve aluminium dust reduced 3,000 mB of concentrate. Three tiny indium are in stock, and ME received 3,000 mB lead-zinc solution. Each bucket of solution centrifuges for one lead, one silver, one zinc, three sulfur dust and a bucket of water. scripts/lead_zinc_recovery.py uses a gap in the ore and silica centrifuge queue. Six tiny indium remain for page 263.
+
+After a QBit run left 950 mB of radon in the EV reactor, it refused a sulfuric acid fill even though two input tanks were empty. When washed ore pairs or concentrate are ready for indium, the tender now recovers leftover radon into fluid storage first. It also checks the acid already in the player's portable tank before withdrawing another charge.

@@ -107,10 +107,10 @@
     {
       "name": "assembly-gold.md",
       "first_ticks": 5989398,
-      "ticks": 6036826,
-      "sent_at": "2026-11-22T23:58:41-0500",
-      "versions": 3,
-      "bytes": 1803
+      "ticks": 6063755,
+      "sent_at": "2026-11-23T00:21:07-0500",
+      "versions": 5,
+      "bytes": 2503
     },
     {
       "name": "assembly-iron-and-coal.md",
@@ -139,10 +139,10 @@
     {
       "name": "assembly-line-motion.md",
       "first_ticks": 5666916,
-      "ticks": 6042135,
-      "sent_at": "2026-11-23T00:03:06-0500",
-      "versions": 12,
-      "bytes": 9034
+      "ticks": 6056758,
+      "sent_at": "2026-11-23T00:15:17-0500",
+      "versions": 15,
+      "bytes": 10156
     },
     {
       "name": "assembly-motor-magnets.md",
@@ -635,10 +635,10 @@
     {
       "name": "ev-cable-coverings.md",
       "first_ticks": 2772307,
-      "ticks": 5758851,
-      "sent_at": "2026-11-22T20:07:02-0500",
-      "versions": 27,
-      "bytes": 14993
+      "ticks": 6060068,
+      "sent_at": "2026-11-23T00:18:03-0500",
+      "versions": 28,
+      "bytes": 15526
     },
     {
       "name": "ev-motor-magnets.md",
@@ -1091,10 +1091,10 @@
     {
       "name": "indium-bay.md",
       "first_ticks": 4247096,
-      "ticks": 4377476,
-      "sent_at": "2026-11-22T00:48:39-0500",
-      "versions": 7,
-      "bytes": 5522
+      "ticks": 6062024,
+      "sent_at": "2026-11-23T00:19:41-0500",
+      "versions": 8,
+      "bytes": 5873
     },
     {
       "name": "inscriber.md",
@@ -1713,6 +1713,14 @@
       "bytes": 13048
     },
     {
+      "name": "program-eight-casings.md",
+      "first_ticks": 6056758,
+      "ticks": 6056758,
+      "sent_at": "2026-11-23T00:15:17-0500",
+      "versions": 1,
+      "bytes": 980
+    },
+    {
       "name": "progression.md",
       "first_ticks": 1456,
       "ticks": 1456,
@@ -1915,10 +1923,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 6037773,
-      "sent_at": "2026-11-22T23:59:28-0500",
-      "versions": 641,
-      "bytes": 1854
+      "ticks": 6063755,
+      "sent_at": "2026-11-23T00:21:07-0500",
+      "versions": 646,
+      "bytes": 2505
     },
     {
       "name": "review-29h49m.md",
@@ -2555,10 +2563,10 @@
     {
       "name": "tungsten-from-cargo.md",
       "first_ticks": 4341114,
-      "ticks": 4341114,
-      "sent_at": "2026-11-22T00:18:20-0500",
-      "versions": 1,
-      "bytes": 1869
+      "ticks": 6046446,
+      "sent_at": "2026-11-23T00:06:42-0500",
+      "versions": 3,
+      "bytes": 3619
     },
     {
       "name": "tungsten-power-restart.md",

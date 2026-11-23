@@ -31,3 +31,9 @@ At 82h15m the first IV robot arm was in storage. One older Nanoprocessor Array, 
 At 82h39m the molecular assembler interface at (11,82,10) had the IV Robot Arm pattern with a Quantum Processor in its elite circuit slot. The previous Microprocessor Mainframe card went back to storage. Both Quantum Processor Arrays remain reserved for the first mainframe.
 
 At 83h55m the first arm for casings five and six was in stock. Both IV pistons had finished, and the first two new motors and one piston were in that arm. The second piston and six tungstensteel rods were still available. The remaining arm needs two more motors and three cables of its own. The shop orders cooled tungsten, double-yield wire, insulated cable and lathed rods between its other jobs as parts become available.
+
+At 84h00m the order for casings five and six returned both blocks to ME. Five tungstensteel frames and the two Quantum Processor Arrays remained. A read-only sampler took 32 readings from tick 4 to tick 98 of the 100-tick, 8,000 EU/t run. The assembler buffer stayed above 246,000 EU and none of the readings showed a power shortage. The largest gap was four ticks. The item return and the power readings together confirm this third pair.
+
+At 84h02m the MV wiremill interface at (15,82,5) accepted a Pattern Expansion Card. It exposed nine additional slots. I verified the first new pattern in the interface itself: one tungsten ingot gives two bare tungsten wires. Eight free slots remained. The existing cable assembler can request those wires upstream when an IV motor order starts. The next pattern is four fine platinum wires per single platinum wire for the Quantum Processor line.
+
+At 84h06m the second new MV wiremill pattern was in the interface. The crafting log recorded an order for sixteen fine platinum wires, and ME then held the full target of 24. The next Quantum Processor batch can use these directly.
