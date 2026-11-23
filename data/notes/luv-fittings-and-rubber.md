@@ -33,3 +33,5 @@ The first 1,000 mB each of ethylene and benzene reacted in the dedicated HV cell
 At 96h32m the first sixteen buckets of oxygen had yielded 24 raw rubber dust at 240 EU/t. Eighteen dust and two sulfur cured into 2,592 mB rubber. A portable tank delivered all 2,592 mB to the south Assembly Line hatch. The last run needs 2,000 mB oxygen; the reactor already holds the remaining hydrocarbons. It will bring the total to 3,888 mB.
 
 The first conveyor returned to ME at 96h36m. The south hatch went from 2,592 to 1,152 mB, and eight loose LuV motors remained beside the finished module. Four rods from two HSS-G ingots made its first rings while the extrusion machines were being built.
+
+At 97h09m the 512 V extruder charged to 16,320 EU. Its 2x gold feeder has exactly three connections, up to the CEF, north to the foil mill and south to the extruder. The nearby 2,048 V transformer only outputs east. All ten motors, eight long rods and eight regular rods are accounted for, so release the old two-ingot motor reserve. Three HSS-G ingots can now make the twelve remaining rings. The south hatch holds 2,448 mB of rubber after the first conveyor.
