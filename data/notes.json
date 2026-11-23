@@ -867,10 +867,10 @@
     {
       "name": "first-quantum-mainframe.md",
       "first_ticks": 6249150,
-      "ticks": 6757516,
-      "sent_at": "2026-11-23T09:59:15-0500",
-      "versions": 11,
-      "bytes": 7181
+      "ticks": 6791076,
+      "sent_at": "2026-11-23T10:27:13-0500",
+      "versions": 12,
+      "bytes": 7670
     },
     {
       "name": "first-stainless.md",
@@ -1067,10 +1067,10 @@
     {
       "name": "hssg-coil-order.md",
       "first_ticks": 5754936,
-      "ticks": 5754936,
-      "sent_at": "2026-11-22T20:03:46-0500",
-      "versions": 1,
-      "bytes": 1392
+      "ticks": 6809211,
+      "sent_at": "2026-11-23T10:42:20-0500",
+      "versions": 3,
+      "bytes": 2098
     },
     {
       "name": "hssg-frames.md",
@@ -2051,10 +2051,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 6780223,
-      "sent_at": "2026-11-23T10:18:11-0500",
-      "versions": 710,
-      "bytes": 7911
+      "ticks": 6809211,
+      "sent_at": "2026-11-23T10:42:20-0500",
+      "versions": 713,
+      "bytes": 8519
     },
     {
       "name": "review-29h49m.md",
@@ -2755,10 +2755,10 @@
     {
       "name": "tungsten-carbide.md",
       "first_ticks": 5192535,
-      "ticks": 5206225,
-      "sent_at": "2026-11-22T12:26:31-0500",
-      "versions": 3,
-      "bytes": 1868
+      "ticks": 6788212,
+      "sent_at": "2026-11-23T10:24:50-0500",
+      "versions": 4,
+      "bytes": 2481
     },
     {
       "name": "tungsten-from-cargo.md",
