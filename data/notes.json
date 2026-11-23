@@ -107,10 +107,10 @@
     {
       "name": "assembly-casing-orders.md",
       "first_ticks": 6296766,
-      "ticks": 6306719,
-      "sent_at": "2026-11-23T03:43:35-0500",
-      "versions": 2,
-      "bytes": 2758
+      "ticks": 6425174,
+      "sent_at": "2026-11-23T05:22:18-0500",
+      "versions": 3,
+      "bytes": 3325
     },
     {
       "name": "assembly-gold.md",
@@ -187,10 +187,10 @@
     {
       "name": "barium-for-superconductors.md",
       "first_ticks": 4900510,
-      "ticks": 5143930,
-      "sent_at": "2026-11-22T11:34:36-0500",
-      "versions": 5,
-      "bytes": 2347
+      "ticks": 6425174,
+      "sent_at": "2026-11-23T05:22:18-0500",
+      "versions": 6,
+      "bytes": 3105
     },
     {
       "name": "bauxite-line.md",
@@ -299,10 +299,10 @@
     {
       "name": "cable-acid-recovery.md",
       "first_ticks": 4487800,
-      "ticks": 5875517,
-      "sent_at": "2026-11-22T21:44:15-0500",
-      "versions": 7,
-      "bytes": 3918
+      "ticks": 6419771,
+      "sent_at": "2026-11-23T05:17:48-0500",
+      "versions": 8,
+      "bytes": 4310
     },
     {
       "name": "cake-supplies.md",
@@ -443,10 +443,10 @@
     {
       "name": "copper-simulation.md",
       "first_ticks": 3803072,
-      "ticks": 4097463,
-      "sent_at": "2026-11-21T20:55:18-0500",
-      "versions": 9,
-      "bytes": 5915
+      "ticks": 6419771,
+      "sent_at": "2026-11-23T05:17:48-0500",
+      "versions": 10,
+      "bytes": 6496
     },
     {
       "name": "cryogenic-air.md",
@@ -753,6 +753,14 @@
       "bytes": 3891
     },
     {
+      "name": "fifth-crafting-cpu.md",
+      "first_ticks": 6413299,
+      "ticks": 6413299,
+      "sent_at": "2026-11-23T05:12:24-0500",
+      "versions": 1,
+      "bytes": 1256
+    },
+    {
       "name": "filters.md",
       "first_ticks": 1085125,
       "ticks": 1146954,
@@ -811,10 +819,10 @@
     {
       "name": "first-palladium.md",
       "first_ticks": 1955731,
-      "ticks": 6393649,
-      "sent_at": "2026-11-23T04:56:02-0500",
-      "versions": 5,
-      "bytes": 3035
+      "ticks": 6403879,
+      "sent_at": "2026-11-23T05:04:33-0500",
+      "versions": 6,
+      "bytes": 3238
     },
     {
       "name": "first-plastic.md",
@@ -1259,10 +1267,10 @@
     {
       "name": "lubricant-and-wafer-cutting.md",
       "first_ticks": 6355926,
-      "ticks": 6385737,
-      "sent_at": "2026-11-23T04:49:26-0500",
-      "versions": 3,
-      "bytes": 2353
+      "ticks": 6425174,
+      "sent_at": "2026-11-23T05:22:18-0500",
+      "versions": 4,
+      "bytes": 2830
     },
     {
       "name": "lumium-and-mana.md",
@@ -1939,10 +1947,10 @@
     {
       "name": "refinery-bath-orders.md",
       "first_ticks": 6215963,
-      "ticks": 6399725,
-      "sent_at": "2026-11-23T05:01:06-0500",
-      "versions": 3,
-      "bytes": 1762
+      "ticks": 6419771,
+      "sent_at": "2026-11-23T05:17:48-0500",
+      "versions": 4,
+      "bytes": 2122
     },
     {
       "name": "refinery-desulfurization.md",
@@ -1995,10 +2003,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 6393649,
-      "sent_at": "2026-11-23T04:56:02-0500",
-      "versions": 673,
-      "bytes": 6758
+      "ticks": 6425174,
+      "sent_at": "2026-11-23T05:22:18-0500",
+      "versions": 677,
+      "bytes": 3584
     },
     {
       "name": "review-29h49m.md",
@@ -2241,6 +2249,14 @@
       "bytes": 3761
     },
     {
+      "name": "review-89h05m.md",
+      "first_ticks": 6415036,
+      "ticks": 6415036,
+      "sent_at": "2026-11-23T05:13:51-0500",
+      "versions": 1,
+      "bytes": 3898
+    },
+    {
       "name": "review-questions.md",
       "first_ticks": 2218163,
       "ticks": 2410865,
@@ -2355,10 +2371,10 @@
     {
       "name": "secondary-indium-acid.md",
       "first_ticks": 6075717,
-      "ticks": 6393649,
-      "sent_at": "2026-11-23T04:56:02-0500",
-      "versions": 9,
-      "bytes": 4654
+      "ticks": 6403879,
+      "sent_at": "2026-11-23T05:04:33-0500",
+      "versions": 10,
+      "bytes": 4914
     },
     {
       "name": "sheet-return.md",
