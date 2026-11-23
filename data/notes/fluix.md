@@ -23,3 +23,5 @@ The charger now has two Ender IO item conduits and a feed chest at (7,82,10). Th
 The feed chest took twelve ordinary Certus. ME started at zero charged crystals, then rose to three, five, nine and twelve. At twelve the feed chest and charger were empty. The batch needed one chest load. No crystal was picked up by hand. Future stock checks count the crystals inside the chest and charger before refilling.
 
 Eight of the returned charged crystals went into the growth chamber with eight nether quartz and eight redstone. The chamber returned sixteen Fluix Crystals. This gives a measured yield for sizing the next cable and pattern order.
+
+At 83h51m the next full ME Interface was short two Fluix Dust. The shop had 29 normal Certus, 32 GregTech Certus gems, four Nether Quartz and 69 redstone. Include the existing automated charger in the Assembly Line shift so it can bank charged Certus while the player tends other machines. The chamber and spare mill can then process the four complete sets. The next interface goes to the MV wiremill's Pattern Expansion Card.

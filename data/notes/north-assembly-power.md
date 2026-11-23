@@ -7,3 +7,9 @@ Use the EV CEF and IV step-up already proved at the IV assembler. The converter 
 The dedicated IV CEF would require four Lumium Energy Conduits and two quadruple Lumium wires alongside an IV hull and an elite circuit. The five-segment branch keeps the EV option available without diverting Lumium or disconnecting the existing IV assembler.
 
 Four horizontal vibrant conduits now reach (21,83,−17). The last connection turns upward. Build a service column at (20,80–83,−17) beside the existing pier at (20,81,−18). Its top gives access to both the last conduit and the planned converter above it, outside the Assembly Line footprint.
+
+At 83h43m all five connections reported vibrant energy conduit, including the upward turn at (21,84,−17). The service column is in place. The converter socket at (21,85,−17) is empty. Stage the converter there before fitting the transformer.
+
+Eleven End Steel Ingots were in ME. The wiremill yields two wires per ingot. Ten wires cover the two quadruple conductors and the energy-conduit upgrade. In the assembler, six binder, two wires and one vibrant conduit make all four End Steel Energy Conduits for the converter. The grid gives three. Use one of the IV assembler's four open pattern positions for the upgrade, which will also serve later branches.
+
+ME returned all four End Steel Energy Conduits from the first order on the new IV assembler pattern. The next two EV hulls will need sixteen titanium plates between them. The titanium route has 120 rutile dust available, and the refinery gas tank held fifteen buckets of chlorine. The existing titanium and cold-return patterns can run alongside the conductors. The second hull goes into the IV transformer together with four aluminium cables, one tungsten cable and two small coils. Install it after measuring charge at the first converter. Its target reading is 2,048 V at four amps in and 8,192 V at one amp out.

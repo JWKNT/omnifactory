@@ -9,3 +9,9 @@ At 83h07m there were 122 potassium dust. Page 631 asks for 64 potassium ingots a
 Page 631 paid one OmniQuarter. Both 32-ingot potassium batches returned through the Multi Smelter, and the book left all 64 ingots in inventory.
 
 Page 656 asks to see 64 platinum ingots for one OmniQuarter and counts toward Mote of Omnium. At 83h32m there were 32 platinum dust and 399 tiny piles. Nine tiny piles make one full dust in the grid or in a packager on program 1. One dust smelts into one ingot. Use the Multi Smelter to produce the stack, retain eight dust for chemistry, and keep the ingots for IV wiring after the book check.
+
+Page 656 paid one OmniQuarter. Of 399 tiny piles, 360 made 40 full dust. Together with 32 dust already stored, that supplied 64 platinum ingots and left eight full dust and 39 tiny piles. The ingots survived the book check. This was chapter quest 349 of 644.
+
+At 83h44m ME held 49 zinc dust and 126 small piles. Four small piles make one dust by crafting or packing. Combining 124 piles gives 80 full dust, enough to smelt a stack and keep 16 for alloys. Page 642 returns one OmniQuarter and leaves the metal available for foil. This uses accumulated by-products and keeps sphalerite ore available for gallium processing.
+
+At 83h51m the quest book confirmed page 642 complete and paid. Packing 124 small piles supplied 31 dust. The Multi Smelter made the 64 ingots in two 32-ingot batches. Sixteen zinc dust and two small piles remain. The book stands at 350 of 644 chapter quests.

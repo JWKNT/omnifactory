@@ -107,10 +107,10 @@
     {
       "name": "assembly-gold.md",
       "first_ticks": 5989398,
-      "ticks": 6003810,
-      "sent_at": "2026-11-22T23:31:10-0500",
-      "versions": 2,
-      "bytes": 1101
+      "ticks": 6036826,
+      "sent_at": "2026-11-22T23:58:41-0500",
+      "versions": 3,
+      "bytes": 1803
     },
     {
       "name": "assembly-iron-and-coal.md",
@@ -131,18 +131,18 @@
     {
       "name": "assembly-line-materials.md",
       "first_ticks": 5388520,
-      "ticks": 5906954,
-      "sent_at": "2026-11-22T22:10:27-0500",
-      "versions": 15,
-      "bytes": 9292
+      "ticks": 6040834,
+      "sent_at": "2026-11-23T00:02:01-0500",
+      "versions": 16,
+      "bytes": 9906
     },
     {
       "name": "assembly-line-motion.md",
       "first_ticks": 5666916,
-      "ticks": 5951467,
-      "sent_at": "2026-11-22T22:47:33-0500",
-      "versions": 11,
-      "bytes": 8608
+      "ticks": 6042135,
+      "sent_at": "2026-11-23T00:03:06-0500",
+      "versions": 12,
+      "bytes": 9034
     },
     {
       "name": "assembly-motor-magnets.md",
@@ -275,10 +275,10 @@
     {
       "name": "bulk-element-quests.md",
       "first_ticks": 5940479,
-      "ticks": 6015227,
-      "sent_at": "2026-11-22T23:40:41-0500",
-      "versions": 5,
-      "bytes": 1875
+      "ticks": 6037773,
+      "sent_at": "2026-11-22T23:59:28-0500",
+      "versions": 8,
+      "bytes": 2758
     },
     {
       "name": "bulk-furnace-deck.md",
@@ -851,10 +851,10 @@
     {
       "name": "fluix.md",
       "first_ticks": 314566,
-      "ticks": 3944044,
-      "sent_at": "2026-11-21T18:47:27-0500",
-      "versions": 10,
-      "bytes": 5430
+      "ticks": 6038224,
+      "sent_at": "2026-11-22T23:59:51-0500",
+      "versions": 11,
+      "bytes": 5858
     },
     {
       "name": "fourth-furnace-power-plan.md",
@@ -1155,10 +1155,10 @@
     {
       "name": "iv-cpu-wafer-laser.md",
       "first_ticks": 5775705,
-      "ticks": 5785706,
-      "sent_at": "2026-11-22T20:29:25-0500",
-      "versions": 2,
-      "bytes": 1903
+      "ticks": 6040834,
+      "sent_at": "2026-11-23T00:02:01-0500",
+      "versions": 3,
+      "bytes": 2224
     },
     {
       "name": "iv-metal-bill.md",
@@ -1363,10 +1363,10 @@
     {
       "name": "multilayer-reactor.md",
       "first_ticks": 5912675,
-      "ticks": 6015227,
-      "sent_at": "2026-11-22T23:40:41-0500",
-      "versions": 6,
-      "bytes": 4135
+      "ticks": 6033237,
+      "sent_at": "2026-11-22T23:55:41-0500",
+      "versions": 8,
+      "bytes": 5261
     },
     {
       "name": "mv-alloy-bay.md",
@@ -1459,10 +1459,10 @@
     {
       "name": "north-assembly-power.md",
       "first_ticks": 5729898,
-      "ticks": 5999062,
-      "sent_at": "2026-11-22T23:27:12-0500",
-      "versions": 2,
-      "bytes": 1598
+      "ticks": 6042135,
+      "sent_at": "2026-11-23T00:03:06-0500",
+      "versions": 5,
+      "bytes": 2875
     },
     {
       "name": "north-chemistry-power.md",
@@ -1811,10 +1811,10 @@
     {
       "name": "quantum-wafer-feed.md",
       "first_ticks": 5784869,
-      "ticks": 5974846,
-      "sent_at": "2026-11-22T23:07:02-0500",
-      "versions": 8,
-      "bytes": 5761
+      "ticks": 6023778,
+      "sent_at": "2026-11-22T23:47:48-0500",
+      "versions": 9,
+      "bytes": 6181
     },
     {
       "name": "quarry-drum.md",
@@ -1915,10 +1915,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 6012309,
-      "sent_at": "2026-11-22T23:38:15-0500",
-      "versions": 638,
-      "bytes": 1613
+      "ticks": 6037773,
+      "sent_at": "2026-11-22T23:59:28-0500",
+      "versions": 641,
+      "bytes": 1854
     },
     {
       "name": "review-29h49m.md",
@@ -2387,10 +2387,10 @@
     {
       "name": "solidified-elements.md",
       "first_ticks": 1250240,
-      "ticks": 1250240,
-      "sent_at": "2026-11-20T05:20:52-0500",
-      "versions": 1,
-      "bytes": 881
+      "ticks": 6031192,
+      "sent_at": "2026-11-22T23:53:59-0500",
+      "versions": 2,
+      "bytes": 1600
     },
     {
       "name": "sphalerite-gallium-orders.md",
