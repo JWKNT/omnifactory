@@ -753,6 +753,14 @@
       "bytes": 1247
     },
     {
+      "name": "extended-crafting-after-osmium.md",
+      "first_ticks": 7201963,
+      "ticks": 7201963,
+      "sent_at": "2026-11-23T16:09:38-0500",
+      "versions": 1,
+      "bytes": 1552
+    },
+    {
       "name": "extruder-power.md",
       "first_ticks": 1889623,
       "ticks": 2066097,
@@ -1483,10 +1491,10 @@
     {
       "name": "medium-projector-shell.md",
       "first_ticks": 7086569,
-      "ticks": 7192632,
-      "sent_at": "2026-11-23T16:01:51-0500",
-      "versions": 6,
-      "bytes": 4686
+      "ticks": 7194933,
+      "sent_at": "2026-11-23T16:03:46-0500",
+      "versions": 7,
+      "bytes": 5062
     },
     {
       "name": "metal-models.md",
@@ -1523,10 +1531,10 @@
     {
       "name": "micro-miner-crystal-missions.md",
       "first_ticks": 6985056,
-      "ticks": 7124765,
-      "sent_at": "2026-11-23T15:05:18-0500",
-      "versions": 3,
-      "bytes": 3518
+      "ticks": 7206724,
+      "sent_at": "2026-11-23T16:13:36-0500",
+      "versions": 4,
+      "bytes": 4078
     },
     {
       "name": "microversium.md",
@@ -2171,10 +2179,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 7187483,
-      "sent_at": "2026-11-23T15:57:34-0500",
-      "versions": 751,
-      "bytes": 10407
+      "ticks": 7216548,
+      "sent_at": "2026-11-23T16:21:47-0500",
+      "versions": 753,
+      "bytes": 10754
     },
     {
       "name": "review-29h49m.md",
@@ -2547,10 +2555,10 @@
     {
       "name": "second-lapidary.md",
       "first_ticks": 4444905,
-      "ticks": 7176667,
-      "sent_at": "2026-11-23T15:48:33-0500",
-      "versions": 12,
-      "bytes": 8131
+      "ticks": 7216548,
+      "sent_at": "2026-11-23T16:21:47-0500",
+      "versions": 13,
+      "bytes": 8825
     },
     {
       "name": "second-miner-cargo.md",

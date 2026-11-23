@@ -1,0 +1,7 @@
+# Automating the miner tables after the first osmium cargo
+
+Build the first tier-four miner by hand in the 7×7 table. Its osmium and iridium open the powered extended crafters described on page 406. For repeat ore and gem expeditions, give the 5×5 and 7×7 crafters their own three-block-high columns with ME access. Each column has the matching extended Package Crafter at the bottom, an Unpackager above it, then a Packager. Keep the existing tables available while testing the first repeat order.
+
+Page 408 pays a quarter for a Packager, Unpackager, two Recipe Holders and a Package Recipe Encoder. The encoder itself consumes another two holders. A fresh holder costs one Crystaltine block, three blank patterns, two quartz glass, two titanium plates and an ME Packaging Component. JEI also shows holder conversion recipes that begin with an existing holder. Budget four fresh holders for the first matched pair plus encoder. The two package machines each take a Mechanical Crafter, four titanium plates, two Extreme circuits, a packaging component and the appropriate ME item bus. Bank the first mission cargo before assigning it to automation.
+
+One identically encoded holder goes in each machine. Each holds twenty recipes. Start with the repeated miner and its lasers, and verify the finished ship returns to ME. For future Assembly Line orders with ten to sixteen ingredients, page 813 offers an Extended Processing Pattern Terminal. It handles sixteen ingredients and six outputs directly. Keep the working nine-input arm pattern in place.
