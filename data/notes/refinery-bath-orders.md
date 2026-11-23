@@ -9,3 +9,5 @@ At 88h34m the ME Interface was in place, facing north into the bath. The south f
 The first pane run returned five dust from fifteen vanilla glass panes. JEI has two items named Glass Pane. The GregTech pane yields one whole dust in the macerator, while the vanilla pane yields three tiny piles. Plain glass blocks also yield one full dust apiece. The fiber tender now prefers plain glass and packs up existing tiny piles.
 
 At 89h09m the HV mill had turned nine glass blocks into nine full glass dust. With the previous five, the molecular assembler consumed fourteen glass dust and two boron and returned sixteen Borosilicate Glass Pulp. Its recipe now occupies one slot on the expanded molecular shelf. Smelt the pulp and use the MV extruder's wire shape for eight fibers per bar.
+
+At 89h20m the MV extruder accepted eight borosilicate bars and the wire die. The readout showed eight glass fibers per bar at 96 EU/t. The bath tender now deposits any fibers collected by hand into ME before requesting sheets. Verify resin in the bath and sheets in storage before counting them toward the boards.

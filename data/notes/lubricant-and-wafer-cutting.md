@@ -11,3 +11,5 @@ The original crude hatch is enclosed inside the tower. The electrolyzer directly
 All 9,000 mB of lubricant reached ME at 88h39m. The mixer is empty again. A full bucket can now commission the EV cutter while leaving eight buckets for the LuV line.
 
 The MV saw has two competing cuts. The Nano CPU Wafer gives seven ordinary Nano CPUs, or it can first go into the EV reactor and become a QBit wafer yielding five QBits. At 89h12m the store held eight QBits and only one Nano CPU. With at least four QBits in stock and fewer than two Nano CPUs, reserve one wafer for the ordinary cut. Both products have exactly the same three fluid costs in live JEI. The new EV cutter can therefore take either order with the same lubricant.
+
+At 89h27m the circuit reserve had seven ordinary Nano CPUs and seven QBits. The first manual brass blend returned four brass dust. Its grid takes three copper and one zinc. Count four dust per craft when requesting a batch and nine for the cobalt brass blend. The gear still needs four smelted cobalt brass ingots.

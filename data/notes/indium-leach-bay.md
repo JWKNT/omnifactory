@@ -7,3 +7,9 @@ Build a separate HV reactor at (19,83,−11). Use the existing four-amp aluminiu
 The EV reduction reactor is at (19,82,−10). A single fluid conduit at (19,82,−11) can couple the HV reactor's bottom output to the EV reactor's north input. Check the other conduit to the east and use a dedicated color for concentrate if they connect. The west side of the leacher is open for an interface or acid feed. Start with a batch from portable tanks and leave the existing EV leach route available during construction. At 87h35m the sockets were surveyed and the construction job queued. Hardware, concentrate delivery and automated acid supply still require physical checks.
 
 At 88h02m the fourfold aluminium rise was in place at (19,83,−9). The ceiling blocked placement against the existing cable, but the underside of the cobblestone overhead gave a clear face from the west aisle. The transformer socket is still empty.
+
+At 89h20m the player crafted the EV transformer from an HV hull, two coils, four gold cables and one aluminium cable. Install against the north face of the cable rise from the west aisle. Confirm input orientation and charge before placing the reactor.
+
+The cable rise offered no accessible north face from the aisle. The next placement uses the projector roof at (19,83,−12), where the player can see the top of the reduction reactor. The HV assembler accepted four steel plates, a steel ring and solder for the separate leacher’s rotor.
+
+Launch the short roof approach from the west aisle at (18,80,−11). If the player ends up on the east furnace conduit at (28,84,−10), the square directly south has air down to the deck. The walking helper checks that floor and steps off instead of depending on the factory home cooldown.

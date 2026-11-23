@@ -1,0 +1,7 @@
+# Item storage before the fifth crafting CPU
+
+At 89h27m the player held 64 glass fibers and the refinery bath held 1,728 mB of epoxy resin, enough for twelve reinforced sheets. ME held zero fibers. Its seven item cells reported zero available new item types. Five cells contained 63 types each. One of the other two had used all 1,024 bytes with only 40 types. The last had eight spare bytes, too few for even one new stack type.
+
+The storage tender now uses each cell's actual remaining type capacity and runs during Assembly Line construction. Give the next 1k component to an item cell before building the fifth CPU. The upper drive has an empty bay. Four conductive iron plates and 46 fine red alloy wires were available for the housing. Four red alloy plates and a refined circuit were ready for the component. If glass cannot enter the full network, smelt four sand in the workshop electric furnace and take the glass directly to the crafting terminal. After insertion check the drive counters, the fiber stack in ME and the bath order. Each sheet uses one fiber and 144 mB resin.
+
+At 89h32m the upper drive showed its new 1k item cell in slot five, empty with 63 available types. The full network had 64 available type slots after existing stocks moved. All 64 glass fibers were in ME and none remained in the player’s inventory. Retry the twelve-sheet order against the 1,728 mB already in the refinery bath.

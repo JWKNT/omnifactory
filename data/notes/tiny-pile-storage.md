@@ -1,0 +1,3 @@
+# Make full dust on the molecular assembler
+
+At 89h30m the network held 3,393 tiny bismuth piles, 2,568 lithium and 2,184 tin. JEI lists nine tiny piles to one full dust in either the crafting grid or a GregTech packer on circuit one. The molecular assembler can run the grid recipe without a new machine or repeated trips. Tin already feeds ingots and solder. Lithium dust is already a stored type. Start with those two patterns, leaving two of the four empty shelf slots for the circuit line. Keep 144 tiny piles of each and enough idle CPUs for pressing orders. Expand item storage first so that new products can return to ME.
