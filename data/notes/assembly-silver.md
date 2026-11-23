@@ -9,3 +9,5 @@ Eight clean galena dust in an electrolyzer yield three lead, three silver and tw
 At 82h08m the Multi Smelter had returned all 32 galena dust. The EV electrolyzer accepted the full charge, ran at 2,048 EU/t for 23 ticks per eight dust and delivered twelve silver dust to ME. Lead stock rose from nine to 21. The mission ore reserve still held 114 galena. Keep one silver dust as a physical sample until the electrolyzer has the silver-output pattern.
 
 At 82h15m the EV electrolyzer interface had the galena-to-silver pattern installed. The electric furnace returned eleven silver ingots from the pilot. The remaining dust sample can now go into the furnace too. Next, expand the bulk furnace port for the ore and silver-ingot recipes so the board line can request electrum foil upstream.
+
+At 89h44m ME held 29 silver dust but only one ingot. Both furnace pattern interfaces were full, and JEI confirmed that ordinary smelting accepts the dust. Route available dust through the workshop electric furnace while expanding the bulk furnace’s pattern shelf. The 16-foil multilayer recipe consumes four electrum plates per board.
