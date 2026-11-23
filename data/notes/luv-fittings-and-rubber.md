@@ -35,3 +35,5 @@ At 96h32m the first sixteen buckets of oxygen had yielded 24 raw rubber dust at 
 The first conveyor returned to ME at 96h36m. The south hatch went from 2,592 to 1,152 mB, and eight loose LuV motors remained beside the finished module. Four rods from two HSS-G ingots made its first rings while the extrusion machines were being built.
 
 At 97h09m the 512 V extruder charged to 16,320 EU. Its 2x gold feeder has exactly three connections, up to the CEF, north to the foil mill and south to the extruder. The nearby 2,048 V transformer only outputs east. All ten motors, eight long rods and eight regular rods are accounted for, so release the old two-ingot motor reserve. Three HSS-G ingots can now make the twelve remaining rings. The south hatch holds 2,448 mB of rubber after the first conveyor.
+
+At 97h22m the HV extruder delivered the first full HSS-G gear. It took four ingots, 490 ticks and 256 EU/t. The east lapidary dynamo received its transmission augment and showed 7,500 RF/t maximum with 33 diamonds queued. Both dynamos together are now rated for 15,000 RF/t. The north lubricant hatch has received another 1,000 mB for the two pistons and two arms.

@@ -497,6 +497,14 @@
       "bytes": 1680
     },
     {
+      "name": "crystal-mission-consumables.md",
+      "first_ticks": 7002417,
+      "ticks": 7002417,
+      "sent_at": "2026-11-23T13:23:20-0500",
+      "versions": 1,
+      "bytes": 1152
+    },
+    {
       "name": "crystal-workshop-power.md",
       "first_ticks": 6956890,
       "ticks": 6956890,
@@ -1025,6 +1033,14 @@
       "bytes": 732
     },
     {
+      "name": "graphite-and-carbon.md",
+      "first_ticks": 7016859,
+      "ticks": 7016859,
+      "sent_at": "2026-11-23T13:35:22-0500",
+      "versions": 1,
+      "bytes": 843
+    },
+    {
       "name": "graphite-carbon.md",
       "first_ticks": 5154263,
       "ticks": 5166179,
@@ -1347,10 +1363,10 @@
     {
       "name": "luv-fittings-and-rubber.md",
       "first_ticks": 6719517,
-      "ticks": 6996525,
-      "sent_at": "2026-11-23T13:18:26-0500",
-      "versions": 14,
-      "bytes": 7971
+      "ticks": 7011680,
+      "sent_at": "2026-11-23T13:31:03-0500",
+      "versions": 15,
+      "bytes": 8337
     },
     {
       "name": "lv-batteries.md",
@@ -1595,10 +1611,10 @@
     {
       "name": "niobium-titanium-leads.md",
       "first_ticks": 6970280,
-      "ticks": 6990359,
-      "sent_at": "2026-11-23T13:13:17-0500",
-      "versions": 2,
-      "bytes": 1843
+      "ticks": 7022935,
+      "sent_at": "2026-11-23T13:40:26-0500",
+      "versions": 3,
+      "bytes": 2159
     },
     {
       "name": "noble-gas-feed.md",
@@ -2099,10 +2115,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 6992169,
-      "sent_at": "2026-11-23T13:14:48-0500",
-      "versions": 737,
-      "bytes": 9615
+      "ticks": 7022935,
+      "sent_at": "2026-11-23T13:40:26-0500",
+      "versions": 740,
+      "bytes": 9830
     },
     {
       "name": "review-29h49m.md",
@@ -2819,10 +2835,10 @@
     {
       "name": "tungsten-carbide.md",
       "first_ticks": 5192535,
-      "ticks": 6788212,
-      "sent_at": "2026-11-23T10:24:50-0500",
-      "versions": 4,
-      "bytes": 2481
+      "ticks": 7011680,
+      "sent_at": "2026-11-23T13:31:03-0500",
+      "versions": 5,
+      "bytes": 3032
     },
     {
       "name": "tungsten-from-cargo.md",

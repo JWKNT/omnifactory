@@ -1,0 +1,5 @@
+# Fuel and realm data for the first crystal expeditions
+
+The gemstone and ore missions together take twelve Quantum Flux. The ore mission also takes four Wither Realm Data and 64 Petrotheum Dust. Save the two loose Flux. Five Extraterrestrial Matter and four Solidified Experience make four Impossible Realm Data. A mature Enderman model provides another route: one pristine matter in the Loot Fabricator gives one Impossible Realm Data. One of these and eight Hellish Matter make one Wither Realm Data. Wither-model extraction is also available but needs Pulsating Polymer Clay. Use spare Enderman production after the pearl reserve recovers. The two Shulker fuel routes are still needed for diamonds.
+
+The rod maceration route gives four Basalz Powder per rod, double the crafting-grid yield. Fifteen rods and 35 Obsidian Dust are on hand. One more rod, or four more powder, covers one 64-dust ore mission. Thirty-two obsidian dust and 32 redstone then make the 64 Petrotheum with the powder. At 97h11m the factory had only twelve redstone. Wait for surplus before making the full stack. There is no direct quest reward for realm data or petrotheum.
