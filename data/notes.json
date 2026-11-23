@@ -131,10 +131,10 @@
     {
       "name": "assembly-line-item-relays.md",
       "first_ticks": 5714954,
-      "ticks": 6746904,
-      "sent_at": "2026-11-23T09:50:25-0500",
-      "versions": 6,
-      "bytes": 4235
+      "ticks": 6772463,
+      "sent_at": "2026-11-23T10:11:43-0500",
+      "versions": 7,
+      "bytes": 4700
     },
     {
       "name": "assembly-line-materials.md",
@@ -487,6 +487,14 @@
       "sent_at": "2026-11-20T14:09:08-0500",
       "versions": 2,
       "bytes": 1833
+    },
+    {
+      "name": "crystal-circuit-and-miner-table.md",
+      "first_ticks": 6784025,
+      "ticks": 6784025,
+      "sent_at": "2026-11-23T10:21:21-0500",
+      "versions": 1,
+      "bytes": 1680
     },
     {
       "name": "deuterium.md",
@@ -1307,10 +1315,10 @@
     {
       "name": "lumium-and-mana.md",
       "first_ticks": 4639804,
-      "ticks": 5256098,
-      "sent_at": "2026-11-22T13:08:04-0500",
-      "versions": 7,
-      "bytes": 4693
+      "ticks": 6780223,
+      "sent_at": "2026-11-23T10:18:11-0500",
+      "versions": 8,
+      "bytes": 5335
     },
     {
       "name": "luv-assembler-orders.md",
@@ -2043,10 +2051,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 6757516,
-      "sent_at": "2026-11-23T09:59:15-0500",
-      "versions": 708,
-      "bytes": 7313
+      "ticks": 6780223,
+      "sent_at": "2026-11-23T10:18:11-0500",
+      "versions": 710,
+      "bytes": 7911
     },
     {
       "name": "review-29h49m.md",
