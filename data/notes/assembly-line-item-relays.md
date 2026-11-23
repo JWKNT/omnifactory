@@ -13,3 +13,7 @@ At 91h58m the MV reactor held all 12,000 mB of lava from the twelve magma. Reche
 At 92h59m the new Advanced Fluid Solidifier was installed at (13,82,5). Its controller reported 4,026 EU stored, 128 V input and two input amps. The north neighbor is the existing fourfold copper feeder and the south face is accessible from the floor. The ingredient order consumed two MV pumps and two ordinary Microcircuits. The lava still needs to reach the machine and the twelve finished blocks need to be counted.
 
 At 93h19m the spare MV reactor's full 12,000 mB of lava reached the MV solidifier in one Ender IO tank. At 64 EU/t each block takes 512 ticks. Eight obsidian were already in the output slot. The reactor GUI was accessible through an exposed part of its face despite the crowded aisle.
+
+At 93h41m all twelve obsidian had returned from the caster. The ball mold replaced the block mold, and the caster then delivered its first four solidified oxygen while the relay wires were in production. The HV ore mill now has both gold processing patterns. The gold helps fund the Energetic Alloy for the four advanced coils.
+
+Before fitting the full relay row, use the two spare end buses at x29 and x30 to test whether each GUI still opens behind a mounted relay. I checked every adjacent inventory capability along the intended eleven positions at y81. Each exposed only its own input bus above. The first physical test still needs a pair of finished item relays.
