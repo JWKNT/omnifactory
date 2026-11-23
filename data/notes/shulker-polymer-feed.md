@@ -21,3 +21,7 @@ At 67h26m the chamber received polymer through its lid. The generator queues had
 At 95h40m ME held 93 ender pearls, 66 glass and 2,051 sand. Quartz was being used by both diamond fuel and Fluix cable as fast as it arrived. The LV cell takes four glass per quartz at 20 EU/t for 100 ticks. The fuel tender can now order up to sixteen Pulsating Dust against glass already in storage. ME can schedule quartz, clathrate and smelting on the same crafting CPU. Retain sixteen pearls for the workshop. The two coal furnaces also received a fresh restart lot of sixteen diamond ore apiece.
 
 The third simulation bay produced 231 copper from its Spider run. With both generator queues below sixteen diamonds, the tender now gives this bay back to Shulker fuel production even after the Assembly Line quest has paid. A second restart lot may be purchased after the previous lot has burned and the queues are still critical.
+
+The spare chamber now holds its tier-three Shulker model. At 96h18m both Shulker chambers had used their polymer while 44 resonant clathrate remained in ME. Use that stock ahead of more quartz production. When a CPU is available it can order Pulsating Dust. Otherwise up to 32 clathrate can go through the networked Multi Smelter feed chest.
+
+Both Shulker chambers restarted. The primary chamber showed 38 polymer clay and the spare had 16; each showed an active simulation with its full two-million-RF buffer. The fabrication chamber was switched back to diamonds.

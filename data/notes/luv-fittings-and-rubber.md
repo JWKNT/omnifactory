@@ -25,3 +25,9 @@ The final 12,000 mB of cracked light fuel went through the distillery on program
 The corrected reactor site is (11,81,2), under a 512 V cable rated for four amps. The cable exposes an output on its lower face. The reactor can be placed against the furnace to the north and operated from the south aisle at (11,80,3). The furnace also has several clear approaches from its north. An HV hull, two wrapped gold cables, the rotor and six motors were verified. The two Advanced circuits are now the outstanding reactor parts.
 
 The six HV motors, hull and advanced circuits went into the foil mill first. The mill item is in storage. Rebuild the shared hull and circuits for the rubber reactor. The Processor Assembly recipe uses microcircuits and SMD parts at 360 EU/t, and two have already gone through this route.
+
+At 96h15m the dedicated reactor was installed at (11,81,2). It reported 16,256 EU stored on its 512 V input. The EV circuit recipe yielded four Nanoprocessors from one Nano CPU, so the reactor used two and two were left for the chemistry converter and extruder. ME held 3,200 mB ethylene, 1,800 mB benzene and 1,000 mB butadiene before the first charge.
+
+The first 1,000 mB each of ethylene and benzene reacted in the dedicated HV cell. Its two output tanks held 1,000 mB styrene and 2,000 mB hydrogen at 96h22m. Bank both products and charge the reactor with butadiene, styrene and oxygen.
+
+At 96h32m the first sixteen buckets of oxygen had yielded 24 raw rubber dust at 240 EU/t. Eighteen dust and two sulfur cured into 2,592 mB rubber. A portable tank delivered all 2,592 mB to the south Assembly Line hatch. The last run needs 2,000 mB oxygen; the reactor already holds the remaining hydrocarbons. It will bring the total to 3,888 mB.

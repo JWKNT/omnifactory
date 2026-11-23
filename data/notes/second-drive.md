@@ -17,3 +17,5 @@ At 73h45m the second ME Drive was installed at (11,83,10) above the pattern aisl
 At 74h01m the second drive held its first 1k fluid cell in slot one. The drive reported 1,024 bytes, zero of five fluid types used, and nine physical slots still free. The housing used four electrical steel plates and four fine red alloy wires. Four Certus crystals, four lapis and one logic processor went into the fluid component. Next install an item cell for its 63 item types.
 
 At 74h22m slot two held the first new 1k item cell. The drive reported 63 available item types on that cell and eight empty drive slots. Four red alloy plates came from the press, and one refined circuit went into the component. The first slot still holds the fluid cell.
+
+At 96h28m the two drives held seven fluid cells with one fluid type slot free between them. Five physical slots remain in the upper drive. Keep servicing the eighth fluid cell during the LuV build. The recovery still can accept a full 16-bucket portable tank of dilute hydrochloric acid directly on program one. This keeps the tank in use when an ME deposit cannot take the fluid.

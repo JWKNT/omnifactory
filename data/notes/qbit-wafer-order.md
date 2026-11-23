@@ -21,3 +21,5 @@ At 85h01m the roof board pattern had freed all nine slots in the EV reactor's we
 The EV reactor interface at (18,82,−10) now contains the QBit CPU Wafer pattern with Indium Gallium Phosphide as its exact feed. Two wafers from the preceding player-loaded batch reached ME. A new native order still needs a measured return.
 
 The native recipe passed its first delivery test. AE ordered one QBit CPU Wafer, the EV reactor returned one to storage, and the MV saw accepted that same wafer. This verifies the installed indium-gallium-phosphide variant through the full processing interface.
+
+An array order placed phosphide and a Nano CPU wafer in the EV reactor while it still held four buckets of indium concentrate. The wafer tender returned all four buckets to ME and supplied a bucket of radon. The controller then showed the expected 600-tick wafer recipe at 1,920 EU/t. This clears a fluid conflict inside nested AE orders.

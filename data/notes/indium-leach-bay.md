@@ -39,3 +39,5 @@ The EV electrolyzer has the correct aluminium recipe, but an ME request for sixt
 The EV reduction return delivered 4,000 mB of lead-zinc solution automatically after the 16-aluminium charge. Both reactor output tanks emptied. The EV reactor interface now has the JEI tiny-indium pattern, with concentrate supplied separately. ME accepted an order for four tiny piles. Verify the solid return separately from the fluid return.
 
 The EV reactor completed a native order for eight tiny piles. Eight were seen in storage with the reactor empty, and a follow-on order for one raised the total to nine. The paired oxide and reduction outputs can now feed another phosphide charge.
+
+The leacher now has a powered two-filter export bus at (19,83,−12). Its capacity card unlocks the second filter. Galena arrived through the first filter and sphalerite through the second. The leacher used 4,000 mB of its acid and sent another 1,000 mB concentrate to fluid storage. The EV reduction cell held four earlier buckets. The pure ore needs no more trips from the player.

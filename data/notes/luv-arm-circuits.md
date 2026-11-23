@@ -11,3 +11,5 @@ The two engraved wafers returned eight Power ICs to storage. The first cut ran a
 At 96h01m all sixteen Power ICs had reached ME. The laser can move to the glass lens for CPU wafers.
 
 At 96h09m the laser returned sixteen CPU wafers from four glowstone-doped wafers. Its blue topaz lens and Power IC pattern are back in place. ME then accepted a four-basic-Quantumprocessor job that included cutting a Nano CPU wafer.
+
+At 96h23m the first of four new Quantum Processor Arrays was in ME, alongside twelve of the original sixteen Power ICs. Its native order included a QBit wafer on the EV reactor. A sample after the motor run found both north power converters full. The live controller calculates 15,360 EU/t for 600 ticks for both pistons and conveyors, and 20,480 EU/t for 600 ticks for arms.
