@@ -11,3 +11,5 @@ At 83h50m ME held 21 gold ingots, three silver dust, one electrum ingot and exac
 The spare LV mill released its first 42 crushed silver while it continued grinding the purchased ore. I loaded all 42 into the HV mill. Its second pass took 50 ticks per dust at 192 EU/t, and the first thirteen impure dust reached ME while the LV machine still had unprocessed ore. The Multi Smelter can take this dust directly.
 
 At 84h13m the Multi Smelter took all 42 impure silver dust, smelting 32 in the first cycle and ten in the second. ME rose from one silver ingot to 43. The input bus at (−9,80,6) opens from the north. Stand at (−9,80,5). Its west face is occupied by the conduit that delivers ME jobs. The remaining 22 crushed ore have finished their first pass in the LV macerator.
+
+At 84h23m all 22 remaining crushed ore had passed through the HV mill and Multi Smelter. The final batch brought ME to 65 silver ingots. I held the requested stack, opened page 648 and collected its OmniQuarter. The page shows the reward claimed and the silver remains available for electrum foil.

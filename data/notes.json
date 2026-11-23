@@ -107,10 +107,10 @@
     {
       "name": "assembly-gold.md",
       "first_ticks": 5989398,
-      "ticks": 6063755,
-      "sent_at": "2026-11-23T00:21:07-0500",
-      "versions": 5,
-      "bytes": 2503
+      "ticks": 6077416,
+      "sent_at": "2026-11-23T00:32:30-0500",
+      "versions": 6,
+      "bytes": 2802
     },
     {
       "name": "assembly-iron-and-coal.md",
@@ -131,10 +131,10 @@
     {
       "name": "assembly-line-materials.md",
       "first_ticks": 5388520,
-      "ticks": 6040834,
-      "sent_at": "2026-11-23T00:02:01-0500",
-      "versions": 16,
-      "bytes": 9906
+      "ticks": 6069167,
+      "sent_at": "2026-11-23T00:25:38-0500",
+      "versions": 17,
+      "bytes": 10626
     },
     {
       "name": "assembly-line-motion.md",
@@ -635,10 +635,10 @@
     {
       "name": "ev-cable-coverings.md",
       "first_ticks": 2772307,
-      "ticks": 6060068,
-      "sent_at": "2026-11-23T00:18:03-0500",
-      "versions": 28,
-      "bytes": 15526
+      "ticks": 6071397,
+      "sent_at": "2026-11-23T00:27:29-0500",
+      "versions": 29,
+      "bytes": 16044
     },
     {
       "name": "ev-motor-magnets.md",
@@ -1091,10 +1091,10 @@
     {
       "name": "indium-bay.md",
       "first_ticks": 4247096,
-      "ticks": 6062024,
-      "sent_at": "2026-11-23T00:19:41-0500",
-      "versions": 8,
-      "bytes": 5873
+      "ticks": 6071397,
+      "sent_at": "2026-11-23T00:27:29-0500",
+      "versions": 9,
+      "bytes": 6231
     },
     {
       "name": "inscriber.md",
@@ -1355,10 +1355,10 @@
     {
       "name": "multi-smelter.md",
       "first_ticks": 3911844,
-      "ticks": 4074808,
-      "sent_at": "2026-11-21T20:36:25-0500",
-      "versions": 4,
-      "bytes": 2748
+      "ticks": 6080500,
+      "sent_at": "2026-11-23T00:35:04-0500",
+      "versions": 5,
+      "bytes": 3241
     },
     {
       "name": "multilayer-reactor.md",
@@ -1459,10 +1459,10 @@
     {
       "name": "north-assembly-power.md",
       "first_ticks": 5729898,
-      "ticks": 6042135,
-      "sent_at": "2026-11-23T00:03:06-0500",
-      "versions": 5,
-      "bytes": 2875
+      "ticks": 6085884,
+      "sent_at": "2026-11-23T00:39:34-0500",
+      "versions": 8,
+      "bytes": 3977
     },
     {
       "name": "north-chemistry-power.md",
@@ -1923,10 +1923,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 6063755,
-      "sent_at": "2026-11-23T00:21:07-0500",
-      "versions": 646,
-      "bytes": 2505
+      "ticks": 6087290,
+      "sent_at": "2026-11-23T00:40:44-0500",
+      "versions": 650,
+      "bytes": 2816
     },
     {
       "name": "review-29h49m.md",
@@ -2257,6 +2257,14 @@
       "bytes": 8132
     },
     {
+      "name": "secondary-indium-acid.md",
+      "first_ticks": 6075717,
+      "ticks": 6075717,
+      "sent_at": "2026-11-23T00:31:05-0500",
+      "versions": 1,
+      "bytes": 1282
+    },
+    {
       "name": "sheet-return.md",
       "first_ticks": 3185008,
       "ticks": 3212355,
@@ -2495,6 +2503,14 @@
       "sent_at": "2026-11-21T15:54:28-0500",
       "versions": 3,
       "bytes": 1909
+    },
+    {
+      "name": "tier-seven-components.md",
+      "first_ticks": 6085884,
+      "ticks": 6087290,
+      "sent_at": "2026-11-23T00:40:44-0500",
+      "versions": 2,
+      "bytes": 1512
     },
     {
       "name": "tier-two-miner-order.md",
