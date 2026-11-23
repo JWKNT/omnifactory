@@ -7,3 +7,5 @@ Use five Tricalcium Phospate Dust to make two Phosphate Dust alongside three cal
 The orders in scripts/phosphorus_orders.py target eight phosphorus dust, enough for 120 QBits once the other materials arrive. Check both encoded patterns and a delivery before relying on them.
 
 Both patterns are installed on the LV interface at (3,81,6). The Multi Smelter took all seven ore and ME reached 22 tricalcium dust. The MV cell also took ten tricalcium dust while free. Five phosphate reached storage, enough to start the second reaction. A finished phosphorus order is still to be checked.
+
+ME ordered two phosphorus dust. Both arrived. One went into a verified three-dust Indium Gallium Phosphide craft and one remained in storage. The first of those three dust then became a QBit wafer and five CPUs from that wafer reached the IV processor chain. A fresh 32-ore purchase started the next phosphate reserve. The molecular shelf has room for the tiny-indium, small-gallium and phosphide recipes.

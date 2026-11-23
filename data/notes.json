@@ -123,10 +123,10 @@
     {
       "name": "assembly-iron-and-coal.md",
       "first_ticks": 5961706,
-      "ticks": 5961706,
-      "sent_at": "2026-11-22T22:56:05-0500",
-      "versions": 1,
-      "bytes": 778
+      "ticks": 6373945,
+      "sent_at": "2026-11-23T04:39:37-0500",
+      "versions": 2,
+      "bytes": 1204
     },
     {
       "name": "assembly-line-item-relays.md",
@@ -811,10 +811,10 @@
     {
       "name": "first-palladium.md",
       "first_ticks": 1955731,
-      "ticks": 1980111,
-      "sent_at": "2026-11-20T15:29:06-0500",
-      "versions": 3,
-      "bytes": 2059
+      "ticks": 6393649,
+      "sent_at": "2026-11-23T04:56:02-0500",
+      "versions": 5,
+      "bytes": 3035
     },
     {
       "name": "first-plastic.md",
@@ -1257,6 +1257,14 @@
       "bytes": 1782
     },
     {
+      "name": "lubricant-and-wafer-cutting.md",
+      "first_ticks": 6355926,
+      "ticks": 6385737,
+      "sent_at": "2026-11-23T04:49:26-0500",
+      "versions": 3,
+      "bytes": 2353
+    },
+    {
       "name": "lumium-and-mana.md",
       "first_ticks": 4639804,
       "ticks": 5256098,
@@ -1267,10 +1275,10 @@
     {
       "name": "luv-assembler-orders.md",
       "first_ticks": 6267445,
-      "ticks": 6316860,
-      "sent_at": "2026-11-23T03:52:02-0500",
-      "versions": 2,
-      "bytes": 3365
+      "ticks": 6383990,
+      "sent_at": "2026-11-23T04:47:59-0500",
+      "versions": 3,
+      "bytes": 5098
     },
     {
       "name": "lv-batteries.md",
@@ -1683,10 +1691,10 @@
     {
       "name": "phosphorus-for-qbits.md",
       "first_ticks": 6324972,
-      "ticks": 6340179,
-      "sent_at": "2026-11-23T04:11:28-0500",
-      "versions": 2,
-      "bytes": 1598
+      "ticks": 6355926,
+      "sent_at": "2026-11-23T04:24:36-0500",
+      "versions": 3,
+      "bytes": 2005
     },
     {
       "name": "plastic-board-stock.md",
@@ -1931,10 +1939,10 @@
     {
       "name": "refinery-bath-orders.md",
       "first_ticks": 6215963,
-      "ticks": 6215963,
-      "sent_at": "2026-11-23T02:27:58-0500",
-      "versions": 1,
-      "bytes": 835
+      "ticks": 6399725,
+      "sent_at": "2026-11-23T05:01:06-0500",
+      "versions": 3,
+      "bytes": 1762
     },
     {
       "name": "refinery-desulfurization.md",
@@ -1987,10 +1995,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 6340179,
-      "sent_at": "2026-11-23T04:11:28-0500",
-      "versions": 669,
-      "bytes": 5767
+      "ticks": 6393649,
+      "sent_at": "2026-11-23T04:56:02-0500",
+      "versions": 673,
+      "bytes": 6758
     },
     {
       "name": "review-29h49m.md",
@@ -2347,10 +2355,10 @@
     {
       "name": "secondary-indium-acid.md",
       "first_ticks": 6075717,
-      "ticks": 6184598,
-      "sent_at": "2026-11-23T02:01:49-0500",
-      "versions": 8,
-      "bytes": 4027
+      "ticks": 6393649,
+      "sent_at": "2026-11-23T04:56:02-0500",
+      "versions": 9,
+      "bytes": 4654
     },
     {
       "name": "sheet-return.md",
