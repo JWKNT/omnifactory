@@ -163,10 +163,10 @@
     {
       "name": "assembly-silver.md",
       "first_ticks": 5902439,
-      "ticks": 6608965,
-      "sent_at": "2026-11-23T07:55:28-0500",
-      "versions": 5,
-      "bytes": 2952
+      "ticks": 6673729,
+      "sent_at": "2026-11-23T08:49:26-0500",
+      "versions": 6,
+      "bytes": 3292
     },
     {
       "name": "assembly-workshop-shift.md",
@@ -859,10 +859,10 @@
     {
       "name": "first-quantum-mainframe.md",
       "first_ticks": 6249150,
-      "ticks": 6659271,
-      "sent_at": "2026-11-23T08:37:23-0500",
-      "versions": 9,
-      "bytes": 5746
+      "ticks": 6666693,
+      "sent_at": "2026-11-23T08:43:34-0500",
+      "versions": 10,
+      "bytes": 6308
     },
     {
       "name": "first-stainless.md",
@@ -1067,10 +1067,10 @@
     {
       "name": "hssg-frames.md",
       "first_ticks": 5656986,
-      "ticks": 5733662,
-      "sent_at": "2026-11-22T19:46:02-0500",
-      "versions": 5,
-      "bytes": 2944
+      "ticks": 6671958,
+      "sent_at": "2026-11-23T08:47:57-0500",
+      "versions": 6,
+      "bytes": 3919
     },
     {
       "name": "hv-array-supplies.md",
@@ -2035,10 +2035,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 6659271,
-      "sent_at": "2026-11-23T08:37:23-0500",
-      "versions": 698,
-      "bytes": 5881
+      "ticks": 6684212,
+      "sent_at": "2026-11-23T08:58:10-0500",
+      "versions": 700,
+      "bytes": 6372
     },
     {
       "name": "review-29h49m.md",
@@ -2955,10 +2955,10 @@
     {
       "name": "workshop-travel-staff.md",
       "first_ticks": 5796016,
-      "ticks": 6624510,
-      "sent_at": "2026-11-23T08:08:25-0500",
-      "versions": 5,
-      "bytes": 2374
+      "ticks": 6684212,
+      "sent_at": "2026-11-23T08:58:10-0500",
+      "versions": 6,
+      "bytes": 2799
     },
     {
       "name": "workshop.md",

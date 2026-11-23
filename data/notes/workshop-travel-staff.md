@@ -11,3 +11,5 @@ At 90h07m the player crafted the Travel Anchor from four Dark Steel Plates, four
 The trip from the terminal to the EV cutter sometimes detours onto the pyrolyse oven ledge at (8,81,−11). Try the charged staff from the terminal before the next north-deck service trip. Aim at the installed anchor, wait for its selection outline and right-click. Check the arrival coordinates before relying on it. The remaining walk from the anchor to the north machines is on the open deck.
 
 The first verified staff trip took the player from (8,80,6) to (18,81,−18). From (7,80,3) the anchor still highlights, but the closer MV converter intercepts a right-click. Walk to the proven departure tile first. The staff held 6,000 FE after the first few trips.
+
+For a return trip, reserve (2,80,12) on the west floor. The floor is cobblestone and the four blocks above the planned anchor are clear. This leaves (3,80,11) open for walking to the LV aisle. The second anchor needs four dark steel plates, four vibrant plates and a pulsating crystal. Its installation and return trip still need verification. Two bronze screws from the old LV lathe reached the pump order in the meantime.
