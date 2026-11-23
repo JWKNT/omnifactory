@@ -139,10 +139,10 @@
     {
       "name": "assembly-line-motion.md",
       "first_ticks": 5666916,
-      "ticks": 6056758,
-      "sent_at": "2026-11-23T00:15:17-0500",
-      "versions": 15,
-      "bytes": 10156
+      "ticks": 6226606,
+      "sent_at": "2026-11-23T02:36:50-0500",
+      "versions": 16,
+      "bytes": 10593
     },
     {
       "name": "assembly-motor-magnets.md",
@@ -1889,6 +1889,14 @@
       "bytes": 8286
     },
     {
+      "name": "refinery-bath-orders.md",
+      "first_ticks": 6215963,
+      "ticks": 6215963,
+      "sent_at": "2026-11-23T02:27:58-0500",
+      "versions": 1,
+      "bytes": 835
+    },
+    {
       "name": "refinery-desulfurization.md",
       "first_ticks": 3096570,
       "ticks": 3128338,
@@ -1939,10 +1947,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 6208982,
-      "sent_at": "2026-11-23T02:22:09-0500",
-      "versions": 659,
-      "bytes": 3400
+      "ticks": 6226606,
+      "sent_at": "2026-11-23T02:36:50-0500",
+      "versions": 661,
+      "bytes": 4069
     },
     {
       "name": "review-29h49m.md",
@@ -2611,18 +2619,18 @@
     {
       "name": "tungsten-from-cargo.md",
       "first_ticks": 4341114,
-      "ticks": 6208982,
-      "sent_at": "2026-11-23T02:22:09-0500",
-      "versions": 16,
-      "bytes": 9915
+      "ticks": 6231814,
+      "sent_at": "2026-11-23T02:41:10-0500",
+      "versions": 19,
+      "bytes": 11423
     },
     {
       "name": "tungsten-power-restart.md",
       "first_ticks": 4726876,
-      "ticks": 6108432,
-      "sent_at": "2026-11-23T00:58:21-0500",
-      "versions": 7,
-      "bytes": 5219
+      "ticks": 6222687,
+      "sent_at": "2026-11-23T02:33:34-0500",
+      "versions": 8,
+      "bytes": 5861
     },
     {
       "name": "tungstensteel-coil-bill.md",
