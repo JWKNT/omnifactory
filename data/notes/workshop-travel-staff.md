@@ -9,3 +9,5 @@ At 80h40m the MV lathe returned both dark steel rods and the MV crystal autoclav
 At 90h07m the player crafted the Travel Anchor from four Dark Steel Plates, four Vibrant Alloy Plates and one Pulsating Crystal. Page 219 paid its OmniNickel. The anchor is installed at (18,80,−18) on the north Assembly Line deck, within sight of the new work area.
 
 The trip from the terminal to the EV cutter sometimes detours onto the pyrolyse oven ledge at (8,81,−11). Try the charged staff from the terminal before the next north-deck service trip. Aim at the installed anchor, wait for its selection outline and right-click. Check the arrival coordinates before relying on it. The remaining walk from the anchor to the north machines is on the open deck.
+
+The first verified staff trip took the player from (8,80,6) to (18,81,−18). From (7,80,3) the anchor still highlights, but the closer MV converter intercepts a right-click. Walk to the proven departure tile first. The staff held 6,000 FE after the first few trips.

@@ -21,3 +21,5 @@ The HV assembler turned the finished gear and one diamond dust into a Diamond Sa
 The EV saw at (18,83,−9) accepted its first bucket of lubricant and returned seven Nano CPUs from one Nano CPU Wafer. It has 978 mB remaining after that cut. The west face is set for output and accepts input. Verify automatic item output, both encoded cuts, and the five-QBit EV cycle independently.
 
 The EV saw completed all three QBit wafers. Each yielded five QBits in 39 ticks at 768 EU/t. The charge consumed 66 mB lubricant in total. Fifteen QBits reached storage, and eight basic quantum processors were ordered. The saw now has its full ME Interface on the west side. Verify its automatic return and the two encoded patterns next.
+
+Both the QBit and Nano CPU lubricant patterns were found in the cutter's own interface at (17,83,−9), and automatic output is enabled. The crafting network accepted the first five-QBit order at tick 6,614,266. The recorded three-wafer batch establishes the yield independently of that order.
