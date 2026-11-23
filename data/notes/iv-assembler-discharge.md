@@ -1,0 +1,7 @@
+# Delivering 8,000 EU/t to the IV assembler
+
+At 82h27m the first two Assembly Line Casings reached ME. The IV assembler used two IV robot arms, a tungstensteel frame and four steel plates. One arm used an older Nanoprocessor Array, the other a newly assembled Quantum Processor. Both Quantum Processor Arrays stayed in storage for the mainframe.
+
+The live rail recipe takes 100 ticks at 8,000 EU/t. At first it repeatedly fell back to its first tick. The chemistry converter still had more than a million EU in its capacitor when the assembler began losing progress. The converter has four battery slots. A simulated discharge on the charged basic Flux Capacitor measured 2,500 EU per tick. The IV transformer also has to supply an 8,192 V packet. Battery capacity alone is insufficient evidence for sustained output.
+
+A soft-hammer pause allowed the assembler's own 262,144 EU buffer to recharge. It retained 51 of 100 recipe ticks across a pause, and the next run completed both casings. The assembler is enabled again. The workshop now checks for early power loss, pauses before a second loss, and does other work during recharge. The next investment is three additional basic capacitors in the chemistry converter. The eight lead dust charged to the electric furnace supply their six lead ingots. Check the capacity gain at each insertion and test a full uninterrupted rail cycle. For the northern Assembly Line converter, check the per-tick discharge as well as the stored charge before committing four million EU of ingredients.
