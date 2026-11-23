@@ -7,3 +7,5 @@ A second trip succeeded during the home cooldown. The safe walk to the terminal 
 The air collector's tank is at (11,82,−14). A planned eight-cable branch reaches its west face from (12,82,−10), leaving the block west of the collector itself open. A read-only fluid storage bus lets the freezer take air as needed. Verify both bus settings and sustained growth in the liquid-air drum before calling that supply continuous.
 
 At 74h12m the freezer export bus was online and filtered to air. The iron drum rose from 16 to 64 buckets of liquid air. All eight collector-branch cables are in place. The tap on the collector tank still needs its fluid storage bus. If the player is caught on the refinery conduit at (10,81,−13), sneak west under the cable and walk to (8,80,−13). The return reached that aisle during the recorded run.
+
+At 81h36m the west freezer resumed taking air after cooling the three titanium ingots that brought plate stock to eight. Returning along the outer deck reached the east side of the bus at (−3,80,6). The south-facing export filter read air and the hatch held 3,000 mB. The route leaves the hot-ingot input available for the next changeover.

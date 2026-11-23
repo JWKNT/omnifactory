@@ -123,10 +123,10 @@
     {
       "name": "assembly-line-motion.md",
       "first_ticks": 5666916,
-      "ticks": 5752357,
-      "sent_at": "2026-11-22T20:01:37-0500",
-      "versions": 7,
-      "bytes": 6622
+      "ticks": 5897249,
+      "sent_at": "2026-11-22T22:02:22-0500",
+      "versions": 9,
+      "bytes": 7791
     },
     {
       "name": "assembly-motor-magnets.md",
@@ -259,10 +259,10 @@
     {
       "name": "cable-acid-recovery.md",
       "first_ticks": 4487800,
-      "ticks": 4818581,
-      "sent_at": "2026-11-22T06:56:14-0500",
-      "versions": 6,
-      "bytes": 3470
+      "ticks": 5875517,
+      "sent_at": "2026-11-22T21:44:15-0500",
+      "versions": 7,
+      "bytes": 3918
     },
     {
       "name": "cake-supplies.md",
@@ -1347,10 +1347,10 @@
     {
       "name": "nano-wafer-roof.md",
       "first_ticks": 5796944,
-      "ticks": 5810095,
-      "sent_at": "2026-11-22T20:49:44-0500",
-      "versions": 3,
-      "bytes": 2529
+      "ticks": 5897249,
+      "sent_at": "2026-11-22T22:02:22-0500",
+      "versions": 4,
+      "bytes": 3019
     },
     {
       "name": "nanocircuit-feed.md",
@@ -1747,10 +1747,10 @@
     {
       "name": "quantum-wafer-feed.md",
       "first_ticks": 5784869,
-      "ticks": 5873697,
-      "sent_at": "2026-11-22T21:42:44-0500",
-      "versions": 5,
-      "bytes": 3939
+      "ticks": 5884098,
+      "sent_at": "2026-11-22T21:51:24-0500",
+      "versions": 6,
+      "bytes": 4560
     },
     {
       "name": "quarry-drum.md",
@@ -1851,10 +1851,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 5873697,
-      "sent_at": "2026-11-22T21:42:44-0500",
-      "versions": 622,
-      "bytes": 28201
+      "ticks": 5897249,
+      "sent_at": "2026-11-22T22:02:22-0500",
+      "versions": 625,
+      "bytes": 28386
     },
     {
       "name": "review-29h49m.md",
@@ -2619,10 +2619,10 @@
     {
       "name": "west-freezer-access.md",
       "first_ticks": 5322710,
-      "ticks": 5343771,
-      "sent_at": "2026-11-22T14:21:08-0500",
-      "versions": 3,
-      "bytes": 1790
+      "ticks": 5875517,
+      "sent_at": "2026-11-22T21:44:15-0500",
+      "versions": 4,
+      "bytes": 2133
     },
     {
       "name": "west-freezer-liquid-air.md",
