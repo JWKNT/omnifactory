@@ -21,3 +21,5 @@ At 90h06m the new HV reactor at (19,83,−11) held 4,000 mB of indium concentrat
 At 90h08m ME fluid storage received all 4,000 mB. The EV reactor banked its remaining 850 mB of radon to clear the inlet for concentrate. Allow reduction whenever no wafer charge is ready and the reactor is idle.
 
 The first reduction delivered four tiny piles of indium and four buckets of lead-zinc solution. A second four-bucket concentrate batch finished in the HV leacher while the other workshop jobs ran.
+
+At 90h31m the second 4,000 mB of concentrate was in ME, but the aluminium balance had swung to 31 ingots and two dust after the north furnace ran. Each bucket needs four dust to reduce. The north aluminium tender now reserves twenty dust for chemistry. When concentrate is waiting, the LV macerator can reclaim one dust per surplus ingot, retaining twelve ingots for cables and other parts. The EV bauxite separator remains the primary dust supply.

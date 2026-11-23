@@ -19,3 +19,5 @@ At 84h55m ME held 31 impure gold dust, and the HV mill was finishing the rest of
 At 85h39m the Multi Smelter returned the last 22 ingots. The network reached 65, the player took a stack to the quest book, and page 657 paid one OmniQuarter. All 65 ingots remain available for electrum and printed circuits. The HV mill shared the ore work with iron, and the spare LV macerator supplied enough impure dust for the final smelt before it finished the whole load.
 
 At 90h13m three gold ingots remained. The rotating chamber already held the Guardian model and its powered Loot Fabricator held two pristine Guardian matter without an output selection. Select Gold Ingot to obtain the next sixteen. The workshop now checks the waiting matter species after a model swap. An idle Multi Smelter can take the 22 loose silver dust while the board line uses its remaining foil.
+
+Selecting gold delivered sixteen ingots, bringing the available total to nineteen. The Multi Smelter returned 22 silver ingots from the 22 dust. Both ingredients are now available for electrum foil.

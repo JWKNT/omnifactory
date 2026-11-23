@@ -15,3 +15,5 @@ The MV saw has two competing cuts. The Nano CPU Wafer gives seven ordinary Nano 
 At 89h27m the circuit reserve had seven ordinary Nano CPUs and seven QBits. The first manual brass blend returned four brass dust. Its grid takes three copper and one zinc. Count four dust per craft when requesting a batch and nine for the cobalt brass blend. The gear still needs four smelted cobalt brass ingots.
 
 At 90h08m the multi-smelter had returned twelve cobalt brass ingots. Four went into the MV extruder with the gear die for the EV sawblade. The existing water saw finished the three-wafer QBit run in two loads, returning ten and then five QBits.
+
+The HV assembler turned the finished gear and one diamond dust into a Diamond Sawblade. One EV motor is also ready. The cutter still needs the EV hull, conveyor and aluminium cables. If the hull is waiting on titanium, use the established titanium reactor, north furnace and freezer route.
