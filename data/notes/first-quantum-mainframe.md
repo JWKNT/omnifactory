@@ -1,0 +1,7 @@
+# First Quantum Processor Mainframe
+
+At 86h47m the assembly fabricator had accepted the pattern for three Assembler Machine Casings using seven Quantum Processors, a tungstensteel frame and an IV motor. The expanded interface had seven slots free. Eight Assembly Line Casings were in stock. The north line still needs its remaining construction materials before it can form.
+
+The first run costs 4,000,000 EU over 500 ticks and 1,440 mB soldering alloy. Page 531 awards two quarters. The nine input buses, west to east from x20, will take 32 SMD resistors, eight Power ICs, 24 SMD transistors, 28 SMD capacitors, 16 SMD diodes, one Improved Nether Star, two Quantum Processor Arrays, four HSS-G frames and eight single Signalum wires. These are the quantities from JEI in the order declared by this pack's Electronics script. At the survey, storage held respectively 4, 24, 18, 41, 8, 1, 2, 4 and 8. More circuits are also needed for construction, so keep those electronic component lines running.
+
+The first-run tender is scripts/first_quantum_mainframe.py. It checks the formed controller and the north converter reserve, uses the down-facing buses from the service aisle below, and collects from x31. Solder goes in the north hatch at (25,82,-20). It can draw from the existing circuit assembler reserve if fluid storage has no solder. Verify the physical charge, output and book claim when the line is built.
