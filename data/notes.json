@@ -1283,10 +1283,10 @@
     {
       "name": "iv-cpu-wafer-laser.md",
       "first_ticks": 5775705,
-      "ticks": 6537767,
-      "sent_at": "2026-11-23T06:56:08-0500",
-      "versions": 4,
-      "bytes": 2499
+      "ticks": 7174649,
+      "sent_at": "2026-11-23T15:46:52-0500",
+      "versions": 5,
+      "bytes": 3080
     },
     {
       "name": "iv-metal-bill.md",
@@ -1483,10 +1483,10 @@
     {
       "name": "medium-projector-shell.md",
       "first_ticks": 7086569,
-      "ticks": 7164597,
-      "sent_at": "2026-11-23T15:38:29-0500",
-      "versions": 5,
-      "bytes": 4245
+      "ticks": 7192632,
+      "sent_at": "2026-11-23T16:01:51-0500",
+      "versions": 6,
+      "bytes": 4686
     },
     {
       "name": "metal-models.md",
@@ -2171,10 +2171,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 7162394,
-      "sent_at": "2026-11-23T15:36:39-0500",
-      "versions": 750,
-      "bytes": 10059
+      "ticks": 7187483,
+      "sent_at": "2026-11-23T15:57:34-0500",
+      "versions": 751,
+      "bytes": 10407
     },
     {
       "name": "review-29h49m.md",
@@ -2547,10 +2547,10 @@
     {
       "name": "second-lapidary.md",
       "first_ticks": 4444905,
-      "ticks": 5400425,
-      "sent_at": "2026-11-22T15:08:21-0500",
-      "versions": 11,
-      "bytes": 7230
+      "ticks": 7176667,
+      "sent_at": "2026-11-23T15:48:33-0500",
+      "versions": 12,
+      "bytes": 8131
     },
     {
       "name": "second-miner-cargo.md",
