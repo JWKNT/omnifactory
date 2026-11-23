@@ -58,3 +58,9 @@ At 75h02m an active ME Interface order held every ingredient for the MV arm exce
 
 
 The tender banked 4,000 mB of diluted hydrochloric acid from the full output row, then fed nine polymer dust and one sulfur to the reactor. Its 120 EU/t cycle ran for 215 ticks. I measured 1,200 mB of rubber in the cable wrapper after outstanding wires were processed. The waiting ME Interface order completed, and one interface appeared in storage. The pump recipe is now installed on the same assembler.
+
+Three simultaneous ME jobs stopped with twelve bare copper wires and twelve tungsten wires already in the wrapper. Its 24 mB silicone charge was below even one copper cable. The silicone reactor held 64 buckets of methanol, two buckets of hydrochloric acid and three saved polymer dust in storage. The acid still was empty and ME held 56 buckets of diluted hydrochloric acid. The Assembly Line workshop now runs the acid recovery and silicone services together while the wrapper is below four buckets. This supports the ME Interface order, the IV motor leads and the LV hull supply at the same time.
+
+When the recovery still is empty it can retain program zero from sulfuric acid duty. At 79h47m that prevented hydrochloric acid recovery despite 56 buckets of dilute acid in ME. The workshop now reuses that selector on program one when the silicone reactor needs acid and the still has emptied both tanks. Check the program and actual fluid return when diagnosing the cable supply.
+
+At 79h52m the reprogrammed still accepted 16 buckets of dilute hydrochloric acid. Each cycle uses two buckets, takes 1,200 ticks and returns one bucket of acid. The filtered ME export delivered the first bucket to the silicone reactor. The second supplied the next reaction, which returned three polymer dust on top of the six already banked. The remaining check is the nine-dust rubber charge and delivery to the wrapper.
