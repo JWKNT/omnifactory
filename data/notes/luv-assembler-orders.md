@@ -1,0 +1,9 @@
+# What the first LuV assembler actually costs
+
+Page 283 pays one nickel. Its grid recipe requires **two** ultimate circuits, two LuV arms, two LuV conveyors, a LuV hull and two single niobium-titanium cables. The first Quantum Processor Mainframe opens page 531 and its two-quarter reward. Plan on a second mainframe for the machine. Pages 283 and 155 then lead to the first Crystal Circuit, which pays one dollar.
+
+The two arms each take two LuV motors and one LuV piston. Each piston takes another motor. Both conveyors also take two motors apiece. That makes ten LuV motors before the assembler can be built. Each motor consumes four stacks of fine annealed copper wire, two long HSS-G rods, one long magnetic neodymium rod, two yttrium barium cuprate cables, 144 mB solder and 250 mB lubricant. The first ten motors alone need 2,560 fine wires. Keep the native west annealing furnace, stage a wiremill pattern, and allow room for ten concurrent winding lots.
+
+The existing north transformer supplies 8,192 EU/t, enough for the 8,000 EU/t mainframe. The LuV motor needs 10,240 EU/t for 300 ticks, the conveyor and piston each need 15,360 EU/t for 600 ticks, and the arm needs 20,480 EU/t for 600 ticks. The LuV hatch can stay. Upgrade its supply before committing the first motor load. One arm costs 12,288,000 EU before any losses. The mainframe's five-million-EU buffer needs expansion or sustained higher generation for this stage. The automatic item-relay plan is in assembly-line-item-relays.md. Reserve one of the four fluid hatches for lubricant and another for styrene-butadiene rubber.
+
+At LuV the initial Crystal Circuit recipe takes eight SMD resistors, four SMD transistors, two fine niobium-titanium wires, a multilayer board, a Crystal CPU and a Nano CPU, at 10,000 EU/t. Choose 72 mB solder instead of 144 mB tin when solder stock allows. JEI also lists a Crystal SoC route at 86,000 EU/t, beyond the first machine.
