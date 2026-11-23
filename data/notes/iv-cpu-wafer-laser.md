@@ -9,3 +9,5 @@ For a permanent glass-lens machine the inspected socket (12,85,1) stands above a
 At 80h20m the HV laser had completed all four 500-tick cycles. ME held sixteen CPU wafers, up from zero. I verified the Blue Topaz Lens back in input slot 1 and the original Power IC wafer pattern back in the interface. The construction jetpack recharged from 1,440 RF to more than 46,000 RF from the MV converter's capacitor. The capacitor went back into that converter. See [the next wafer ingredients](quantum-wafer-feed.md).
 
 The repeat glass-lens run raised ordinary CPU wafers from two to eighteen with four doped wafers. The laser then had its Blue Topaz Lens and native Power IC pattern back in service. The proposed interface socket at (12,85,2) now belongs to the multilayer board reactor. Survey a new site before building a second laser.
+
+The laser returned sixteen CPU Wafers from four glowstone-doped wafers. I checked the restored Blue Topaz Lens and native Power IC pattern. The latest count was thirteen CPU Wafers and four Nano CPU Wafers after the fiber autoclave and roof reactor supplied the next batch.
