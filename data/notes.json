@@ -105,6 +105,14 @@
       "bytes": 1085
     },
     {
+      "name": "assembly-gold.md",
+      "first_ticks": 5989398,
+      "ticks": 5989398,
+      "sent_at": "2026-11-22T23:19:09-0500",
+      "versions": 1,
+      "bytes": 719
+    },
+    {
       "name": "assembly-iron-and-coal.md",
       "first_ticks": 5961706,
       "ticks": 5961706,
@@ -267,10 +275,10 @@
     {
       "name": "bulk-element-quests.md",
       "first_ticks": 5940479,
-      "ticks": 5957483,
-      "sent_at": "2026-11-22T22:52:34-0500",
-      "versions": 2,
-      "bytes": 967
+      "ticks": 5993050,
+      "sent_at": "2026-11-22T23:22:12-0500",
+      "versions": 4,
+      "bytes": 1479
     },
     {
       "name": "bulk-furnace-deck.md",
@@ -1115,10 +1123,10 @@
     {
       "name": "iv-assembler-discharge.md",
       "first_ticks": 5937680,
-      "ticks": 5951467,
-      "sent_at": "2026-11-22T22:47:33-0500",
-      "versions": 2,
-      "bytes": 1813
+      "ticks": 5983613,
+      "sent_at": "2026-11-22T23:14:20-0500",
+      "versions": 3,
+      "bytes": 2355
     },
     {
       "name": "iv-assembler-windings.md",
@@ -1195,10 +1203,10 @@
     {
       "name": "logic-processor-orders.md",
       "first_ticks": 5942332,
-      "ticks": 5942332,
-      "sent_at": "2026-11-22T22:39:56-0500",
-      "versions": 1,
-      "bytes": 1471
+      "ticks": 5971451,
+      "sent_at": "2026-11-22T23:04:12-0500",
+      "versions": 2,
+      "bytes": 2048
     },
     {
       "name": "loot-fabricator.md",
@@ -1347,10 +1355,10 @@
     {
       "name": "multilayer-reactor.md",
       "first_ticks": 5912675,
-      "ticks": 5937680,
-      "sent_at": "2026-11-22T22:36:03-0500",
-      "versions": 2,
-      "bytes": 2031
+      "ticks": 5993050,
+      "sent_at": "2026-11-22T23:22:12-0500",
+      "versions": 3,
+      "bytes": 2647
     },
     {
       "name": "mv-alloy-bay.md",
@@ -1795,10 +1803,10 @@
     {
       "name": "quantum-wafer-feed.md",
       "first_ticks": 5784869,
-      "ticks": 5916621,
-      "sent_at": "2026-11-22T22:18:30-0500",
-      "versions": 7,
-      "bytes": 5223
+      "ticks": 5974846,
+      "sent_at": "2026-11-22T23:07:02-0500",
+      "versions": 8,
+      "bytes": 5761
     },
     {
       "name": "quarry-drum.md",
@@ -1899,10 +1907,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 5957483,
-      "sent_at": "2026-11-22T22:52:34-0500",
-      "versions": 630,
-      "bytes": 28170
+      "ticks": 5993050,
+      "sent_at": "2026-11-22T23:22:12-0500",
+      "versions": 634,
+      "bytes": 27921
     },
     {
       "name": "review-29h49m.md",
@@ -2119,6 +2127,14 @@
       "sent_at": "2026-11-22T21:11:39-0500",
       "versions": 1,
       "bytes": 3951
+    },
+    {
+      "name": "review-83h03m.md",
+      "first_ticks": 5980604,
+      "ticks": 5980604,
+      "sent_at": "2026-11-22T23:11:50-0500",
+      "versions": 1,
+      "bytes": 3320
     },
     {
       "name": "review-questions.md",
@@ -2651,10 +2667,10 @@
     {
       "name": "west-annealing-input.md",
       "first_ticks": 5803900,
-      "ticks": 5851416,
-      "sent_at": "2026-11-22T21:24:10-0500",
-      "versions": 2,
-      "bytes": 1813
+      "ticks": 5971451,
+      "sent_at": "2026-11-22T23:04:12-0500",
+      "versions": 3,
+      "bytes": 2344
     },
     {
       "name": "west-annealing-return.md",
