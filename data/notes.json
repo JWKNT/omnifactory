@@ -107,10 +107,10 @@
     {
       "name": "assembly-gold.md",
       "first_ticks": 5989398,
-      "ticks": 5989398,
-      "sent_at": "2026-11-22T23:19:09-0500",
-      "versions": 1,
-      "bytes": 719
+      "ticks": 6003810,
+      "sent_at": "2026-11-22T23:31:10-0500",
+      "versions": 2,
+      "bytes": 1101
     },
     {
       "name": "assembly-iron-and-coal.md",
@@ -275,10 +275,10 @@
     {
       "name": "bulk-element-quests.md",
       "first_ticks": 5940479,
-      "ticks": 5993050,
-      "sent_at": "2026-11-22T23:22:12-0500",
-      "versions": 4,
-      "bytes": 1479
+      "ticks": 6015227,
+      "sent_at": "2026-11-22T23:40:41-0500",
+      "versions": 5,
+      "bytes": 1875
     },
     {
       "name": "bulk-furnace-deck.md",
@@ -993,6 +993,14 @@
       "bytes": 1145
     },
     {
+      "name": "handoff-history-through-80h48m.md",
+      "first_ticks": 6009550,
+      "ticks": 6009550,
+      "sent_at": "2026-11-22T23:35:57-0500",
+      "versions": 1,
+      "bytes": 27330
+    },
+    {
       "name": "hellish-bootstrap.md",
       "first_ticks": 429540,
       "ticks": 446263,
@@ -1355,10 +1363,10 @@
     {
       "name": "multilayer-reactor.md",
       "first_ticks": 5912675,
-      "ticks": 5993050,
-      "sent_at": "2026-11-22T23:22:12-0500",
-      "versions": 3,
-      "bytes": 2647
+      "ticks": 6015227,
+      "sent_at": "2026-11-22T23:40:41-0500",
+      "versions": 6,
+      "bytes": 4135
     },
     {
       "name": "mv-alloy-bay.md",
@@ -1451,10 +1459,10 @@
     {
       "name": "north-assembly-power.md",
       "first_ticks": 5729898,
-      "ticks": 5729898,
-      "sent_at": "2026-11-22T19:42:54-0500",
-      "versions": 1,
-      "bytes": 1298
+      "ticks": 5999062,
+      "sent_at": "2026-11-22T23:27:12-0500",
+      "versions": 2,
+      "bytes": 1598
     },
     {
       "name": "north-chemistry-power.md",
@@ -1547,10 +1555,10 @@
     {
       "name": "oxygen-electrolysis-bay.md",
       "first_ticks": 4410893,
-      "ticks": 4581793,
-      "sent_at": "2026-11-22T03:38:54-0500",
-      "versions": 8,
-      "bytes": 3964
+      "ticks": 6010423,
+      "sent_at": "2026-11-22T23:36:41-0500",
+      "versions": 10,
+      "bytes": 4740
     },
     {
       "name": "oxygen-storage.md",
@@ -1907,10 +1915,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 5993050,
-      "sent_at": "2026-11-22T23:22:12-0500",
-      "versions": 634,
-      "bytes": 27921
+      "ticks": 6012309,
+      "sent_at": "2026-11-22T23:38:15-0500",
+      "versions": 638,
+      "bytes": 1613
     },
     {
       "name": "review-29h49m.md",
@@ -2691,10 +2699,10 @@
     {
       "name": "west-freezer-liquid-air.md",
       "first_ticks": 5277775,
-      "ticks": 5280693,
-      "sent_at": "2026-11-22T13:28:34-0500",
-      "versions": 2,
-      "bytes": 1018
+      "ticks": 5999062,
+      "sent_at": "2026-11-22T23:27:12-0500",
+      "versions": 3,
+      "bytes": 1488
     },
     {
       "name": "wireless-storage.md",

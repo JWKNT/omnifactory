@@ -7,3 +7,5 @@ By 82h44m all three pages were claimed in the book. The Multi Smelter processed 
 At 83h07m there were 122 potassium dust. Page 631 asks for 64 potassium ingots and pays one OmniQuarter. The one-dust furnace recipe uses the existing Multi Smelter. Nuggets, blocks and molten potassium are other JEI inputs, but none is needed here. Smelting one stack keeps 58 dust for chemistry. Leave zinc for a later pass, since its 48 dust do not yet cover a stack.
 
 Page 631 paid one OmniQuarter. Both 32-ingot potassium batches returned through the Multi Smelter, and the book left all 64 ingots in inventory.
+
+Page 656 asks to see 64 platinum ingots for one OmniQuarter and counts toward Mote of Omnium. At 83h32m there were 32 platinum dust and 399 tiny piles. Nine tiny piles make one full dust in the grid or in a packager on program 1. One dust smelts into one ingot. Use the Multi Smelter to produce the stack, retain eight dust for chemistry, and keep the ingots for IV wiring after the book check.
