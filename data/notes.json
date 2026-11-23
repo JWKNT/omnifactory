@@ -1065,6 +1065,14 @@
       "bytes": 2606
     },
     {
+      "name": "hv-electrum-foil.md",
+      "first_ticks": 6090375,
+      "ticks": 6090375,
+      "sent_at": "2026-11-23T00:43:18-0500",
+      "versions": 1,
+      "bytes": 1142
+    },
+    {
       "name": "hv-heavy-press.md",
       "first_ticks": 4188924,
       "ticks": 4237979,
@@ -1211,10 +1219,10 @@
     {
       "name": "logic-processor-orders.md",
       "first_ticks": 5942332,
-      "ticks": 5971451,
-      "sent_at": "2026-11-22T23:04:12-0500",
-      "versions": 2,
-      "bytes": 2048
+      "ticks": 6107596,
+      "sent_at": "2026-11-23T00:57:39-0500",
+      "versions": 4,
+      "bytes": 2643
     },
     {
       "name": "loot-fabricator.md",
@@ -1923,10 +1931,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 6087290,
-      "sent_at": "2026-11-23T00:40:44-0500",
-      "versions": 650,
-      "bytes": 2816
+      "ticks": 6099951,
+      "sent_at": "2026-11-23T00:51:17-0500",
+      "versions": 651,
+      "bytes": 3097
     },
     {
       "name": "review-29h49m.md",
@@ -2259,10 +2267,10 @@
     {
       "name": "secondary-indium-acid.md",
       "first_ticks": 6075717,
-      "ticks": 6075717,
-      "sent_at": "2026-11-23T00:31:05-0500",
-      "versions": 1,
-      "bytes": 1282
+      "ticks": 6108432,
+      "sent_at": "2026-11-23T00:58:21-0500",
+      "versions": 4,
+      "bytes": 2301
     },
     {
       "name": "sheet-return.md",
@@ -2507,10 +2515,10 @@
     {
       "name": "tier-seven-components.md",
       "first_ticks": 6085884,
-      "ticks": 6087290,
-      "sent_at": "2026-11-23T00:40:44-0500",
-      "versions": 2,
-      "bytes": 1512
+      "ticks": 6113028,
+      "sent_at": "2026-11-23T01:02:11-0500",
+      "versions": 5,
+      "bytes": 2588
     },
     {
       "name": "tier-two-miner-order.md",
@@ -2579,18 +2587,18 @@
     {
       "name": "tungsten-from-cargo.md",
       "first_ticks": 4341114,
-      "ticks": 6046446,
-      "sent_at": "2026-11-23T00:06:42-0500",
-      "versions": 3,
-      "bytes": 3619
+      "ticks": 6112023,
+      "sent_at": "2026-11-23T01:01:21-0500",
+      "versions": 4,
+      "bytes": 4138
     },
     {
       "name": "tungsten-power-restart.md",
       "first_ticks": 4726876,
-      "ticks": 4787958,
-      "sent_at": "2026-11-22T06:30:43-0500",
-      "versions": 4,
-      "bytes": 3929
+      "ticks": 6108432,
+      "sent_at": "2026-11-23T00:58:21-0500",
+      "versions": 7,
+      "bytes": 5219
     },
     {
       "name": "tungstensteel-coil-bill.md",

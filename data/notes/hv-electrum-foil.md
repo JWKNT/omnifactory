@@ -1,0 +1,5 @@
+# HV electrum foil mill
+
+The first mainframe needs two arrays and the Assembly Line itself needs more elite circuits. Each multilayer board uses sixteen electrum foil. At 84h34m the LV mill had sixteen electrum plates in its input and another in process. Two of four CPUs were waiting for foil, one directly and one for boards. In this pack JEI lists just one recipe, a plate for four foil in 303 ticks at 24 EU/t. A separate HV cluster mill can run that recipe two tiers above LV, while the original mill continues making thin PVC for capacitors.
+
+The west side of the wafer roof's 512 V tap at (11,85,1) is clear. Place the mill at (10,85,1), with its output south toward a new interface at (10,85,2). A Fluix cable at (9,85,2) can connect the interface to the neighboring 4k Crafting Storage. The inspected positions are empty. Land on the existing roof before placing equipment. The machine takes six ordinary HV motors, one HV hull and two HV circuits. The network knows all three; preserve the two mainframe arrays and give the advanced inscriber's interface priority. Verify the HV machine and the first delivery before relying on it.
