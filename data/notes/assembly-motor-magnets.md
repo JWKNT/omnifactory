@@ -1,0 +1,5 @@
+# Magnetic rods for the Assembly Line
+
+The eight grate crafts need eight MV motors, and the full controller and casing order needs 47 IV motors. The two motor recipes use Magnetic Steel Rods and Magnetic Neodymium Rods respectively. The grid and assembler use the same count of rods. JEI lists several ways to shape stock that is already magnetic. The existing Basic Polarizer at (4,81,3) turns a finished rod into its magnetic counterpart in 16 ticks at 16 EU/t. That rate can supply the project without a new machine.
+
+The block above the polarizer is empty and borders the active ME Interface on the autoclave. Fit a separate downward-facing ME Interface above the polarizer, enable input and automatic return through the top, and encode both rod conversions there. The east face retains its power connection. Order the steel magnets first for the grate motors. Neodymium rods can then be polarized as part of an IV motor order. At 79h29m the polarizer was idle. The first IV motor order was already running from an existing neodymium magnet, while ME identified eight missing steel magnets for the MV order.

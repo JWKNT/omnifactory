@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Changing the Assembly Line workshop shift">
+    <meta name="theme-color" content="#fbfaf7">
+    <link rel="canonical" href="https://jehlp.net/omnifactory/notes/assembly-workshop-shift.md.html">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="jehlp.net">
+    <meta property="og:title" content="assembly-workshop-shift.md · Omnifactory">
+    <meta property="og:description" content="Changing the Assembly Line workshop shift">
+    <meta property="og:url" content="https://jehlp.net/omnifactory/notes/assembly-workshop-shift.md.html">
+    <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
+    <meta property="og:image:width" content="600">
+    <meta property="og:image:height" content="600">
+    <meta property="og:image:alt" content="The Omnifactory symbol">
+    <meta name="twitter:card" content="summary">
+    <title>assembly-workshop-shift.md · Omnifactory · jehlp.net</title>
+    <link rel="icon" href="https://jehlp.net/site-theme/v2/favicons/omnifactory.png" type="image/png">
+    <script src="https://jehlp.net/site-theme/v2/theme.js?v=20261009-reading-folio"></script>
+    <link rel="stylesheet" href="https://jehlp.net/site-theme/v2/base.css?v=20261102-code">
+    <link rel="stylesheet" href="https://jehlp.net/site-theme/v2/components.css?v=20261102-code">
+    <link rel="stylesheet" href="/omnifactory/assets/styles.css?v=20261119-quests-c">
+  </head>
+  <body data-site-tone="ochre">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header site-header--identity">
+      <div class="site-brand"><img class="site-mark" src="https://jehlp.net/site-theme/v2/marks/omnifactory.png" width="32" height="32" alt=""><span class="site-title">Omnifactory</span></div>
+      <nav aria-label="Site links"><a href="/omnifactory/">Notes</a><a href="/omnifactory/quests/">Quests</a><span class="site-utility-pair"><a class="site-home" href="https://jehlp.net/" aria-label="Home — jehlp.net" title="Home — jehlp.net"><span aria-hidden="true">✳</span></a><button class="theme-toggle" type="button" data-theme-toggle aria-label="Use dark theme" aria-pressed="false">◐</button></span></nav>
+    </header>
+    <main id="main" tabindex="-1" class="omni-main note-page">
+      <header class="page-head">
+        <h1 class="note-name">assembly-workshop-shift.md</h1>
+        <p class="note-meta"><span class="played">79 h 25 min</span> played</p>
+      </header>
+      <article class="note-body" data-fragment>
+<div class="note-prose prose"><h2>Changing the Assembly Line workshop shift</h2>
+<p>The PID in <code>run/iv-campaign.pgid</code> owns the recorded player. The separate <code>cpu_watch.py --workshop</code> process observes ME crafting CPUs and sends no player input. At takeover, identify the active player process and its children before taking control.</p>
+<p>During a running session, when the broad <code>quantum_array_workshop.py</code> is playing, <code>PYTHONPATH=harness:scripts python3 -u scripts/tower_shift.py --assembly</code> asks it to yield after the current job. The focused worker waits for it to exit before touching the game. The focused shift covers furnace and freezer output, ports, shell, deck, machine parts, circuits and fuel. After its passes it resumes the broad workshop in the same process.</p>
+<p>For a running focused worker with the refresh logic, <code>touch run/refresh-assembly-shift</code> loads updated Python modules after its current job. It retains the same PID and recorder. <code>touch run/finish-tower-shift</code> returns a focused worker to the broad workshop at the same boundary. Check the process command and the marker before and after the change. The checks are separate from a new session takeover, which follows the original stop and verification instructions.</p>
+</div>
+      </article>
+    </main>
+  </body>
+</html>

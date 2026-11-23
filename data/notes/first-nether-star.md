@@ -13,3 +13,5 @@ The Tier Seven mainframe needs an Improved Nether Star. The HV Chemical Bath tak
 At 79h12m the block and rods yielded four cores. I held the five different components, assembled one star, and claimed the OmniNickel on page 391. Three cores remain. The four Radium Salt charge raised ME radon from 1,850 to 5,850 mB.
 
 For page 241, further along the miner branch, two Crystal Matrix Plates make one Heavy Plating and the page also requires the ZPM Compressor. The 9×9 recipe per Crystal Matrix Ingot takes ten stars, eleven Diamond Lattices, 24 diamonds and four diamond nuggets. Two fresh ingots therefore require twenty stars. The implosion recipe converts four star dust into only three stars, and grinding each star gives one dust. Keep the four tip recipes and the four-at-a-time core recipe on the molecular assembler for the later run. The immediate priority is the single improved star for page 531.
+
+The bath consumed the ordinary star and exactly 2,000 mB radon. It finished at 384 EU/t for 1,920 ticks. At 79h17m one Improved Nether Star was in ME, set aside for the first tier-seven mainframe.
