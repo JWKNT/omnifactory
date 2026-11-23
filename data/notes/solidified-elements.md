@@ -9,3 +9,7 @@ At 83h45m the fluid terminal held 2,609 buckets of oxygen and 8,601 buckets of n
 The repeat miner has returned, releasing the reservation on MV hulls for the ship. Oxygen and nitrogen storage now exceed three and ten million mB respectively. The shop still has the ball mold and five Microcircuits. The caster tender now calls the existing MV pump workshop when an order is missing pump parts. Four chests can come from eight rubberwood logs at the crafting bench. The casting machine itself is still pending.
 
 At 95h50m the MV caster had received its last sixteen buckets for hydrogen. Argon is next. The air tower has banked 158 buckets. Page 630 asks for 64 solidified argon and pays a quarter. JEI gives one ball from a bucket at 16 EU/t with the existing mold. Even without more distillation, that charge leaves 94 buckets for boules and metallurgy. The smaller helium, neon, krypton and xenon reserves are staying in ME.
+
+At 95h57m page 613 had paid and all 64 solidified hydrogen were in ME.
+
+At 96h12m the caster delivered all 64 argon and page 630 paid a quarter. The next unlocked bounty with the largest reserve is neon at 55 buckets. A stack needs 64. Keep neon in fluid storage while the freezer is occupied cooling machine metals. The four finished gas stacks are in ME for future Omnium.

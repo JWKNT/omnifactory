@@ -31,3 +31,11 @@ The motor tender now has a commissioning test. With the active output import bus
 At 94h49m the player opened each spare input bus with its relay installed below it. The Laser Wrench connected x29 to x30, and both relays reported the same nonempty network. The next relay is mounted at x28. The cable for the dedicated output return has started from the fourth furnace branch.
 
 All eleven relays are linked. After the Item Interface was placed at (19,81,−19), its west item handler exposed eleven slots. The two end buses had also opened individually. The blocking ME Interface and the output import bus still need their cable runs and an actual motor delivery.
+
+At 95h57m the dedicated output import bus was installed at (32,82,−19), facing west. The east output bus was empty and all five completed motors were in ME. Motor six will test the return. The ingredient-side cable reaches (18,81,−19), where the blocking ME interface still needs installation.
+
+At 96h01m the sixth motor raised ME storage from five to six. The line output bus was empty after the cycle. No player collection was needed. An order for the ingredient-side ME interface has been accepted.
+
+The new ME Interface at (18,81,−19) faces east. The player enabled blocking mode and installed the motor pattern after checking that all four 64-wire stacks, both long HSS-G rods, both cables and the long magnet transferred correctly. The west face is reachable from the south-west deck near (16,80,−17).
+
+At 96h11m ME dispatched its first motor order. The line showed motor seven at tick 148 of 300, drawing 10,240 EU/t with no energy shortage. All eleven input buses had cleared. ME then held seven motors, up from six. This proves the ingredient relays, blocking interface, output import and the motor pattern together.

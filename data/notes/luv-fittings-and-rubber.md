@@ -23,3 +23,5 @@ At 95h02m program 5 had made the full 1,000 mB of butadiene and program 3 was ne
 The final 12,000 mB of cracked light fuel went through the distillery on program three. All 1,800 mB benzene returned to fluid ME. The bank now holds both hydrocarbon fractions for the first conveyor pair. Three steel rods became rings for the dedicated reactor.
 
 The corrected reactor site is (11,81,2), under a 512 V cable rated for four amps. The cable exposes an output on its lower face. The reactor can be placed against the furnace to the north and operated from the south aisle at (11,80,3). The furnace also has several clear approaches from its north. An HV hull, two wrapped gold cables, the rotor and six motors were verified. The two Advanced circuits are now the outstanding reactor parts.
+
+The six HV motors, hull and advanced circuits went into the foil mill first. The mill item is in storage. Rebuild the shared hull and circuits for the rubber reactor. The Processor Assembly recipe uses microcircuits and SMD parts at 360 EU/t, and two have already gone through this route.

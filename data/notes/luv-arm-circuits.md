@@ -7,3 +7,7 @@ At 95h30m storage had one basic processor and three upgrades. Including the circ
 Two engraved Power IC wafers are already available. The EV cutter takes 22 mB lubricant per wafer and gives four Power ICs. Four wafers cover the arrays. Keep the cutter supplied while the Assembly Line makes motors. The remaining Signalum wire shares furnace time with HSS-G and Lumium. Aluminium and stainless steel can move to the west furnace to clear time on the hotter coils.
 
 The two engraved wafers returned eight Power ICs to storage. The first cut ran at 768 EU/t for 39 ticks, and the Power IC processing pattern is now installed on the EV cutter. The same saw can cut a plain CPU wafer into eight chips with 22 mB lubricant, or a glowstone-doped boule into 32 wafers with 20 mB. The glass-lens engraving run produces sixteen CPU wafers from four doped wafers. Ten doped wafers remained at 95h40m.
+
+At 96h01m all sixteen Power ICs had reached ME. The laser can move to the glass lens for CPU wafers.
+
+At 96h09m the laser returned sixteen CPU wafers from four glowstone-doped wafers. Its blue topaz lens and Power IC pattern are back in place. ME then accepted a four-basic-Quantumprocessor job that included cutting a Nano CPU wafer.

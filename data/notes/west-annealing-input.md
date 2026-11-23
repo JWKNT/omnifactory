@@ -13,3 +13,7 @@ At 82h55m the new full ME interface occupied (0,80,5), reported network power an
 At 95h32m the 4,500 K furnace's input bus held seventeen aluminium dust and four stainless dust alongside the last HSS-G charge. Live recipes require only 1,500 K for aluminium and 1,700 K for stainless. Move their existing processing patterns to the 1,800 K west furnace during a gap in ME orders for those metals. The existing west return already carries cooled ingots to storage. HSS-G takes 1,125 ticks per ingot on the fourth furnace, which also handles the Lumium hull and the Signalum circuit wires.
 
 At 95h49m both original cards had moved from the fourth furnace to the west interface. During an ME order for seventeen aluminium plates, the west controller was making aluminium and the fourth controller was making hot HSS-G at the same time. The stainless card is installed. Its first delivery on this route still needs observation.
+
+The west controller subsequently ran stainless. Five ingots supplied five stainless plates. Both transferred patterns have now produced metal.
+
+A later manual furnace batch removed program one. A native wire order left sixteen copper ingots beside sixteen buckets of oxygen in an idle furnace. The winding tender now restores the missing circuit even with the copper already in the bus. The next observed cycle took 26 ticks at 1,920 EU/t and the resulting wire fed motor six.

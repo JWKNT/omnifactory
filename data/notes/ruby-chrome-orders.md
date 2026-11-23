@@ -7,3 +7,7 @@ Use one of the four open slots at the EV electrolyzer interface (17,82,−9) for
 The EV electrolyzer's interface now holds the ruby-to-chrome pattern. The first three crushed ruby also returned nine tiny chrome through the washer's existing item conduit. Those nine were packed into one dust and six iron dust were delivered for the stainless blend. The native electrolysis order will use the remaining washed ruby.
 
 The first native order delivered six Chrome Dust to ME. The repeat miner already had its stainless chest when this delivery was measured.
+
+The chemistry power supply and rubber reactor each need an HV hull. The washer and electrolyzer can use the same ruby ore twice for chrome, first from washing coproducts and then from the ruby dust. When less than one electrolysis batch remains across storage and the machines have cleared their ruby, buy 32 ore for four nickels. This also replaces aluminium used by interfaces.
+
+The five remaining raw ruby entered the HV mill. The first of three outstanding HV hulls has been made. The hull tender now counts the rubber reactor, shared converter and HSS-G extruder when ordering the next stainless plates.
