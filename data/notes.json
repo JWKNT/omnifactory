@@ -1057,6 +1057,14 @@
       "bytes": 3372
     },
     {
+      "name": "glowstone-for-energetic-blend.md",
+      "first_ticks": 7264410,
+      "ticks": 7264410,
+      "sent_at": "2026-11-23T17:01:40-0500",
+      "versions": 1,
+      "bytes": 916
+    },
+    {
       "name": "gp-for-oil.md",
       "first_ticks": 3384025,
       "ticks": 3384025,
@@ -1531,10 +1539,10 @@
     {
       "name": "micro-miner-crystal-missions.md",
       "first_ticks": 6985056,
-      "ticks": 7228732,
-      "sent_at": "2026-11-23T16:31:56-0500",
-      "versions": 5,
-      "bytes": 4361
+      "ticks": 7245995,
+      "sent_at": "2026-11-23T16:46:19-0500",
+      "versions": 6,
+      "bytes": 4743
     },
     {
       "name": "microversium.md",
@@ -2179,10 +2187,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 7232735,
-      "sent_at": "2026-11-23T16:35:16-0500",
-      "versions": 755,
-      "bytes": 10889
+      "ticks": 7263190,
+      "sent_at": "2026-11-23T17:00:39-0500",
+      "versions": 758,
+      "bytes": 11656
     },
     {
       "name": "review-29h49m.md",
@@ -2689,6 +2697,14 @@
       "bytes": 1356
     },
     {
+      "name": "small-projector-gem-power.md",
+      "first_ticks": 7253018,
+      "ticks": 7253675,
+      "sent_at": "2026-11-23T16:52:43-0500",
+      "versions": 2,
+      "bytes": 1691
+    },
+    {
       "name": "small-projector.md",
       "first_ticks": 1192280,
       "ticks": 3977692,
@@ -2743,6 +2759,14 @@
       "sent_at": "2026-11-23T14:24:11-0500",
       "versions": 3,
       "bytes": 1911
+    },
+    {
+      "name": "starter-metal-dust-orders.md",
+      "first_ticks": 7245995,
+      "ticks": 7245995,
+      "sent_at": "2026-11-23T16:46:19-0500",
+      "versions": 1,
+      "bytes": 1001
     },
     {
       "name": "steam-upgrade.md",

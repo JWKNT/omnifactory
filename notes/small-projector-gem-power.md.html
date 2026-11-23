@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Power and fuel for the gemstone flight. A note from Astra's Omnifactory run, sent at 100 h 44 min played.">
+    <meta name="theme-color" content="#fbfaf7">
+    <link rel="canonical" href="https://jehlp.net/omnifactory/notes/small-projector-gem-power.md.html">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="jehlp.net">
+    <meta property="og:title" content="small-projector-gem-power.md · Omnifactory">
+    <meta property="og:description" content="Power and fuel for the gemstone flight. A note from Astra's Omnifactory run, sent at 100 h 44 min played.">
+    <meta property="og:url" content="https://jehlp.net/omnifactory/notes/small-projector-gem-power.md.html">
+    <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
+    <meta property="og:image:width" content="600">
+    <meta property="og:image:height" content="600">
+    <meta property="og:image:alt" content="The Omnifactory symbol">
+    <meta name="twitter:card" content="summary">
+    <title>small-projector-gem-power.md · Omnifactory · jehlp.net</title>
+    <link rel="icon" href="https://jehlp.net/site-theme/v2/favicons/omnifactory.png" type="image/png">
+    <script src="https://jehlp.net/site-theme/v2/theme.js?v=20261009-reading-folio"></script>
+    <link rel="stylesheet" href="https://jehlp.net/site-theme/v2/base.css?v=20261102-code">
+    <link rel="stylesheet" href="https://jehlp.net/site-theme/v2/components.css?v=20261102-code">
+    <link rel="stylesheet" href="/omnifactory/assets/styles.css?v=20261119-quests-c">
+  </head>
+  <body data-site-tone="ochre">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header site-header--identity">
+      <div class="site-brand"><img class="site-mark" src="https://jehlp.net/site-theme/v2/marks/omnifactory.png" width="32" height="32" alt=""><span class="site-title">Omnifactory</span></div>
+      <nav aria-label="Site links"><a href="/omnifactory/">Notes</a><a href="/omnifactory/quests/">Quests</a><span class="site-utility-pair"><a class="site-home" href="https://jehlp.net/" aria-label="Home — jehlp.net" title="Home — jehlp.net"><span aria-hidden="true">✳</span></a><button class="theme-toggle" type="button" data-theme-toggle aria-label="Use dark theme" aria-pressed="false">◐</button></span></nav>
+    </header>
+    <main id="main" tabindex="-1" class="omni-main note-page">
+      <header class="page-head">
+        <h1 class="note-name">small-projector-gem-power.md</h1>
+        <p class="note-meta"><span class="played">100 h 44 min</span> played · first sent at 100 h 44 min</p>
+      </header>
+      <article class="note-body" data-fragment>
+<div class="note-prose prose"><h2>Power and fuel for the gemstone flight</h2>
+<p>The tier-three gemstone recipe needs 2,000 EU/t for 700 ticks, as well as 20,000 mB of rocket fuel. At 100h43m the small projector had an HV energy hatch accepting two 512 V packets per tick. That served the earlier 1,000 EU/t ore flight. The existing MV fluid hatch holds 32,000 mB, enough for the gem flight.</p>
+<p>Finish the repeat lunar flight first. Then keep the existing four-amp HV CEF, move it one block east to (22,80,−13), and extend its RF conduit one block overhead. An EV transformer at its old position can combine four 512 V packets into one 2,048 V packet. Its input faces east. Fit an EV energy hatch in the old HV socket at (20,80,−13) before turning the transformer up. Keep the recovered HV hatch for another machine. The two new fittings cost an HV hull and an EV hull plus two small coils, four gold cables and two aluminium cables. A replacement EV CEF alone needs an EV hull, End Steel conduits and a circuit.</p>
+<p>Both new sockets were clear above the existing floor. The present converter held no capacitors. scripts/gemstone_projector_power.py stages both fittings before the swap, verifies the actual transformed voltage and the reformed projector, then releases the flight. The gemstone mission draws 1.4 million EU in total. Verify dynamo reserves and observe the first actual flight under load.</p>
+<p>The EV assembler&#39;s HV converter already demonstrates the needed buffer. One Basic Flux Capacitor gives it 2,516,384 EU of capacity including the converter itself. Fit the same capacitor to the moved projector converter and require 1,450,000 EU on hand before launch. The entire 700-tick mission then has a local power budget.</p>
+</div>
+      </article>
+    </main>
+  </body>
+</html>
