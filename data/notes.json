@@ -595,10 +595,10 @@
     {
       "name": "ev-cable-coverings.md",
       "first_ticks": 2772307,
-      "ticks": 5752357,
-      "sent_at": "2026-11-22T20:01:37-0500",
-      "versions": 26,
-      "bytes": 14609
+      "ticks": 5758851,
+      "sent_at": "2026-11-22T20:07:02-0500",
+      "versions": 27,
+      "bytes": 14993
     },
     {
       "name": "ev-motor-magnets.md",
@@ -977,6 +977,14 @@
       "bytes": 1476
     },
     {
+      "name": "hssg-coil-order.md",
+      "first_ticks": 5754936,
+      "ticks": 5754936,
+      "sent_at": "2026-11-22T20:03:46-0500",
+      "versions": 1,
+      "bytes": 1392
+    },
+    {
       "name": "hssg-frames.md",
       "first_ticks": 5656986,
       "ticks": 5733662,
@@ -1087,6 +1095,14 @@
       "sent_at": "2026-11-22T16:40:47-0500",
       "versions": 1,
       "bytes": 1347
+    },
+    {
+      "name": "iv-cpu-wafer-laser.md",
+      "first_ticks": 5775705,
+      "ticks": 5775705,
+      "sent_at": "2026-11-22T20:21:05-0500",
+      "versions": 1,
+      "bytes": 1473
     },
     {
       "name": "iv-metal-bill.md",
@@ -1811,10 +1827,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 5745257,
-      "sent_at": "2026-11-22T19:55:42-0500",
-      "versions": 612,
-      "bytes": 23224
+      "ticks": 5758851,
+      "sent_at": "2026-11-22T20:07:02-0500",
+      "versions": 613,
+      "bytes": 23538
     },
     {
       "name": "review-29h49m.md",
@@ -2297,6 +2313,14 @@
       "bytes": 4327
     },
     {
+      "name": "steel-stock-crafting.md",
+      "first_ticks": 5771259,
+      "ticks": 5771259,
+      "sent_at": "2026-11-22T20:17:22-0500",
+      "versions": 1,
+      "bytes": 1051
+    },
+    {
       "name": "steel.md",
       "first_ticks": 77311,
       "ticks": 80356,
@@ -2535,6 +2559,14 @@
       "sent_at": "2026-11-21T01:13:28-0500",
       "versions": 3,
       "bytes": 3111
+    },
+    {
+      "name": "west-annealing-return.md",
+      "first_ticks": 5764774,
+      "ticks": 5764774,
+      "sent_at": "2026-11-22T20:11:58-0500",
+      "versions": 1,
+      "bytes": 1036
     },
     {
       "name": "west-freezer-access.md",

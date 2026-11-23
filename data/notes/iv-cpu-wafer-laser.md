@@ -1,0 +1,7 @@
+# Four CPU wafers per doped wafer
+
+The IV assembler returned one upgraded Quantum Processor and four fresh base Quantumprocessors. The next upgrades need more QBit CPUs and multilayer boards. ME has 22 glowstone-doped wafers, one Glass Lens and no plain silicon wafers. The MV laser makes one CPU wafer from plain silicon at 120 EU/t. The HV recipe makes four from one glowstone-doped wafer at 480 EU/t in 500 ticks. The EV recipe gives sixteen from a naquadah-doped wafer, which the factory cannot yet supply. Both the Nano CPU and QBit CPU routes start with these CPU wafers.
+
+Run four doped wafers through the existing HV laser for sixteen CPU wafers. There are 28 Power ICs and two more Power IC wafers in storage. Check the ME crafting monitor, withdraw the existing Power IC processing pattern to the player's inventory, and change the lens only after the earlier work has cleared. Verify actual CPU wafers coming back into ME, then put the original blue lens and pattern back. The circuit workshop can run the carbon-fiber autoclave, the wafer reactor and the saw between visits to the laser.
+
+For a permanent glass-lens machine the inspected socket (12,85,1) stands above a powered twofold gold cable. A south-facing output and interface at (12,85,2) can reach the active ME conduit directly below. Build the second laser when the HV emitter and two pistons are affordable. The two machines must keep their own lens and pattern, since the input wafer is identical.
