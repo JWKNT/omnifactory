@@ -507,18 +507,18 @@
     {
       "name": "crystal-mission-consumables.md",
       "first_ticks": 7002417,
-      "ticks": 7069274,
-      "sent_at": "2026-11-23T14:19:03-0500",
-      "versions": 3,
-      "bytes": 2556
+      "ticks": 7232735,
+      "sent_at": "2026-11-23T16:35:16-0500",
+      "versions": 4,
+      "bytes": 3164
     },
     {
       "name": "crystal-workshop-power.md",
       "first_ticks": 6956890,
-      "ticks": 7132784,
-      "sent_at": "2026-11-23T15:11:59-0500",
-      "versions": 2,
-      "bytes": 2956
+      "ticks": 7232735,
+      "sent_at": "2026-11-23T16:35:16-0500",
+      "versions": 3,
+      "bytes": 3253
     },
     {
       "name": "deuterium.md",
@@ -1491,10 +1491,10 @@
     {
       "name": "medium-projector-shell.md",
       "first_ticks": 7086569,
-      "ticks": 7194933,
-      "sent_at": "2026-11-23T16:03:46-0500",
-      "versions": 7,
-      "bytes": 5062
+      "ticks": 7223836,
+      "sent_at": "2026-11-23T16:27:51-0500",
+      "versions": 8,
+      "bytes": 5401
     },
     {
       "name": "metal-models.md",
@@ -1531,10 +1531,10 @@
     {
       "name": "micro-miner-crystal-missions.md",
       "first_ticks": 6985056,
-      "ticks": 7206724,
-      "sent_at": "2026-11-23T16:13:36-0500",
-      "versions": 4,
-      "bytes": 4078
+      "ticks": 7228732,
+      "sent_at": "2026-11-23T16:31:56-0500",
+      "versions": 5,
+      "bytes": 4361
     },
     {
       "name": "microversium.md",
@@ -2179,10 +2179,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 7216548,
-      "sent_at": "2026-11-23T16:21:47-0500",
-      "versions": 753,
-      "bytes": 10754
+      "ticks": 7232735,
+      "sent_at": "2026-11-23T16:35:16-0500",
+      "versions": 755,
+      "bytes": 10889
     },
     {
       "name": "review-29h49m.md",
