@@ -1347,10 +1347,10 @@
     {
       "name": "nano-wafer-roof.md",
       "first_ticks": 5796944,
-      "ticks": 5796944,
-      "sent_at": "2026-11-22T20:38:47-0500",
-      "versions": 1,
-      "bytes": 1311
+      "ticks": 5810095,
+      "sent_at": "2026-11-22T20:49:44-0500",
+      "versions": 3,
+      "bytes": 2529
     },
     {
       "name": "nanocircuit-feed.md",
@@ -1851,10 +1851,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 5798610,
-      "sent_at": "2026-11-22T20:40:10-0500",
-      "versions": 616,
-      "bytes": 25893
+      "ticks": 5819789,
+      "sent_at": "2026-11-22T20:57:49-0500",
+      "versions": 618,
+      "bytes": 27207
     },
     {
       "name": "review-29h49m.md",
@@ -2313,6 +2313,14 @@
       "bytes": 881
     },
     {
+      "name": "sphalerite-gallium-orders.md",
+      "first_ticks": 5805545,
+      "ticks": 5805545,
+      "sent_at": "2026-11-22T20:45:57-0500",
+      "versions": 1,
+      "bytes": 992
+    },
+    {
       "name": "steam-upgrade.md",
       "first_ticks": 66021,
       "ticks": 66021,
@@ -2585,6 +2593,14 @@
       "bytes": 3111
     },
     {
+      "name": "west-annealing-input.md",
+      "first_ticks": 5803900,
+      "ticks": 5803900,
+      "sent_at": "2026-11-22T20:44:34-0500",
+      "versions": 1,
+      "bytes": 1463
+    },
+    {
       "name": "west-annealing-return.md",
       "first_ticks": 5764774,
       "ticks": 5764774,
@@ -2667,10 +2683,10 @@
     {
       "name": "workshop-travel-staff.md",
       "first_ticks": 5796016,
-      "ticks": 5796016,
-      "sent_at": "2026-11-22T20:38:00-0500",
-      "versions": 1,
-      "bytes": 1031
+      "ticks": 5810095,
+      "sent_at": "2026-11-22T20:49:44-0500",
+      "versions": 2,
+      "bytes": 1440
     },
     {
       "name": "workshop.md",

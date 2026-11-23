@@ -1,0 +1,7 @@
+# Feed the west blast furnace from ME
+
+The west LV input bus at (0,80,6) has four slots, and the west face is the established manual access. Its northern neighbor at (0,80,5) is ordinary cobblestone. A full ME Interface can replace that block and preserve the footprint of the stair above it. The remaining neighbors are a fluid hatch, controller, coil and the deck. Keep the west face open for commissioning and any later program changes.
+
+The nearest verified fluix cable is at (3,82,5). Place one glass cable immediately west at (2,82,5). Add ME conduits to the existing fluid bundles at (1,82,5), (1,81,5) and (1,80,5). All three bundle inspections found no ME conduit yet. The last bundle would directly power the interface at (0,80,5). Face it south into the bus. Preserve the oxygen pipe in all three bundles and test oxygen still reaches the hatch after adding the ME connection.
+
+Commission the [automatic cold return](west-annealing-return.md) first. For annealing, leave program 1 in one slot of the input bus. The pattern consumes one copper ingot and returns one annealed copper ingot. The oxygen hatch supplies 1,000 mB per craft. One motor needs 32 copper, and the controller, shells and arms together need 47 motors. The neodymium dust recipe uses no circuit or oxygen, so it can share the furnace. Update the old batch routine that recovers its circuit on idle, and test a native order while another crafting CPU makes a winding from its result.
