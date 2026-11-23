@@ -17,3 +17,5 @@ All 22 cold cuprate ingots reached storage by 90h47m. Each gives two single wire
 The MV mill and program-24 wrapper made the first twelve insulated LuV cables. Only two initially reached storage. The other ten were in the ore washer input. The player retrieved the ten and returned them to ME; the twelve-cable CPU order cleared. The washer inlet is being fitted with a two-ore whitelist before resuming unrestricted cable production.
 
 The south filter on the ore washer now whitelists the exact crushed galena and sphalerite metadata. Seven crushed galena entered. The next twelve insulated YBCO cables reached storage, bringing the count to 36 of 44. Eight more cables are needed.
+
+At 91h43m storage held all 44 insulated YBCO cables for the LuV bill. The last seven came through one native order. The washer whitelist let them through to ME.

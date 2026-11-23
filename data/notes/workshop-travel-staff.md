@@ -7,3 +7,5 @@ The workshop has one dark steel ingot, one vibrant alloy ingot, and 31 more emer
 At 80h40m the MV lathe returned both dark steel rods and the MV crystal autoclave returned the Vibrant Crystal. The staff accepted 10,000 FE from the removable MV capacitor. The capacitor went back into its converter, the quest book paid the OmniNickel on page 213, and one Staff of Traveling is in ME. Page 219 for Travel Anchors is open. Keep the staff available for use when the anchor pair is installed.
 
 At 90h07m the player crafted the Travel Anchor from four Dark Steel Plates, four Vibrant Alloy Plates and one Pulsating Crystal. Page 219 paid its OmniNickel. The anchor is installed at (18,80,−18) on the north Assembly Line deck, within sight of the new work area.
+
+The trip from the terminal to the EV cutter sometimes detours onto the pyrolyse oven ledge at (8,81,−11). Try the charged staff from the terminal before the next north-deck service trip. Aim at the installed anchor, wait for its selection outline and right-click. Check the arrival coordinates before relying on it. The remaining walk from the anchor to the north machines is on the open deck.

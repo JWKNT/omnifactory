@@ -19,3 +19,5 @@ At 90h08m the multi-smelter had returned twelve cobalt brass ingots. Four went i
 The HV assembler turned the finished gear and one diamond dust into a Diamond Sawblade. One EV motor is also ready. The cutter still needs the EV hull, conveyor and aluminium cables. If the hull is waiting on titanium, use the established titanium reactor, north furnace and freezer route.
 
 The EV saw at (18,83,−9) accepted its first bucket of lubricant and returned seven Nano CPUs from one Nano CPU Wafer. It has 978 mB remaining after that cut. The west face is set for output and accepts input. Verify automatic item output, both encoded cuts, and the five-QBit EV cycle independently.
+
+The EV saw completed all three QBit wafers. Each yielded five QBits in 39 ticks at 768 EU/t. The charge consumed 66 mB lubricant in total. Fifteen QBits reached storage, and eight basic quantum processors were ordered. The saw now has its full ME Interface on the west side. Verify its automatic return and the two encoded patterns next.

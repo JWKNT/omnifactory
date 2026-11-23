@@ -107,10 +107,10 @@
     {
       "name": "assembly-casing-orders.md",
       "first_ticks": 6296766,
-      "ticks": 6584852,
-      "sent_at": "2026-11-23T07:35:22-0500",
-      "versions": 7,
-      "bytes": 5355
+      "ticks": 6604587,
+      "sent_at": "2026-11-23T07:51:49-0500",
+      "versions": 8,
+      "bytes": 5835
     },
     {
       "name": "assembly-gold.md",
@@ -131,10 +131,10 @@
     {
       "name": "assembly-line-item-relays.md",
       "first_ticks": 5714954,
-      "ticks": 5714954,
-      "sent_at": "2026-11-22T19:30:27-0500",
-      "versions": 1,
-      "bytes": 1751
+      "ticks": 6615988,
+      "sent_at": "2026-11-23T08:01:19-0500",
+      "versions": 2,
+      "bytes": 2450
     },
     {
       "name": "assembly-line-materials.md",
@@ -163,10 +163,10 @@
     {
       "name": "assembly-silver.md",
       "first_ticks": 5902439,
-      "ticks": 6469437,
-      "sent_at": "2026-11-23T05:59:11-0500",
-      "versions": 4,
-      "bytes": 2425
+      "ticks": 6608965,
+      "sent_at": "2026-11-23T07:55:28-0500",
+      "versions": 5,
+      "bytes": 2952
     },
     {
       "name": "assembly-workshop-shift.md",
@@ -187,10 +187,10 @@
     {
       "name": "barium-for-superconductors.md",
       "first_ticks": 4900510,
-      "ticks": 6584852,
-      "sent_at": "2026-11-23T07:35:22-0500",
-      "versions": 9,
-      "bytes": 4049
+      "ticks": 6604587,
+      "sent_at": "2026-11-23T07:51:49-0500",
+      "versions": 10,
+      "bytes": 4211
     },
     {
       "name": "bauxite-line.md",
@@ -859,10 +859,10 @@
     {
       "name": "first-quantum-mainframe.md",
       "first_ticks": 6249150,
-      "ticks": 6585513,
-      "sent_at": "2026-11-23T07:35:55-0500",
-      "versions": 4,
-      "bytes": 3086
+      "ticks": 6605841,
+      "sent_at": "2026-11-23T07:52:51-0500",
+      "versions": 7,
+      "bytes": 4434
     },
     {
       "name": "first-stainless.md",
@@ -1139,10 +1139,10 @@
     {
       "name": "indium-leach-bay.md",
       "first_ticks": 6306719,
-      "ticks": 6584852,
-      "sent_at": "2026-11-23T07:35:22-0500",
-      "versions": 16,
-      "bytes": 7861
+      "ticks": 6604587,
+      "sent_at": "2026-11-23T07:51:49-0500",
+      "versions": 17,
+      "bytes": 8109
     },
     {
       "name": "inscriber.md",
@@ -1275,10 +1275,10 @@
     {
       "name": "logic-processor-orders.md",
       "first_ticks": 5942332,
-      "ticks": 6588715,
-      "sent_at": "2026-11-23T07:38:35-0500",
-      "versions": 7,
-      "bytes": 3835
+      "ticks": 6604587,
+      "sent_at": "2026-11-23T07:51:49-0500",
+      "versions": 8,
+      "bytes": 4095
     },
     {
       "name": "loot-fabricator.md",
@@ -1291,10 +1291,10 @@
     {
       "name": "lubricant-and-wafer-cutting.md",
       "first_ticks": 6355926,
-      "ticks": 6584852,
-      "sent_at": "2026-11-23T07:35:22-0500",
-      "versions": 8,
-      "bytes": 3986
+      "ticks": 6604587,
+      "sent_at": "2026-11-23T07:51:49-0500",
+      "versions": 9,
+      "bytes": 4325
     },
     {
       "name": "lumium-and-mana.md",
@@ -2027,10 +2027,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 6584852,
-      "sent_at": "2026-11-23T07:35:22-0500",
-      "versions": 692,
-      "bytes": 4885
+      "ticks": 6604587,
+      "sent_at": "2026-11-23T07:51:49-0500",
+      "versions": 693,
+      "bytes": 5052
     },
     {
       "name": "review-29h49m.md",
@@ -2947,10 +2947,10 @@
     {
       "name": "workshop-travel-staff.md",
       "first_ticks": 5796016,
-      "ticks": 6489191,
-      "sent_at": "2026-11-23T06:15:39-0500",
-      "versions": 3,
-      "bytes": 1709
+      "ticks": 6603208,
+      "sent_at": "2026-11-23T07:50:40-0500",
+      "versions": 4,
+      "bytes": 2106
     },
     {
       "name": "workshop.md",
