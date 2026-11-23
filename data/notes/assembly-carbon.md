@@ -1,0 +1,5 @@
+# Carbon for steel and processor wafers
+
+At 80h23m there was no coal or coal dust in ME. Nine carbon dust remained for the fiber autoclave, while steel and titanium also consumed carbon. The fluid terminal showed 148,000 mB carbon dioxide. JEI gives one carbon dust and 2,000 mB oxygen per 1,000 mB CO₂ at 30 EU/t for 168 ticks before overclocking. This uses a refinery by-product. Electrolyzing graphite dust yields four carbon per dust, but the sixteen stored graphite ingots are useful for other recipes. The coal route also takes two machines.
+
+Use the idle MV electrolyzer at (6,82,1) for one portable tank at a time. Collect the carbon and return any accumulated oxygen to the fluid network. Stop feeding at 32 carbon on hand or when less than 32 buckets of CO₂ remain before a withdrawal. The salt separator and EV radon machine have their own jobs. Verify the first 16-carbon return before fitting a permanent fluid export bus. The autoclave at (13,84,0) accepted the first nine carbon from the northeast floor aisle. Its backup access is the top of the lathe to its east.

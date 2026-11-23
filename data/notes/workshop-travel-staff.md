@@ -1,0 +1,5 @@
+# A Staff of Traveling for the machine roofs
+
+The floor aisle can serve the nano machines, but moving from one roof to another has already drained a jetpack charge. Page 213 describes a rechargeable short teleport through walls and aimed travel to anchors. It pays one OmniNickel. The staff needs one Vibrant Crystal and two Dark Steel Rods. The MV lathe turns one Dark Steel Ingot into both rods. The existing paired crystal extractor and autoclave can melt one Vibrant Alloy Ingot and grow the crystal from one emerald and 144 mB alloy. This recipe uses the crystal machines after their pulsating-iron and deuterium work has cleared. Keep one emerald or its plate for the west furnace filter. The second emerald can come from the same purchased ore stack.
+
+The workshop has one dark steel ingot, one vibrant alloy ingot, and 31 more emerald ore. Build the staff first, then check its RF and range on the open floor before trying a machine roof. A future anchor on the Assembly Line deck would give the staff a fixed destination.

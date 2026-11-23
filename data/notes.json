@@ -97,6 +97,14 @@
       "bytes": 2346
     },
     {
+      "name": "assembly-carbon.md",
+      "first_ticks": 5788434,
+      "ticks": 5788434,
+      "sent_at": "2026-11-22T20:31:41-0500",
+      "versions": 1,
+      "bytes": 1085
+    },
+    {
       "name": "assembly-line-item-relays.md",
       "first_ticks": 5714954,
       "ticks": 5714954,
@@ -123,10 +131,10 @@
     {
       "name": "assembly-motor-magnets.md",
       "first_ticks": 5724249,
-      "ticks": 5724249,
-      "sent_at": "2026-11-22T19:38:12-0500",
-      "versions": 1,
-      "bytes": 1112
+      "ticks": 5782147,
+      "sent_at": "2026-11-22T20:26:27-0500",
+      "versions": 2,
+      "bytes": 1527
     },
     {
       "name": "assembly-workshop-shift.md",
@@ -1099,10 +1107,10 @@
     {
       "name": "iv-cpu-wafer-laser.md",
       "first_ticks": 5775705,
-      "ticks": 5775705,
-      "sent_at": "2026-11-22T20:21:05-0500",
-      "versions": 1,
-      "bytes": 1473
+      "ticks": 5785706,
+      "sent_at": "2026-11-22T20:29:25-0500",
+      "versions": 2,
+      "bytes": 1903
     },
     {
       "name": "iv-metal-bill.md",
@@ -1335,6 +1343,14 @@
       "sent_at": "2026-11-19T23:19:17-0500",
       "versions": 13,
       "bytes": 7342
+    },
+    {
+      "name": "nano-wafer-roof.md",
+      "first_ticks": 5796944,
+      "ticks": 5796944,
+      "sent_at": "2026-11-22T20:38:47-0500",
+      "versions": 1,
+      "bytes": 1311
     },
     {
       "name": "nanocircuit-feed.md",
@@ -1729,6 +1745,14 @@
       "bytes": 2682
     },
     {
+      "name": "quantum-wafer-feed.md",
+      "first_ticks": 5784869,
+      "ticks": 5784869,
+      "sent_at": "2026-11-22T20:28:43-0500",
+      "versions": 1,
+      "bytes": 1733
+    },
+    {
       "name": "quarry-drum.md",
       "first_ticks": 452849,
       "ticks": 452849,
@@ -1827,10 +1851,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 5758851,
-      "sent_at": "2026-11-22T20:07:02-0500",
-      "versions": 613,
-      "bytes": 23538
+      "ticks": 5798610,
+      "sent_at": "2026-11-22T20:40:10-0500",
+      "versions": 616,
+      "bytes": 25893
     },
     {
       "name": "review-29h49m.md",
@@ -2639,6 +2663,14 @@
       "sent_at": "2026-11-21T20:13:06-0500",
       "versions": 5,
       "bytes": 2322
+    },
+    {
+      "name": "workshop-travel-staff.md",
+      "first_ticks": 5796016,
+      "ticks": 5796016,
+      "sent_at": "2026-11-22T20:38:00-0500",
+      "versions": 1,
+      "bytes": 1031
     },
     {
       "name": "workshop.md",
