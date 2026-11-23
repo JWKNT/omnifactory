@@ -1,0 +1,7 @@
+# Materials for the medium projector
+
+Page 407 pays one quarter after detecting the medium controller and its loose parts. Keep the small projector for the gemstone mission. The new machine needs 54 loose casings plus four for its controller and one for each of its four vents. Those 62 casings take 248 Microversium, 248 steel, 248 Energetic Blend and 12,400 mB of deuterium from scratch. At 98h24m two ingots were in ME, 40 mB of deuterium was in the west furnace hatch and 54 Moon Turf remained from the first flight.
+
+Mill the turf and centrifuge the dust in the HV ore machines. Each turf funds 100 mB, enough for two ingots. The centrifuge already has a fluid import bus. Use scripts/medium_projector_feed.py to work in lots while the arm circuits finish. The remaining deuterium can come from additional lunar cargo. The hydrogen recipe costs 50 buckets per bucket of deuterium. One rover mission returns 48 buckets, but needs the Lunar Mining Station from page 412.
+
+The 26 space blocks in the quest all count as diamond variants. Budget 234 diamonds and chisel the blocks to one color. The actual multiblock matcher accepts up to two matching iron and four matching gold variants, but the quest ore dictionary contains only the two diamond variants. The quest stock can supply the finished structure. Four dark Ineffable Glass remained from the small projector. Four eight-glass crafts cover the other 32 using 32 thickened glass, 32 lunar reactive dust and four diamonds. Keep generator fuel available when accumulating the construction diamonds.

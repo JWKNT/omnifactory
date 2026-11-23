@@ -1363,10 +1363,10 @@
     {
       "name": "lumium-and-mana.md",
       "first_ticks": 4639804,
-      "ticks": 6830856,
-      "sent_at": "2026-11-23T11:00:22-0500",
-      "versions": 9,
-      "bytes": 5977
+      "ticks": 7078344,
+      "sent_at": "2026-11-23T14:26:37-0500",
+      "versions": 10,
+      "bytes": 6347
     },
     {
       "name": "luv-arm-circuits.md",
@@ -1471,6 +1471,14 @@
       "sent_at": "2026-11-20T00:40:35-0500",
       "versions": 2,
       "bytes": 1594
+    },
+    {
+      "name": "medium-projector-shell.md",
+      "first_ticks": 7086569,
+      "ticks": 7086569,
+      "sent_at": "2026-11-23T14:33:28-0500",
+      "versions": 1,
+      "bytes": 1557
     },
     {
       "name": "metal-models.md",
@@ -2147,10 +2155,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 7059445,
-      "sent_at": "2026-11-23T14:10:52-0500",
-      "versions": 743,
-      "bytes": 10501
+      "ticks": 7092800,
+      "sent_at": "2026-11-23T14:38:39-0500",
+      "versions": 745,
+      "bytes": 10873
     },
     {
       "name": "review-29h49m.md",
@@ -2699,10 +2707,10 @@
     {
       "name": "sphalerite-gallium-orders.md",
       "first_ticks": 5805545,
-      "ticks": 6479146,
-      "sent_at": "2026-11-23T06:07:17-0500",
-      "versions": 2,
-      "bytes": 1255
+      "ticks": 7075435,
+      "sent_at": "2026-11-23T14:24:11-0500",
+      "versions": 3,
+      "bytes": 1911
     },
     {
       "name": "steam-upgrade.md",
