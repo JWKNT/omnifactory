@@ -769,6 +769,14 @@
       "bytes": 1552
     },
     {
+      "name": "extraterrestrial-models.md",
+      "first_ticks": 7379541,
+      "ticks": 7379541,
+      "sent_at": "2026-11-23T18:37:36-0500",
+      "versions": 1,
+      "bytes": 1133
+    },
+    {
       "name": "extruder-power.md",
       "first_ticks": 1889623,
       "ticks": 2066097,
@@ -1507,10 +1515,10 @@
     {
       "name": "medium-projector-shell.md",
       "first_ticks": 7086569,
-      "ticks": 7306371,
-      "sent_at": "2026-11-23T17:36:38-0500",
-      "versions": 9,
-      "bytes": 6093
+      "ticks": 7374324,
+      "sent_at": "2026-11-23T18:33:16-0500",
+      "versions": 11,
+      "bytes": 7309
     },
     {
       "name": "metal-models.md",
@@ -2195,10 +2203,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 7350134,
-      "sent_at": "2026-11-23T18:13:06-0500",
-      "versions": 763,
-      "bytes": 12110
+      "ticks": 7381468,
+      "sent_at": "2026-11-23T18:39:13-0500",
+      "versions": 766,
+      "bytes": 12402
     },
     {
       "name": "review-101h06m.md",
@@ -2579,10 +2587,10 @@
     {
       "name": "second-lapidary.md",
       "first_ticks": 4444905,
-      "ticks": 7216548,
-      "sent_at": "2026-11-23T16:21:47-0500",
-      "versions": 13,
-      "bytes": 8825
+      "ticks": 7381466,
+      "sent_at": "2026-11-23T18:39:13-0500",
+      "versions": 14,
+      "bytes": 9130
     },
     {
       "name": "second-miner-cargo.md",
