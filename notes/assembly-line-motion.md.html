@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="The motors and circuits inside the Assembly Line">
+    <meta name="theme-color" content="#fbfaf7">
+    <link rel="canonical" href="https://jehlp.net/omnifactory/notes/assembly-line-motion.md.html">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="jehlp.net">
+    <meta property="og:title" content="assembly-line-motion.md · Omnifactory">
+    <meta property="og:description" content="The motors and circuits inside the Assembly Line">
+    <meta property="og:url" content="https://jehlp.net/omnifactory/notes/assembly-line-motion.md.html">
+    <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
+    <meta property="og:image:width" content="600">
+    <meta property="og:image:height" content="600">
+    <meta property="og:image:alt" content="The Omnifactory symbol">
+    <meta name="twitter:card" content="summary">
+    <title>assembly-line-motion.md · Omnifactory · jehlp.net</title>
+    <link rel="icon" href="https://jehlp.net/site-theme/v2/favicons/omnifactory.png" type="image/png">
+    <script src="https://jehlp.net/site-theme/v2/theme.js?v=20261009-reading-folio"></script>
+    <link rel="stylesheet" href="https://jehlp.net/site-theme/v2/base.css?v=20261102-code">
+    <link rel="stylesheet" href="https://jehlp.net/site-theme/v2/components.css?v=20261102-code">
+    <link rel="stylesheet" href="/omnifactory/assets/styles.css?v=20261119-quests-c">
+  </head>
+  <body data-site-tone="ochre">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header site-header--identity">
+      <div class="site-brand"><img class="site-mark" src="https://jehlp.net/site-theme/v2/marks/omnifactory.png" width="32" height="32" alt=""><span class="site-title">Omnifactory</span></div>
+      <nav aria-label="Site links"><a href="/omnifactory/">Notes</a><a href="/omnifactory/quests/">Quests</a><span class="site-utility-pair"><a class="site-home" href="https://jehlp.net/" aria-label="Home — jehlp.net" title="Home — jehlp.net"><span aria-hidden="true">✳</span></a><button class="theme-toggle" type="button" data-theme-toggle aria-label="Use dark theme" aria-pressed="false">◐</button></span></nav>
+    </header>
+    <main id="main" tabindex="-1" class="omni-main note-page">
+      <header class="page-head">
+        <h1 class="note-name">assembly-line-motion.md</h1>
+        <p class="note-meta"><span class="played">78 h 52 min</span> played · first sent at 78 h 42 min</p>
+      </header>
+      <article class="note-body" data-fragment>
+<div class="note-prose prose"><h2>The motors and circuits inside the Assembly Line</h2>
+<p>The twelve assembly line casings cost six recipe runs, each with two IV robot arms. The controller takes two more arms and four assembler machine casings. Count those four in addition to the eleven casings the quest wants loose. Five batches of three assembler casings cover all fifteen. They consume five IV motors, five tungstensteel frames and 35 elite circuits. The controller itself needs two further elite circuits, an IV hull and the fourteen arms already counted. Each arm embeds two IV motors, one piston containing a third motor, and a further elite circuit. That brings this section to 47 IV motors and 51 elite circuits. Keep the two tier-six arrays for page 531 separate.</p>
+<p>Forty-seven motors use 188 sixteenfold annealed copper windings, equivalent to 1,504 annealed copper ingots in the existing wiremill. The west furnace can anneal copper using its installed oxygen supply. The dedicated Spider loot recipe gives 12 copper ingots per pristine. Keep it on copper while the motor orders consume stock, subject to the polymer and power reserves. Start the west furnace in batches while the steel, hull and quest materials are processing. Do not commit all the copper on hand at once: the cable wrapper also needs it.</p>
+<p>JEI accepts Crystal Circuits, upgraded Quantum Processors, Nanoprocessor Arrays and Microprocessor Mainframes as elite circuits. Crystal Circuits yield four per batch, but their 10,000 EU/t recipe exceeds the installed IV assembler&#39;s rating. The upgraded Quantum Processor route takes 4,000 EU/t and uses multilayer boards, QBits and fine platinum wire. The Nano Array route uses four Nano Assemblies, RAM and Lumium wire. Keep the existing ME patterns for all three feasible alternatives. Feed native orders in small batches so individual shortages can be diagnosed and don&#39;t tie up all the CPUs.</p>
+<p>The 24 grates are eight grid crafts. Each uses one MV motor, one steel rotor, one steel frame and six iron bars. The factory&#39;s HV assembler can make the rotors from four steel plates, one ring and 32 mB of solder each. The grid uses six iron rods and the wrench for eight iron bars. Page 286 pays an OmniDollar and opens assembly line automation and the tier-seven mainframe.</p>
+<p>The first west-furnace charge was 47 copper ingots with program 1. It actually ran at 120 EU/t and 200 ticks per ingot. At that rate all 1,504 ingots would occupy the furnace for over four hours. ME held 1,600 buckets of oxygen plus 256 in the distribution drum and 16 in the hatch. The oxygen already on hand covers the full planned charge. Raising furnace voltage would shorten each cycle. The first grate order also loaded twelve steel plates and three rings into the existing HV solder assembler for three rotors.</p>
+<p>The existing furnace has ten heat-proof casings, exactly the minimum in its pattern. Retain them. Replace its southeast LV energy hatch at (2,80,8) with an EV hatch, leave the other LV input in place, and supply the EV hatch from a dedicated EV CEF at (2,80,9) pointing north. The surveyed 8,192 RF/t vibrant trunk at (2,83,4) can reach the converter with nine compatible conduit segments above the roof. All nine positions were empty. Stage both machines and the RF branch before waiting for an idle furnace and changing the hatch. Verify the new rate from a running recipe; two normal overclocks would give 1,920 EU/t and 50 ticks per ingot. scripts/west_annealing_power.py handles the upgrade.</p>
+</div>
+      </article>
+    </main>
+  </body>
+</html>
