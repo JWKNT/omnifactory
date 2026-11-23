@@ -25,3 +25,5 @@ The third simulation bay produced 231 copper from its Spider run. With both gene
 The spare chamber now holds its tier-three Shulker model. At 96h18m both Shulker chambers had used their polymer while 44 resonant clathrate remained in ME. Use that stock ahead of more quartz production. When a CPU is available it can order Pulsating Dust. Otherwise up to 32 clathrate can go through the networked Multi Smelter feed chest.
 
 Both Shulker chambers restarted. The primary chamber showed 38 polymer clay and the spare had 16; each showed an active simulation with its full two-million-RF buffer. The fabrication chamber was switched back to diamonds.
+
+At 101h51m the spare Shulker had ten polymer left and its model had reached 819 completed simulations. The dedicated Shulker had four polymer and the Enderman had seventeen. When diamond reserves fall below 96, the tender can move sixteen polymer from an Enderman chamber holding at least 32 to the spare Shulker, provided the dedicated Shulker has six left. The spare model now waits for 96 diamonds before switching to chemical supplies and can finish that work down to 56 diamonds.

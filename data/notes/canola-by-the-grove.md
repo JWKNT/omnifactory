@@ -1,0 +1,5 @@
+# A canola bed beside the rubber grove
+
+The southern edge of the grove has a clear cobblestone floor. Put a raised 3×3 bed centered at (22,80,14) there, with water in the center, seven dirt plots and one torch on the remaining corner. The rubber plots and east walkway stay accessible. The last chest survey counted seven dirt and a worn stone hoe. Page 319 pays a quarter for 64 canola and 64 sugar cane. The cane farm already covers the second stack.
+
+JEI offers 32 seeds for three pennies. Wild canola is another source, and the insolator can multiply seeds with Phyto-Gro. No quest offers canola or the seeds as a reward. Use a single coin purchase and let the crop grow during the furnace and lunar work. Harvest mature plants and replant. Later the seed reserve can feed the Canola Press branch.
