@@ -515,10 +515,10 @@
     {
       "name": "crystal-workshop-power.md",
       "first_ticks": 6956890,
-      "ticks": 7232735,
-      "sent_at": "2026-11-23T16:35:16-0500",
-      "versions": 3,
-      "bytes": 3253
+      "ticks": 7301234,
+      "sent_at": "2026-11-23T17:32:21-0500",
+      "versions": 4,
+      "bytes": 3796
     },
     {
       "name": "deuterium.md",
@@ -1139,10 +1139,10 @@
     {
       "name": "hssg-coil-order.md",
       "first_ticks": 5754936,
-      "ticks": 6809211,
-      "sent_at": "2026-11-23T10:42:20-0500",
-      "versions": 3,
-      "bytes": 2098
+      "ticks": 7294216,
+      "sent_at": "2026-11-23T17:26:30-0500",
+      "versions": 4,
+      "bytes": 2538
     },
     {
       "name": "hssg-frames.md",
@@ -1499,10 +1499,10 @@
     {
       "name": "medium-projector-shell.md",
       "first_ticks": 7086569,
-      "ticks": 7223836,
-      "sent_at": "2026-11-23T16:27:51-0500",
-      "versions": 8,
-      "bytes": 5401
+      "ticks": 7306371,
+      "sent_at": "2026-11-23T17:36:38-0500",
+      "versions": 9,
+      "bytes": 6093
     },
     {
       "name": "metal-models.md",
@@ -2187,10 +2187,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 7280176,
-      "sent_at": "2026-11-23T17:14:48-0500",
-      "versions": 759,
-      "bytes": 11875
+      "ticks": 7307005,
+      "sent_at": "2026-11-23T17:37:10-0500",
+      "versions": 761,
+      "bytes": 11529
     },
     {
       "name": "review-101h06m.md",
