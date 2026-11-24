@@ -275,10 +275,10 @@
     {
       "name": "breeder-cooling-and-cells.md",
       "first_ticks": 5150449,
-      "ticks": 7969393,
-      "sent_at": "2026-11-24T02:49:11-0500",
-      "versions": 8,
-      "bytes": 4394
+      "ticks": 8026053,
+      "sent_at": "2026-11-24T03:36:24-0500",
+      "versions": 9,
+      "bytes": 5090
     },
     {
       "name": "brewery-cane.md",
@@ -315,10 +315,10 @@
     {
       "name": "cake-supplies.md",
       "first_ticks": 452849,
-      "ticks": 458699,
-      "sent_at": "2026-11-19T18:21:15-0500",
-      "versions": 2,
-      "bytes": 1872
+      "ticks": 8021892,
+      "sent_at": "2026-11-24T03:32:56-0500",
+      "versions": 4,
+      "bytes": 2696
     },
     {
       "name": "camp.md",
@@ -347,10 +347,10 @@
     {
       "name": "canola-seed-oil.md",
       "first_ticks": 7520723,
-      "ticks": 7988308,
-      "sent_at": "2026-11-24T03:04:57-0500",
-      "versions": 6,
-      "bytes": 4377
+      "ticks": 8023823,
+      "sent_at": "2026-11-24T03:34:33-0500",
+      "versions": 7,
+      "bytes": 4650
     },
     {
       "name": "centrifuge-water-return.md",
@@ -555,10 +555,10 @@
     {
       "name": "crystal-workshop-power.md",
       "first_ticks": 6956890,
-      "ticks": 7980889,
-      "sent_at": "2026-11-24T02:58:46-0500",
-      "versions": 8,
-      "bytes": 6244
+      "ticks": 8014502,
+      "sent_at": "2026-11-24T03:26:47-0500",
+      "versions": 9,
+      "bytes": 6801
     },
     {
       "name": "crystal-workshop-storage.md",
@@ -675,10 +675,10 @@
     {
       "name": "end-cake-and-draconium.md",
       "first_ticks": 7893212,
-      "ticks": 7966338,
-      "sent_at": "2026-11-24T02:46:38-0500",
-      "versions": 3,
-      "bytes": 1841
+      "ticks": 8021892,
+      "sent_at": "2026-11-24T03:32:56-0500",
+      "versions": 4,
+      "bytes": 2210
     },
     {
       "name": "end-steel.md",
@@ -2387,10 +2387,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 8007582,
-      "sent_at": "2026-11-24T03:21:01-0500",
-      "versions": 814,
-      "bytes": 18994
+      "ticks": 8026053,
+      "sent_at": "2026-11-24T03:36:24-0500",
+      "versions": 817,
+      "bytes": 19370
     },
     {
       "name": "review-101h06m.md",
@@ -3359,6 +3359,14 @@
       "sent_at": "2026-11-22T23:27:12-0500",
       "versions": 3,
       "bytes": 1488
+    },
+    {
+      "name": "wetware-board-capacity.md",
+      "first_ticks": 8014502,
+      "ticks": 8014502,
+      "sent_at": "2026-11-24T03:26:47-0500",
+      "versions": 1,
+      "bytes": 1613
     },
     {
       "name": "wireless-storage.md",
