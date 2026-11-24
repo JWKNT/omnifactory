@@ -291,10 +291,18 @@
     {
       "name": "breeder-coproducts.md",
       "first_ticks": 8396929,
-      "ticks": 8396929,
-      "sent_at": "2026-11-24T08:45:28-0500",
+      "ticks": 8430486,
+      "sent_at": "2026-11-24T09:13:26-0500",
+      "versions": 2,
+      "bytes": 1567
+    },
+    {
+      "name": "breeder-power-outlet.md",
+      "first_ticks": 8427177,
+      "ticks": 8427177,
+      "sent_at": "2026-11-24T09:10:40-0500",
       "versions": 1,
-      "bytes": 1210
+      "bytes": 1048
     },
     {
       "name": "brewery-cane.md",
@@ -1151,6 +1159,14 @@
       "sent_at": "2026-11-19T12:20:55-0500",
       "versions": 3,
       "bytes": 1221
+    },
+    {
+      "name": "galena-mill-and-washer.md",
+      "first_ticks": 8418445,
+      "ticks": 8418445,
+      "sent_at": "2026-11-24T09:03:24-0500",
+      "versions": 1,
+      "bytes": 739
     },
     {
       "name": "gallium.md",
@@ -2435,10 +2451,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 8411335,
-      "sent_at": "2026-11-24T08:57:28-0500",
-      "versions": 866,
-      "bytes": 24922
+      "ticks": 8434643,
+      "sent_at": "2026-11-24T09:16:54-0500",
+      "versions": 870,
+      "bytes": 25138
     },
     {
       "name": "review-101h06m.md",
@@ -2503,6 +2519,14 @@
       "sent_at": "2026-11-24T07:20:20-0500",
       "versions": 2,
       "bytes": 3439
+    },
+    {
+      "name": "review-117h08m.md",
+      "first_ticks": 8434643,
+      "ticks": 8434643,
+      "sent_at": "2026-11-24T09:16:54-0500",
+      "versions": 1,
+      "bytes": 3588
     },
     {
       "name": "review-29h49m.md",
@@ -3195,10 +3219,10 @@
     {
       "name": "tier-five-miner-materials.md",
       "first_ticks": 7668498,
-      "ticks": 8388192,
-      "sent_at": "2026-11-24T08:38:11-0500",
-      "versions": 17,
-      "bytes": 10433
+      "ticks": 8423649,
+      "sent_at": "2026-11-24T09:07:44-0500",
+      "versions": 18,
+      "bytes": 11089
     },
     {
       "name": "tier-seven-components.md",
