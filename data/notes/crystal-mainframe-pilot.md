@@ -9,3 +9,5 @@ The four HSS-E Frames need five rods and three plates. The bench makes four with
 Four cold Osmiridium Ingots are already available. A further four need three Iridium Ingots, one Osmium Ingot and one bucket of helium at 1,920 EU/t. The east furnace and common freezer handled the first lot. ME held 23 buckets of helium. Fit the cold-output pattern while a sample is still in stock. Continue running the first HSS-E motor fittings alongside the frame bill.
 
 The workshop made the full set of four HSS-E Frames. The first filled Shulker vial and Vibrant Crystal reached the Soul Binder. Its XP input is the remaining requirement for that pair. Overworldian Matter grants ten XP per use according to its in-game tooltip.
+
+At 124h33m the binder had returned two Prescient Crystals. It also returned the empty vial, and 154 Shulker Shells remain. Two more bindings finish the first mainframe bill. The second array has two Flow Circuits and all six Crystal Circuits for its last two. Their QBit order has reached the EV wafer reactor. Its ingredients are already in the machine, so a dry radon inlet takes priority even when ME reports no loose phosphide.

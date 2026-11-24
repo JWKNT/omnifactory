@@ -171,10 +171,10 @@
     {
       "name": "assembly-silver.md",
       "first_ticks": 5902439,
-      "ticks": 8939288,
-      "sent_at": "2026-11-24T16:17:26-0500",
-      "versions": 10,
-      "bytes": 5253
+      "ticks": 8959259,
+      "sent_at": "2026-11-24T16:34:04-0500",
+      "versions": 11,
+      "bytes": 5613
     },
     {
       "name": "assembly-workshop-shift.md",
@@ -587,10 +587,10 @@
     {
       "name": "crystal-mainframe-pilot.md",
       "first_ticks": 8879860,
-      "ticks": 8906730,
-      "sent_at": "2026-11-24T15:50:18-0500",
-      "versions": 2,
-      "bytes": 2281
+      "ticks": 8969051,
+      "sent_at": "2026-11-24T16:42:14-0500",
+      "versions": 3,
+      "bytes": 2714
     },
     {
       "name": "crystal-mission-consumables.md",
@@ -1099,10 +1099,10 @@
     {
       "name": "first-platinum.md",
       "first_ticks": 1303172,
-      "ticks": 8731253,
-      "sent_at": "2026-11-24T13:24:04-0500",
-      "versions": 4,
-      "bytes": 2680
+      "ticks": 8959827,
+      "sent_at": "2026-11-24T16:34:33-0500",
+      "versions": 5,
+      "bytes": 3111
     },
     {
       "name": "first-power.md",
@@ -2571,10 +2571,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 8940100,
-      "sent_at": "2026-11-24T16:18:07-0500",
-      "versions": 922,
-      "bytes": 10974
+      "ticks": 8969051,
+      "sent_at": "2026-11-24T16:42:14-0500",
+      "versions": 927,
+      "bytes": 11806
     },
     {
       "name": "review-101h06m.md",
@@ -3763,10 +3763,10 @@
     {
       "name": "zpm-motion-power.md",
       "first_ticks": 8658081,
-      "ticks": 8913904,
-      "sent_at": "2026-11-24T15:56:17-0500",
-      "versions": 7,
-      "bytes": 6028
+      "ticks": 8948806,
+      "sent_at": "2026-11-24T16:25:22-0500",
+      "versions": 8,
+      "bytes": 6410
     }
   ]
 }
