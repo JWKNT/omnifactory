@@ -17,3 +17,5 @@ For the Tier Six Dragon Lair flight, recover the spent items in two lots. The fi
 At 125h15m all eight Depleted LEU-235 Fuel for the second breeding campaign had been collected. The cooled eight-cell controller was empty. These eight go to the HV centrifuge before the ninth fuel is made. Recycling supplies the common uranium for the ninth, and the clumps ultimately fund the Tier Six dragon-lair shipment.
 
 At 125h27m the spent-fuel pattern was installed on the HV centrifuge and ME accepted the 320-tiny-clump order. Eight recovered common clumps and one rare clump went into the ninth fuel item. Its spent item is the final feed for the 32 Stabilized Plutonium shipment.
+
+At 125h54m the ball mold had returned 28 Stabilized Plutonium from the first eight spent fuel items. Seven full clumps of each useful type produced fourteen stabilized items apiece. One tiny clump of each type remains, alongside the ninth spent fuel. Its eight tiny clumps of each type complete both nine-tiny recipes, giving the final four stabilized items.

@@ -7,3 +7,5 @@ The outward face of each hatch can take a filtered ME fluid export bus. Extend t
 At 123h42m the second LV hatch replaced the bottom casing at (45,80,−20). The controller formed again with both inputs installed. The next commissioning check is a filtered delivery to each hatch.
 
 At 125h26m the first export bus was installed against the diesel hatch at (45,80,−21). Its filter read Nitro-Diesel, and the hatch rose from 12,000 to 16,000 mB. The neighboring mana hatch was empty. It still needs its own filtered bus.
+
+At 125h59m the second export bus at (46,80,−21) reported active with Primal Mana in its filter. After the 1,500 mB filter sample was returned to ME, the sixth furnace held 1,000 mB Primal Mana and the fourth furnace held 500 mB. The adjacent diesel hatch still held 16,000 mB Nitro-Diesel. Both sixth-furnace heat recipes now have their own filtered fluid feed.

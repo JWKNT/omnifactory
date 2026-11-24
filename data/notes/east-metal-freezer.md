@@ -15,3 +15,7 @@ At 122h15m the six final roof casings were in place. The east-facing controller 
 Reserve the hatch's north face for an ME fluid export bus. The survey at 122h44m found clear space at (44,82,−14) and (45,82,−14) from the existing glass at (43,82,−14). Drop one glass cable to (45,81,−14), next to the hatch. The north aisle at z=−15 stays walkable. The fluid export bus takes two lapis plates, one formation core and one MV piston. Fit the item return first. The two-bucket commissioning charge can travel by tank while the second piston is being made. Filter the export bus with a real Molten Cryotheum sample and check the hatch level after the sample is returned to fluid storage.
 
 At 122h50m the west-facing PartImportBus on (47,80,−12) reported active against the output bus. The player fitted it from the z=−15 aisle after bringing it north.
+
+At 126h11m the HSS-E cooling recipe repeatedly returned to tick one or two of 43 at 1,920 EU/t. The freezer converter at (45,82,-9) had four empty battery slots and only a 16,384 EU buffer. Both HV hatches and the gold cables were connected. The sixth furnace was drawing 1,920 EU/t for Enderium at the same time.
+
+At 126h12m a new Basic Flux Capacitor raised the converter capacity to 2,516,384 EU. The soft hammer held the cooling recipe at tick two. The converter then rose above 838,000 EU. The tender resumes from 200,000 EU, enough for two full HSS-E cooling cycles even before counting incoming RF. Check the actual output and line voltage under load before increasing the order size.
