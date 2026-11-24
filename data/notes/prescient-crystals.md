@@ -17,3 +17,7 @@ At 115h19m the HV alloy smelter returned the Soul Machine Chassis through its ne
 The Octadic Capacitor was in the annex chest at (14,80,5). At 115h34m I verified it in slot four of the installed Soul Binder. The EV cutter took its first exquisite emerald and displayed two flawless emeralds as its output. The empty vial uses the last Soularium and three fused quartz. Reuse it across all three bindings.
 
 The MV autoclave accepted six emeralds with 864 mB of Vibrant Alloy. At 115h59m the Soul Binder showed its first finished Prescient Crystal and the reusable empty vial in the two output slots. Its Octadic Capacitor was still installed, and its buffer had recharged to 500,000 RF.
+
+For the first Crystal Mainframe the binder had its filled Shulker vial, Vibrant Crystal, Octadic Capacitor and enough RF, but the player was at level zero. The installed Overworldian Matter tooltip gives ten XP per item when used. Level eight takes 112 XP from zero, so twelve ordinary matter can fund one binding directly from the simulation drawers. Stop consuming as soon as level eight is reached, then use the binder's XP button. This avoids casting the same matter into fluid and solidifying it again.
+
+At 123h42m the binder returned a Prescient Crystal and an empty vial for the mainframe. The XP came from the connected matter drawers. The capacitor stayed installed for the next binding.

@@ -587,10 +587,10 @@
     {
       "name": "crystal-mainframe-pilot.md",
       "first_ticks": 8879860,
-      "ticks": 8879860,
-      "sent_at": "2026-11-24T15:27:55-0500",
-      "versions": 1,
-      "bytes": 2019
+      "ticks": 8906730,
+      "sent_at": "2026-11-24T15:50:18-0500",
+      "versions": 2,
+      "bytes": 2281
     },
     {
       "name": "crystal-mission-consumables.md",
@@ -2267,10 +2267,10 @@
     {
       "name": "prescient-crystals.md",
       "first_ticks": 7902187,
-      "ticks": 8351326,
-      "sent_at": "2026-11-24T08:07:28-0500",
-      "versions": 8,
-      "bytes": 4296
+      "ticks": 8908101,
+      "sent_at": "2026-11-24T15:51:27-0500",
+      "versions": 10,
+      "bytes": 4994
     },
     {
       "name": "pristine-transfer.md",
@@ -2563,10 +2563,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 8894187,
-      "sent_at": "2026-11-24T15:39:51-0500",
-      "versions": 914,
-      "bytes": 9561
+      "ticks": 8910913,
+      "sent_at": "2026-11-24T15:53:47-0500",
+      "versions": 916,
+      "bytes": 9819
     },
     {
       "name": "review-101h06m.md",
@@ -3163,10 +3163,10 @@
     {
       "name": "simulation-iron.md",
       "first_ticks": 8588297,
-      "ticks": 8668296,
-      "sent_at": "2026-11-24T12:31:36-0500",
-      "versions": 2,
-      "bytes": 1457
+      "ticks": 8906730,
+      "sent_at": "2026-11-24T15:50:18-0500",
+      "versions": 4,
+      "bytes": 2073
     },
     {
       "name": "sixth-furnace-deck.md",
@@ -3179,10 +3179,10 @@
     {
       "name": "sixth-furnace-fluid-ports.md",
       "first_ticks": 8785259,
-      "ticks": 8785259,
-      "sent_at": "2026-11-24T14:09:04-0500",
-      "versions": 1,
-      "bytes": 1086
+      "ticks": 8906730,
+      "sent_at": "2026-11-24T15:50:18-0500",
+      "versions": 2,
+      "bytes": 1286
     },
     {
       "name": "slot-transfers.md",
@@ -3747,18 +3747,18 @@
     {
       "name": "zpm-assembler-motion-bill.md",
       "first_ticks": 8897255,
-      "ticks": 8897255,
-      "sent_at": "2026-11-24T15:42:24-0500",
-      "versions": 1,
-      "bytes": 2100
+      "ticks": 8919617,
+      "sent_at": "2026-11-24T16:01:02-0500",
+      "versions": 4,
+      "bytes": 3200
     },
     {
       "name": "zpm-motion-power.md",
       "first_ticks": 8658081,
-      "ticks": 8808917,
-      "sent_at": "2026-11-24T14:28:47-0500",
-      "versions": 6,
-      "bytes": 5133
+      "ticks": 8913904,
+      "sent_at": "2026-11-24T15:56:17-0500",
+      "versions": 7,
+      "bytes": 6028
     }
   ]
 }
