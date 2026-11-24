@@ -715,10 +715,10 @@
     {
       "name": "east-metal-freezer.md",
       "first_ticks": 8497828,
-      "ticks": 8803704,
-      "sent_at": "2026-11-24T14:24:27-0500",
-      "versions": 5,
-      "bytes": 2812
+      "ticks": 8844636,
+      "sent_at": "2026-11-24T14:58:33-0500",
+      "versions": 7,
+      "bytes": 3593
     },
     {
       "name": "ebf-running.md",
@@ -2313,6 +2313,14 @@
       "bytes": 6003
     },
     {
+      "name": "pulsating-dust-reserve.md",
+      "first_ticks": 8827103,
+      "ticks": 8827103,
+      "sent_at": "2026-11-24T14:43:57-0500",
+      "versions": 1,
+      "bytes": 1084
+    },
+    {
       "name": "pulsating.md",
       "first_ticks": 195275,
       "ticks": 206970,
@@ -2531,10 +2539,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 8825659,
-      "sent_at": "2026-11-24T14:42:44-0500",
-      "versions": 907,
-      "bytes": 8152
+      "ticks": 8844634,
+      "sent_at": "2026-11-24T14:58:33-0500",
+      "versions": 908,
+      "bytes": 8430
     },
     {
       "name": "review-101h06m.md",
@@ -3313,6 +3321,14 @@
       "bytes": 1508
     },
     {
+      "name": "superconductor-and-fusion-stock.md",
+      "first_ticks": 8835847,
+      "ticks": 8835847,
+      "sent_at": "2026-11-24T14:51:14-0500",
+      "versions": 1,
+      "bytes": 1867
+    },
+    {
       "name": "thermal-elemental.md",
       "first_ticks": 1012077,
       "ticks": 1634659,
@@ -3611,10 +3627,10 @@
     {
       "name": "wireless-storage.md",
       "first_ticks": 2255819,
-      "ticks": 8284055,
-      "sent_at": "2026-11-24T07:11:24-0500",
-      "versions": 3,
-      "bytes": 2739
+      "ticks": 8843890,
+      "sent_at": "2026-11-24T14:57:56-0500",
+      "versions": 4,
+      "bytes": 3444
     },
     {
       "name": "wiremill.md",

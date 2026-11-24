@@ -1,0 +1,5 @@
+# Keep Pulsating Dust in stock
+
+At 122h35m the dedicated EV pearl electrolyzer was fully charged and empty. ME held sixteen Enderpearl Dust and no Pulsating Dust. The thirty-two Uraninite Dust recovered earlier had already left storage. The two blank data models still need eight Pulsating Dust for their meshes, and the item conduits, lapidary fuel and ship crystals also consume it.
+
+Use the existing pearl cell to hold a sixteen-dust working reserve. JEI gives one Pulsating Dust from one Enderpearl Dust in 200 ticks at 1,000 EU/t. The other independent supplies are smelting Uraninite Dust and Resonant Clathrate. Keep using those when available. Ask ME for up to eight from the pearl recipe and inspect its ingredient preview. If AE chooses another recipe despite having the pearls, feed the already-patterned pearl machine from its service aisle. Its output returns through the projector's green conduit. The starter mill already replaces the pearl dust above an eight-pearl reserve. Two blank models and the trained Enderman and Shulker together pay ten quarters on page 691.
