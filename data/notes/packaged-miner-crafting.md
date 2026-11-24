@@ -1,0 +1,9 @@
+# Automating the extended crafting tables
+
+Page 408 pays an OmniQuarter and opens pages 406 and 813. A package recipe holder stores up to twenty recipes. The packager and unpackager use matching encoded holders. Build the first pair for repeat miner hulls once the titanium and circuit lines can cover another ship without delaying the first iridium and gemstone cargoes.
+
+The installed recipes make each ME Packaging Component from an ordinary Packaging Component, four titanium plates, two quartz glass, an annihilation core and a formation core. The ordinary component itself needs another four titanium plates, four Vibrant Alloy Plates and an Eye of Ender. The first packager and unpackager each add four titanium plates, two Nano Processor Assemblies and a Mechanical Crafter. One takes an import bus, the other an export bus.
+
+The Package Recipe Encoder consumes two holders, a separate pattern encoder, a Nano Processor Assembly, four titanium plates and an ME Packaging Component. Keep two more holders for the machines. Each holder consumes a Crystaltine block, three blank patterns, two quartz glass, two titanium plates and another ME Packaging Component. Across the pair, encoder and four holders, reserve seven ME Packaging Components. The titanium bill reaches 76 plates before counting the mechanical crafters, buses or pattern encoder.
+
+Page 406 asks for three packagers, three unpackagers, six holders and the advanced, elite and ultimate automatic crafters. The elite crafter consumes an Elite Extended Crafting Table, an Automation Interface, an ME Packaging Component, four Elite Components and two Black Steel Plates. Reuse the existing elite table after the first manual flights and only once the replacement can start running. Keep a clear network aisle for the three table sizes and their package machines.

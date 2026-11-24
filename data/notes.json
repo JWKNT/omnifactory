@@ -971,10 +971,10 @@
     {
       "name": "fleet-dynamo-gears.md",
       "first_ticks": 7451360,
-      "ticks": 7666617,
-      "sent_at": "2026-11-23T22:36:52-0500",
-      "versions": 8,
-      "bytes": 6004
+      "ticks": 7681391,
+      "sent_at": "2026-11-23T22:49:11-0500",
+      "versions": 9,
+      "bytes": 6250
     },
     {
       "name": "fluix.md",
@@ -1387,10 +1387,10 @@
     {
       "name": "large-projector-diamond-budget.md",
       "first_ticks": 7648267,
-      "ticks": 7648267,
-      "sent_at": "2026-11-23T22:21:35-0500",
-      "versions": 1,
-      "bytes": 1670
+      "ticks": 7681391,
+      "sent_at": "2026-11-23T22:49:11-0500",
+      "versions": 2,
+      "bytes": 2032
     },
     {
       "name": "lathe-order.md",
@@ -1873,6 +1873,14 @@
       "bytes": 5375
     },
     {
+      "name": "packaged-miner-crafting.md",
+      "first_ticks": 7682868,
+      "ticks": 7682868,
+      "sent_at": "2026-11-23T22:50:25-0500",
+      "versions": 1,
+      "bytes": 1832
+    },
+    {
       "name": "paper.md",
       "first_ticks": 218432,
       "ticks": 655931,
@@ -2283,10 +2291,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 7666619,
-      "sent_at": "2026-11-23T22:36:52-0500",
-      "versions": 788,
-      "bytes": 15147
+      "ticks": 7692354,
+      "sent_at": "2026-11-23T22:58:19-0500",
+      "versions": 790,
+      "bytes": 16403
     },
     {
       "name": "review-101h06m.md",
@@ -2763,10 +2771,10 @@
     {
       "name": "signalum-engine-smelter.md",
       "first_ticks": 7640775,
-      "ticks": 7666615,
-      "sent_at": "2026-11-23T22:36:52-0500",
-      "versions": 3,
-      "bytes": 1746
+      "ticks": 7692354,
+      "sent_at": "2026-11-23T22:58:19-0500",
+      "versions": 5,
+      "bytes": 2609
     },
     {
       "name": "signalum-line.md",
@@ -2987,10 +2995,10 @@
     {
       "name": "tier-five-miner-materials.md",
       "first_ticks": 7668498,
-      "ticks": 7668498,
-      "sent_at": "2026-11-23T22:38:26-0500",
-      "versions": 1,
-      "bytes": 1664
+      "ticks": 7697928,
+      "sent_at": "2026-11-23T23:02:58-0500",
+      "versions": 2,
+      "bytes": 2336
     },
     {
       "name": "tier-seven-components.md",
