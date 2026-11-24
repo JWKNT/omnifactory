@@ -539,10 +539,10 @@
     {
       "name": "crystal-return-line.md",
       "first_ticks": 7870640,
-      "ticks": 7882726,
-      "sent_at": "2026-11-24T01:36:58-0500",
-      "versions": 2,
-      "bytes": 1399
+      "ticks": 7893212,
+      "sent_at": "2026-11-24T01:45:42-0500",
+      "versions": 3,
+      "bytes": 2132
     },
     {
       "name": "crystal-workshop-power.md",
@@ -655,6 +655,14 @@
       "sent_at": "2026-11-22T12:54:53-0500",
       "versions": 4,
       "bytes": 2070
+    },
+    {
+      "name": "end-cake-and-draconium.md",
+      "first_ticks": 7893212,
+      "ticks": 7893212,
+      "sent_at": "2026-11-24T01:45:42-0500",
+      "versions": 1,
+      "bytes": 1110
     },
     {
       "name": "end-steel.md",
@@ -2079,6 +2087,14 @@
       "sent_at": "2026-11-20T18:39:29-0500",
       "versions": 2,
       "bytes": 1217
+    },
+    {
+      "name": "prescient-crystals.md",
+      "first_ticks": 7902187,
+      "ticks": 7902187,
+      "sent_at": "2026-11-24T01:53:11-0500",
+      "versions": 1,
+      "bytes": 1802
     },
     {
       "name": "pristine-transfer.md",
