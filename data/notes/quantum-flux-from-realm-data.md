@@ -15,3 +15,5 @@ All 25 Solidified Experience were recovered. Six bench crafts used 24 of them an
 The IV hull for the extractor has returned from the polyethylene assembler. The HV assembler took four tungstensteel plates and a ring for the pump rotor. Twelve purified nickel piles are available for the platinum leads: each returns three tiny platinum dust in the ore centrifuge. Keep the remainder for upcoming EV sensors.
 
 The Tier Five miner now has all sixteen Quantum Flux. The last eight used 32 Extraterrestrial Matter and eight Pulsating Crystals. This finished the bill while the IV extractor was still being built. Its pump rotor is finished and the HV extruder has accepted three tungstensteel ingots for its medium pipe. Keep that machine for repeat orders from the stored Realm Data.
+
+The IV extractor now stands at (21,86,−20) and receives 8,192 V from the tungsten cable. One Impossible Realm Data ran for 100 ticks at 3,000 EU/t. Its output slot held one Quantum Flux when the recipe finished. The upper ME interface is the next step for repeat orders.

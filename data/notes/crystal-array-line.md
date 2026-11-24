@@ -7,3 +7,5 @@ Page 534 requires one array. Each takes eight SMD diodes, one HPIC, eight SMD tr
 There were 36 diodes, 30 transistors, six Crystal CPUs and seven QBit CPUs at the survey. Stage four Energy Flow Circuits through the LuV assembler. The first high-power wafer requires two compound dust, and the blue-lens laser has already returned two Power IC Wafers. The two arrays and one mainframe together need three finished HPICs. Each high-power wafer cuts into two. The controller has verified the recipe's power demand. The array itself has yet to run.
 
 The ten-input mainframe can use the Extended Processing Pattern Terminal on page 813 once the Package Recipe Encoder is available. It accepts sixteen inputs. The earlier [extended crafting bill](extended-crafting-after-osmium.md) covers that hardware. The existing physical bus loader can run a pilot before it is built.
+
+The blocking interface at (18,81,-19) now holds the eight-input Assembly Line pattern. Five slots remained after encoding. The first array still awaits its HPIC, cold metals and component batch.

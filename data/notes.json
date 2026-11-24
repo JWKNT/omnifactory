@@ -563,10 +563,10 @@
     {
       "name": "crystal-array-line.md",
       "first_ticks": 8649765,
-      "ticks": 8658081,
-      "sent_at": "2026-11-24T12:23:06-0500",
-      "versions": 2,
-      "bytes": 1855
+      "ticks": 8668296,
+      "sent_at": "2026-11-24T12:31:36-0500",
+      "versions": 3,
+      "bytes": 2051
     },
     {
       "name": "crystal-bay.md",
@@ -1331,10 +1331,10 @@
     {
       "name": "high-power-wafer.md",
       "first_ticks": 8637337,
-      "ticks": 8637337,
-      "sent_at": "2026-11-24T12:05:48-0500",
-      "versions": 1,
-      "bytes": 1732
+      "ticks": 8674865,
+      "sent_at": "2026-11-24T12:37:05-0500",
+      "versions": 2,
+      "bytes": 2009
     },
     {
       "name": "hot-ingot-transfer.md",
@@ -2339,10 +2339,10 @@
     {
       "name": "quantum-flux-from-realm-data.md",
       "first_ticks": 8057610,
-      "ticks": 8217335,
-      "sent_at": "2026-11-24T06:15:48-0500",
-      "versions": 5,
-      "bytes": 3469
+      "ticks": 8676485,
+      "sent_at": "2026-11-24T12:38:26-0500",
+      "versions": 6,
+      "bytes": 3743
     },
     {
       "name": "quantum-flux.md",
@@ -2507,10 +2507,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 8658081,
-      "sent_at": "2026-11-24T12:23:06-0500",
-      "versions": 891,
-      "bytes": 5298
+      "ticks": 8674865,
+      "sent_at": "2026-11-24T12:37:05-0500",
+      "versions": 893,
+      "bytes": 5701
     },
     {
       "name": "review-101h06m.md",
@@ -3091,18 +3091,18 @@
     {
       "name": "simulation-iron.md",
       "first_ticks": 8588297,
-      "ticks": 8588297,
-      "sent_at": "2026-11-24T11:24:56-0500",
-      "versions": 1,
-      "bytes": 1217
+      "ticks": 8668296,
+      "sent_at": "2026-11-24T12:31:36-0500",
+      "versions": 2,
+      "bytes": 1457
     },
     {
       "name": "sixth-furnace-deck.md",
       "first_ticks": 8516414,
-      "ticks": 8623487,
-      "sent_at": "2026-11-24T11:54:16-0500",
-      "versions": 6,
-      "bytes": 3153
+      "ticks": 8674865,
+      "sent_at": "2026-11-24T12:37:05-0500",
+      "versions": 7,
+      "bytes": 3500
     },
     {
       "name": "slot-transfers.md",
@@ -3155,10 +3155,10 @@
     {
       "name": "soc-engraver.md",
       "first_ticks": 8520042,
-      "ticks": 8649765,
-      "sent_at": "2026-11-24T12:16:10-0500",
-      "versions": 5,
-      "bytes": 3845
+      "ticks": 8668296,
+      "sent_at": "2026-11-24T12:31:36-0500",
+      "versions": 6,
+      "bytes": 4011
     },
     {
       "name": "sodium-hydroxide.md",
@@ -3323,10 +3323,10 @@
     {
       "name": "tier-six-enderium.md",
       "first_ticks": 8552099,
-      "ticks": 8630694,
-      "sent_at": "2026-11-24T12:00:16-0500",
-      "versions": 5,
-      "bytes": 4172
+      "ticks": 8674865,
+      "sent_at": "2026-11-24T12:37:05-0500",
+      "versions": 6,
+      "bytes": 4508
     },
     {
       "name": "tier-two-miner-order.md",
