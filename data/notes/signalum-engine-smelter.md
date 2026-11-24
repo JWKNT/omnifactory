@@ -7,3 +7,5 @@ Build the EV smelter with two Extreme circuits, four quadruple Nichrome wires, t
 The chemistry roof has a four-amp EV cable at (19,83,-9). Branch one insulated aluminium lead east to (20,83,-9) and replace the cobblestone above that lead with the smelter. Its top stays level with the catwalk. Fit the ME interface on its south face at (20,84,-8), connected from the glass cable above the EV assembler. The new branch supplies one machine. Keep the separate HV iron reactor's gold cable tile at (20,83,-10) free for that reactor.
 
 The next engine grade, Enderium, needs 8,000 EU/t. Plan an IV alloy smelter on the north IV branch when that engine is due. Keep the EV station on Signalum frames and lower-voltage alloys once both are running.
+
+The eight Signalum plates and eight rods have now become two engine frames. The east furnace and freezer have a native five-output Nichrome pattern. Two charges brought the stock from two to twelve ingots, and eight ingots went through the component wiremill for sixteen wires. The EV hull is also finished.

@@ -971,10 +971,10 @@
     {
       "name": "fleet-dynamo-gears.md",
       "first_ticks": 7451360,
-      "ticks": 7590874,
-      "sent_at": "2026-11-23T21:33:45-0500",
-      "versions": 7,
-      "bytes": 5512
+      "ticks": 7666617,
+      "sent_at": "2026-11-23T22:36:52-0500",
+      "versions": 8,
+      "bytes": 6004
     },
     {
       "name": "fluix.md",
@@ -1571,10 +1571,10 @@
     {
       "name": "medium-projector-shell.md",
       "first_ticks": 7086569,
-      "ticks": 7607324,
-      "sent_at": "2026-11-23T21:47:28-0500",
-      "versions": 24,
-      "bytes": 13496
+      "ticks": 7656357,
+      "sent_at": "2026-11-23T22:28:19-0500",
+      "versions": 25,
+      "bytes": 13948
     },
     {
       "name": "metal-models.md",
@@ -2235,10 +2235,10 @@
     {
       "name": "refinery-fuel-power.md",
       "first_ticks": 7395508,
-      "ticks": 7633833,
-      "sent_at": "2026-11-23T22:09:33-0500",
-      "versions": 4,
-      "bytes": 3320
+      "ticks": 7660987,
+      "sent_at": "2026-11-23T22:32:11-0500",
+      "versions": 5,
+      "bytes": 3922
     },
     {
       "name": "refinery-grid.md",
@@ -2283,10 +2283,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 7645197,
-      "sent_at": "2026-11-23T22:19:01-0500",
-      "versions": 786,
-      "bytes": 15079
+      "ticks": 7666619,
+      "sent_at": "2026-11-23T22:36:52-0500",
+      "versions": 788,
+      "bytes": 15147
     },
     {
       "name": "review-101h06m.md",
@@ -2763,10 +2763,10 @@
     {
       "name": "signalum-engine-smelter.md",
       "first_ticks": 7640775,
-      "ticks": 7645680,
-      "sent_at": "2026-11-23T22:19:26-0500",
-      "versions": 2,
-      "bytes": 1437
+      "ticks": 7666615,
+      "sent_at": "2026-11-23T22:36:52-0500",
+      "versions": 3,
+      "bytes": 1746
     },
     {
       "name": "signalum-line.md",
@@ -2983,6 +2983,14 @@
       "sent_at": "2026-11-21T15:54:28-0500",
       "versions": 3,
       "bytes": 1909
+    },
+    {
+      "name": "tier-five-miner-materials.md",
+      "first_ticks": 7668498,
+      "ticks": 7668498,
+      "sent_at": "2026-11-23T22:38:26-0500",
+      "versions": 1,
+      "bytes": 1664
     },
     {
       "name": "tier-seven-components.md",
