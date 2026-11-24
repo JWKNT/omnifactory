@@ -363,10 +363,10 @@
     {
       "name": "canola-by-the-grove.md",
       "first_ticks": 7322432,
-      "ticks": 7477499,
-      "sent_at": "2026-11-23T19:59:16-0500",
-      "versions": 4,
-      "bytes": 2035
+      "ticks": 8468235,
+      "sent_at": "2026-11-24T09:44:53-0500",
+      "versions": 5,
+      "bytes": 3238
     },
     {
       "name": "canola-seed-oil.md",
@@ -647,6 +647,14 @@
       "sent_at": "2026-11-20T23:40:20-0500",
       "versions": 4,
       "bytes": 2313
+    },
+    {
+      "name": "draconium-furnace-and-freezer.md",
+      "first_ticks": 8481994,
+      "ticks": 8481994,
+      "sent_at": "2026-11-24T09:56:21-0500",
+      "versions": 1,
+      "bytes": 1423
     },
     {
       "name": "drawer-network.md",
@@ -987,10 +995,10 @@
     {
       "name": "first-naquadah-boule.md",
       "first_ticks": 8360823,
-      "ticks": 8380341,
-      "sent_at": "2026-11-24T08:31:39-0500",
-      "versions": 3,
-      "bytes": 2918
+      "ticks": 8477268,
+      "sent_at": "2026-11-24T09:52:25-0500",
+      "versions": 4,
+      "bytes": 3199
     },
     {
       "name": "first-nether-star.md",
@@ -2451,10 +2459,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 8455503,
-      "sent_at": "2026-11-24T09:34:17-0500",
-      "versions": 872,
-      "bytes": 25587
+      "ticks": 8489922,
+      "sent_at": "2026-11-24T10:02:58-0500",
+      "versions": 875,
+      "bytes": 24075
     },
     {
       "name": "review-101h06m.md",
@@ -3219,10 +3227,10 @@
     {
       "name": "tier-five-miner-materials.md",
       "first_ticks": 7668498,
-      "ticks": 8423649,
-      "sent_at": "2026-11-24T09:07:44-0500",
-      "versions": 18,
-      "bytes": 11089
+      "ticks": 8489922,
+      "sent_at": "2026-11-24T10:02:58-0500",
+      "versions": 19,
+      "bytes": 11772
     },
     {
       "name": "tier-seven-components.md",
