@@ -17,3 +17,7 @@ The IV hull for the extractor has returned from the polyethylene assembler. The 
 The Tier Five miner now has all sixteen Quantum Flux. The last eight used 32 Extraterrestrial Matter and eight Pulsating Crystals. This finished the bill while the IV extractor was still being built. Its pump rotor is finished and the HV extruder has accepted three tungstensteel ingots for its medium pipe. Keep that machine for repeat orders from the stored Realm Data.
 
 The IV extractor now stands at (21,86,−20) and receives 8,192 V from the tungsten cable. One Impossible Realm Data ran for 100 ticks at 3,000 EU/t. Its output slot held one Quantum Flux when the recipe finished. The upper ME interface is the next step for repeat orders.
+
+The next fifteen Realm Data went into the same IV extractor. The batch finished and ME now holds sixteen Quantum Flux, enough for the Tier Six expedition. The roof interface and its repeat pattern still need commissioning.
+
+At 121h06m the top interface was installed at (21,87,−20). Its processing shelf now contains the Impossible Realm Data to Quantum Flux recipe. The first sixteen are already in storage. Confirm the next repeat batch by its increase in ME stock.

@@ -371,10 +371,10 @@
     {
       "name": "canola-by-the-grove.md",
       "first_ticks": 7322432,
-      "ticks": 8693266,
-      "sent_at": "2026-11-24T12:52:25-0500",
-      "versions": 6,
-      "bytes": 3520
+      "ticks": 8710152,
+      "sent_at": "2026-11-24T13:06:29-0500",
+      "versions": 7,
+      "bytes": 3949
     },
     {
       "name": "canola-seed-oil.md",
@@ -563,10 +563,10 @@
     {
       "name": "crystal-array-line.md",
       "first_ticks": 8649765,
-      "ticks": 8698088,
-      "sent_at": "2026-11-24T12:56:26-0500",
-      "versions": 4,
-      "bytes": 2646
+      "ticks": 8722181,
+      "sent_at": "2026-11-24T13:16:31-0500",
+      "versions": 5,
+      "bytes": 3053
     },
     {
       "name": "crystal-bay.md",
@@ -739,10 +739,10 @@
     {
       "name": "end-cake-and-draconium.md",
       "first_ticks": 7893212,
-      "ticks": 8625818,
-      "sent_at": "2026-11-24T11:56:12-0500",
-      "versions": 12,
-      "bytes": 5352
+      "ticks": 8708832,
+      "sent_at": "2026-11-24T13:05:23-0500",
+      "versions": 13,
+      "bytes": 6031
     },
     {
       "name": "end-grave-and-dragon-breath.md",
@@ -2347,10 +2347,10 @@
     {
       "name": "quantum-flux-from-realm-data.md",
       "first_ticks": 8057610,
-      "ticks": 8676485,
-      "sent_at": "2026-11-24T12:38:26-0500",
-      "versions": 6,
-      "bytes": 3743
+      "ticks": 8722181,
+      "sent_at": "2026-11-24T13:16:31-0500",
+      "versions": 8,
+      "bytes": 4214
     },
     {
       "name": "quantum-flux.md",
@@ -2515,10 +2515,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 8702561,
-      "sent_at": "2026-11-24T13:00:10-0500",
-      "versions": 897,
-      "bytes": 6058
+      "ticks": 8724498,
+      "sent_at": "2026-11-24T13:18:26-0500",
+      "versions": 899,
+      "bytes": 6369
     },
     {
       "name": "review-101h06m.md",
@@ -2599,6 +2599,14 @@
       "sent_at": "2026-11-24T11:17:44-0500",
       "versions": 1,
       "bytes": 3564
+    },
+    {
+      "name": "review-121h09m.md",
+      "first_ticks": 8724212,
+      "ticks": 8724498,
+      "sent_at": "2026-11-24T13:18:26-0500",
+      "versions": 2,
+      "bytes": 3362
     },
     {
       "name": "review-29h49m.md",
@@ -3667,10 +3675,10 @@
     {
       "name": "zpm-motion-power.md",
       "first_ticks": 8658081,
-      "ticks": 8658081,
-      "sent_at": "2026-11-24T12:23:06-0500",
-      "versions": 1,
-      "bytes": 1948
+      "ticks": 8722181,
+      "sent_at": "2026-11-24T13:16:31-0500",
+      "versions": 2,
+      "bytes": 2325
     }
   ]
 }
