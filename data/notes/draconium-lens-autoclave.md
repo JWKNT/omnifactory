@@ -1,0 +1,7 @@
+# The autoclave for the ASoC lens
+
+The first cold Draconium Ingot paid an OmniNickel on page 288 at 123h02m. The east freezer took 2,000 mB of molten Cryotheum after the sixth furnace heated its dust with 2,000 mB Nitro-Diesel. Keep two ingots for array plates. Nine cold ingots make the block for a reusable Draconium Lens. The solidifier also casts the block from liquid Draconium, which the workshop does not stock. JEI lists a single lens recipe, one block and 1,000 mB Primal Mana at 1,960 EU/t for 1,200 ticks. The starter, MV and HV autoclaves cannot run it.
+
+The west face of the fifth furnace's four-amp EV cable at (38,83,−11) is exposed. Place an EV autoclave at (37,83,−11) and operate it from the floor at (36,80,−11). The cable and aisle are already there. A separate converter or IV autoclave would cost more. Let the furnace finish a heat before starting the lens. This one lens serves every later ASoC wafer. Page 795 pays an OmniNickel for the first wafer. Its description points ahead to the ZPM assembler for using the chips in circuits.
+
+At the survey the shelf had six titanium plates, seven glass and 21 Quantumprocessors. Four plates, one glass and two of those circuits go into the EV autoclave together with an EV hull and pump. The IV version would use tungstensteel, an IV hull and two higher-grade circuits. The pump accepts ordinary rubber rings, silicone rings or styrene-butadiene rings on the bench. An assembler can substitute liquid rubber. Check the shared EV motor and titanium pipe stocks before reserving the ingredients.

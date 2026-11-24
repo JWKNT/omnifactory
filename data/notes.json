@@ -563,10 +563,10 @@
     {
       "name": "crystal-array-line.md",
       "first_ticks": 8649765,
-      "ticks": 8722181,
-      "sent_at": "2026-11-24T13:16:31-0500",
-      "versions": 5,
-      "bytes": 3053
+      "ticks": 8873128,
+      "sent_at": "2026-11-24T15:22:18-0500",
+      "versions": 6,
+      "bytes": 3075
     },
     {
       "name": "crystal-bay.md",
@@ -667,10 +667,18 @@
     {
       "name": "draconium-furnace-and-freezer.md",
       "first_ticks": 8481994,
-      "ticks": 8806555,
-      "sent_at": "2026-11-24T14:26:49-0500",
-      "versions": 7,
-      "bytes": 3921
+      "ticks": 8856838,
+      "sent_at": "2026-11-24T15:08:43-0500",
+      "versions": 8,
+      "bytes": 4394
+    },
+    {
+      "name": "draconium-lens-autoclave.md",
+      "first_ticks": 8864066,
+      "ticks": 8864066,
+      "sent_at": "2026-11-24T15:14:45-0500",
+      "versions": 1,
+      "bytes": 1567
     },
     {
       "name": "drawer-network.md",
@@ -899,10 +907,10 @@
     {
       "name": "extraterrestrial-models.md",
       "first_ticks": 7379541,
-      "ticks": 8700898,
-      "sent_at": "2026-11-24T12:58:46-0500",
-      "versions": 2,
-      "bytes": 1557
+      "ticks": 8851406,
+      "sent_at": "2026-11-24T15:04:12-0500",
+      "versions": 3,
+      "bytes": 2088
     },
     {
       "name": "extruder-power.md",
@@ -2539,10 +2547,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 8844634,
-      "sent_at": "2026-11-24T14:58:33-0500",
-      "versions": 908,
-      "bytes": 8430
+      "ticks": 8873128,
+      "sent_at": "2026-11-24T15:22:18-0500",
+      "versions": 911,
+      "bytes": 8975
     },
     {
       "name": "review-101h06m.md",
@@ -2631,6 +2639,14 @@
       "sent_at": "2026-11-24T13:18:26-0500",
       "versions": 2,
       "bytes": 3362
+    },
+    {
+      "name": "review-123h10m.md",
+      "first_ticks": 8868664,
+      "ticks": 8873128,
+      "sent_at": "2026-11-24T15:22:18-0500",
+      "versions": 2,
+      "bytes": 3912
     },
     {
       "name": "review-29h49m.md",
@@ -3627,10 +3643,10 @@
     {
       "name": "wireless-storage.md",
       "first_ticks": 2255819,
-      "ticks": 8843890,
-      "sent_at": "2026-11-24T14:57:56-0500",
-      "versions": 4,
-      "bytes": 3444
+      "ticks": 8854450,
+      "sent_at": "2026-11-24T15:06:44-0500",
+      "versions": 6,
+      "bytes": 5243
     },
     {
       "name": "wiremill.md",
