@@ -587,10 +587,10 @@
     {
       "name": "crystal-mainframe-pilot.md",
       "first_ticks": 8879860,
-      "ticks": 8969051,
-      "sent_at": "2026-11-24T16:42:14-0500",
-      "versions": 3,
-      "bytes": 2714
+      "ticks": 8994021,
+      "sent_at": "2026-11-24T17:03:03-0500",
+      "versions": 6,
+      "bytes": 4214
     },
     {
       "name": "crystal-mission-consumables.md",
@@ -723,10 +723,10 @@
     {
       "name": "east-freezer-hot-metals.md",
       "first_ticks": 8923488,
-      "ticks": 8923488,
-      "sent_at": "2026-11-24T16:04:16-0500",
-      "versions": 1,
-      "bytes": 1237
+      "ticks": 8994021,
+      "sent_at": "2026-11-24T17:03:03-0500",
+      "versions": 3,
+      "bytes": 1863
     },
     {
       "name": "east-furnace-power.md",
@@ -1099,10 +1099,10 @@
     {
       "name": "first-platinum.md",
       "first_ticks": 1303172,
-      "ticks": 8959827,
-      "sent_at": "2026-11-24T16:34:33-0500",
-      "versions": 5,
-      "bytes": 3111
+      "ticks": 8974519,
+      "sent_at": "2026-11-24T16:46:47-0500",
+      "versions": 6,
+      "bytes": 3556
     },
     {
       "name": "first-power.md",
@@ -2571,10 +2571,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 8969051,
-      "sent_at": "2026-11-24T16:42:14-0500",
-      "versions": 927,
-      "bytes": 11806
+      "ticks": 8994021,
+      "sent_at": "2026-11-24T17:03:03-0500",
+      "versions": 932,
+      "bytes": 12015
     },
     {
       "name": "review-101h06m.md",
