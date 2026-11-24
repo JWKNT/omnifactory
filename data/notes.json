@@ -267,18 +267,18 @@
     {
       "name": "breeder-alloys.md",
       "first_ticks": 5105674,
-      "ticks": 7757226,
-      "sent_at": "2026-11-23T23:52:23-0500",
-      "versions": 9,
-      "bytes": 4865
+      "ticks": 7815184,
+      "sent_at": "2026-11-24T00:40:41-0500",
+      "versions": 10,
+      "bytes": 5479
     },
     {
       "name": "breeder-cooling-and-cells.md",
       "first_ticks": 5150449,
-      "ticks": 7789288,
-      "sent_at": "2026-11-24T00:19:06-0500",
-      "versions": 3,
-      "bytes": 2451
+      "ticks": 7813210,
+      "sent_at": "2026-11-24T00:39:02-0500",
+      "versions": 5,
+      "bytes": 3637
     },
     {
       "name": "brewery-cane.md",
@@ -1095,6 +1095,14 @@
       "sent_at": "2026-11-22T22:47:33-0500",
       "versions": 4,
       "bytes": 2588
+    },
+    {
+      "name": "gemstone-cargo.md",
+      "first_ticks": 7795888,
+      "ticks": 7795888,
+      "sent_at": "2026-11-24T00:24:36-0500",
+      "versions": 1,
+      "bytes": 1644
     },
     {
       "name": "ghast-silver.md",
@@ -2307,10 +2315,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 7790558,
-      "sent_at": "2026-11-24T00:20:09-0500",
-      "versions": 797,
-      "bytes": 17380
+      "ticks": 7808516,
+      "sent_at": "2026-11-24T00:35:07-0500",
+      "versions": 799,
+      "bytes": 17766
     },
     {
       "name": "review-101h06m.md",
@@ -3019,10 +3027,10 @@
     {
       "name": "tier-five-miner-materials.md",
       "first_ticks": 7668498,
-      "ticks": 7723715,
-      "sent_at": "2026-11-23T23:24:27-0500",
-      "versions": 4,
-      "bytes": 3389
+      "ticks": 7799140,
+      "sent_at": "2026-11-24T00:27:19-0500",
+      "versions": 5,
+      "bytes": 4318
     },
     {
       "name": "tier-seven-components.md",
@@ -3107,10 +3115,10 @@
     {
       "name": "tungsten-from-cargo.md",
       "first_ticks": 4341114,
-      "ticks": 6238773,
-      "sent_at": "2026-11-23T02:46:58-0500",
-      "versions": 20,
-      "bytes": 11851
+      "ticks": 7803815,
+      "sent_at": "2026-11-24T00:31:12-0500",
+      "versions": 21,
+      "bytes": 12551
     },
     {
       "name": "tungsten-power-restart.md",
