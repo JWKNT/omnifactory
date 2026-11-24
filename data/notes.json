@@ -203,10 +203,10 @@
     {
       "name": "battery-hull-samples.md",
       "first_ticks": 8066727,
-      "ticks": 8066727,
-      "sent_at": "2026-11-24T04:10:18-0500",
-      "versions": 1,
-      "bytes": 864
+      "ticks": 8127068,
+      "sent_at": "2026-11-24T05:00:35-0500",
+      "versions": 2,
+      "bytes": 1123
     },
     {
       "name": "bauxite-line.md",
@@ -683,10 +683,10 @@
     {
       "name": "end-cake-and-draconium.md",
       "first_ticks": 7893212,
-      "ticks": 8085120,
-      "sent_at": "2026-11-24T04:25:38-0500",
-      "versions": 9,
-      "bytes": 4268
+      "ticks": 8108698,
+      "sent_at": "2026-11-24T04:45:16-0500",
+      "versions": 10,
+      "bytes": 4552
     },
     {
       "name": "end-steel.md",
@@ -1459,10 +1459,10 @@
     {
       "name": "large-projector-diamond-budget.md",
       "first_ticks": 7648267,
-      "ticks": 7681391,
-      "sent_at": "2026-11-23T22:49:11-0500",
-      "versions": 2,
-      "bytes": 2032
+      "ticks": 8128482,
+      "sent_at": "2026-11-24T05:01:46-0500",
+      "versions": 3,
+      "bytes": 2625
     },
     {
       "name": "lathe-order.md",
@@ -1503,6 +1503,14 @@
       "sent_at": "2026-11-19T18:07:38-0500",
       "versions": 3,
       "bytes": 1782
+    },
+    {
+      "name": "lost-cities-travel-kit.md",
+      "first_ticks": 8120985,
+      "ticks": 8120985,
+      "sent_at": "2026-11-24T04:55:31-0500",
+      "versions": 1,
+      "bytes": 448
     },
     {
       "name": "lubricant-and-wafer-cutting.md",
@@ -2235,10 +2243,10 @@
     {
       "name": "quantum-flux-from-realm-data.md",
       "first_ticks": 8057610,
-      "ticks": 8079142,
-      "sent_at": "2026-11-24T04:20:39-0500",
-      "versions": 3,
-      "bytes": 2768
+      "ticks": 8108698,
+      "sent_at": "2026-11-24T04:45:16-0500",
+      "versions": 4,
+      "bytes": 3096
     },
     {
       "name": "quantum-flux.md",
@@ -2403,10 +2411,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 8093193,
-      "sent_at": "2026-11-24T04:32:21-0500",
-      "versions": 825,
-      "bytes": 20502
+      "ticks": 8127068,
+      "sent_at": "2026-11-24T05:00:35-0500",
+      "versions": 828,
+      "bytes": 21037
     },
     {
       "name": "review-101h06m.md",
@@ -3131,10 +3139,10 @@
     {
       "name": "tier-five-miner-materials.md",
       "first_ticks": 7668498,
-      "ticks": 7936270,
-      "sent_at": "2026-11-24T02:21:35-0500",
-      "versions": 7,
-      "bytes": 5712
+      "ticks": 8108698,
+      "sent_at": "2026-11-24T04:45:16-0500",
+      "versions": 8,
+      "bytes": 6338
     },
     {
       "name": "tier-seven-components.md",

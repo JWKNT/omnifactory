@@ -11,3 +11,5 @@ The IV machine takes one IV hull, one IV pump, one IV piston, two Elite circuits
 The LV extractor ran eight Extraterrestrial Matter at 32 EU/t and delivered 4,000 mB Liquid XP. The portable tank moved the whole charge to the MV caster with its ball mold. Seventeen Solidified Experience were visible in the output while the rest of the charge was casting. The IV extractor still needs its own hull, motor fittings and the two Crystal Circuits.
 
 All 25 Solidified Experience were recovered. Six bench crafts used 24 of them and 30 more Extraterrestrial Matter. The factory now holds 24 Impossible Realm Data. The fluid extractor outlet was restored. Run one data through the new IV extractor first, then fit the top interface for recurring ME orders.
+
+The IV hull for the extractor has returned from the polyethylene assembler. The HV assembler took four tungstensteel plates and a ring for the pump rotor. Twelve purified nickel piles are available for the platinum leads: each returns three tiny platinum dust in the ore centrifuge. Keep the remainder for upcoming EV sensors.
