@@ -537,6 +537,14 @@
       "bytes": 3799
     },
     {
+      "name": "crystal-return-line.md",
+      "first_ticks": 7870640,
+      "ticks": 7882726,
+      "sent_at": "2026-11-24T01:36:58-0500",
+      "versions": 2,
+      "bytes": 1399
+    },
+    {
       "name": "crystal-workshop-power.md",
       "first_ticks": 6956890,
       "ticks": 7738201,
@@ -1745,6 +1753,14 @@
       "bytes": 13082
     },
     {
+      "name": "naquadah-coil-set.md",
+      "first_ticks": 7876001,
+      "ticks": 7876001,
+      "sent_at": "2026-11-24T01:31:22-0500",
+      "versions": 1,
+      "bytes": 1144
+    },
+    {
       "name": "neon-from-the-air-tower.md",
       "first_ticks": 7027671,
       "ticks": 7103361,
@@ -2329,12 +2345,20 @@
       "bytes": 1335
     },
     {
+      "name": "repeat-tungsten-shipment.md",
+      "first_ticks": 7886763,
+      "ticks": 7886763,
+      "sent_at": "2026-11-24T01:40:20-0500",
+      "versions": 1,
+      "bytes": 1009
+    },
+    {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 7861853,
-      "sent_at": "2026-11-24T01:19:34-0500",
-      "versions": 805,
-      "bytes": 18050
+      "ticks": 7886765,
+      "sent_at": "2026-11-24T01:40:20-0500",
+      "versions": 807,
+      "bytes": 17911
     },
     {
       "name": "review-101h06m.md",
@@ -2371,10 +2395,10 @@
     {
       "name": "review-109h10m.md",
       "first_ticks": 7861596,
-      "ticks": 7861596,
-      "sent_at": "2026-11-24T01:19:21-0500",
-      "versions": 1,
-      "bytes": 2666
+      "ticks": 7882726,
+      "sent_at": "2026-11-24T01:36:58-0500",
+      "versions": 2,
+      "bytes": 2658
     },
     {
       "name": "review-29h49m.md",
