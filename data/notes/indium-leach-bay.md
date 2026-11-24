@@ -41,3 +41,5 @@ The EV reduction return delivered 4,000 mB of lead-zinc solution automatically a
 The EV reactor completed a native order for eight tiny piles. Eight were seen in storage with the reactor empty, and a follow-on order for one raised the total to nine. The paired oxide and reduction outputs can now feed another phosphide charge.
 
 The leacher now has a powered two-filter export bus at (19,83,−12). Its capacity card unlocks the second filter. Galena arrived through the first filter and sphalerite through the second. The leacher used 4,000 mB of its acid and sent another 1,000 mB concentrate to fluid storage. The EV reduction cell held four earlier buckets. The pure ore needs no more trips from the player.
+
+At 107h57m both ore slots held 64 purified sphalerite. The galena filter had nothing to insert into. The tender now swaps one stack on the cursor so the export bus never sees an empty slot during the exchange. It installed 24 purified galena, and the next heat left 23 with 3,075 mB acid. ME received 1,000 mB concentrate. The acid reserve was 43,000 mB, enough for ten further pairs. The EV cell already had 24 aluminium dust reserved by a Quantumprocessor order.
