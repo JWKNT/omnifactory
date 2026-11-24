@@ -1563,10 +1563,10 @@
     {
       "name": "medium-projector-shell.md",
       "first_ticks": 7086569,
-      "ticks": 7540598,
-      "sent_at": "2026-11-23T20:51:51-0500",
-      "versions": 23,
-      "bytes": 12707
+      "ticks": 7607324,
+      "sent_at": "2026-11-23T21:47:28-0500",
+      "versions": 24,
+      "bytes": 13496
     },
     {
       "name": "metal-models.md",
@@ -2227,10 +2227,10 @@
     {
       "name": "refinery-fuel-power.md",
       "first_ticks": 7395508,
-      "ticks": 7490838,
-      "sent_at": "2026-11-23T20:10:24-0500",
-      "versions": 2,
-      "bytes": 2509
+      "ticks": 7623446,
+      "sent_at": "2026-11-23T22:00:54-0500",
+      "versions": 3,
+      "bytes": 3052
     },
     {
       "name": "refinery-grid.md",
@@ -2275,10 +2275,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 7590872,
-      "sent_at": "2026-11-23T21:33:45-0500",
-      "versions": 782,
-      "bytes": 14773
+      "ticks": 7623448,
+      "sent_at": "2026-11-23T22:00:54-0500",
+      "versions": 784,
+      "bytes": 14825
     },
     {
       "name": "review-101h06m.md",
