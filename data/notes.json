@@ -275,10 +275,10 @@
     {
       "name": "breeder-cooling-and-cells.md",
       "first_ticks": 5150449,
-      "ticks": 7942039,
-      "sent_at": "2026-11-24T02:26:24-0500",
-      "versions": 7,
-      "bytes": 4100
+      "ticks": 7969393,
+      "sent_at": "2026-11-24T02:49:11-0500",
+      "versions": 8,
+      "bytes": 4394
     },
     {
       "name": "brewery-cane.md",
@@ -451,10 +451,10 @@
     {
       "name": "coal-to-carbon.md",
       "first_ticks": 7949164,
-      "ticks": 7949164,
-      "sent_at": "2026-11-24T02:32:20-0500",
-      "versions": 1,
-      "bytes": 940
+      "ticks": 7966338,
+      "sent_at": "2026-11-24T02:46:38-0500",
+      "versions": 2,
+      "bytes": 1293
     },
     {
       "name": "cobaltite.md",
@@ -555,10 +555,10 @@
     {
       "name": "crystal-workshop-power.md",
       "first_ticks": 6956890,
-      "ticks": 7738201,
-      "sent_at": "2026-11-23T23:36:32-0500",
-      "versions": 6,
-      "bytes": 5071
+      "ticks": 7980889,
+      "sent_at": "2026-11-24T02:58:46-0500",
+      "versions": 8,
+      "bytes": 6244
     },
     {
       "name": "crystal-workshop-storage.md",
@@ -675,10 +675,10 @@
     {
       "name": "end-cake-and-draconium.md",
       "first_ticks": 7893212,
-      "ticks": 7942039,
-      "sent_at": "2026-11-24T02:26:24-0500",
-      "versions": 2,
-      "bytes": 1158
+      "ticks": 7966338,
+      "sent_at": "2026-11-24T02:46:38-0500",
+      "versions": 3,
+      "bytes": 1841
     },
     {
       "name": "end-steel.md",
@@ -2371,10 +2371,10 @@
     {
       "name": "renewable-pulsating-dust.md",
       "first_ticks": 7132784,
-      "ticks": 7152325,
-      "sent_at": "2026-11-23T15:28:16-0500",
-      "versions": 2,
-      "bytes": 1335
+      "ticks": 7984042,
+      "sent_at": "2026-11-24T03:01:24-0500",
+      "versions": 3,
+      "bytes": 1911
     },
     {
       "name": "repeat-tungsten-shipment.md",
@@ -2387,10 +2387,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 7958463,
-      "sent_at": "2026-11-24T02:40:05-0500",
-      "versions": 810,
-      "bytes": 18768
+      "ticks": 7980889,
+      "sent_at": "2026-11-24T02:58:46-0500",
+      "versions": 812,
+      "bytes": 18783
     },
     {
       "name": "review-101h06m.md",
