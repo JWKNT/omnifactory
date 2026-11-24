@@ -7,3 +7,5 @@ Use a second item input bus at (44,82,−12). The first input stays on its ME in
 At 124h36m the new LV Input Bus replaced the top west casing. The controller formed again with both item inputs installed. A flight from the east aisle caught on the overhead cables. The west approach allows the bus to be placed against the neighboring top casing. The conduit branch and a cold-metal receipt are still outstanding.
 
 At 124h54m all six item conduits were in place. The final downward connection at (44,83,−12) is set to insert on red with positive priority. The freezer is formed. The next test is to follow an ordinary hot ingot from a furnace through this inlet and verify that the cold ingot reaches ME.
+
+At 125h06m the fourth blast furnace finished three Vanadium Ingots and one Gallium Ingot. The new top bus received four Hot Vanadium-Gallium Ingots. I watched the east controller cool the first with three waiting, saw the cold ingots pass through its output bus, and counted ME stock rising from zero to four. The west controller remained idle throughout. This verifies ordinary hot-metal routing and automatic cold return, including multiple ingots from one furnace cycle.
