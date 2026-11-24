@@ -25,3 +25,7 @@ At 114h25m ME held 9,840 mB of canola oil and 72,000 mB of methanol. The install
 At 114h54m the remaining three 16-bucket tank transfers reached ME. The reactor input is clear for the first crop-oil charge.
 
 At 115h29m the new reactor return at (7,82,-7) reported an active west-facing ME fluid import bus. Its first six buckets of canola oil had reached the reactor. ME still held 5,360 mB of oil, 102 buckets of methanol and eight tiny sodium hydroxide piles. Add one bucket of methanol and one tiny pile, then check the amount of each product reaching ME. The acid still must supply the hydrochloric acid for the following reaction.
+
+At 115h46m the resin reactor held 7,600 mB naphtha and 5,000 mB nitrogen dioxide, but only 64 mB epichlorohydrin. An ME Quantumprocessor order was waiting for one fiber-reinforced epoxy sheet. The resin tender now checks the crop reactor for a funded oil or glycerol charge when it is short of epichlorohydrin. One bucket of recovered acid can also come from the silicone reactor once it holds at least seven, leaving six for a full rubber batch.
+
+The first six-bucket canola charge delivered 6,000 mB biodiesel and 1,000 mB glycerol into ME. The resin line can use that glycerol after the next hydrochloric acid transfer.

@@ -33,3 +33,5 @@ All nine U-235 clumps for the first nine fuel items have been collected. The HV 
 A further eighteen common clumps came out of the running centrifuge, bringing the collected count to 33 of 72. I found another 40 common dust in storage, enough to finish the fuel bill even without counting the rest of the charge already in the machine. The new ME Interface order is running. It shares the aluminium furnace with the guidance sensor materials.
 
 At 115h08m the final 32-item charge had ended. Sixty-two common clumps were already in inventory or ME and the machine showed ten more outputs with an empty input. All seventy-two common and nine rare clumps for the first nine game fuel items are accounted for.
+
+The interface at (10,86,2) now has both encoded recipes. ME can request common and rare clumps independently for later fuel batches. The workshop also finished the Fission Controller.
