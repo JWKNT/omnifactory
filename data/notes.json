@@ -291,18 +291,18 @@
     {
       "name": "breeder-coproducts.md",
       "first_ticks": 8396929,
-      "ticks": 8455503,
-      "sent_at": "2026-11-24T09:34:17-0500",
-      "versions": 4,
-      "bytes": 2179
+      "ticks": 8540655,
+      "sent_at": "2026-11-24T10:45:14-0500",
+      "versions": 5,
+      "bytes": 2508
     },
     {
       "name": "breeder-power-outlet.md",
       "first_ticks": 8427177,
-      "ticks": 8427177,
-      "sent_at": "2026-11-24T09:10:40-0500",
-      "versions": 1,
-      "bytes": 1048
+      "ticks": 8560366,
+      "sent_at": "2026-11-24T11:01:40-0500",
+      "versions": 2,
+      "bytes": 1744
     },
     {
       "name": "brewery-cane.md",
@@ -651,10 +651,10 @@
     {
       "name": "draconium-furnace-and-freezer.md",
       "first_ticks": 8481994,
-      "ticks": 8514739,
-      "sent_at": "2026-11-24T10:23:38-0500",
-      "versions": 2,
-      "bytes": 1674
+      "ticks": 8539806,
+      "sent_at": "2026-11-24T10:44:32-0500",
+      "versions": 3,
+      "bytes": 2200
     },
     {
       "name": "drawer-network.md",
@@ -699,10 +699,10 @@
     {
       "name": "east-metal-freezer.md",
       "first_ticks": 8497828,
-      "ticks": 8497828,
-      "sent_at": "2026-11-24T10:09:33-0500",
-      "versions": 1,
-      "bytes": 1942
+      "ticks": 8546975,
+      "sent_at": "2026-11-24T10:50:30-0500",
+      "versions": 2,
+      "bytes": 2453
     },
     {
       "name": "ebf-running.md",
@@ -1003,10 +1003,10 @@
     {
       "name": "first-naquadah-boule.md",
       "first_ticks": 8360823,
-      "ticks": 8514739,
-      "sent_at": "2026-11-24T10:23:38-0500",
-      "versions": 5,
-      "bytes": 3610
+      "ticks": 8558248,
+      "sent_at": "2026-11-24T10:59:54-0500",
+      "versions": 7,
+      "bytes": 4742
     },
     {
       "name": "first-nether-star.md",
@@ -1083,10 +1083,10 @@
     {
       "name": "first-zpm-hull.md",
       "first_ticks": 8510284,
-      "ticks": 8532541,
-      "sent_at": "2026-11-24T10:38:29-0500",
-      "versions": 2,
-      "bytes": 2022
+      "ticks": 8544111,
+      "sent_at": "2026-11-24T10:48:07-0500",
+      "versions": 3,
+      "bytes": 2760
     },
     {
       "name": "fleet-dynamo-gears.md",
@@ -2475,10 +2475,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 8530648,
-      "sent_at": "2026-11-24T10:36:54-0500",
-      "versions": 878,
-      "bytes": 25186
+      "ticks": 8558828,
+      "sent_at": "2026-11-24T11:00:23-0500",
+      "versions": 880,
+      "bytes": 25486
     },
     {
       "name": "review-101h06m.md",
@@ -3271,6 +3271,14 @@
       "sent_at": "2026-11-23T01:02:11-0500",
       "versions": 5,
       "bytes": 2588
+    },
+    {
+      "name": "tier-six-enderium.md",
+      "first_ticks": 8552099,
+      "ticks": 8552504,
+      "sent_at": "2026-11-24T10:55:07-0500",
+      "versions": 2,
+      "bytes": 2335
     },
     {
       "name": "tier-two-miner-order.md",
