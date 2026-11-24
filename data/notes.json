@@ -283,10 +283,10 @@
     {
       "name": "breeder-cooling-and-cells.md",
       "first_ticks": 5150449,
-      "ticks": 8096999,
-      "sent_at": "2026-11-24T04:35:31-0500",
-      "versions": 11,
-      "bytes": 5670
+      "ticks": 8180923,
+      "sent_at": "2026-11-24T05:45:28-0500",
+      "versions": 12,
+      "bytes": 6080
     },
     {
       "name": "brewery-cane.md",
@@ -699,10 +699,10 @@
     {
       "name": "epoxy-coater.md",
       "first_ticks": 3336950,
-      "ticks": 8161738,
-      "sent_at": "2026-11-24T05:29:28-0500",
-      "versions": 7,
-      "bytes": 3770
+      "ticks": 8190493,
+      "sent_at": "2026-11-24T05:53:26-0500",
+      "versions": 8,
+      "bytes": 4250
     },
     {
       "name": "epoxy-feed.md",
@@ -1019,10 +1019,10 @@
     {
       "name": "first-thermal-centrifuge.md",
       "first_ticks": 7836185,
-      "ticks": 8175814,
-      "sent_at": "2026-11-24T05:41:12-0500",
-      "versions": 6,
-      "bytes": 5968
+      "ticks": 8190493,
+      "sent_at": "2026-11-24T05:53:26-0500",
+      "versions": 8,
+      "bytes": 6588
     },
     {
       "name": "first-tier-three.md",
@@ -2411,10 +2411,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 8156697,
-      "sent_at": "2026-11-24T05:25:16-0500",
-      "versions": 832,
-      "bytes": 21100
+      "ticks": 8190493,
+      "sent_at": "2026-11-24T05:53:26-0500",
+      "versions": 834,
+      "bytes": 21391
     },
     {
       "name": "review-101h06m.md",
@@ -2923,10 +2923,10 @@
     {
       "name": "signalum-engine-smelter.md",
       "first_ticks": 7640775,
-      "ticks": 7716212,
-      "sent_at": "2026-11-23T23:18:12-0500",
-      "versions": 6,
-      "bytes": 2837
+      "ticks": 8180923,
+      "sent_at": "2026-11-24T05:45:28-0500",
+      "versions": 7,
+      "bytes": 3068
     },
     {
       "name": "signalum-line.md",
@@ -3131,10 +3131,10 @@
     {
       "name": "third-bay-pearl-supply.md",
       "first_ticks": 8175814,
-      "ticks": 8175814,
-      "sent_at": "2026-11-24T05:41:12-0500",
-      "versions": 1,
-      "bytes": 936
+      "ticks": 8194118,
+      "sent_at": "2026-11-24T05:56:27-0500",
+      "versions": 2,
+      "bytes": 1357
     },
     {
       "name": "third-blast-site.md",
@@ -3259,10 +3259,10 @@
     {
       "name": "tungsten-throughput.md",
       "first_ticks": 7914700,
-      "ticks": 7914700,
-      "sent_at": "2026-11-24T02:03:37-0500",
-      "versions": 1,
-      "bytes": 2175
+      "ticks": 8184236,
+      "sent_at": "2026-11-24T05:48:13-0500",
+      "versions": 3,
+      "bytes": 3333
     },
     {
       "name": "tungstensteel-coil-bill.md",

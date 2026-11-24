@@ -15,3 +15,5 @@ At 106h40m the EV smelter was installed and held 4,090 EU. Mounting from the eas
 The first core started at 2,000 EU/t for 1,000 ticks, then lost progress. The EV CEF still held 10,065,536 EU. Inspection from the aisle found air where the one-amp aluminium branch had been. The smelter accepts two amps for charging. A quadruple aluminium cable or a double platinum cable is rated for all four amps of the CEF. Two spare platinum cables are available to make the double. Install it from (21,80,-9), then verify sustained progress and the finished output.
 
 Two single platinum leads made the double platinum supply at (20,83,-9). It can carry four amps. The EV smelter finished both engine cores and the Tier Four ship consumed them. Reserve the bay for the next two Tier Five cores.
+
+The ME interface at (20,84,−8) now holds the processing pattern for Signalum engine cores. The reachable place to open it is directly above at (20,85,−8). The pattern installation was verified before requesting the next ship.
