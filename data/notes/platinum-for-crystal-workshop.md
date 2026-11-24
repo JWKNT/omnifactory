@@ -1,0 +1,7 @@
+# Platinum for the crystal workshop
+
+At 102h34m the workshop had six Nano CPUs, six QBit CPUs, eleven multilayer boards and no fine platinum wire. Four Quantumprocessors need just two fine wires, four SMD capacitors, two transistors, a board and one of each CPU. The fifth furnace converter and the medium projector controller both accept that four-output circuit grade. The alternative Nano Processor Assembly yields fewer circuits per craft.
+
+Buy one lot of 32 platinum ore for two OmniQuarters if the metal, wire and nickel by-products on hand cannot cover the charge. Smelt four ore in the bulk furnace or the ordinary fuelled furnaces for four ingots. Each ingot yields two wires, and each wire yields four fine wires. This supplies up to 32 fine wires without taking the HV mill away from Moon Turf. Keep the remaining 28 ore for doubling in the mill. Centrifuging impure platinum dust can also yield tiny iridium dust. Save it until the main ore flight. Washed nickel remains a renewable source of platinum dust in three-tiny-pile by-products, and the repeat lunar miner delivered another 64 nickel ore. The spacecraft and the later IV engraver will both use the stock.
+
+The inventory check found 36 purified nickel dust already in ME. JEI lists one nickel dust and three tiny platinum dust as fixed centrifuge outputs. Twelve purified dust therefore cover the first four platinum ingots. Send that load before considering any coin purchase.

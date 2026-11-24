@@ -123,10 +123,10 @@
     {
       "name": "assembly-iron-and-coal.md",
       "first_ticks": 5961706,
-      "ticks": 6472400,
-      "sent_at": "2026-11-23T06:01:39-0500",
-      "versions": 3,
-      "bytes": 1781
+      "ticks": 7409136,
+      "sent_at": "2026-11-23T19:02:18-0500",
+      "versions": 4,
+      "bytes": 2581
     },
     {
       "name": "assembly-line-item-relays.md",
@@ -339,10 +339,10 @@
     {
       "name": "canola-by-the-grove.md",
       "first_ticks": 7322432,
-      "ticks": 7322432,
-      "sent_at": "2026-11-23T17:50:01-0500",
-      "versions": 1,
-      "bytes": 803
+      "ticks": 7406658,
+      "sent_at": "2026-11-23T19:00:14-0500",
+      "versions": 2,
+      "bytes": 996
     },
     {
       "name": "centrifuge-water-return.md",
@@ -1913,6 +1913,14 @@
       "bytes": 5173
     },
     {
+      "name": "platinum-for-crystal-workshop.md",
+      "first_ticks": 7386771,
+      "ticks": 7387518,
+      "sent_at": "2026-11-23T18:44:15-0500",
+      "versions": 2,
+      "bytes": 1449
+    },
+    {
       "name": "polyethylene-oxygen.md",
       "first_ticks": 3963820,
       "ticks": 4016346,
@@ -2161,6 +2169,14 @@
       "bytes": 2650
     },
     {
+      "name": "refinery-fuel-power.md",
+      "first_ticks": 7395508,
+      "ticks": 7395508,
+      "sent_at": "2026-11-23T18:50:57-0500",
+      "versions": 1,
+      "bytes": 1835
+    },
+    {
       "name": "refinery-grid.md",
       "first_ticks": 3305321,
       "ticks": 3407019,
@@ -2203,10 +2219,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 7381468,
-      "sent_at": "2026-11-23T18:39:13-0500",
-      "versions": 766,
-      "bytes": 12402
+      "ticks": 7402168,
+      "sent_at": "2026-11-23T18:56:30-0500",
+      "versions": 767,
+      "bytes": 12699
     },
     {
       "name": "review-101h06m.md",
