@@ -49,6 +49,14 @@
       "bytes": 1950
     },
     {
+      "name": "aluminium-stock-drawer.md",
+      "first_ticks": 8565599,
+      "ticks": 8565599,
+      "sent_at": "2026-11-24T11:06:01-0500",
+      "versions": 1,
+      "bytes": 1126
+    },
+    {
       "name": "aluminium.md",
       "first_ticks": 182095,
       "ticks": 1457910,
@@ -291,10 +299,10 @@
     {
       "name": "breeder-coproducts.md",
       "first_ticks": 8396929,
-      "ticks": 8540655,
-      "sent_at": "2026-11-24T10:45:14-0500",
-      "versions": 5,
-      "bytes": 2508
+      "ticks": 8583928,
+      "sent_at": "2026-11-24T11:21:18-0500",
+      "versions": 6,
+      "bytes": 3226
     },
     {
       "name": "breeder-power-outlet.md",
@@ -651,10 +659,10 @@
     {
       "name": "draconium-furnace-and-freezer.md",
       "first_ticks": 8481994,
-      "ticks": 8539806,
-      "sent_at": "2026-11-24T10:44:32-0500",
-      "versions": 3,
-      "bytes": 2200
+      "ticks": 8568325,
+      "sent_at": "2026-11-24T11:08:18-0500",
+      "versions": 4,
+      "bytes": 2588
     },
     {
       "name": "drawer-network.md",
@@ -1003,10 +1011,10 @@
     {
       "name": "first-naquadah-boule.md",
       "first_ticks": 8360823,
-      "ticks": 8558248,
-      "sent_at": "2026-11-24T10:59:54-0500",
-      "versions": 7,
-      "bytes": 4742
+      "ticks": 8568325,
+      "sent_at": "2026-11-24T11:08:18-0500",
+      "versions": 8,
+      "bytes": 5027
     },
     {
       "name": "first-nether-star.md",
@@ -1859,10 +1867,10 @@
     {
       "name": "naquadah-coil-set.md",
       "first_ticks": 7876001,
-      "ticks": 7876001,
-      "sent_at": "2026-11-24T01:31:22-0500",
-      "versions": 1,
-      "bytes": 1144
+      "ticks": 8579652,
+      "sent_at": "2026-11-24T11:17:44-0500",
+      "versions": 2,
+      "bytes": 1539
     },
     {
       "name": "neon-from-the-air-tower.md",
@@ -2475,10 +2483,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 8558828,
-      "sent_at": "2026-11-24T11:00:23-0500",
-      "versions": 880,
-      "bytes": 25486
+      "ticks": 8580782,
+      "sent_at": "2026-11-24T11:18:41-0500",
+      "versions": 883,
+      "bytes": 25835
     },
     {
       "name": "review-101h06m.md",
@@ -2551,6 +2559,14 @@
       "sent_at": "2026-11-24T09:16:54-0500",
       "versions": 1,
       "bytes": 3588
+    },
+    {
+      "name": "review-119h08m.md",
+      "first_ticks": 8579652,
+      "ticks": 8579652,
+      "sent_at": "2026-11-24T11:17:44-0500",
+      "versions": 1,
+      "bytes": 3564
     },
     {
       "name": "review-29h49m.md",
@@ -3107,10 +3123,10 @@
     {
       "name": "soc-engraver.md",
       "first_ticks": 8520042,
-      "ticks": 8520042,
-      "sent_at": "2026-11-24T10:28:04-0500",
-      "versions": 1,
-      "bytes": 1563
+      "ticks": 8580782,
+      "sent_at": "2026-11-24T11:18:41-0500",
+      "versions": 3,
+      "bytes": 2896
     },
     {
       "name": "sodium-hydroxide.md",

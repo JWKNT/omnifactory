@@ -1,0 +1,5 @@
+# A bounded aluminium stock beside the northern mills
+
+Since 117h08m the workshop has submitted orders totaling over 100 aluminium ingots. The freezer frames, MV hulls, robot arms and ME interfaces all draw on the same alloy. Bauxite feeds the MV separator and the west furnace has a working ingot pattern. The missing part is a reserve that refills while the player is working elsewhere.
+
+Put a one-slot basic drawer at (4,82,−11), above the clay drawer and north of the cable carrying the drawer controller’s storage bus. The controller already exposes its connected drawers to ME with extraction-only access. Fit the Storage Downgrade before commissioning the export bus. This caps the new stock at 64 ingots. Mount an item export bus on the north face of the cable at (4,82,−10), install one Crafting Card and select the actual AE2 “craft only” behavior. Set its only filter to Aluminium Ingot. This avoids circulating available ingots from the drawer back into itself. Verify a new ingot in the drawer after entering the filter. Keep plate and rod recipes on demand so consumers can use the reserve for either.
