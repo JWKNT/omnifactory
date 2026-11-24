@@ -1,0 +1,7 @@
+# Lumium demand at the first fusion reactor
+
+Page 287 pays ten quarters after the Superconducting Coil Block, Fusion Coils and Implosion Compressor pages. The retrieval list asks for 80 LuV machine casings, 32 superconducting coil blocks, the controller, two fluid inputs, one fluid output and sixteen energy inputs. The book says that building with those three fluid hatches adds another 28 LuV casings. All sixteen energy hatches are needed to reach the full 160 million EU starting buffer.
+
+Live JEI gives eight Lumium Plates per LuV casing in the assembler. That makes 640 plates for the quest's loose casings, or 864 for the three-fluid-hatch structure, before the sixteen LuV hulls in the energy hatches. The circuit-eight casing assembler being built for today's MV interfaces can also run the Lumium recipe. Each of the 32 superconducting coils uses eight double wires, so reserve capacity for 256 double wires across the coil order.
+
+Keep the fourth furnace's Primal Mana delivery and cold-product return usable after the two Signalum ships. Measure Lumium production over a full stack before assigning the fusion bill. Reserve open floor for the ring and the fluid hatches. The first Europium order will take molten neodymium and hydrogen. The book warns that stopping fusion loses heat quickly, so stage both input fluids before funding startup. The current IV power branch and its fuel trial are for the miners. Size fusion generation against its actual recipe and starting buffer when the controller is reachable.
