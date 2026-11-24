@@ -9,3 +9,5 @@ Use the south two roof hatches at (44,82,−11) and (45,82,−11). A four-amp HV
 For the prototype, feed the west item bus at (44,81,−12) and take cold metal from (46,80,−12). Give the north fluid inlet its own filtered Cryotheum supply. Keep the existing red freezer route running until a hot ingot has passed through the new unit and its cold output has reached ME.
 
 Give the freezer a native cold-Draconium order. Its west input at (44,81,−12) can take a full ME interface at (43,81,−12) from a three-segment spur off the fifth furnace cable. Carry the same network along z−10 to x47, then north and down to an import bus east of the floor output at (46,80,−12). Keep the input hatch on the north face for the measured 2,000 mB coolant charge. The future sixth furnace can return hot metal to ME so its heats and the cooling step appear separately in a crafting plan.
+
+At 122h15m the six final roof casings were in place. The east-facing controller reported a formed multiblock, 2,048 V and 16,288 EU stored across its two HV hatches. The intake interface is installed. Finish the east cold-item return and verify a Draconium ingot in ME before ordering the rest.
