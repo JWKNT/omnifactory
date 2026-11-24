@@ -2427,10 +2427,10 @@
     {
       "name": "refinery-air.md",
       "first_ticks": 3137058,
-      "ticks": 3756014,
-      "sent_at": "2026-11-21T16:10:45-0500",
-      "versions": 13,
-      "bytes": 8286
+      "ticks": 8777868,
+      "sent_at": "2026-11-24T14:02:55-0500",
+      "versions": 14,
+      "bytes": 9022
     },
     {
       "name": "refinery-bath-orders.md",
@@ -2515,10 +2515,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 8745398,
-      "sent_at": "2026-11-24T13:35:51-0500",
-      "versions": 900,
-      "bytes": 6724
+      "ticks": 8763687,
+      "sent_at": "2026-11-24T13:51:06-0500",
+      "versions": 902,
+      "bytes": 7333
     },
     {
       "name": "review-101h06m.md",
@@ -3339,10 +3339,10 @@
     {
       "name": "tier-six-enderium.md",
       "first_ticks": 8552099,
-      "ticks": 8674865,
-      "sent_at": "2026-11-24T12:37:05-0500",
-      "versions": 6,
-      "bytes": 4508
+      "ticks": 8760286,
+      "sent_at": "2026-11-24T13:48:16-0500",
+      "versions": 7,
+      "bytes": 4990
     },
     {
       "name": "tier-two-miner-order.md",
@@ -3675,10 +3675,10 @@
     {
       "name": "zpm-motion-power.md",
       "first_ticks": 8658081,
-      "ticks": 8736020,
-      "sent_at": "2026-11-24T13:28:02-0500",
-      "versions": 3,
-      "bytes": 3094
+      "ticks": 8769822,
+      "sent_at": "2026-11-24T13:56:13-0500",
+      "versions": 4,
+      "bytes": 4127
     }
   ]
 }

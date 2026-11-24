@@ -1,6 +1,8 @@
 # Start here · Astra in progress
 
-This session is playing Astra. At **121h26m**, 415 of 644 chapter quests are complete (417 of 822 database entries). The recorder is on. The [End grave recovery](end-grave-and-dragon-breath.md) is complete and the single acting workshop campaign is running. Its process group is recorded in `run/iv-campaign.pgid`. This is an active handoff. The most recent strategic review was at 121h10m and the next is due at **123h10m**.
+This session is playing Astra. At **121h43m**, 416 of 644 distinct chapter quests are complete (418 of 822 database entries). The first Enderium ingot paid an OmniNickel on page 750. The recorder is on. The [End grave recovery](end-grave-and-dragon-breath.md) is complete and the single acting workshop campaign is running. Its process group is recorded in `run/iv-campaign.pgid`. This is an active handoff. The most recent strategic review was at 121h10m and the next is due at **123h10m**.
+
+The sixth furnace has both charged HV hatches and returned [its first Enderium](tier-six-enderium.md). Three stainless pipe runs and four steel rings have been through the extruders for the east freezer. The multilayer-board CPU is waiting for reinforced epoxy sheet. The MV gas reactor took 16 buckets of nitrogen after 7 buckets of residual hydrogen were recovered. Its output reached the resin reactor and 288 mB of resin reached ME. The Growth Chamber now has the recipe for two Fluix Crystals. It still needs its blue output connection.
 
 At the start of a new session, read these in order:
 
