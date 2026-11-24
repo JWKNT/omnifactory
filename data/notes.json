@@ -299,10 +299,10 @@
     {
       "name": "breeder-coproducts.md",
       "first_ticks": 8396929,
-      "ticks": 8583928,
-      "sent_at": "2026-11-24T11:21:18-0500",
-      "versions": 6,
-      "bytes": 3226
+      "ticks": 9034299,
+      "sent_at": "2026-11-24T17:36:36-0500",
+      "versions": 8,
+      "bytes": 3820
     },
     {
       "name": "breeder-power-outlet.md",
@@ -587,10 +587,10 @@
     {
       "name": "crystal-mainframe-pilot.md",
       "first_ticks": 8879860,
-      "ticks": 9001914,
-      "sent_at": "2026-11-24T17:09:37-0500",
-      "versions": 7,
-      "bytes": 5026
+      "ticks": 9034299,
+      "sent_at": "2026-11-24T17:36:36-0500",
+      "versions": 10,
+      "bytes": 6497
     },
     {
       "name": "crystal-mission-consumables.md",
@@ -931,10 +931,10 @@
     {
       "name": "extraterrestrial-models.md",
       "first_ticks": 7379541,
-      "ticks": 9001914,
-      "sent_at": "2026-11-24T17:09:37-0500",
-      "versions": 4,
-      "bytes": 2462
+      "ticks": 9038556,
+      "sent_at": "2026-11-24T17:40:09-0500",
+      "versions": 5,
+      "bytes": 2771
     },
     {
       "name": "extruder-power.md",
@@ -2571,10 +2571,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 9011843,
-      "sent_at": "2026-11-24T17:17:54-0500",
-      "versions": 935,
-      "bytes": 12294
+      "ticks": 9038556,
+      "sent_at": "2026-11-24T17:40:09-0500",
+      "versions": 939,
+      "bytes": 9698
     },
     {
       "name": "review-101h06m.md",
@@ -2675,10 +2675,10 @@
     {
       "name": "review-125h10m.md",
       "first_ticks": 9011843,
-      "ticks": 9011843,
-      "sent_at": "2026-11-24T17:17:54-0500",
-      "versions": 1,
-      "bytes": 3791
+      "ticks": 9024428,
+      "sent_at": "2026-11-24T17:28:23-0500",
+      "versions": 2,
+      "bytes": 3884
     },
     {
       "name": "review-29h49m.md",
@@ -3195,10 +3195,10 @@
     {
       "name": "sixth-furnace-fluid-ports.md",
       "first_ticks": 8785259,
-      "ticks": 8906730,
-      "sent_at": "2026-11-24T15:50:18-0500",
-      "versions": 2,
-      "bytes": 1286
+      "ticks": 9032248,
+      "sent_at": "2026-11-24T17:34:54-0500",
+      "versions": 3,
+      "bytes": 1526
     },
     {
       "name": "slot-transfers.md",
@@ -3771,10 +3771,10 @@
     {
       "name": "zpm-motion-power.md",
       "first_ticks": 8658081,
-      "ticks": 9008019,
-      "sent_at": "2026-11-24T17:14:42-0500",
-      "versions": 9,
-      "bytes": 6964
+      "ticks": 9034299,
+      "sent_at": "2026-11-24T17:36:36-0500",
+      "versions": 10,
+      "bytes": 7296
     }
   ]
 }
