@@ -1,0 +1,5 @@
+# First iridium and osmium flight
+
+The elite table finished the Tier Four miner and page 251 paid an OmniQuarter. The medium projector accepted the ship, 64 Petrotheum Dust, eight Quantum Flux and four Wither Realm Data. Its controller ran at 3,750 EU/t for 800 ticks. The west export bus at (20,80,-28) held exactly 64 + 64 Iridium Ore and 16 Osmium Ore. Use the west aisle at (19,80,-28) to unload.
+
+Each raw ore yields two crushed ore in the HV mill. Grinding crushed iridium can also recover platinum dust; crushed osmium can return iridium dust. Finish the impure piles in the HV centrifuge and freeze the hot ingots after the blast furnace. Start with two ore of each kind. Keep one cold metal of each species for page 253, three more iridium and one more osmium for its alloy, and the remaining osmium for rods. Reserve 24 iridium ingots' worth for the first twelve Tier Five heavy plates. The native mill and centrifuge interfaces both have all their current slots occupied. Fit expansion cards for the repeat cargo recipes; the pilot uses those same machines.
