@@ -347,10 +347,10 @@
     {
       "name": "canola-seed-oil.md",
       "first_ticks": 7520723,
-      "ticks": 7708290,
-      "sent_at": "2026-11-23T23:11:36-0500",
-      "versions": 3,
-      "bytes": 2501
+      "ticks": 7732729,
+      "sent_at": "2026-11-23T23:31:58-0500",
+      "versions": 4,
+      "bytes": 3444
     },
     {
       "name": "centrifuge-water-return.md",
@@ -539,10 +539,10 @@
     {
       "name": "crystal-workshop-power.md",
       "first_ticks": 6956890,
-      "ticks": 7328706,
-      "sent_at": "2026-11-23T17:55:15-0500",
-      "versions": 5,
-      "bytes": 4133
+      "ticks": 7738201,
+      "sent_at": "2026-11-23T23:36:32-0500",
+      "versions": 6,
+      "bytes": 5071
     },
     {
       "name": "deuterium.md",
@@ -779,10 +779,10 @@
     {
       "name": "extended-crafting-after-osmium.md",
       "first_ticks": 7201963,
-      "ticks": 7201963,
-      "sent_at": "2026-11-23T16:09:38-0500",
-      "versions": 1,
-      "bytes": 1552
+      "ticks": 7723715,
+      "sent_at": "2026-11-23T23:24:27-0500",
+      "versions": 2,
+      "bytes": 2858
     },
     {
       "name": "extraterrestrial-models.md",
@@ -883,10 +883,10 @@
     {
       "name": "first-medium-cargo.md",
       "first_ticks": 7718930,
-      "ticks": 7718930,
-      "sent_at": "2026-11-23T23:20:28-0500",
-      "versions": 1,
-      "bytes": 1069
+      "ticks": 7736496,
+      "sent_at": "2026-11-23T23:35:06-0500",
+      "versions": 2,
+      "bytes": 1994
     },
     {
       "name": "first-metals.md",
@@ -2299,10 +2299,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 7718930,
-      "sent_at": "2026-11-23T23:20:28-0500",
-      "versions": 792,
-      "bytes": 16382
+      "ticks": 7745824,
+      "sent_at": "2026-11-23T23:42:53-0500",
+      "versions": 794,
+      "bytes": 17222
     },
     {
       "name": "review-101h06m.md",
@@ -3011,10 +3011,10 @@
     {
       "name": "tier-five-miner-materials.md",
       "first_ticks": 7668498,
-      "ticks": 7699579,
-      "sent_at": "2026-11-23T23:04:20-0500",
-      "versions": 3,
-      "bytes": 2838
+      "ticks": 7723715,
+      "sent_at": "2026-11-23T23:24:27-0500",
+      "versions": 4,
+      "bytes": 3389
     },
     {
       "name": "tier-seven-components.md",
