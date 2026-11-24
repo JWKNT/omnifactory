@@ -3,3 +3,7 @@ Page 801 pays a quarter for showing a bucket each of wood vinegar, wood gas, woo
 The tower can split 8,000 mB of charcoal byproducts into all three fractions. That route saves one log charge but occupies the refinery tower and three fluid outlets. Run the four oven programs between phenol charges, using the portable tank to recover even the half buckets. Leave program one in the oven for phenol. The grove can replace the seven logs missing from the initial 57. Retain the fluids after the quest. Wood vinegar is a possible source of acetone for the Ethenone branch.
 
 At 115h12m the west input bus accepted sixteen rubber logs with program one. The oven ran for 600 ticks at 30 EU/t, made twenty charcoal and filled the hatch with 3,000 mB of wood vinegar. The boiler delivered all sixteen buckets of steam before the charge. The old approach from the west was obstructed by a copper cable. The bus loader now lands in the open aisle and uses a visible part of the bus face. Collect the vinegar before changing the program.
+
+The reused oven has finished programs two, three and four. The gas and tar each delivered 1,500 mB to ME. After harvesting and replanting the rubber grove, the last sixteen-log charge left 4,000 mB of charcoal byproducts in the output hatch. All four fluids exist. The book still needs the four bucket samples together.
+
+At 116h08m page 801 registered all four bucket samples and paid an OmniQuarter. The oven is back on program one. I made three spare buckets from nine iron plates so the samples could share one trip through the book.

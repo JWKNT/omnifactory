@@ -29,3 +29,7 @@ At 115h29m the new reactor return at (7,82,-7) reported an active west-facing ME
 At 115h46m the resin reactor held 7,600 mB naphtha and 5,000 mB nitrogen dioxide, but only 64 mB epichlorohydrin. An ME Quantumprocessor order was waiting for one fiber-reinforced epoxy sheet. The resin tender now checks the crop reactor for a funded oil or glycerol charge when it is short of epichlorohydrin. One bucket of recovered acid can also come from the silicone reactor once it holds at least seven, leaving six for a full rubber batch.
 
 The first six-bucket canola charge delivered 6,000 mB biodiesel and 1,000 mB glycerol into ME. The resin line can use that glycerol after the next hydrochloric acid transfer.
+
+The silicone reactor supplied one bucket of hydrochloric acid at (13,83,4). The crop reactor used it with the first bucket of glycerol and returned 1,000 mB of epichlorohydrin to ME. This completes the crop-to-resin reagent route.
+
+At 116h06m the resin reactor had consumed 288 mB of the new epichlorohydrin in two reactions. ME returned 576 mB of epoxy resin. The refinery bath used 144 mB on its waiting Glass Fibers and retained 432 mB. The Quantumprocessor order cleared and stock rose from two to six. The crop, refinery, bath and board routes have now supplied a completed circuit order.
