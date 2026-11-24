@@ -1,0 +1,7 @@
+# A dedicated engraver for SoC wafers
+
+The next reusable lens is the Nether Star Lens. One star and one bucket of water run in the existing water-fed LV autoclave. Start this while silicon and furnace hardware are in production. Page 797 asks for the SoC **wafer** itself. Show it before the cutter turns each wafer into six chips. Two wafers come from one Naquadah-doped Wafer. This first pair funds twelve cycles of the cheaper circuit recipes. Keep one doped wafer for the later ASoC route.
+
+The existing IV laser holds an Emerald Lens and its interface accepts orders for Crystal CPUs. For repeated SoCs put an EV engraver on the four-amp aluminium riser at (19,84,−9). The site currently holds an ordinary cobblestone service block. Its top can remain a landing point once the engraver is installed. The south interface position at (19,84,−8) is clear and touches the existing Signalum smelter interface on its east and ME branch on its south. The EV machine can run the 1,920 EU/t recipe. The HV engraver cannot. The more costly IV version would share the north circuit line's energy reserve.
+
+Allow two EV pistons, one EV emitter, three extreme-tier circuits, an EV hull and two aluminium cables. The emitter also needs four platinum rods, an Ender Pearl and two extreme circuits. JEI's programmed assembler saves one aluminium lead over its bench recipe. Use Quantumprocessors for the extreme circuits when funded. The boule power hatch is already made. Keep the next full ME interface for the fifth furnace until its cold-ingot pattern is installed.

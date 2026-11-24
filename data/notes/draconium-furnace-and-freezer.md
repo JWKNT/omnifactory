@@ -5,3 +5,5 @@ The End trip supplied four Draconium Dust and page 336 paid. Page 288 also requi
 The pack’s blast recipe for one dust uses 2,000 mB of Nitro-Diesel at 6,800 K. Four dragon scales yield two hot ingots for 8,000 mB. Use the dust for the pilot. The freezer needs a further 2,000 mB of Molten Cryotheum for each hot ingot at 1,200 EU/t. Eight Cryotheum Dust melt to that amount. One dust was in stock when we checked. Budget the coolant, verify the freezer’s voltage and arrange its fluid input before heating Draconium.
 
 Keep the fifth furnace available for boules while the 16 coils are being made. The first cold Draconium Ingot pays a nickel and opens the Combination Package Crafter, Draconic Cores and other branches. One Amethyst Lens later consumes a whole block of cold ingots. Reserve nine for that reusable lens before treating Draconium as a bulk metal.
+
+The MV reactor delivered the first bucket of Ethenone through its fluid import. The bucket paid an OmniNickel on page 180 and opened page 178. The HV hull for the fuel mixer is ready. The first casing of the separate freezer stands at (44,80,−13).

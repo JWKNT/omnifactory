@@ -1,0 +1,9 @@
+# North extension for the Naquadah-coil furnace
+
+The fifth furnace will keep its HSS-G coils for boules, engraved chips and Naquadah wire. Put the sixth furnace directly north of the east freezer so it can run Enderium or Draconium while the fifth continues those orders. The running game lists the Naquadah coils at 7,200 K, above both the 6,400 K Enderium and 6,800 K Draconium recipes. A hotter furnace will eventually be needed for HSS-S.
+
+The deck edge at y79, z−16 is continuous from x40 through 48. Eight rows directly north of it were clear. Extend a nine-wide strip with the builder’s wand, centered at x45, to z−23. The furnace footprint will occupy x44–46, z−20 through −18. Keep the east controller, a two-block service aisle and room for a return conduit to the new freezer. Inspect the floor after each row.
+
+Both initial recipes draw 120 EU/t before overclocking. Draconium takes 10,000 ticks per dust and Enderium 20,800 per blend. Plan a separate powered branch sized for continuous heats. The fifth converter already has a job that can use all four amps. Claim page 324 holding all sixteen coils before fitting them. Compare a separate HV converter against a new EV or IV branch when the other hatches and fuel are ready.
+
+The west edge of the freezer leaves a clear overhead route at x43, y83 from z−9 to −17. Put a separate HV CEF at (44,83,−17) facing north directly into an HV hatch at (44,83,−18). This keeps the furnace off the freezer’s two-amp gold cables. A single HV hatch can run the first two recipes at 480 EU/t. A later voltage upgrade can use the free roof position beside it. The fifth furnace has six fittings in its original layout. Repeating that layout takes twelve heat-proof walls and one more casing for the controller. Stage the Invar while the coil and freezer orders run.

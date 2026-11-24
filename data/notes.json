@@ -651,10 +651,10 @@
     {
       "name": "draconium-furnace-and-freezer.md",
       "first_ticks": 8481994,
-      "ticks": 8481994,
-      "sent_at": "2026-11-24T09:56:21-0500",
-      "versions": 1,
-      "bytes": 1423
+      "ticks": 8514739,
+      "sent_at": "2026-11-24T10:23:38-0500",
+      "versions": 2,
+      "bytes": 1674
     },
     {
       "name": "drawer-network.md",
@@ -1003,10 +1003,10 @@
     {
       "name": "first-naquadah-boule.md",
       "first_ticks": 8360823,
-      "ticks": 8477268,
-      "sent_at": "2026-11-24T09:52:25-0500",
-      "versions": 4,
-      "bytes": 3199
+      "ticks": 8514739,
+      "sent_at": "2026-11-24T10:23:38-0500",
+      "versions": 5,
+      "bytes": 3610
     },
     {
       "name": "first-nether-star.md",
@@ -1083,10 +1083,10 @@
     {
       "name": "first-zpm-hull.md",
       "first_ticks": 8510284,
-      "ticks": 8510284,
-      "sent_at": "2026-11-24T10:19:56-0500",
-      "versions": 1,
-      "bytes": 1461
+      "ticks": 8532541,
+      "sent_at": "2026-11-24T10:38:29-0500",
+      "versions": 2,
+      "bytes": 2022
     },
     {
       "name": "fleet-dynamo-gears.md",
@@ -2475,10 +2475,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 8506838,
-      "sent_at": "2026-11-24T10:17:03-0500",
-      "versions": 876,
-      "bytes": 24443
+      "ticks": 8530648,
+      "sent_at": "2026-11-24T10:36:54-0500",
+      "versions": 878,
+      "bytes": 25186
     },
     {
       "name": "review-101h06m.md",
@@ -3049,6 +3049,14 @@
       "bytes": 1044
     },
     {
+      "name": "sixth-furnace-deck.md",
+      "first_ticks": 8516414,
+      "ticks": 8537495,
+      "sent_at": "2026-11-24T10:42:36-0500",
+      "versions": 2,
+      "bytes": 1838
+    },
+    {
       "name": "slot-transfers.md",
       "first_ticks": 961396,
       "ticks": 1917818,
@@ -3095,6 +3103,14 @@
       "sent_at": "2026-11-21T00:16:24-0500",
       "versions": 1,
       "bytes": 1160
+    },
+    {
+      "name": "soc-engraver.md",
+      "first_ticks": 8520042,
+      "ticks": 8520042,
+      "sent_at": "2026-11-24T10:28:04-0500",
+      "versions": 1,
+      "bytes": 1563
     },
     {
       "name": "sodium-hydroxide.md",
