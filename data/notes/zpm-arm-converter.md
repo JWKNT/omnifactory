@@ -1,0 +1,7 @@
+# A direct LuV feed for the motion line
+
+At 125h47m the north face of the LuV input hatch at (22,85,−19) had an empty neighboring block at (22,85,−20). The IV hatch at (21,85,−19) still has its transformer and double tungsten feed. Use the north socket for a four-amp LuV converter facing south into the LuV hatch. Keep the LuV output confined to this one face. The IV supply can continue reaching its own hatch. Survey the RF inlet and access to the battery slots before placement.
+
+The first Crystal Processor Mainframe ran at 30,000 EU/t. A ZPM motor asks for 40,960 EU/t, each piston or conveyor 61,440, and an arm 81,920. The arm needs two 32,768-EU packets on the LuV hatch and two 8,192-EU packets on the IV hatch every tick for thirty seconds. The full arm run consumes 49,152,000 EU. The capacitor discharge rate and the hatch path each need a live load trial.
+
+The four-amp LuV converter uses four Signalum Energy Conduits, two quadruple Signalum Wires, one LuV hull, one Energy Flow Circuit and a chest. The assembler makes four Signalum conduits from two singles, six binder and one Lumium conduit. The crafting table gives three. The same assembler upgrade turns an End Steel conduit into four Lumium conduits using two Lumium wires and six binder. At the survey the workshop held three End Steel conduits, four Lumium wires and eighteen binder. The first converter therefore needs ten single Signalum wires in total. Stage the conduits while the fourth furnace handles Signalum. Leave both working converters in service during construction.

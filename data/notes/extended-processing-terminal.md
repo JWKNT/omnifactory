@@ -1,0 +1,7 @@
+# Native patterns beyond nine inputs
+
+The Crystal Processor Mainframe has ten distinct input stacks. The ordinary pattern terminal handles nine. The physical loader can use all ten Assembly Line buses now. The permanent upgrade is the ME Extended Processing Pattern Terminal on page 813. Its grid recipe takes an ordinary pattern terminal, one Nano Processor Assembly and one Package Recipe Encoder.
+
+Page 408 is unlocked. It detects a Packager, an Unpackager, two Package Recipe Holders and an Encoder together, and pays an OmniQuarter. Each holder craft produces three from one Block of Crystaltine, one ME Packaging Component, three blank patterns, two Quartz Glass and two Titanium Plates. The encoder itself consumes two holders. Two holder crafts therefore cover the full quest and leave two spares. Set aside eighteen Crystaltine Ingots for those blocks after the two ZPM-assembler mainframes. Keep the encoder for the terminal conversion after the book detects it.
+
+Each ME Packaging Component incorporates one ordinary Packaging Component, which takes four Vibrant Alloy Plates, four Titanium Plates and one Eye of Ender. The packager and unpackager each take a Mechanical Crafter, two Nano Processor Assemblies and one ME Packaging Component, plus an import bus or export bus respectively. The two pilot mainframes can use the installed loader while the larger material reserve grows.

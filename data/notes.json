@@ -587,10 +587,10 @@
     {
       "name": "crystal-mainframe-pilot.md",
       "first_ticks": 8879860,
-      "ticks": 9034299,
-      "sent_at": "2026-11-24T17:36:36-0500",
-      "versions": 10,
-      "bytes": 6497
+      "ticks": 9049598,
+      "sent_at": "2026-11-24T17:49:21-0500",
+      "versions": 12,
+      "bytes": 7381
     },
     {
       "name": "crystal-mission-consumables.md",
@@ -927,6 +927,14 @@
       "sent_at": "2026-11-24T04:13:13-0500",
       "versions": 3,
       "bytes": 3481
+    },
+    {
+      "name": "extended-processing-terminal.md",
+      "first_ticks": 9042173,
+      "ticks": 9042173,
+      "sent_at": "2026-11-24T17:43:10-0500",
+      "versions": 1,
+      "bytes": 1395
     },
     {
       "name": "extraterrestrial-models.md",
@@ -1287,6 +1295,14 @@
       "sent_at": "2026-11-24T04:17:26-0500",
       "versions": 2,
       "bytes": 2168
+    },
+    {
+      "name": "genesis-glider.md",
+      "first_ticks": 9052956,
+      "ticks": 9052956,
+      "sent_at": "2026-11-24T17:52:09-0500",
+      "versions": 1,
+      "bytes": 953
     },
     {
       "name": "ghast-silver.md",
@@ -2571,10 +2587,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 9038556,
-      "sent_at": "2026-11-24T17:40:09-0500",
-      "versions": 939,
-      "bytes": 9698
+      "ticks": 9052956,
+      "sent_at": "2026-11-24T17:52:09-0500",
+      "versions": 942,
+      "bytes": 10109
     },
     {
       "name": "review-101h06m.md",
@@ -3761,6 +3777,14 @@
       "bytes": 1909
     },
     {
+      "name": "zpm-arm-converter.md",
+      "first_ticks": 9059318,
+      "ticks": 9059318,
+      "sent_at": "2026-11-24T17:57:27-0500",
+      "versions": 1,
+      "bytes": 1561
+    },
+    {
       "name": "zpm-assembler-motion-bill.md",
       "first_ticks": 8897255,
       "ticks": 8919617,
@@ -3771,10 +3795,10 @@
     {
       "name": "zpm-motion-power.md",
       "first_ticks": 8658081,
-      "ticks": 9034299,
-      "sent_at": "2026-11-24T17:36:36-0500",
-      "versions": 10,
-      "bytes": 7296
+      "ticks": 9049598,
+      "sent_at": "2026-11-24T17:49:21-0500",
+      "versions": 11,
+      "bytes": 7712
     }
   ]
 }
