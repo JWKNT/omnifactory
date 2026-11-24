@@ -19,3 +19,7 @@ The higher seam worked. Two short jetpack flights crossed the gap, and the pick 
 The capacitor kept the jetpack at 80,000 RF on the eastward crossing. After 3,791 ticks of flight the first landing was at (1088,59,0). Three wild flowers were picked individually from the standing plants. All three and the nine dust returned together, completing the retrieval on page 760. Page 761 has no payout, so its completion must be checked separately from its reward flag.
 
 The Draconic Evolution Information Tablet paid a quarter on page 733. The dislocator and its pedestal completed page 761, and page 762 was checked in the book. One of the remaining flowers was planted on End Stone at (5,80,16) on the south factory apron. The other stays in reserve.
+
+The first furnace charge is funded, but four dust cannot cover the reusable Amethyst Lens. Its only JEI route consumes a block of nine cold Draconium. Two more plates go into the first Crystal Processor Array. The existing survey includes a high seam at (48,57,−35), away from the last mined face. Revisit it with the jetpack, diamond pick and Fluxomagnet while the factory builds the new furnaces. Aim for twelve dust in total. The ordinary cake and factory home still provide the two directions of travel.
+
+The jetpack reached (49,58,−35). The stair and magnet brought back two more dust, six in all at the factory. From the ledge three further upper sightings were visible near (29,57,−42), (28,57,−41) and (36,57,−58). These are better next targets than the lower face above the void.

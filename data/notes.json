@@ -659,10 +659,10 @@
     {
       "name": "draconium-furnace-and-freezer.md",
       "first_ticks": 8481994,
-      "ticks": 8568325,
-      "sent_at": "2026-11-24T11:08:18-0500",
-      "versions": 4,
-      "bytes": 2588
+      "ticks": 8625818,
+      "sent_at": "2026-11-24T11:56:12-0500",
+      "versions": 5,
+      "bytes": 2973
     },
     {
       "name": "drawer-network.md",
@@ -731,10 +731,10 @@
     {
       "name": "end-cake-and-draconium.md",
       "first_ticks": 7893212,
-      "ticks": 8108698,
-      "sent_at": "2026-11-24T04:45:16-0500",
-      "versions": 10,
-      "bytes": 4552
+      "ticks": 8625818,
+      "sent_at": "2026-11-24T11:56:12-0500",
+      "versions": 12,
+      "bytes": 5352
     },
     {
       "name": "end-steel.md",
@@ -1091,10 +1091,10 @@
     {
       "name": "first-zpm-hull.md",
       "first_ticks": 8510284,
-      "ticks": 8591948,
-      "sent_at": "2026-11-24T11:27:59-0500",
-      "versions": 4,
-      "bytes": 3332
+      "ticks": 8628392,
+      "sent_at": "2026-11-24T11:58:21-0500",
+      "versions": 7,
+      "bytes": 4545
     },
     {
       "name": "fleet-dynamo-gears.md",
@@ -1875,10 +1875,10 @@
     {
       "name": "naquadah-coil-set.md",
       "first_ticks": 7876001,
-      "ticks": 8579652,
-      "sent_at": "2026-11-24T11:17:44-0500",
-      "versions": 2,
-      "bytes": 1539
+      "ticks": 8613724,
+      "sent_at": "2026-11-24T11:46:08-0500",
+      "versions": 3,
+      "bytes": 1800
     },
     {
       "name": "neon-from-the-air-tower.md",
@@ -2419,10 +2419,10 @@
     {
       "name": "refinery-desulfurization.md",
       "first_ticks": 3096570,
-      "ticks": 8597479,
-      "sent_at": "2026-11-24T11:32:35-0500",
-      "versions": 5,
-      "bytes": 3950
+      "ticks": 8613724,
+      "sent_at": "2026-11-24T11:46:08-0500",
+      "versions": 6,
+      "bytes": 4264
     },
     {
       "name": "refinery-feed.md",
@@ -2491,10 +2491,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 8604257,
-      "sent_at": "2026-11-24T11:38:14-0500",
-      "versions": 885,
-      "bytes": 4510
+      "ticks": 8634006,
+      "sent_at": "2026-11-24T12:03:02-0500",
+      "versions": 888,
+      "bytes": 4864
     },
     {
       "name": "review-101h06m.md",
@@ -3083,10 +3083,10 @@
     {
       "name": "sixth-furnace-deck.md",
       "first_ticks": 8516414,
-      "ticks": 8601287,
-      "sent_at": "2026-11-24T11:35:46-0500",
-      "versions": 4,
-      "bytes": 2598
+      "ticks": 8623487,
+      "sent_at": "2026-11-24T11:54:16-0500",
+      "versions": 6,
+      "bytes": 3153
     },
     {
       "name": "slot-transfers.md",
@@ -3139,10 +3139,10 @@
     {
       "name": "soc-engraver.md",
       "first_ticks": 8520042,
-      "ticks": 8580782,
-      "sent_at": "2026-11-24T11:18:41-0500",
-      "versions": 3,
-      "bytes": 2896
+      "ticks": 8633486,
+      "sent_at": "2026-11-24T12:02:36-0500",
+      "versions": 4,
+      "bytes": 3465
     },
     {
       "name": "sodium-hydroxide.md",
@@ -3307,10 +3307,10 @@
     {
       "name": "tier-six-enderium.md",
       "first_ticks": 8552099,
-      "ticks": 8601287,
-      "sent_at": "2026-11-24T11:35:46-0500",
-      "versions": 3,
-      "bytes": 3089
+      "ticks": 8630694,
+      "sent_at": "2026-11-24T12:00:16-0500",
+      "versions": 5,
+      "bytes": 4172
     },
     {
       "name": "tier-two-miner-order.md",
