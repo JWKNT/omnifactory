@@ -15,3 +15,5 @@ Fit a second HV roof hatch at (44,83,−19) beside the original at (44,83,−18)
 The fifth furnace has a live ME cable at (41,81,−10). Four segments initially went along x42 at head height, where the fifth controller and east freezer need standing room. Keep (42,81,−10) as the branch point and recover the three trial segments to its north. Turn east to x43, rise to y82 and span the service aisle overhead through z−17, then descend to y81 and turn east to x46. The full overhead path was surveyed clear. The furnace can then order Enderium independently of the freezer controller. Draconium waits for a working coolant route.
 
 The assembler returned twelve Heat Proof Machine Casings, bringing loose stock to fourteen. Five now form the base of the sixth furnace. Eight Naquadah coils form the lower ring. For the upper ring, land on an adjacent lower coil and place against the exposed top face. The eastern floor aisle alone does not give a sight line to the far corner.
+
+All eight upper coils were placed at y82, completing both Naquadah rings. The roof is going on. Four wooden chests and three furnaces are staged for the fittings and controller.

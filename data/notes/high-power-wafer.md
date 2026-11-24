@@ -9,3 +9,5 @@ The upgrade recipe needs one Power IC Wafer, two Indium Gallium Phosphide Dust a
 Two Red Alloy Ingots or sixteen Fine Red Alloy Wires produce exactly 288 mB in the fluid extractor. There were 136 wires in stock. Preserve the extractor’s normal output setting after recovering the alloy. The EV saw yields two HPICs from one high-power wafer with 22 mB lubricant in 300 base ticks. The water recipe takes 1,200 ticks and distilled water 780. Verify the two HPICs in ME before charging more compound. The workshop job is in scripts/high_power_wafer.py.
 
 The blue-lens laser returned two base wafers. The EV reduction and phosphate line delivered three Indium Gallium Phosphide Dust, enough for the first upgrade with one dust left over. The EV saw interface was full at the survey. Expand its patterns as the first wafer arrives.
+
+The EV reactor took the two compound dust and 288 mB of molten red alloy and produced the first High-Power IC Wafer. The EV cutting saw then ran at 768 EU/t for 39 ticks. Its two HPICs were verified in workshop stock. One base Power IC Wafer and one compound dust remain for the next pair.

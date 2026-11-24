@@ -371,10 +371,10 @@
     {
       "name": "canola-by-the-grove.md",
       "first_ticks": 7322432,
-      "ticks": 8468235,
-      "sent_at": "2026-11-24T09:44:53-0500",
-      "versions": 5,
-      "bytes": 3238
+      "ticks": 8693266,
+      "sent_at": "2026-11-24T12:52:25-0500",
+      "versions": 6,
+      "bytes": 3520
     },
     {
       "name": "canola-seed-oil.md",
@@ -563,10 +563,10 @@
     {
       "name": "crystal-array-line.md",
       "first_ticks": 8649765,
-      "ticks": 8668296,
-      "sent_at": "2026-11-24T12:31:36-0500",
-      "versions": 3,
-      "bytes": 2051
+      "ticks": 8698088,
+      "sent_at": "2026-11-24T12:56:26-0500",
+      "versions": 4,
+      "bytes": 2646
     },
     {
       "name": "crystal-bay.md",
@@ -667,10 +667,10 @@
     {
       "name": "draconium-furnace-and-freezer.md",
       "first_ticks": 8481994,
-      "ticks": 8625818,
-      "sent_at": "2026-11-24T11:56:12-0500",
-      "versions": 5,
-      "bytes": 2973
+      "ticks": 8695890,
+      "sent_at": "2026-11-24T12:54:36-0500",
+      "versions": 6,
+      "bytes": 3437
     },
     {
       "name": "drawer-network.md",
@@ -743,6 +743,14 @@
       "sent_at": "2026-11-24T11:56:12-0500",
       "versions": 12,
       "bytes": 5352
+    },
+    {
+      "name": "end-grave-and-dragon-breath.md",
+      "first_ticks": 8685853,
+      "ticks": 8687724,
+      "sent_at": "2026-11-24T12:47:48-0500",
+      "versions": 2,
+      "bytes": 1329
     },
     {
       "name": "end-steel.md",
@@ -883,10 +891,10 @@
     {
       "name": "extraterrestrial-models.md",
       "first_ticks": 7379541,
-      "ticks": 7379541,
-      "sent_at": "2026-11-23T18:37:36-0500",
-      "versions": 1,
-      "bytes": 1133
+      "ticks": 8700898,
+      "sent_at": "2026-11-24T12:58:46-0500",
+      "versions": 2,
+      "bytes": 1557
     },
     {
       "name": "extruder-power.md",
@@ -1331,10 +1339,10 @@
     {
       "name": "high-power-wafer.md",
       "first_ticks": 8637337,
-      "ticks": 8674865,
-      "sent_at": "2026-11-24T12:37:05-0500",
-      "versions": 2,
-      "bytes": 2009
+      "ticks": 8702561,
+      "sent_at": "2026-11-24T13:00:10-0500",
+      "versions": 3,
+      "bytes": 2300
     },
     {
       "name": "hot-ingot-transfer.md",
@@ -2507,10 +2515,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 8674865,
-      "sent_at": "2026-11-24T12:37:05-0500",
-      "versions": 893,
-      "bytes": 5701
+      "ticks": 8702561,
+      "sent_at": "2026-11-24T13:00:10-0500",
+      "versions": 897,
+      "bytes": 6058
     },
     {
       "name": "review-101h06m.md",
@@ -3099,10 +3107,10 @@
     {
       "name": "sixth-furnace-deck.md",
       "first_ticks": 8516414,
-      "ticks": 8674865,
-      "sent_at": "2026-11-24T12:37:05-0500",
-      "versions": 7,
-      "bytes": 3500
+      "ticks": 8693266,
+      "sent_at": "2026-11-24T12:52:25-0500",
+      "versions": 8,
+      "bytes": 3679
     },
     {
       "name": "slot-transfers.md",
