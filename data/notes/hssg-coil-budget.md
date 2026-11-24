@@ -7,3 +7,5 @@ Allow 128 HSS-G ingots for the full set. Keep the first 64 together long enough 
 The campaign uses `scripts/hssg_coil_sets.py` for the bounty, wiremill and coil orders. Produce the coils in storage before choosing which furnace to upgrade. The two existing furnaces must keep their shared freezer return working.
 
 Page 587 paid the quarter. I split the first 64 bars evenly between the two wiremills. The MV mill took 35 ticks per ingot and the LV mill 98. Each made two single wires per bar. The two lots became 64 double wires and eight finished coils by 101h35m. Another 21 cold bars then went into the MV mill. The fifth furnace gets its own stair, EV converter and power branch. The older tungstensteel-coil furnace still handles Signalum and Lumium.
+
+All sixteen HSS-G coils were wound at 102h56m. The quest book detected the complete set, and page 313 paid five coins. The set can now go into the two middle rings of the fifth furnace. Its lower and upper casings and EV power fittings are still being made.

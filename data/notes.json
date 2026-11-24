@@ -339,10 +339,10 @@
     {
       "name": "canola-by-the-grove.md",
       "first_ticks": 7322432,
-      "ticks": 7406658,
-      "sent_at": "2026-11-23T19:00:14-0500",
-      "versions": 2,
-      "bytes": 996
+      "ticks": 7419330,
+      "sent_at": "2026-11-23T19:10:48-0500",
+      "versions": 3,
+      "bytes": 1696
     },
     {
       "name": "centrifuge-water-return.md",
@@ -857,6 +857,14 @@
       "bytes": 7485
     },
     {
+      "name": "first-crystal-processor.md",
+      "first_ticks": 7427496,
+      "ticks": 7427496,
+      "sent_at": "2026-11-23T19:17:36-0500",
+      "versions": 1,
+      "bytes": 1688
+    },
+    {
       "name": "first-metals.md",
       "first_ticks": 13340,
       "ticks": 13340,
@@ -1075,10 +1083,10 @@
     {
       "name": "glowstone-for-energetic-blend.md",
       "first_ticks": 7264410,
-      "ticks": 7264410,
-      "sent_at": "2026-11-23T17:01:40-0500",
-      "versions": 1,
-      "bytes": 916
+      "ticks": 7410516,
+      "sent_at": "2026-11-23T19:03:27-0500",
+      "versions": 2,
+      "bytes": 1540
     },
     {
       "name": "gp-for-oil.md",
@@ -1147,10 +1155,10 @@
     {
       "name": "hssg-coil-budget.md",
       "first_ticks": 7056365,
-      "ticks": 7321164,
-      "sent_at": "2026-11-23T17:48:58-0500",
-      "versions": 2,
-      "bytes": 1807
+      "ticks": 7412843,
+      "sent_at": "2026-11-23T19:05:24-0500",
+      "versions": 3,
+      "bytes": 2066
     },
     {
       "name": "hssg-coil-order.md",
@@ -1401,6 +1409,14 @@
       "bytes": 4620
     },
     {
+      "name": "luminessence-orders.md",
+      "first_ticks": 7414566,
+      "ticks": 7414566,
+      "sent_at": "2026-11-23T19:06:50-0500",
+      "versions": 1,
+      "bytes": 1128
+    },
+    {
       "name": "lumium-and-mana.md",
       "first_ticks": 4639804,
       "ticks": 7078344,
@@ -1515,10 +1531,10 @@
     {
       "name": "medium-projector-shell.md",
       "first_ticks": 7086569,
-      "ticks": 7374324,
-      "sent_at": "2026-11-23T18:33:16-0500",
-      "versions": 11,
-      "bytes": 7309
+      "ticks": 7428520,
+      "sent_at": "2026-11-23T19:18:28-0500",
+      "versions": 13,
+      "bytes": 8336
     },
     {
       "name": "metal-models.md",
@@ -2219,10 +2235,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 7402168,
-      "sent_at": "2026-11-23T18:56:30-0500",
-      "versions": 767,
-      "bytes": 12699
+      "ticks": 7424070,
+      "sent_at": "2026-11-23T19:14:45-0500",
+      "versions": 769,
+      "bytes": 12969
     },
     {
       "name": "review-101h06m.md",
@@ -2231,6 +2247,14 @@
       "sent_at": "2026-11-23T17:14:48-0500",
       "versions": 1,
       "bytes": 3403
+    },
+    {
+      "name": "review-103h06m.md",
+      "first_ticks": 7424070,
+      "ticks": 7424070,
+      "sent_at": "2026-11-23T19:14:45-0500",
+      "versions": 1,
+      "bytes": 4045
     },
     {
       "name": "review-29h49m.md",
@@ -2603,10 +2627,10 @@
     {
       "name": "second-lapidary.md",
       "first_ticks": 4444905,
-      "ticks": 7381466,
-      "sent_at": "2026-11-23T18:39:13-0500",
-      "versions": 14,
-      "bytes": 9130
+      "ticks": 7426097,
+      "sent_at": "2026-11-23T19:16:26-0500",
+      "versions": 15,
+      "bytes": 9792
     },
     {
       "name": "second-miner-cargo.md",

@@ -1,0 +1,5 @@
+# A processing interface for Luminessence
+
+In the first 110 minutes after the 101h06m review the player loaded four stacks of Energetic Blend and four stacks of aluminium dust into the Luminessence reactor. The north table and projector jobs need the product in multiples of four. JEI gives four in 20 ticks at 30 EU/t from one of each item and 2,000 mB phosphoric acid. The only grid entry unpacks a stored block. A second LV reactor or an MV replacement would save little production time. The trips to the input and output are the work to remove.
+
+The free space at (10,82,-3) is directly south of the reactor and below live ME glass cable. The aisle at (10,80,-2) has clear headroom. Point the reactor output south, allow ingredients through that side, and have the interface send ingredients north. Fit a processing card there after making room for diamond blocks on the molecular assembler. Provision acid in a tank batch as before. Count the first two separate orders only when the finished item reaches the network. The next extension can put a filtered fluid export under the reactor if acid transfer is still frequent.
