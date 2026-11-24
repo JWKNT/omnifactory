@@ -201,6 +201,14 @@
       "bytes": 4211
     },
     {
+      "name": "battery-hull-samples.md",
+      "first_ticks": 8066727,
+      "ticks": 8066727,
+      "sent_at": "2026-11-24T04:10:18-0500",
+      "versions": 1,
+      "bytes": 864
+    },
+    {
       "name": "bauxite-line.md",
       "first_ticks": 3441535,
       "ticks": 6643114,
@@ -675,10 +683,10 @@
     {
       "name": "end-cake-and-draconium.md",
       "first_ticks": 7893212,
-      "ticks": 8047611,
-      "sent_at": "2026-11-24T03:54:22-0500",
-      "versions": 6,
-      "bytes": 3106
+      "ticks": 8079142,
+      "sent_at": "2026-11-24T04:20:39-0500",
+      "versions": 8,
+      "bytes": 3885
     },
     {
       "name": "end-steel.md",
@@ -811,10 +819,10 @@
     {
       "name": "extended-crafting-after-osmium.md",
       "first_ticks": 7201963,
-      "ticks": 7723715,
-      "sent_at": "2026-11-23T23:24:27-0500",
-      "versions": 2,
-      "bytes": 2858
+      "ticks": 8070232,
+      "sent_at": "2026-11-24T04:13:13-0500",
+      "versions": 3,
+      "bytes": 3481
     },
     {
       "name": "extraterrestrial-models.md",
@@ -1147,10 +1155,10 @@
     {
       "name": "gemstone-cargo.md",
       "first_ticks": 7795888,
-      "ticks": 7795888,
-      "sent_at": "2026-11-24T00:24:36-0500",
-      "versions": 1,
-      "bytes": 1644
+      "ticks": 8075296,
+      "sent_at": "2026-11-24T04:17:26-0500",
+      "versions": 2,
+      "bytes": 2168
     },
     {
       "name": "ghast-silver.md",
@@ -2227,10 +2235,10 @@
     {
       "name": "quantum-flux-from-realm-data.md",
       "first_ticks": 8057610,
-      "ticks": 8057610,
-      "sent_at": "2026-11-24T04:02:42-0500",
-      "versions": 1,
-      "bytes": 2098
+      "ticks": 8079142,
+      "sent_at": "2026-11-24T04:20:39-0500",
+      "versions": 3,
+      "bytes": 2768
     },
     {
       "name": "quantum-flux.md",
@@ -2395,10 +2403,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 8047611,
-      "sent_at": "2026-11-24T03:54:22-0500",
-      "versions": 820,
-      "bytes": 19762
+      "ticks": 8079142,
+      "sent_at": "2026-11-24T04:20:39-0500",
+      "versions": 823,
+      "bytes": 20322
     },
     {
       "name": "review-101h06m.md",
