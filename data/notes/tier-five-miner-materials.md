@@ -35,3 +35,7 @@ At 115h43m the fourth EV sensor had reached ME, bringing the pair for the second
 Both guidance systems and the first EV field generator are finished. The breeder has its controller and forty of the fifty-four casing blocks. For the remaining generator I am reserving four more Quantumprocessors while the emerald autoclave uses its six-ingot Vibrant Alloy charge.
 
 At 116h13m the capacitor bank, solidified argon, quartz and two Nanoprocessors had gone into the reinforced mining laser. All three Electrical Steel Thrusters became Energetic Thrusters. One of those became the first Vibrant Thruster. The Soul Binder had already produced its second Prescient Crystal and returned the vial again. The breeder casing count reached 48. Its last eight-block craft needs sixteen tungsten plates and sixteen Tough Alloy; four Tough Alloy and all four steel heavy plates are already on hand.
+
+At 116h15m the EV chemical reactor finished the Supercharged Laser Array. One array is in ME. The three Energetic Thrusters are built and the first has been upgraded to Vibrant. The Soul Binder has already made the second Prescient Crystal.
+
+All three Vibrant Thrusters are now in storage. The five finished Signalum Heavy Plating need one more partner for the full six. There are also eight Signalum rods for the two engine frames. With no frame or core on hand the remaining ordinary plate bill is ten, two for the final heavy and eight for the frames. The two cores also need eight redstone blocks.

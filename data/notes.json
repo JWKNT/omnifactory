@@ -283,10 +283,10 @@
     {
       "name": "breeder-cooling-and-cells.md",
       "first_ticks": 5150449,
-      "ticks": 8347434,
-      "sent_at": "2026-11-24T08:04:13-0500",
-      "versions": 17,
-      "bytes": 7838
+      "ticks": 8388192,
+      "sent_at": "2026-11-24T08:38:11-0500",
+      "versions": 18,
+      "bytes": 8279
     },
     {
       "name": "brewery-cane.md",
@@ -971,10 +971,10 @@
     {
       "name": "first-naquadah-boule.md",
       "first_ticks": 8360823,
-      "ticks": 8360823,
-      "sent_at": "2026-11-24T08:15:23-0500",
-      "versions": 1,
-      "bytes": 1549
+      "ticks": 8380341,
+      "sent_at": "2026-11-24T08:31:39-0500",
+      "versions": 3,
+      "bytes": 2918
     },
     {
       "name": "first-nether-star.md",
@@ -2427,10 +2427,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 8368602,
-      "sent_at": "2026-11-24T08:21:52-0500",
-      "versions": 858,
-      "bytes": 24344
+      "ticks": 8388192,
+      "sent_at": "2026-11-24T08:38:11-0500",
+      "versions": 861,
+      "bytes": 24640
     },
     {
       "name": "review-101h06m.md",
@@ -3131,10 +3131,10 @@
     {
       "name": "storage-after-the-five-kilobyte-cpu.md",
       "first_ticks": 8286076,
-      "ticks": 8321734,
-      "sent_at": "2026-11-24T07:42:48-0500",
-      "versions": 4,
-      "bytes": 2179
+      "ticks": 8378319,
+      "sent_at": "2026-11-24T08:29:57-0500",
+      "versions": 5,
+      "bytes": 2560
     },
     {
       "name": "storage-expansion.md",
@@ -3187,10 +3187,10 @@
     {
       "name": "tier-five-miner-materials.md",
       "first_ticks": 7668498,
-      "ticks": 8368602,
-      "sent_at": "2026-11-24T08:21:52-0500",
-      "versions": 15,
-      "bytes": 9830
+      "ticks": 8388192,
+      "sent_at": "2026-11-24T08:38:11-0500",
+      "versions": 17,
+      "bytes": 10433
     },
     {
       "name": "tier-seven-components.md",
