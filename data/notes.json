@@ -1059,10 +1059,10 @@
     {
       "name": "first-platinum.md",
       "first_ticks": 1303172,
-      "ticks": 1314318,
-      "sent_at": "2026-11-20T06:14:16-0500",
-      "versions": 3,
-      "bytes": 1818
+      "ticks": 8731253,
+      "sent_at": "2026-11-24T13:24:04-0500",
+      "versions": 4,
+      "bytes": 2680
     },
     {
       "name": "first-power.md",
@@ -2515,10 +2515,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 8724498,
-      "sent_at": "2026-11-24T13:18:26-0500",
-      "versions": 899,
-      "bytes": 6369
+      "ticks": 8745398,
+      "sent_at": "2026-11-24T13:35:51-0500",
+      "versions": 900,
+      "bytes": 6724
     },
     {
       "name": "review-101h06m.md",
@@ -3115,10 +3115,10 @@
     {
       "name": "sixth-furnace-deck.md",
       "first_ticks": 8516414,
-      "ticks": 8693266,
-      "sent_at": "2026-11-24T12:52:25-0500",
-      "versions": 8,
-      "bytes": 3679
+      "ticks": 8731253,
+      "sent_at": "2026-11-24T13:24:04-0500",
+      "versions": 9,
+      "bytes": 4299
     },
     {
       "name": "slot-transfers.md",
@@ -3675,10 +3675,10 @@
     {
       "name": "zpm-motion-power.md",
       "first_ticks": 8658081,
-      "ticks": 8722181,
-      "sent_at": "2026-11-24T13:16:31-0500",
-      "versions": 2,
-      "bytes": 2325
+      "ticks": 8736020,
+      "sent_at": "2026-11-24T13:28:02-0500",
+      "versions": 3,
+      "bytes": 3094
     }
   ]
 }
