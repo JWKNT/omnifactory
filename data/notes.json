@@ -1385,6 +1385,14 @@
       "bytes": 2879
     },
     {
+      "name": "large-projector-diamond-budget.md",
+      "first_ticks": 7648267,
+      "ticks": 7648267,
+      "sent_at": "2026-11-23T22:21:35-0500",
+      "versions": 1,
+      "bytes": 1670
+    },
+    {
       "name": "lathe-order.md",
       "first_ticks": 152129,
       "ticks": 4297635,
@@ -2227,10 +2235,10 @@
     {
       "name": "refinery-fuel-power.md",
       "first_ticks": 7395508,
-      "ticks": 7623446,
-      "sent_at": "2026-11-23T22:00:54-0500",
-      "versions": 3,
-      "bytes": 3052
+      "ticks": 7633833,
+      "sent_at": "2026-11-23T22:09:33-0500",
+      "versions": 4,
+      "bytes": 3320
     },
     {
       "name": "refinery-grid.md",
@@ -2275,10 +2283,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 7623448,
-      "sent_at": "2026-11-23T22:00:54-0500",
-      "versions": 784,
-      "bytes": 14825
+      "ticks": 7645197,
+      "sent_at": "2026-11-23T22:19:01-0500",
+      "versions": 786,
+      "bytes": 15079
     },
     {
       "name": "review-101h06m.md",
@@ -2751,6 +2759,14 @@
       "sent_at": "2026-11-20T10:55:58-0500",
       "versions": 8,
       "bytes": 5864
+    },
+    {
+      "name": "signalum-engine-smelter.md",
+      "first_ticks": 7640775,
+      "ticks": 7645680,
+      "sent_at": "2026-11-23T22:19:26-0500",
+      "versions": 2,
+      "bytes": 1437
     },
     {
       "name": "signalum-line.md",
