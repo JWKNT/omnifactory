@@ -699,10 +699,10 @@
     {
       "name": "epoxy-coater.md",
       "first_ticks": 3336950,
-      "ticks": 5439714,
-      "sent_at": "2026-11-22T15:41:05-0500",
-      "versions": 6,
-      "bytes": 3262
+      "ticks": 8161738,
+      "sent_at": "2026-11-24T05:29:28-0500",
+      "versions": 7,
+      "bytes": 3770
     },
     {
       "name": "epoxy-feed.md",
@@ -1019,10 +1019,10 @@
     {
       "name": "first-thermal-centrifuge.md",
       "first_ticks": 7836185,
-      "ticks": 8095628,
-      "sent_at": "2026-11-24T04:34:23-0500",
-      "versions": 5,
-      "bytes": 4795
+      "ticks": 8175814,
+      "sent_at": "2026-11-24T05:41:12-0500",
+      "versions": 6,
+      "bytes": 5968
     },
     {
       "name": "first-tier-three.md",
@@ -2411,10 +2411,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 8150641,
-      "sent_at": "2026-11-24T05:20:14-0500",
-      "versions": 831,
-      "bytes": 20995
+      "ticks": 8156697,
+      "sent_at": "2026-11-24T05:25:16-0500",
+      "versions": 832,
+      "bytes": 21100
     },
     {
       "name": "review-101h06m.md",
@@ -3129,6 +3129,14 @@
       "bytes": 11630
     },
     {
+      "name": "third-bay-pearl-supply.md",
+      "first_ticks": 8175814,
+      "ticks": 8175814,
+      "sent_at": "2026-11-24T05:41:12-0500",
+      "versions": 1,
+      "bytes": 936
+    },
+    {
       "name": "third-blast-site.md",
       "first_ticks": 3612230,
       "ticks": 4641696,
@@ -3147,10 +3155,10 @@
     {
       "name": "tier-five-miner-materials.md",
       "first_ticks": 7668498,
-      "ticks": 8108698,
-      "sent_at": "2026-11-24T04:45:16-0500",
-      "versions": 8,
-      "bytes": 6338
+      "ticks": 8156697,
+      "sent_at": "2026-11-24T05:25:16-0500",
+      "versions": 9,
+      "bytes": 7320
     },
     {
       "name": "tier-seven-components.md",
@@ -3299,10 +3307,10 @@
     {
       "name": "vinyl-stock-line.md",
       "first_ticks": 4735976,
-      "ticks": 5460386,
-      "sent_at": "2026-11-22T15:58:19-0500",
-      "versions": 3,
-      "bytes": 2826
+      "ticks": 8161738,
+      "sent_at": "2026-11-24T05:29:28-0500",
+      "versions": 4,
+      "bytes": 3281
     },
     {
       "name": "void-factory.md",
