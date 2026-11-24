@@ -275,10 +275,10 @@
     {
       "name": "breeder-cooling-and-cells.md",
       "first_ticks": 5150449,
-      "ticks": 8026053,
-      "sent_at": "2026-11-24T03:36:24-0500",
-      "versions": 9,
-      "bytes": 5090
+      "ticks": 8040839,
+      "sent_at": "2026-11-24T03:48:44-0500",
+      "versions": 10,
+      "bytes": 5387
     },
     {
       "name": "brewery-cane.md",
@@ -675,10 +675,10 @@
     {
       "name": "end-cake-and-draconium.md",
       "first_ticks": 7893212,
-      "ticks": 8021892,
-      "sent_at": "2026-11-24T03:32:56-0500",
-      "versions": 4,
-      "bytes": 2210
+      "ticks": 8047611,
+      "sent_at": "2026-11-24T03:54:22-0500",
+      "versions": 6,
+      "bytes": 3106
     },
     {
       "name": "end-steel.md",
@@ -2225,6 +2225,14 @@
       "bytes": 3486
     },
     {
+      "name": "quantum-flux-from-realm-data.md",
+      "first_ticks": 8057610,
+      "ticks": 8057610,
+      "sent_at": "2026-11-24T04:02:42-0500",
+      "versions": 1,
+      "bytes": 2098
+    },
+    {
       "name": "quantum-flux.md",
       "first_ticks": 1146576,
       "ticks": 3983095,
@@ -2387,10 +2395,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 8026053,
-      "sent_at": "2026-11-24T03:36:24-0500",
-      "versions": 817,
-      "bytes": 19370
+      "ticks": 8047611,
+      "sent_at": "2026-11-24T03:54:22-0500",
+      "versions": 820,
+      "bytes": 19762
     },
     {
       "name": "review-101h06m.md",
