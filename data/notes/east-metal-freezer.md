@@ -19,3 +19,5 @@ At 122h50m the west-facing PartImportBus on (47,80,−12) reported active agains
 At 126h11m the HSS-E cooling recipe repeatedly returned to tick one or two of 43 at 1,920 EU/t. The freezer converter at (45,82,-9) had four empty battery slots and only a 16,384 EU buffer. Both HV hatches and the gold cables were connected. The sixth furnace was drawing 1,920 EU/t for Enderium at the same time.
 
 At 126h12m a new Basic Flux Capacitor raised the converter capacity to 2,516,384 EU. The soft hammer held the cooling recipe at tick two. The converter then rose above 838,000 EU. The tender resumes from 200,000 EU, enough for two full HSS-E cooling cycles even before counting incoming RF. Check the actual output and line voltage under load before increasing the order size.
+
+At 126h19m the resumed freezer emptied the hot-metal queue. ME held four cold Niobium Ingots, two HSS-E Ingots and six Titanium Ingots. Both the niobium and HSS-E crafting jobs cleared. The freezer was enabled and idle and its battery had recharged to 2,516,384 EU. The four niobium and first four titanium cover eight alloy ingots, enough for 64 fine wires if all are drawn fine.

@@ -1,0 +1,5 @@
+# Feed the EV reduction reactor from fluid storage
+
+At 126h32m the EV reactor had 28 aluminium dust reserved for an ME phosphide order. Its three input tanks were empty while the fluid network held enough concentrate to start reducing. The HV leacher already sends its output to fluid storage. JEI lists one processing use for that concentrate. Each bucket reduces four aluminium dust to one tiny pile of indium and returns lead-zinc solution. The other listed uses fill containers.
+
+Run two glass cable segments from the west interface at (18,82,-10) through (18,82,-11) to (19,82,-11). Both sockets were air at the survey. Put a filtered fluid export on the last segment facing south into the EV reactor. Keep the bottom import bus for its solution. The EV reactor also makes QBit wafers with radon. Its separate input tanks can hold the two fluids concurrently. Verify a delivery from the bus and a finished wafer before treating both feeds as proven. Sulfuric acid still serves the board reactors and the leacher.
