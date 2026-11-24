@@ -25,3 +25,5 @@ At 111h41m the MV canner was installed at (12,83,4) on the 128 V copper line. It
 The first two lapis coolers finished in the MV canner. Each used sixteen milled gems and one empty cooler. The next 32 dust are in the mill output. The separate HV acid reactor is now on the roof at (10,86,1), leaving its neighboring thermal centrifuge site at (10,85,2) available.
 
 All eight Lapis Coolers and all four Glowstone Coolers are finished. At 113h37m the casing stock included nineteen Basic Plating, eleven tungstensteel plates and one tungstensteel frame. The casing assembler takes six plates plus a frame and gives three robust casings. The IV pump rotor is already finished and its pipe can be extruded from three ingots. This frees enough plates for the first casing batch.
+
+At 113h59m ME returned the first three robust tungstensteel casings. One frame and six plates cleared from stock. The nineteen basic plates can now make sixteen outer casing blocks. The graphite order also returned 29 ingots, with three of four moderator blocks already packed.

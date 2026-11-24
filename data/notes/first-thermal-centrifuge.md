@@ -25,3 +25,5 @@ For the first mission, reuse the existing LV fluid extractor at (5,81,2) and the
 At 113h37m the HV thermal centrifuge was installed at (10,85,2). Its energy buffer measured 16,152 EU. The first rare dust charge was 197 ticks into its 1,143-tick cycle at 192 EU/t. Finish the eight common clumps alongside the casing build.
 
 At 113h45m the first U-235 clump had been collected. Eight U-238 dust went into the same machine and the first common clump was in production at 192 EU/t for 1,143 ticks. The common and rare recipes each take about 57 seconds per item on this machine. After the first eight-plus-one, start the remaining material for all nine fuel items while the shell is under construction.
+
+The first eight common clumps finished together in the HV machine. Storage also held 22 rare dust and 40 common dust, enough for all the remaining rare charges and forty of the sixty-four remaining common charges.
