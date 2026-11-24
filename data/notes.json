@@ -171,10 +171,10 @@
     {
       "name": "assembly-silver.md",
       "first_ticks": 5902439,
-      "ticks": 8332577,
-      "sent_at": "2026-11-24T07:51:50-0500",
-      "versions": 8,
-      "bytes": 4106
+      "ticks": 8939288,
+      "sent_at": "2026-11-24T16:17:26-0500",
+      "versions": 10,
+      "bytes": 5253
     },
     {
       "name": "assembly-workshop-shift.md",
@@ -721,6 +721,14 @@
       "bytes": 3214
     },
     {
+      "name": "east-freezer-hot-metals.md",
+      "first_ticks": 8923488,
+      "ticks": 8923488,
+      "sent_at": "2026-11-24T16:04:16-0500",
+      "versions": 1,
+      "bytes": 1237
+    },
+    {
       "name": "east-furnace-power.md",
       "first_ticks": 4601533,
       "ticks": 4641696,
@@ -779,18 +787,18 @@
     {
       "name": "enderium-engine-bay.md",
       "first_ticks": 8801272,
-      "ticks": 8801272,
-      "sent_at": "2026-11-24T14:22:25-0500",
-      "versions": 1,
-      "bytes": 1372
+      "ticks": 8937371,
+      "sent_at": "2026-11-24T16:15:50-0500",
+      "versions": 2,
+      "bytes": 1567
     },
     {
       "name": "epoxy-bath-fluid-feed.md",
       "first_ticks": 8891961,
-      "ticks": 8891961,
-      "sent_at": "2026-11-24T15:38:00-0500",
-      "versions": 1,
-      "bytes": 1050
+      "ticks": 8935653,
+      "sent_at": "2026-11-24T16:14:24-0500",
+      "versions": 2,
+      "bytes": 1374
     },
     {
       "name": "epoxy-coater.md",
@@ -2563,10 +2571,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 8910913,
-      "sent_at": "2026-11-24T15:53:47-0500",
-      "versions": 916,
-      "bytes": 9819
+      "ticks": 8940100,
+      "sent_at": "2026-11-24T16:18:07-0500",
+      "versions": 922,
+      "bytes": 10974
     },
     {
       "name": "review-101h06m.md",
