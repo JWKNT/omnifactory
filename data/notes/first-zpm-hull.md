@@ -1,0 +1,7 @@
+# First ZPM hull
+
+Page 536 opened with the first cold Naquadah Ingot. It pays an OmniDollar and opens the ZPM assembler and compressor. Eight iridium plates make the casing. The machine assembler recipe takes the casing, two insulated Naquadah leads and 288 mB PTFE. Use it to save the ninth iridium plate required at the bench. Preserve the first cold Naquadah for the boule. The two leads take one additional ingot through the wiremill and two cable-wrapping operations.
+
+Use the lepidolite already recovered for the breeder's boron. The factory has 154 clean dust. Two 20-dust charges in the spare MV electrolyzer supply four buckets of fluorine for the first PTFE batch. They also yield eight aluminium dust for the freezer, six lithium and two potassium. Bastnasite also works but the twelve clean dust on hand give only two buckets.
+
+The in-game recipes for one bucket of tetrafluoroethylene need four buckets of hydrofluoric acid and two of chloroform. The latter need twelve buckets of chlorine and two of methane. ME has nine buckets of chlorine, with four more in the LV electrolyzer. Keep the silicone cable wrapper supplied. The oxygen polymer recipe gives 216 mB PTFE from 144 mB monomer. The 2,160 mB recipe with titanium tetrachloride gives twice the input volume as plastic and suits a future dedicated line once several hulls are due. Run the first recipe on the smaller charge. The surveyed stocks include 24 crushed iridium and 104 more ore.

@@ -1,0 +1,9 @@
+# A second freezer on the east deck
+
+The first Hot Naquadah Ingot reached the west freezer through the red conduit. It sat in the item bus behind liquid-air production, and two hot titanium ingots joined it. This is the recurring queue described in the [earlier freezer review](freezer-capacity-at-crystal.md). The west controller reports 256 V. It can cool Naquadah at 120 EU/t, but the pack's Draconium recipe needs 1,200 EU/t and a separate coolant inlet. Build a second metal freezer. Let the west one cool the first Naquadah batch while the new shell goes up.
+
+All 27 spaces centered on (45,81,−12) were air over a complete cobblestone floor when surveyed. The east controller faces the breeder aisle. Nineteen frost-proof casings leave room for the controller, two item buses, two fluid hatches and two HV energy hatches. The center remains empty. This pack's freezer class requires at least fourteen casings. One additional casing goes into the controller. Two casings were already in storage, leaving six three-casing crafts. Give the aluminium cable for the boule furnace first call on aluminium.
+
+Use the south two roof hatches at (44,82,−11) and (45,82,−11). A four-amp HV CEF at (45,82,−9) can feed two 2x Gold Cables directly north and northwest of it. Both cable segments and the six-block extension of the vibrant RF trunk were clear. Two 512 V hatches accepting two amps each should give the controller 2,048 V, enough for the 1,200 EU/t heat. Verify that value and power under load. This saves two EV hulls compared with a separate EV converter and hatch, and leaves the fifth furnace's four EV amps available for its boule.
+
+For the prototype, feed the west item bus at (44,81,−12) and take cold metal from (46,80,−12). Give the north fluid inlet its own filtered Cryotheum supply. Keep the existing red freezer route running until a hot ingot has passed through the new unit and its cold output has reached ME.

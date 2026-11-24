@@ -697,6 +697,14 @@
       "bytes": 2384
     },
     {
+      "name": "east-metal-freezer.md",
+      "first_ticks": 8497828,
+      "ticks": 8497828,
+      "sent_at": "2026-11-24T10:09:33-0500",
+      "versions": 1,
+      "bytes": 1942
+    },
+    {
       "name": "ebf-running.md",
       "first_ticks": 204715,
       "ticks": 204715,
@@ -1071,6 +1079,14 @@
       "sent_at": "2026-11-20T04:35:47-0500",
       "versions": 12,
       "bytes": 7059
+    },
+    {
+      "name": "first-zpm-hull.md",
+      "first_ticks": 8510284,
+      "ticks": 8510284,
+      "sent_at": "2026-11-24T10:19:56-0500",
+      "versions": 1,
+      "bytes": 1461
     },
     {
       "name": "fleet-dynamo-gears.md",
@@ -2459,10 +2475,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 8489922,
-      "sent_at": "2026-11-24T10:02:58-0500",
-      "versions": 875,
-      "bytes": 24075
+      "ticks": 8506838,
+      "sent_at": "2026-11-24T10:17:03-0500",
+      "versions": 876,
+      "bytes": 24443
     },
     {
       "name": "review-101h06m.md",
