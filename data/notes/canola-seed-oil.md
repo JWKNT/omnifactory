@@ -21,3 +21,5 @@ The installed press at (13,82,6) earned the nickel on page 162. Its first stack 
 The press's top fluid import bus is active. ME held 3,360 mB while the press held another 80 mB and 21 canola from the original stack. The press resumed as soon as its tank drained. Use the remaining pantry crop and the next field harvest for the first six-bucket charge.
 
 At 114h25m ME held 9,840 mB of canola oil and 72,000 mB of methanol. The installed LV reactor had picked up 64,000 mB of oxygen through the conduit directly underneath it. From the north aisle I disabled that conduit's upward fluid connection and returned the first 16,000 mB of oxygen to ME. Finish draining its other 48,000 mB before fitting the west-facing import bus on the east side. The press and its own return already work.
+
+At 114h54m the remaining three 16-bucket tank transfers reached ME. The reactor input is clear for the first crop-oil charge.

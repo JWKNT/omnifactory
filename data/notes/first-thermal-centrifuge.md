@@ -31,3 +31,5 @@ The first eight common clumps finished together in the HV machine. Storage also 
 All nine U-235 clumps for the first nine fuel items have been collected. The HV machine then accepted a further 32 common dust. Seven of those clumps were collected during the run, bringing the common count to fifteen. Each remaining common clump still takes 1,143 ticks. Both short overhead network links now reach the planned interface.
 
 A further eighteen common clumps came out of the running centrifuge, bringing the collected count to 33 of 72. I found another 40 common dust in storage, enough to finish the fuel bill even without counting the rest of the charge already in the machine. The new ME Interface order is running. It shares the aluminium furnace with the guidance sensor materials.
+
+At 115h08m the final 32-item charge had ended. Sixty-two common clumps were already in inventory or ME and the machine showed ten more outputs with an empty input. All seventy-two common and nine rare clumps for the first nine game fuel items are accounted for.
