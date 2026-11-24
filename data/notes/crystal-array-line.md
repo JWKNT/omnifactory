@@ -1,0 +1,9 @@
+# Crystal Processor Array on the north line
+
+At 120h08m all eleven Assembly Line input buses were empty. The controller reported 81,920 V available from the two hatches. Its actual calculation for the array is 30,000 EU/t for 300 ticks, or 9 million EU. A mainframe takes 500 ticks and 15 million EU. Verify discharge from three charged north capacitors before starting the array. Keep the LuV press idle during the heat.
+
+Page 534 requires one array. Each takes eight SMD diodes, one HPIC, eight SMD transistors, four Energy Flow Circuits, one multilayer board, one Improved Ender Eye, two Draconium Plates, four single Enderium wires and 720 mB solder. Both wiremill and extruder yield two wires per ingot. Cutting a plate by hand yields one. The existing compressor makes a Draconium Plate from one cold ingot. The array's eight distinct inputs fit the blocking Assembly Line interface. The ten distinct inputs for the mainframe on page 535 need a different dispatch, such as the existing ordered bus loader. The pack's Electronics.zs gives the exact bus sequence.
+
+There were 36 diodes, 30 transistors, six Crystal CPUs and seven QBit CPUs at the survey. Stage four Energy Flow Circuits through the LuV assembler. The first high-power wafer requires two compound dust, and the blue-lens laser has already returned two Power IC Wafers. The two arrays and one mainframe together need three finished HPICs. Each high-power wafer cuts into two. The controller has verified the recipe's power demand. The array itself has yet to run.
+
+The ten-input mainframe can use the Extended Processing Pattern Terminal on page 813 once the Package Recipe Encoder is available. It accepts sixteen inputs. The earlier [extended crafting bill](extended-crafting-after-osmium.md) covers that hardware. The existing physical bus loader can run a pilot before it is built.

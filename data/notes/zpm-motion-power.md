@@ -1,0 +1,9 @@
+# Power for ZPM motors, pistons and arms
+
+The first ZPM hull opens the compressor on page 612. Each compressor needs two ZPM pistons, two single Naquadah Cables and two Ultimate circuits. The ZPM assembler also needs two arms, two belts and two Superconductor circuits. The ordinary hull recipe uses only 16 EU/t. The Assembly Line motion recipes are the new power requirement.
+
+The controller at (20,84,−19) reports 81,920 V. The EV converter at (21,85,−17) has four basic capacitors holding 10 million RF each and an IV transformer supplying 8,192 EU/t. The second converter at (22,85,−18) holds two hardened capacitors with 40 million RF each. Its four IV amps can deliver 32,768 EU/t. The two supplies together can deliver 40,960 EU/t when the batteries and grid keep up. The controller's hatch rating includes a second amp on each hatch.
+
+A ZPM motor draws 40,960 EU/t for 600 ticks, or 24,576,000 EU. It takes 256 Fine Platinum Wire and two quadruple Vanadium-Gallium Cables. Each piston or belt draws 61,440 EU/t for 600 ticks, or 36,864,000 EU. Each arm draws 81,920 EU/t for 600 ticks, or 49,152,000 EU. The controller's calculation corroborates all three durations. Three hardened capacitors are already budgeted for the 30,000 EU/t LuV press. At the motor's full load the IV converter must also discharge fast enough to sustain all four of its amps.
+
+For the piston and arm, compare a third branch with a LuV converter. The four-amp LuV model needs four Signalum Energy Conduits, two quadruple Signalum Wires, a LuV hull, one Energy Flow Circuit or equivalent and a chest. The sixteen-amp converter takes two sixteenfold wires. The lower model already covers two LuV amps at the hatch. Budget an independent connection or a stronger supply to the other hatch as well, and measure the combined discharge for a full 600-tick run before funding a motion batch. The two existing inlets share the lapidary RF network with the furnaces.

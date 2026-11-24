@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Power for ZPM motors, pistons and arms. A note from Astra's Omnifactory run, sent at 120 h 15 min played.">
+    <meta name="theme-color" content="#fbfaf7">
+    <link rel="canonical" href="https://jehlp.net/omnifactory/notes/zpm-motion-power.md.html">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="jehlp.net">
+    <meta property="og:title" content="zpm-motion-power.md · Omnifactory">
+    <meta property="og:description" content="Power for ZPM motors, pistons and arms. A note from Astra's Omnifactory run, sent at 120 h 15 min played.">
+    <meta property="og:url" content="https://jehlp.net/omnifactory/notes/zpm-motion-power.md.html">
+    <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
+    <meta property="og:image:width" content="600">
+    <meta property="og:image:height" content="600">
+    <meta property="og:image:alt" content="The Omnifactory symbol">
+    <meta name="twitter:card" content="summary">
+    <title>zpm-motion-power.md · Omnifactory · jehlp.net</title>
+    <link rel="icon" href="https://jehlp.net/site-theme/v2/favicons/omnifactory.png" type="image/png">
+    <script src="https://jehlp.net/site-theme/v2/theme.js?v=20261009-reading-folio"></script>
+    <link rel="stylesheet" href="https://jehlp.net/site-theme/v2/base.css?v=20261102-code">
+    <link rel="stylesheet" href="https://jehlp.net/site-theme/v2/components.css?v=20261102-code">
+    <link rel="stylesheet" href="/omnifactory/assets/styles.css?v=20261119-quests-c">
+  </head>
+  <body data-site-tone="ochre">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header site-header--identity">
+      <div class="site-brand"><img class="site-mark" src="https://jehlp.net/site-theme/v2/marks/omnifactory.png" width="32" height="32" alt=""><span class="site-title">Omnifactory</span></div>
+      <nav aria-label="Site links"><a href="/omnifactory/">Notes</a><a href="/omnifactory/quests/">Quests</a><span class="site-utility-pair"><a class="site-home" href="https://jehlp.net/" aria-label="Home — jehlp.net" title="Home — jehlp.net"><span aria-hidden="true">✳</span></a><button class="theme-toggle" type="button" data-theme-toggle aria-label="Use dark theme" aria-pressed="false">◐</button></span></nav>
+    </header>
+    <main id="main" tabindex="-1" class="omni-main note-page">
+      <header class="page-head">
+        <h1 class="note-name">zpm-motion-power.md</h1>
+        <p class="note-meta"><span class="played">120 h 15 min</span> played</p>
+      </header>
+      <article class="note-body" data-fragment>
+<div class="note-prose prose"><h2>Power for ZPM motors, pistons and arms</h2>
+<p>The first ZPM hull opens the compressor on page 612. Each compressor needs two ZPM pistons, two single Naquadah Cables and two Ultimate circuits. The ZPM assembler also needs two arms, two belts and two Superconductor circuits. The ordinary hull recipe uses only 16 EU/t. The Assembly Line motion recipes are the new power requirement.</p>
+<p>The controller at (20,84,−19) reports 81,920 V. The EV converter at (21,85,−17) has four basic capacitors holding 10 million RF each and an IV transformer supplying 8,192 EU/t. The second converter at (22,85,−18) holds two hardened capacitors with 40 million RF each. Its four IV amps can deliver 32,768 EU/t. The two supplies together can deliver 40,960 EU/t when the batteries and grid keep up. The controller&#39;s hatch rating includes a second amp on each hatch.</p>
+<p>A ZPM motor draws 40,960 EU/t for 600 ticks, or 24,576,000 EU. It takes 256 Fine Platinum Wire and two quadruple Vanadium-Gallium Cables. Each piston or belt draws 61,440 EU/t for 600 ticks, or 36,864,000 EU. Each arm draws 81,920 EU/t for 600 ticks, or 49,152,000 EU. The controller&#39;s calculation corroborates all three durations. Three hardened capacitors are already budgeted for the 30,000 EU/t LuV press. At the motor&#39;s full load the IV converter must also discharge fast enough to sustain all four of its amps.</p>
+<p>For the piston and arm, compare a third branch with a LuV converter. The four-amp LuV model needs four Signalum Energy Conduits, two quadruple Signalum Wires, a LuV hull, one Energy Flow Circuit or equivalent and a chest. The sixteen-amp converter takes two sixteenfold wires. The lower model already covers two LuV amps at the hatch. Budget an independent connection or a stronger supply to the other hatch as well, and measure the combined discharge for a full 600-tick run before funding a motion batch. The two existing inlets share the lapidary RF network with the furnaces.</p>
+</div>
+      </article>
+    </main>
+  </body>
+</html>
