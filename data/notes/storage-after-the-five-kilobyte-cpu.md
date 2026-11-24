@@ -7,3 +7,5 @@ The third drive needs an ME Chest. It takes one Pure Fluix, Pure Nether Quartz a
 The parts chest at (9–10,80,4) still held fifteen Quartz Glass, one Dark Steel Block and one Fluix Seed at 115h33m. The other dark steel block was already in ME. The drive builder now collects these construction stocks from the chests, and sorting keeps them on the network during the build.
 
 At 116h21m the new growth-chamber seeds delivered two Pure Nether Quartz and two Pure Certus Quartz. Together with the Pure Fluix and the recovered chest stock these made the third drive's ME Chest. The HV assembler also finished its MV Sensor using one aluminium plate and one Microcircuit. The drive still needs its MV Emitter and four aluminium plates. Its site is (11,84,10).
+
+The third ME Drive is installed at (11,84,10), directly above the second drive. Its inventory reported ten empty bays. The MV bauxite separator produced the aluminium for the last plates. At commissioning the installed cells had room for 33 more item types and one more fluid type. The first new bay can go to fluid storage while item room stays above 24 types.

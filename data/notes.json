@@ -283,10 +283,18 @@
     {
       "name": "breeder-cooling-and-cells.md",
       "first_ticks": 5150449,
-      "ticks": 8388192,
-      "sent_at": "2026-11-24T08:38:11-0500",
-      "versions": 18,
-      "bytes": 8279
+      "ticks": 8408382,
+      "sent_at": "2026-11-24T08:55:01-0500",
+      "versions": 19,
+      "bytes": 8713
+    },
+    {
+      "name": "breeder-coproducts.md",
+      "first_ticks": 8396929,
+      "ticks": 8396929,
+      "sent_at": "2026-11-24T08:45:28-0500",
+      "versions": 1,
+      "bytes": 1210
     },
     {
       "name": "brewery-cane.md",
@@ -2427,10 +2435,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 8388192,
-      "sent_at": "2026-11-24T08:38:11-0500",
-      "versions": 861,
-      "bytes": 24640
+      "ticks": 8411335,
+      "sent_at": "2026-11-24T08:57:28-0500",
+      "versions": 866,
+      "bytes": 24922
     },
     {
       "name": "review-101h06m.md",
@@ -3131,10 +3139,10 @@
     {
       "name": "storage-after-the-five-kilobyte-cpu.md",
       "first_ticks": 8286076,
-      "ticks": 8378319,
-      "sent_at": "2026-11-24T08:29:57-0500",
-      "versions": 5,
-      "bytes": 2560
+      "ticks": 8410204,
+      "sent_at": "2026-11-24T08:56:32-0500",
+      "versions": 6,
+      "bytes": 2923
     },
     {
       "name": "storage-expansion.md",
