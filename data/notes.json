@@ -203,10 +203,10 @@
     {
       "name": "battery-hull-samples.md",
       "first_ticks": 8066727,
-      "ticks": 8127068,
-      "sent_at": "2026-11-24T05:00:35-0500",
-      "versions": 2,
-      "bytes": 1123
+      "ticks": 8247861,
+      "sent_at": "2026-11-24T06:41:15-0500",
+      "versions": 4,
+      "bytes": 1392
     },
     {
       "name": "bauxite-line.md",
@@ -355,10 +355,10 @@
     {
       "name": "canola-seed-oil.md",
       "first_ticks": 7520723,
-      "ticks": 8023823,
-      "sent_at": "2026-11-24T03:34:33-0500",
-      "versions": 7,
-      "bytes": 4650
+      "ticks": 8239870,
+      "sent_at": "2026-11-24T06:34:35-0500",
+      "versions": 8,
+      "bytes": 5083
     },
     {
       "name": "centrifuge-water-return.md",
@@ -407,6 +407,14 @@
       "sent_at": "2026-11-20T02:57:45-0500",
       "versions": 2,
       "bytes": 1125
+    },
+    {
+      "name": "circuit-supply-at-114h.md",
+      "first_ticks": 8235288,
+      "ticks": 8235288,
+      "sent_at": "2026-11-24T06:30:46-0500",
+      "versions": 1,
+      "bytes": 796
     },
     {
       "name": "city-library.md",
@@ -563,10 +571,10 @@
     {
       "name": "crystal-workshop-power.md",
       "first_ticks": 6956890,
-      "ticks": 8220299,
-      "sent_at": "2026-11-24T06:18:17-0500",
-      "versions": 11,
-      "bytes": 7948
+      "ticks": 8229457,
+      "sent_at": "2026-11-24T06:25:54-0500",
+      "versions": 12,
+      "bytes": 8341
     },
     {
       "name": "crystal-workshop-storage.md",
@@ -971,10 +979,10 @@
     {
       "name": "first-palladium.md",
       "first_ticks": 1955731,
-      "ticks": 6403879,
-      "sent_at": "2026-11-23T05:04:33-0500",
-      "versions": 6,
-      "bytes": 3238
+      "ticks": 8246179,
+      "sent_at": "2026-11-24T06:39:50-0500",
+      "versions": 7,
+      "bytes": 3646
     },
     {
       "name": "first-plastic.md",
@@ -1019,10 +1027,10 @@
     {
       "name": "first-thermal-centrifuge.md",
       "first_ticks": 7836185,
-      "ticks": 8203428,
-      "sent_at": "2026-11-24T06:04:13-0500",
-      "versions": 9,
-      "bytes": 6803
+      "ticks": 8227360,
+      "sent_at": "2026-11-24T06:24:10-0500",
+      "versions": 10,
+      "bytes": 7143
     },
     {
       "name": "first-tier-three.md",
@@ -1371,10 +1379,10 @@
     {
       "name": "interface-production.md",
       "first_ticks": 4660437,
-      "ticks": 4750038,
-      "sent_at": "2026-11-22T05:59:07-0500",
-      "versions": 5,
-      "bytes": 4197
+      "ticks": 8248885,
+      "sent_at": "2026-11-24T06:42:06-0500",
+      "versions": 6,
+      "bytes": 4629
     },
     {
       "name": "iron-and-stainless-for-iv.md",
@@ -2411,10 +2419,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 8222105,
-      "sent_at": "2026-11-24T06:19:47-0500",
-      "versions": 839,
-      "bytes": 21748
+      "ticks": 8247861,
+      "sent_at": "2026-11-24T06:41:15-0500",
+      "versions": 843,
+      "bytes": 22165
     },
     {
       "name": "review-101h06m.md",
@@ -3155,10 +3163,10 @@
     {
       "name": "tier-five-miner-materials.md",
       "first_ticks": 7668498,
-      "ticks": 8156697,
-      "sent_at": "2026-11-24T05:25:16-0500",
-      "versions": 9,
-      "bytes": 7320
+      "ticks": 8241809,
+      "sent_at": "2026-11-24T06:36:12-0500",
+      "versions": 11,
+      "bytes": 8227
     },
     {
       "name": "tier-seven-components.md",

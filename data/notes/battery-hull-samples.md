@@ -5,3 +5,5 @@ Pages 70 and 338 are open. Each pays a nickel for showing its empty battery hull
 Five spare Battery Alloy Ingots came from the canner quest. Two more alloy-smelter cycles turn eight Lead Dust and two Antimony Ingots into ten Battery Alloy Ingots. The MV press makes one plate per ingot. The battery_hull_samples job uses this route while the cryogenic furnaces and assembly line work on the LuV compressor.
 
 The MV assembler delivered the medium hull, and page 70 paid one OmniNickel. Continue with the large hull. The five initial plates left two after the medium hull. The gold cables for the HV thermal centrifuge and the large hull can share one wrapper charge.
+
+The MV assembler received nine battery alloy plates and four single gold cables. After an 800-tick cycle at 64 EU/t, one Large Battery Hull appeared in ME. The polyethylene tank still held 14,484 mB. Page 338 paid its OmniNickel at 114h32m after I presented the hull.

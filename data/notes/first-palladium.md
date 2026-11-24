@@ -15,3 +15,5 @@ At 88h28m the HV fiber autoclave had 4 mB of palladium left and storage held 31 
 At 88h47m four palladium ore had supplied eight clean dust through the ore mill, hammer and cauldron. The palladium ingot pattern is fitted at the fourth furnace. The other missing input was carbon. The free HV centrifuge took 28 coal dust, bringing the carbon stock to 29 while the LV electrolyzer handled phosphorus and quartz. Verify the ingot return and the extractor's liquid before relying on another 18 wafers.
 
 At 88h55m the furnace had delivered four palladium ingots. Three remained in storage and the fiber autoclave held 140 mB after the extractor melted the fourth. The wafer line returned a Nano CPU Wafer.
+
+At 114h30m an ME order for two Nano CPU Wafers was waiting for 24 Raw Carbon Fibers. The HV autoclave had twelve carbon dust in its input and no palladium. One ingot in the MV fluid extractor underneath supplied 144 mB. The autoclave used twelve, leaving 132 mB. The wafer order completed and storage held four wafers. The workshop shift now checks this fluid when it finds carbon waiting in the autoclave.
