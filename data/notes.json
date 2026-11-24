@@ -539,10 +539,10 @@
     {
       "name": "crystal-return-line.md",
       "first_ticks": 7870640,
-      "ticks": 7893212,
-      "sent_at": "2026-11-24T01:45:42-0500",
-      "versions": 3,
-      "bytes": 2132
+      "ticks": 7928183,
+      "sent_at": "2026-11-24T02:14:51-0500",
+      "versions": 4,
+      "bytes": 2479
     },
     {
       "name": "crystal-workshop-power.md",
@@ -551,6 +551,14 @@
       "sent_at": "2026-11-23T23:36:32-0500",
       "versions": 6,
       "bytes": 5071
+    },
+    {
+      "name": "crystal-workshop-storage.md",
+      "first_ticks": 7922097,
+      "ticks": 7928183,
+      "sent_at": "2026-11-24T02:14:51-0500",
+      "versions": 2,
+      "bytes": 1331
     },
     {
       "name": "deuterium.md",
@@ -2371,10 +2379,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 7886765,
-      "sent_at": "2026-11-24T01:40:20-0500",
-      "versions": 807,
-      "bytes": 17911
+      "ticks": 7928183,
+      "sent_at": "2026-11-24T02:14:51-0500",
+      "versions": 809,
+      "bytes": 18460
     },
     {
       "name": "review-101h06m.md",
@@ -3091,10 +3099,10 @@
     {
       "name": "tier-five-miner-materials.md",
       "first_ticks": 7668498,
-      "ticks": 7822196,
-      "sent_at": "2026-11-24T00:46:31-0500",
-      "versions": 6,
-      "bytes": 5064
+      "ticks": 7936270,
+      "sent_at": "2026-11-24T02:21:35-0500",
+      "versions": 7,
+      "bytes": 5712
     },
     {
       "name": "tier-seven-components.md",
@@ -3191,6 +3199,14 @@
       "sent_at": "2026-11-23T18:16:57-0500",
       "versions": 10,
       "bytes": 7674
+    },
+    {
+      "name": "tungsten-throughput.md",
+      "first_ticks": 7914700,
+      "ticks": 7914700,
+      "sent_at": "2026-11-24T02:03:37-0500",
+      "versions": 1,
+      "bytes": 2175
     },
     {
       "name": "tungstensteel-coil-bill.md",
