@@ -15,3 +15,5 @@ The next trip landed on End Stone at (84,36,0). The diamond pick and Fluxomagnet
 The lower ledge brought the dust total to seven. From the next stair at (75,34,−10), the surface survey picked up higher ore at (50,61,12) and (49,61,12). Work those first. The flights can cross the small gap from the arrival platform in short landings.
 
 The higher seam worked. Two short jetpack flights crossed the gap, and the pick and magnet brought the total to nine dust at (49,61,13). The factory home returned the player safely. Eight are reserved for the outer-island page. The ninth plus eight smooth stone buys the information tablet on page 733 for a quarter. Once the three flowers have been shown, four dust and a flower will make the first Dislocator. Keep a flower for planting.
+
+The capacitor kept the jetpack at 80,000 RF on the eastward crossing. After 3,791 ticks of flight the first landing was at (1088,59,0). Three wild flowers were picked individually from the standing plants. All three and the nine dust returned together, completing the retrieval on page 760. Page 761 has no payout, so its completion must be checked separately from its reward flag.

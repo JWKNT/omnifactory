@@ -11,3 +11,5 @@ The first native order delivered six Chrome Dust to ME. The repeat miner already
 The chemistry power supply and rubber reactor each need an HV hull. The washer and electrolyzer can use the same ruby ore twice for chrome, first from washing coproducts and then from the ruby dust. When less than one electrolysis batch remains across storage and the machines have cleared their ruby, buy 32 ore for four nickels. This also replaces aluminium used by interfaces.
 
 The five remaining raw ruby entered the HV mill. The first of three outstanding HV hulls has been made. The hull tender now counts the rubber reactor, shared converter and HSS-G extruder when ordering the next stainless plates.
+
+The gemstone flight opened a shorter route. Five exquisite rubies yielded 40 Ruby Dust in the starter mill. ME ordered six chrome from 36 of that dust, and all six reached stock. Each electrolyzer charge yields a chrome dust, two aluminium dust and 3,000 mB oxygen. The EV machine can share these charges with scheelite. Keep sixteen exquisite rubies available for other uses.
