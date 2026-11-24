@@ -275,10 +275,10 @@
     {
       "name": "breeder-cooling-and-cells.md",
       "first_ticks": 5150449,
-      "ticks": 7819056,
-      "sent_at": "2026-11-24T00:43:54-0500",
-      "versions": 6,
-      "bytes": 4097
+      "ticks": 7942039,
+      "sent_at": "2026-11-24T02:26:24-0500",
+      "versions": 7,
+      "bytes": 4100
     },
     {
       "name": "brewery-cane.md",
@@ -447,6 +447,14 @@
       "sent_at": "2026-11-19T15:19:05-0500",
       "versions": 3,
       "bytes": 1415
+    },
+    {
+      "name": "coal-to-carbon.md",
+      "first_ticks": 7949164,
+      "ticks": 7949164,
+      "sent_at": "2026-11-24T02:32:20-0500",
+      "versions": 1,
+      "bytes": 940
     },
     {
       "name": "cobaltite.md",
@@ -667,10 +675,10 @@
     {
       "name": "end-cake-and-draconium.md",
       "first_ticks": 7893212,
-      "ticks": 7893212,
-      "sent_at": "2026-11-24T01:45:42-0500",
-      "versions": 1,
-      "bytes": 1110
+      "ticks": 7942039,
+      "sent_at": "2026-11-24T02:26:24-0500",
+      "versions": 2,
+      "bytes": 1158
     },
     {
       "name": "end-steel.md",
@@ -1003,10 +1011,10 @@
     {
       "name": "first-thermal-centrifuge.md",
       "first_ticks": 7836185,
-      "ticks": 7854901,
-      "sent_at": "2026-11-24T01:13:47-0500",
-      "versions": 2,
-      "bytes": 2828
+      "ticks": 7953445,
+      "sent_at": "2026-11-24T02:35:54-0500",
+      "versions": 3,
+      "bytes": 3437
     },
     {
       "name": "first-tier-three.md",
@@ -2379,10 +2387,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 7928183,
-      "sent_at": "2026-11-24T02:14:51-0500",
-      "versions": 809,
-      "bytes": 18460
+      "ticks": 7958463,
+      "sent_at": "2026-11-24T02:40:05-0500",
+      "versions": 810,
+      "bytes": 18768
     },
     {
       "name": "review-101h06m.md",
