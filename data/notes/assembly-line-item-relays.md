@@ -39,3 +39,7 @@ At 96h01m the sixth motor raised ME storage from five to six. The line output bu
 The new ME Interface at (18,81,−19) faces east. The player enabled blocking mode and installed the motor pattern after checking that all four 64-wire stacks, both long HSS-G rods, both cables and the long magnet transferred correctly. The west face is reachable from the south-west deck near (16,80,−17).
 
 At 96h11m ME dispatched its first motor order. The line showed motor seven at tick 148 of 300, drawing 10,240 EU/t with no energy shortage. All eleven input buses had cleared. ME then held seven motors, up from six. This proves the ingredient relays, blocking interface, output import and the motor pattern together.
+
+The LuV piston pattern sent eight consumable stacks through the item relays. The first order put the cable at x20, small gear at x21, motor at x24, large gear at x25, rounds at x26, plates at x27, rings at x28 and rods at x29. The order differs from the JEI display. After checking all eight identities and amounts, the player put a reusable program-two integrated circuit in empty bus x22. The line returned one LuV piston to ME and the circuit remained in the bus. Clear the selector from the bus before requesting the second piston through the blocking interface. The tender checks the next delivery's actual bus contents before replacing it.
+
+The second native piston raised stock from one to two. Both went into the roof compressor. The selector was lifted after the delivery, leaving the relay buses available for a different recipe.
