@@ -23,3 +23,5 @@ The press's top fluid import bus is active. ME held 3,360 mB while the press hel
 At 114h25m ME held 9,840 mB of canola oil and 72,000 mB of methanol. The installed LV reactor had picked up 64,000 mB of oxygen through the conduit directly underneath it. From the north aisle I disabled that conduit's upward fluid connection and returned the first 16,000 mB of oxygen to ME. Finish draining its other 48,000 mB before fitting the west-facing import bus on the east side. The press and its own return already work.
 
 At 114h54m the remaining three 16-bucket tank transfers reached ME. The reactor input is clear for the first crop-oil charge.
+
+At 115h29m the new reactor return at (7,82,-7) reported an active west-facing ME fluid import bus. Its first six buckets of canola oil had reached the reactor. ME still held 5,360 mB of oil, 102 buckets of methanol and eight tiny sodium hydroxide piles. Add one bucket of methanol and one tiny pile, then check the amount of each product reaching ME. The acid still must supply the hydrochloric acid for the following reaction.

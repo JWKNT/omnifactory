@@ -283,10 +283,10 @@
     {
       "name": "breeder-cooling-and-cells.md",
       "first_ticks": 5150449,
-      "ticks": 8263898,
-      "sent_at": "2026-11-24T06:54:36-0500",
-      "versions": 15,
-      "bytes": 7009
+      "ticks": 8321734,
+      "sent_at": "2026-11-24T07:42:48-0500",
+      "versions": 16,
+      "bytes": 7539
     },
     {
       "name": "brewery-cane.md",
@@ -315,10 +315,10 @@
     {
       "name": "cable-acid-recovery.md",
       "first_ticks": 4487800,
-      "ticks": 6419771,
-      "sent_at": "2026-11-23T05:17:48-0500",
-      "versions": 8,
-      "bytes": 4310
+      "ticks": 8321734,
+      "sent_at": "2026-11-24T07:42:48-0500",
+      "versions": 10,
+      "bytes": 5359
     },
     {
       "name": "cake-supplies.md",
@@ -355,10 +355,10 @@
     {
       "name": "canola-seed-oil.md",
       "first_ticks": 7520723,
-      "ticks": 8275474,
-      "sent_at": "2026-11-24T07:04:15-0500",
-      "versions": 9,
-      "bytes": 5210
+      "ticks": 8315720,
+      "sent_at": "2026-11-24T07:37:48-0500",
+      "versions": 10,
+      "bytes": 5639
     },
     {
       "name": "centrifuge-water-return.md",
@@ -2131,10 +2131,10 @@
     {
       "name": "prescient-crystals.md",
       "first_ticks": 7902187,
-      "ticks": 8288025,
-      "sent_at": "2026-11-24T07:14:43-0500",
-      "versions": 5,
-      "bytes": 3060
+      "ticks": 8321734,
+      "sent_at": "2026-11-24T07:42:48-0500",
+      "versions": 7,
+      "bytes": 4015
     },
     {
       "name": "pristine-transfer.md",
@@ -2419,10 +2419,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 8294766,
-      "sent_at": "2026-11-24T07:20:20-0500",
-      "versions": 847,
-      "bytes": 22867
+      "ticks": 8321734,
+      "sent_at": "2026-11-24T07:42:48-0500",
+      "versions": 850,
+      "bytes": 23384
     },
     {
       "name": "review-101h06m.md",
@@ -3123,10 +3123,10 @@
     {
       "name": "storage-after-the-five-kilobyte-cpu.md",
       "first_ticks": 8286076,
-      "ticks": 8294766,
-      "sent_at": "2026-11-24T07:20:20-0500",
-      "versions": 3,
-      "bytes": 1884
+      "ticks": 8321734,
+      "sent_at": "2026-11-24T07:42:48-0500",
+      "versions": 4,
+      "bytes": 2179
     },
     {
       "name": "storage-expansion.md",
@@ -3179,10 +3179,10 @@
     {
       "name": "tier-five-miner-materials.md",
       "first_ticks": 7668498,
-      "ticks": 8241809,
-      "sent_at": "2026-11-24T06:36:12-0500",
-      "versions": 11,
-      "bytes": 8227
+      "ticks": 8299110,
+      "sent_at": "2026-11-24T07:23:57-0500",
+      "versions": 12,
+      "bytes": 8559
     },
     {
       "name": "tier-seven-components.md",
@@ -3283,10 +3283,10 @@
     {
       "name": "tungsten-throughput.md",
       "first_ticks": 7914700,
-      "ticks": 8203428,
-      "sent_at": "2026-11-24T06:04:13-0500",
-      "versions": 4,
-      "bytes": 3694
+      "ticks": 8307128,
+      "sent_at": "2026-11-24T07:30:38-0500",
+      "versions": 5,
+      "bytes": 4157
     },
     {
       "name": "tungstensteel-coil-bill.md",
