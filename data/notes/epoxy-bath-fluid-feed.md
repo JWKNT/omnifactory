@@ -1,0 +1,5 @@
+# Resin delivery to the reinforced board bath
+
+The Crystal Circuit CPU order held one glass fiber in the MV bath at (13,80,-12) while ME held 1,152 mB epoxy resin. The existing portable transfer cleared the fiber and left 1,008 mB in the bath. Each sheet uses 144 mB. The resin reactor at (11,81,-13) already returns its output to ME automatically.
+
+Feed the bath from its exposed north face. The existing glass cable at (13,83,-15) is three levels above the north aisle. Run the branch down at z = −15 and south to (13,80,-13), with a resin-filtered fluid export bus facing south into the bath. The east side of the bath is cobblestone and its south interface already carries the glass fibers and sheets. The ordinary plate solidifier shares this fluid. If its reserve falls short, take a bucket back from the bath while leaving at least one reinforced sheet's worth. The commissioning receipt requires a filtered, active bus. Check for a rise in the bath after depositing the filter sample, or watch a later resin batch return and feed the bath.
