@@ -275,10 +275,10 @@
     {
       "name": "breeder-cooling-and-cells.md",
       "first_ticks": 5150449,
-      "ticks": 7813210,
-      "sent_at": "2026-11-24T00:39:02-0500",
-      "versions": 5,
-      "bytes": 3637
+      "ticks": 7819056,
+      "sent_at": "2026-11-24T00:43:54-0500",
+      "versions": 6,
+      "bytes": 4097
     },
     {
       "name": "brewery-cane.md",
@@ -967,6 +967,14 @@
       "sent_at": "2026-11-20T08:31:44-0500",
       "versions": 5,
       "bytes": 2690
+    },
+    {
+      "name": "first-thermal-centrifuge.md",
+      "first_ticks": 7836185,
+      "ticks": 7836185,
+      "sent_at": "2026-11-24T00:58:11-0500",
+      "versions": 1,
+      "bytes": 2136
     },
     {
       "name": "first-tier-three.md",
@@ -2315,10 +2323,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 7808516,
-      "sent_at": "2026-11-24T00:35:07-0500",
-      "versions": 799,
-      "bytes": 17766
+      "ticks": 7838065,
+      "sent_at": "2026-11-24T00:59:45-0500",
+      "versions": 802,
+      "bytes": 18201
     },
     {
       "name": "review-101h06m.md",
@@ -3027,10 +3035,10 @@
     {
       "name": "tier-five-miner-materials.md",
       "first_ticks": 7668498,
-      "ticks": 7799140,
-      "sent_at": "2026-11-24T00:27:19-0500",
-      "versions": 5,
-      "bytes": 4318
+      "ticks": 7822196,
+      "sent_at": "2026-11-24T00:46:31-0500",
+      "versions": 6,
+      "bytes": 5064
     },
     {
       "name": "tier-seven-components.md",
