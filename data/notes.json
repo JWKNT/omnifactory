@@ -1673,6 +1673,14 @@
       "bytes": 617
     },
     {
+      "name": "leadstone-jetpack.md",
+      "first_ticks": 9473345,
+      "ticks": 9473345,
+      "sent_at": "2026-11-24T23:42:29-0500",
+      "versions": 1,
+      "bytes": 834
+    },
+    {
       "name": "light-fuel-to-naphtha.md",
       "first_ticks": 6466071,
       "ticks": 6479146,
@@ -2643,10 +2651,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 9441379,
-      "sent_at": "2026-11-24T23:15:51-0500",
-      "versions": 994,
-      "bytes": 15247
+      "ticks": 9473345,
+      "sent_at": "2026-11-24T23:42:29-0500",
+      "versions": 998,
+      "bytes": 16198
     },
     {
       "name": "review-101h06m.md",
@@ -3091,10 +3099,10 @@
     {
       "name": "rotating-chamber-power.md",
       "first_ticks": 5163437,
-      "ticks": 9437169,
-      "sent_at": "2026-11-24T23:12:20-0500",
-      "versions": 5,
-      "bytes": 2811
+      "ticks": 9461548,
+      "sent_at": "2026-11-24T23:32:39-0500",
+      "versions": 6,
+      "bytes": 3154
     },
     {
       "name": "rubber-sheet-stock.md",
@@ -3187,10 +3195,10 @@
     {
       "name": "shared-lapidary-fuel.md",
       "first_ticks": 9129060,
-      "ticks": 9200859,
-      "sent_at": "2026-11-24T19:55:24-0500",
-      "versions": 9,
-      "bytes": 3760
+      "ticks": 9453199,
+      "sent_at": "2026-11-24T23:25:41-0500",
+      "versions": 10,
+      "bytes": 4213
     },
     {
       "name": "sheet-return.md",
@@ -3539,10 +3547,10 @@
     {
       "name": "tier-six-enderium.md",
       "first_ticks": 8552099,
-      "ticks": 9448874,
-      "sent_at": "2026-11-24T23:22:05-0500",
-      "versions": 12,
-      "bytes": 7737
+      "ticks": 9460172,
+      "sent_at": "2026-11-24T23:31:30-0500",
+      "versions": 13,
+      "bytes": 7955
     },
     {
       "name": "tier-six-thruster-furnaces.md",
@@ -3627,10 +3635,10 @@
     {
       "name": "tungsten-from-cargo.md",
       "first_ticks": 4341114,
-      "ticks": 7803815,
-      "sent_at": "2026-11-24T00:31:12-0500",
-      "versions": 21,
-      "bytes": 12551
+      "ticks": 9460172,
+      "sent_at": "2026-11-24T23:31:30-0500",
+      "versions": 22,
+      "bytes": 12898
     },
     {
       "name": "tungsten-power-restart.md",
@@ -3883,10 +3891,10 @@
     {
       "name": "zpm-arm-converter.md",
       "first_ticks": 9059318,
-      "ticks": 9443918,
-      "sent_at": "2026-11-24T23:17:57-0500",
-      "versions": 18,
-      "bytes": 9758
+      "ticks": 9460172,
+      "sent_at": "2026-11-24T23:31:30-0500",
+      "versions": 19,
+      "bytes": 10038
     },
     {
       "name": "zpm-assembler-motion-bill.md",
@@ -3907,10 +3915,10 @@
     {
       "name": "zpm-motion-power.md",
       "first_ticks": 8658081,
-      "ticks": 9423240,
-      "sent_at": "2026-11-24T23:00:43-0500",
-      "versions": 20,
-      "bytes": 12374
+      "ticks": 9465333,
+      "sent_at": "2026-11-24T23:35:48-0500",
+      "versions": 21,
+      "bytes": 13025
     }
   ]
 }

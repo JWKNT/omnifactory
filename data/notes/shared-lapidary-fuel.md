@@ -17,3 +17,5 @@ At 127h21m the west generator had 48 queued diamonds, the east had 29 and the wo
 At 127h33m the flexible fabricator had processed its backlog of Shulker matter into diamonds. The west generator held 64 fuel, the east 63, and the workshop had counted 58 loose diamonds as well as the four reserve blocks. The elite table completed the sixth Crystaltine Ingot.
 
 At 127h47m the fourth furnace finished the Lumium for the west Signalum upgrade. Page 261 paid one OmniNickel before installation. The measured west dynamo rating doubled from 7,500 to 15,000 RF/t. The shared fuel feed still supplies both dynamos.
+
+At 131h17m the west dynamo still had 49 diamonds while the east, drawing 8,192 RF/t, was down to four. The west buffer was nearly full. When either queue falls below twelve, the fuel tender can move diamonds from above the other generator's 32-diamond reserve to bring the low side back toward 24. This keeps both sources available while the simulation fuel is replenished. For furnace upgrades, first bring both queues to 32 and use only the surplus.
