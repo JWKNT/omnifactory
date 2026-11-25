@@ -1,0 +1,9 @@
+# What the first Wetware Supercomputer will draw
+
+Page 334 calls it a Wetware Processor Array. JEI calls its item a Wetware Supercomputer. Its sole recipe takes two Wetware Assemblies, eight single Superconductor Wires, eight Sentient Ender, four Europium Plates, 32 each of thin silicone sheets, SMD resistors and transistors, 16 each of capacitors and diodes, and 1,152 mB solder. The Assembly Line draws 122,880 EU/t for 600 ticks before overclocking, or 73,728,000 EU. Recheck the two installed banks against that longer run. Page 334 pays a nickel and opens page 335.
+
+The first four Wetware Processors cover both prerequisite assemblies. After the first assembly, the second still needs another circuit board, six Draconium Wires, two Frank'N'Zombies, another sixteen thin sheets and two buckets of sterile medium. Across both assemblies and the array the sheet bill alone is 64 thin sheets. The dedicated caster and native cluster mill are worth keeping in production.
+
+The splicer can supply all eight Ender Resonators in two operations. Each takes two Naquadah-doped Wafers, two Soularium Ingots, one Enderman Head and one Vibrant Alloy Ingot. The same machine gives one resonator with ordinary wafers or two with glowstone-doped wafers. Each resonator then goes into the Soul Binder with a witch vial. The Peaceful grid recipe surrounds an empty vial with four redstone and four glowstone dust. Eight bindings cost 32 of each dust and the binder returns the vial. Neither Sentient Ender nor Europium Plate appears in the quest rewards.
+
+For the four Europium Plates, the compressor or plate extruder preserves one plate per ingot. The fluid solidifier takes 144 mB per plate and also avoids the ingot step if the fusion output is already molten. The hammer and alloy smelter both consume twice as much metal. The fusion ring and lossless wire are the long lead items.

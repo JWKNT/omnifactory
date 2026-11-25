@@ -1219,10 +1219,10 @@
     {
       "name": "first-wetware-assembly.md",
       "first_ticks": 10367409,
-      "ticks": 10476310,
-      "sent_at": "2026-11-25T13:38:17-0500",
-      "versions": 9,
-      "bytes": 6698
+      "ticks": 10504875,
+      "sent_at": "2026-11-25T14:02:05-0500",
+      "versions": 12,
+      "bytes": 8142
     },
     {
       "name": "first-zpm-hull.md",
@@ -2763,10 +2763,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 10476310,
-      "sent_at": "2026-11-25T13:38:17-0500",
-      "versions": 1110,
-      "bytes": 8981
+      "ticks": 10504875,
+      "sent_at": "2026-11-25T14:02:05-0500",
+      "versions": 1114,
+      "bytes": 9899
     },
     {
       "name": "review-101h06m.md",
@@ -3707,18 +3707,18 @@
     {
       "name": "superconductor-and-fusion-stock.md",
       "first_ticks": 8835847,
-      "ticks": 8835847,
-      "sent_at": "2026-11-24T14:51:14-0500",
-      "versions": 1,
-      "bytes": 1867
+      "ticks": 10498057,
+      "sent_at": "2026-11-25T13:56:24-0500",
+      "versions": 2,
+      "bytes": 2188
     },
     {
       "name": "superconductor-freezer-upgrade.md",
       "first_ticks": 10473868,
-      "ticks": 10473868,
-      "sent_at": "2026-11-25T13:36:15-0500",
-      "versions": 1,
-      "bytes": 2120
+      "ticks": 10496122,
+      "sent_at": "2026-11-25T13:54:48-0500",
+      "versions": 2,
+      "bytes": 2664
     },
     {
       "name": "thermal-elemental.md",
@@ -4033,6 +4033,14 @@
       "bytes": 1488
     },
     {
+      "name": "wetware-array-bill.md",
+      "first_ticks": 10500243,
+      "ticks": 10500243,
+      "sent_at": "2026-11-25T13:58:14-0500",
+      "versions": 1,
+      "bytes": 1878
+    },
+    {
       "name": "wetware-board-capacity.md",
       "first_ticks": 8014502,
       "ticks": 10471412,
@@ -4059,10 +4067,10 @@
     {
       "name": "wetware-heater-return.md",
       "first_ticks": 10461321,
-      "ticks": 10461321,
-      "sent_at": "2026-11-25T13:25:48-0500",
-      "versions": 1,
-      "bytes": 973
+      "ticks": 10504875,
+      "sent_at": "2026-11-25T14:02:05-0500",
+      "versions": 3,
+      "bytes": 2041
     },
     {
       "name": "wetware-naquadah-alloy.md",
