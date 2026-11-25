@@ -1,0 +1,5 @@
+# Solder supply for the north machines
+
+During the two hours around the ZPM arm run, the workshop carried six buckets of solder, including the final arm's refill. A single arm needs 1,152 mB. The north hatch has a 16-bucket capacity, and the roof circuit assembler already has a filtered ME Fluid Export Bus. The MV fluid extractor at (10,82,4) takes 29 ticks per ingot. The time goes into carrying its product.
+
+The empty tile at (10,82,5) touches both the extractor's south face and a powered ME Interface above it. Fit a full ME Fluid Interface there. It costs one MV hull, one MV pump, five lapis plates, a formation core and an annihilation core. This adds a fluid return to the existing extractor and ingot export. Below 1,440 mB in the HV assembler, send output north as before. Above 2,880 mB, send output south for the roof while the circuit machines consume the local reserve. Start with 8,000 mB across ME and the roof assembler. The first test is a rise of at least 144 mB from a melted ingot with the south face selected. Compare the next ten-ingot lot with its expected 1,440 mB. Inspect the bus feeding the north hatch after the source has delivered.

@@ -67,3 +67,5 @@ The second arm's Quantumprocessor order reported sixteen missing Charcoal Dust f
 At 140h20m ME held the ninth ZPM motor and all twelve Quantumprocessors for the second arm. At tick 520 of 600 the motor was drawing 40,960 EU/t with both hatches keeping up. The east import returned one motor, leaving one more to manufacture. The existing piston, two conveyors, first arm and both mainframes remain in storage.
 
 At 140h45m the tenth motor reached ME. Two loose ZPM motors are now ready for the second arm. The two conveyors, first arm, one piston and both mainframes are in storage. The new bastnasite route supplied the magnets. The remaining second-arm shortages in ME are three quadruple Vanadium-Gallium cables, three small HSS-E gears and one large HSS-E gear. Two small gears had already entered the extruder.
+
+At 141h01m the second ZPM Robot Arm completed its 600 ticks at 81,920 EU/t. Both arms and both belts returned to stock. They went into the ZPM Assembling Machine with the two Crystal Processor Mainframes, the ZPM hull and two Naquadah cables. Page 533 paid one OmniNickel. The new assembler is in storage pending its separate power supply.
