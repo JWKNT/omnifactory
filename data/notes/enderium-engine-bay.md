@@ -19,3 +19,5 @@ At 128h00m the IV smelter stood at (20,86,−19). It had 261,952 of 262,144 EU a
 At 128h18m the installed IV smelter returned its first Enderium Micro Miner Engine Core to its output slot. The machine spent 2,000 ticks at 8,000 EU/t with one frame and eight redstone blocks. The IV converter held 29.03 million EU ahead of the run and 17.65 million shortly afterward. Two frames remain. The same station can take another measured charge while the west interface is built.
 
 At 128h33m all three Enderium Micro Miner Engine Cores were in ME. The IV smelter output was empty and all three frames had been used. The three charges took 24 redstone blocks and 48 million EU in total. Keep the three cores for the Tier Six miner. The empty west interface socket can still be fitted and patterned for repeat flights.
+
+At 128h58m the west ME interface at (19,86,−19) held the processing pattern for the Tier Six engine core. Its east neighbor is the smelter. The other five faces touch only air or ME cable. All three cores for the first Tier Six ship are in storage.
