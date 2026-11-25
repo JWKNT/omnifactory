@@ -123,10 +123,10 @@
     {
       "name": "assembly-gold.md",
       "first_ticks": 5989398,
-      "ticks": 6726340,
-      "sent_at": "2026-11-23T09:33:16-0500",
-      "versions": 13,
-      "bytes": 6179
+      "ticks": 9397465,
+      "sent_at": "2026-11-24T22:39:15-0500",
+      "versions": 14,
+      "bytes": 6681
     },
     {
       "name": "assembly-iron-and-coal.md",
@@ -355,10 +355,10 @@
     {
       "name": "cable-acid-recovery.md",
       "first_ticks": 4487800,
-      "ticks": 8342807,
-      "sent_at": "2026-11-24T08:00:22-0500",
-      "versions": 11,
-      "bytes": 5569
+      "ticks": 9382447,
+      "sent_at": "2026-11-24T22:26:44-0500",
+      "versions": 12,
+      "bytes": 6103
     },
     {
       "name": "cake-supplies.md",
@@ -603,10 +603,10 @@
     {
       "name": "crystal-mainframe-pilot.md",
       "first_ticks": 8879860,
-      "ticks": 9225567,
-      "sent_at": "2026-11-24T20:16:00-0500",
-      "versions": 18,
-      "bytes": 10389
+      "ticks": 9382890,
+      "sent_at": "2026-11-24T22:27:06-0500",
+      "versions": 19,
+      "bytes": 10930
     },
     {
       "name": "crystal-mission-consumables.md",
@@ -2635,10 +2635,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 9371564,
-      "sent_at": "2026-11-24T22:17:40-0500",
-      "versions": 985,
-      "bytes": 14922
+      "ticks": 9397465,
+      "sent_at": "2026-11-24T22:39:15-0500",
+      "versions": 989,
+      "bytes": 14968
     },
     {
       "name": "review-101h06m.md",
@@ -3859,10 +3859,10 @@
     {
       "name": "zpm-arm-converter.md",
       "first_ticks": 9059318,
-      "ticks": 9371564,
-      "sent_at": "2026-11-24T22:17:40-0500",
-      "versions": 9,
-      "bytes": 5382
+      "ticks": 9397465,
+      "sent_at": "2026-11-24T22:39:15-0500",
+      "versions": 14,
+      "bytes": 7555
     },
     {
       "name": "zpm-assembler-motion-bill.md",
@@ -3883,10 +3883,10 @@
     {
       "name": "zpm-motion-power.md",
       "first_ticks": 8658081,
-      "ticks": 9371564,
-      "sent_at": "2026-11-24T22:17:40-0500",
-      "versions": 17,
-      "bytes": 11021
+      "ticks": 9382447,
+      "sent_at": "2026-11-24T22:26:44-0500",
+      "versions": 18,
+      "bytes": 11461
     }
   ]
 }
