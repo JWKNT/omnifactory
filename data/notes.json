@@ -1667,10 +1667,10 @@
     {
       "name": "lapidary-offline-bench.md",
       "first_ticks": 9540167,
-      "ticks": 9899297,
-      "sent_at": "2026-11-25T05:37:26-0500",
-      "versions": 17,
-      "bytes": 9805
+      "ticks": 9919276,
+      "sent_at": "2026-11-25T05:54:05-0500",
+      "versions": 18,
+      "bytes": 11029
     },
     {
       "name": "lapidary-output-buffer.md",
@@ -1691,10 +1691,10 @@
     {
       "name": "large-projector-diamond-budget.md",
       "first_ticks": 7648267,
-      "ticks": 8128482,
-      "sent_at": "2026-11-24T05:01:46-0500",
-      "versions": 3,
-      "bytes": 2625
+      "ticks": 9928509,
+      "sent_at": "2026-11-25T06:01:47-0500",
+      "versions": 4,
+      "bytes": 3383
     },
     {
       "name": "lathe-order.md",
@@ -2691,10 +2691,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 9890499,
-      "sent_at": "2026-11-25T05:30:06-0500",
-      "versions": 1041,
-      "bytes": 22758
+      "ticks": 9929428,
+      "sent_at": "2026-11-25T06:02:33-0500",
+      "versions": 1043,
+      "bytes": 23418
     },
     {
       "name": "review-101h06m.md",
