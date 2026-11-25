@@ -7,3 +7,5 @@ The existing independent capacities are 1k, 4k, 5k, 1k and 1k. Build another 4k 
 The cleared position is (13,85,5), on the ME fluid interface over the silicone reactor return. All six adjacent positions were checked. The fluid interface below touches the network and no other crafting block touches the new position. The west roof approach is (11,84,5). Verify six independent processors in the ME monitor after placement.
 
 Both Quantum Chests are built. The CPU can now use the same eight-output SoC Microcircuit recipe that supplied them. One batch costs one epoxy board, one SoC, two fine Red Alloy wires and 72 mB solder. Keep seven circuits for later jobs. The three small components need twelve Red Alloy plates in total. When the ME order cannot start, use the workshop compressor with the ingots on hand, then replenish the alloy.
+
+At 134h04m ME and the backpack contained one 1k ME Storage Component and three remaining Red Alloy plates. Two more 1k components need eight plates, so five more plates are due before assembling the 4k component.

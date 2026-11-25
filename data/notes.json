@@ -1651,10 +1651,10 @@
     {
       "name": "lapidary-offline-bench.md",
       "first_ticks": 9540167,
-      "ticks": 9627647,
-      "sent_at": "2026-11-25T01:51:04-0500",
-      "versions": 12,
-      "bytes": 6868
+      "ticks": 9657903,
+      "sent_at": "2026-11-25T02:16:17-0500",
+      "versions": 13,
+      "bytes": 7458
     },
     {
       "name": "lapidary-output-buffer.md",
@@ -2667,10 +2667,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 9636550,
-      "sent_at": "2026-11-25T01:58:29-0500",
-      "versions": 1018,
-      "bytes": 20831
+      "ticks": 9657903,
+      "sent_at": "2026-11-25T02:16:17-0500",
+      "versions": 1021,
+      "bytes": 20986
     },
     {
       "name": "review-101h06m.md",
@@ -3339,10 +3339,10 @@
     {
       "name": "sixth-crafting-cpu.md",
       "first_ticks": 9584363,
-      "ticks": 9599511,
-      "sent_at": "2026-11-25T01:27:37-0500",
-      "versions": 3,
-      "bytes": 1823
+      "ticks": 9653643,
+      "sent_at": "2026-11-25T02:12:44-0500",
+      "versions": 4,
+      "bytes": 2037
     },
     {
       "name": "sixth-furnace-deck.md",
@@ -3411,10 +3411,10 @@
     {
       "name": "snad-workshop-parts.md",
       "first_ticks": 9490522,
-      "ticks": 9621716,
-      "sent_at": "2026-11-25T01:46:07-0500",
-      "versions": 4,
-      "bytes": 1911
+      "ticks": 9657903,
+      "sent_at": "2026-11-25T02:16:17-0500",
+      "versions": 5,
+      "bytes": 2217
     },
     {
       "name": "soc-engraver.md",
@@ -3603,10 +3603,10 @@
     {
       "name": "tier-six-iv-fields.md",
       "first_ticks": 9578464,
-      "ticks": 9636550,
-      "sent_at": "2026-11-25T01:58:29-0500",
-      "versions": 4,
-      "bytes": 2540
+      "ticks": 9657903,
+      "sent_at": "2026-11-25T02:16:17-0500",
+      "versions": 6,
+      "bytes": 3449
     },
     {
       "name": "tier-six-quantum-chests.md",
@@ -3699,10 +3699,10 @@
     {
       "name": "tungsten-from-cargo.md",
       "first_ticks": 4341114,
-      "ticks": 9636550,
-      "sent_at": "2026-11-25T01:58:29-0500",
-      "versions": 28,
-      "bytes": 15469
+      "ticks": 9653643,
+      "sent_at": "2026-11-25T02:12:44-0500",
+      "versions": 30,
+      "bytes": 16637
     },
     {
       "name": "tungsten-power-restart.md",
@@ -3979,10 +3979,10 @@
     {
       "name": "zpm-motion-power.md",
       "first_ticks": 8658081,
-      "ticks": 9607415,
-      "sent_at": "2026-11-25T01:34:12-0500",
-      "versions": 22,
-      "bytes": 13631
+      "ticks": 9644857,
+      "sent_at": "2026-11-25T02:05:24-0500",
+      "versions": 23,
+      "bytes": 14077
     }
   ]
 }
