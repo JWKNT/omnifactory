@@ -707,10 +707,10 @@
     {
       "name": "draconium-lens-autoclave.md",
       "first_ticks": 8864066,
-      "ticks": 8864066,
-      "sent_at": "2026-11-24T15:14:45-0500",
-      "versions": 1,
-      "bytes": 1567
+      "ticks": 10238687,
+      "sent_at": "2026-11-25T10:20:16-0500",
+      "versions": 2,
+      "bytes": 2178
     },
     {
       "name": "dragon-egg-flight.md",
@@ -2723,10 +2723,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 10215785,
-      "sent_at": "2026-11-25T10:01:11-0500",
-      "versions": 1073,
-      "bytes": 5581
+      "ticks": 10232776,
+      "sent_at": "2026-11-25T10:15:20-0500",
+      "versions": 1076,
+      "bytes": 6096
     },
     {
       "name": "review-101h06m.md",
@@ -3211,10 +3211,10 @@
     {
       "name": "roof-lumium-supply.md",
       "first_ticks": 10183762,
-      "ticks": 10215785,
-      "sent_at": "2026-11-25T10:01:11-0500",
-      "versions": 6,
-      "bytes": 3564
+      "ticks": 10232776,
+      "sent_at": "2026-11-25T10:15:20-0500",
+      "versions": 7,
+      "bytes": 4068
     },
     {
       "name": "rotating-chamber-power.md",
@@ -3987,10 +3987,10 @@
     {
       "name": "wetware-naquadah-alloy.md",
       "first_ticks": 10127063,
-      "ticks": 10141179,
-      "sent_at": "2026-11-25T08:59:00-0500",
-      "versions": 3,
-      "bytes": 2230
+      "ticks": 10238687,
+      "sent_at": "2026-11-25T10:20:16-0500",
+      "versions": 4,
+      "bytes": 2644
     },
     {
       "name": "wireless-storage.md",
@@ -4099,10 +4099,10 @@
     {
       "name": "zpm-assembler-power.md",
       "first_ticks": 10050837,
-      "ticks": 10124896,
-      "sent_at": "2026-11-25T08:45:26-0500",
-      "versions": 2,
-      "bytes": 2699
+      "ticks": 10222619,
+      "sent_at": "2026-11-25T10:06:52-0500",
+      "versions": 4,
+      "bytes": 3313
     },
     {
       "name": "zpm-conveyor-rubber.md",
