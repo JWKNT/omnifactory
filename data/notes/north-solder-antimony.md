@@ -1,0 +1,5 @@
+# Solder for the north Assembly Line
+
+At 130h52m the motor hatch had 40 mB of solder against a 288 mB charge. Ten ingots melted into the HV electronics line, which provided a bucket for the north hatch. The fourth motor started at 40,960 EU/t. The workshop has 4,944 tiny tin dust and eighteen full dust. The last antimony ingot went into the ten-ingot batch. A motor, piston or arm can draw down that reserve faster than a player notices it.
+
+JEI gives one antimony ingot for directly smelting a Stibnite Ore. Crushing the ore twice and smelting the impure dust yields three nuggets per dust. Electrolyzing five clean stibnite dust yields two antimony dust and three sulfur. The existing Multi Smelter can take a batch without occupied mill or electrolyzer time. The old antimony stack quest has already paid. Buy one 32-ore lot for four OmniNickels from the three OmniDollars in reserve. At nine tin dust plus one antimony per ten soldering alloy ingots, the lot covers 46,080 mB of future solder. Smelt eight at a time, leave the remaining ore for later and retain the existing HV solder extractor's filtered input. Verify the furnace order and measured output.

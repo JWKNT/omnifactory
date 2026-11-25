@@ -2105,6 +2105,14 @@
       "bytes": 4416
     },
     {
+      "name": "north-solder-antimony.md",
+      "first_ticks": 9422748,
+      "ticks": 9422748,
+      "sent_at": "2026-11-24T23:00:19-0500",
+      "versions": 1,
+      "bytes": 1165
+    },
+    {
       "name": "numismatic-bill.md",
       "first_ticks": 411655,
       "ticks": 493179,
@@ -2635,10 +2643,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 9397465,
-      "sent_at": "2026-11-24T22:39:15-0500",
-      "versions": 989,
-      "bytes": 14968
+      "ticks": 9423240,
+      "sent_at": "2026-11-24T23:00:43-0500",
+      "versions": 993,
+      "bytes": 15128
     },
     {
       "name": "review-101h06m.md",
@@ -3523,10 +3531,18 @@
     {
       "name": "tier-six-enderium.md",
       "first_ticks": 8552099,
-      "ticks": 9095901,
-      "sent_at": "2026-11-24T18:27:57-0500",
-      "versions": 9,
-      "bytes": 5913
+      "ticks": 9418090,
+      "sent_at": "2026-11-24T22:56:26-0500",
+      "versions": 11,
+      "bytes": 7106
+    },
+    {
+      "name": "tier-six-thruster-furnaces.md",
+      "first_ticks": 9426125,
+      "ticks": 9426125,
+      "sent_at": "2026-11-24T23:03:08-0500",
+      "versions": 1,
+      "bytes": 1026
     },
     {
       "name": "tier-two-miner-order.md",
@@ -3859,10 +3875,10 @@
     {
       "name": "zpm-arm-converter.md",
       "first_ticks": 9059318,
-      "ticks": 9397465,
-      "sent_at": "2026-11-24T22:39:15-0500",
-      "versions": 14,
-      "bytes": 7555
+      "ticks": 9418090,
+      "sent_at": "2026-11-24T22:56:26-0500",
+      "versions": 17,
+      "bytes": 9157
     },
     {
       "name": "zpm-assembler-motion-bill.md",
@@ -3883,10 +3899,10 @@
     {
       "name": "zpm-motion-power.md",
       "first_ticks": 8658081,
-      "ticks": 9382447,
-      "sent_at": "2026-11-24T22:26:44-0500",
-      "versions": 18,
-      "bytes": 11461
+      "ticks": 9423240,
+      "sent_at": "2026-11-24T23:00:43-0500",
+      "versions": 20,
+      "bytes": 12374
     }
   ]
 }
