@@ -219,10 +219,10 @@
     {
       "name": "bastnasite-magnets.md",
       "first_ticks": 10109763,
-      "ticks": 10109763,
-      "sent_at": "2026-11-25T08:32:50-0500",
-      "versions": 1,
-      "bytes": 614
+      "ticks": 10127063,
+      "sent_at": "2026-11-25T08:47:15-0500",
+      "versions": 2,
+      "bytes": 1007
     },
     {
       "name": "battery-hull-samples.md",
@@ -2715,10 +2715,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 10111321,
-      "sent_at": "2026-11-25T08:34:08-0500",
-      "versions": 1061,
-      "bytes": 25349
+      "ticks": 10135151,
+      "sent_at": "2026-11-25T08:53:59-0500",
+      "versions": 1063,
+      "bytes": 25499
     },
     {
       "name": "review-101h06m.md",
@@ -3939,18 +3939,26 @@
     {
       "name": "wetware-board-capacity.md",
       "first_ticks": 8014502,
-      "ticks": 10098529,
-      "sent_at": "2026-11-25T08:23:28-0500",
-      "versions": 6,
-      "bytes": 6046
+      "ticks": 10127729,
+      "sent_at": "2026-11-25T08:47:48-0500",
+      "versions": 7,
+      "bytes": 6434
     },
     {
       "name": "wetware-camp-supplies.md",
       "first_ticks": 10005526,
-      "ticks": 10079499,
-      "sent_at": "2026-11-25T08:07:36-0500",
-      "versions": 5,
-      "bytes": 3444
+      "ticks": 10145565,
+      "sent_at": "2026-11-25T09:02:40-0500",
+      "versions": 6,
+      "bytes": 3853
+    },
+    {
+      "name": "wetware-naquadah-alloy.md",
+      "first_ticks": 10127063,
+      "ticks": 10141179,
+      "sent_at": "2026-11-25T08:59:00-0500",
+      "versions": 3,
+      "bytes": 2230
     },
     {
       "name": "wireless-storage.md",
@@ -4059,10 +4067,10 @@
     {
       "name": "zpm-assembler-power.md",
       "first_ticks": 10050837,
-      "ticks": 10050837,
-      "sent_at": "2026-11-25T07:43:43-0500",
-      "versions": 1,
-      "bytes": 2102
+      "ticks": 10124896,
+      "sent_at": "2026-11-25T08:45:26-0500",
+      "versions": 2,
+      "bytes": 2699
     },
     {
       "name": "zpm-conveyor-rubber.md",
@@ -4075,10 +4083,10 @@
     {
       "name": "zpm-motion-power.md",
       "first_ticks": 8658081,
-      "ticks": 10104865,
-      "sent_at": "2026-11-25T08:28:45-0500",
-      "versions": 29,
-      "bytes": 17389
+      "ticks": 10135151,
+      "sent_at": "2026-11-25T08:53:59-0500",
+      "versions": 30,
+      "bytes": 17794
     }
   ]
 }
