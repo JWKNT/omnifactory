@@ -1,0 +1,5 @@
+# A processing pattern for repeat wetware boards
+
+The first two board loads each took eight stem cells and one multilayer board on a trip to the roof. The next circuit tiers consume boards directly and through processors. The LuV reactor will take an ME Interface on top at (24,86,-21). Two clear cable positions at (24,87,-21) and (24,87,-20) reach the verified trunk at (24,87,-19). The nearby conduit bundles carry RF only. The service step at (25,85,-21) stays free. One item interface, eight Fluix cables and seven blank patterns were in stock when the second board started.
+
+Point the interface down. Set the reactor's item output up and enable input from the same side. JEI lists one productive recipe, eight cells and one multilayer board with 4,000 mB sterile medium for one board and 3,000 mB raw medium. Preload the sterile medium, check the converter's packet budget and then submit the item order. The raw output can travel by tank to the heater. Leave the reactor's fluid auto-output off. The second board started from a manual load and provides an opportunity to test automatic item collection. The first native board order will need its own receipt.
