@@ -13,3 +13,5 @@ The EV autoclave is now installed at (37,83,-11). Its meter showed 65,472 EU on 
 The four chemical dust all reached storage. The sixth furnace and eastern freezer returned two cold ingots through one ME order, bringing the total to five. The 4,000 mB Cryotheum in the freezer and ME was fully consumed. The last four ingots for the lens need 8,000 mB more. The installed rod-milling and Cryotheum Dust patterns can use the next three Blizz Rods, 31 snowballs and redstone. The mill yields four powder per rod. The chemical alternative uses one snow block and 100 mB Elemental Reduction Fluid per powder.
 
 Ten more Cryotheum Dust melted into 2,500 mB in the former tin extractor. Read the extractor outlet, ME terminal and freezer inlet before counting how much of this charge is still available. Keep one Cryotheum Dust for the next Signalum capacitor. A dedicated LV extractor at the chemistry interface will remove the container trip.
+
+Seven cold ingots have returned. The freezer received another 5,250 mB and last held 3,750 mB. The final pair needs 4,000 mB total. The autoclave already holds 1,000 mB of Primal Mana. Reserve nine cold ingots for its block.
