@@ -1,0 +1,5 @@
+# Share ME and Shulker diamonds between the lapidaries
+
+At 126h45m the west generator was empty while the east held 64 diamonds. Moving twenty west restarted it at 7,500 RF/t, but the yellow ME stocking route continued to refill only the east. The west accepts purple diamonds directly from the fabricator. The east alone cannot supply the wiremill, board reactor and furnaces together. Repeatedly taking fuel between their inventories costs workshop trips.
+
+A chest can join the two item channels without ME power. There is an open position at (15,82,11) above a working item conduit at (15,81,11). Fit the spare chest and basic item filter here. Set the connection to insert only diamonds on purple, and extract them on yellow with round-robin routing. Keep the fabricator's existing purple path to ME. Once the chest is configured, set the west receiver to yellow alongside the east. The existing yellow ME source already uses round-robin extraction. A loss of ME power still leaves a direct fabricator-to-chest-to-generators route. Verify that the west fuel count rises before retiring hand transfers.
