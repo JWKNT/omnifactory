@@ -9,3 +9,5 @@ At 72h34m the MV smelter accepted 27 tin dust and three antimony ingots. Its exi
 At 126h44m the north Assembly Line held 496 mB against the next array's 720 mB bill. The EV and HV assemblers held 448 and 392 mB. The same ten-ingot smelter recipe now has 5,388 tiny tin piles and four antimony ingots available. The MV alloy interface already advertises the tin-ingot recipe and has four empty pattern slots. Add the tin-dust and antimony-ingot recipe beside it. Check the crafting preview for the actual tin dust or tiny piles, then make thirty ingots. The established export and extractor can carry that lot into the HV tank while the cutter finishes the QBits.
 
 At 126h52m the MV smelter had completed all thirty ingots. Its tin-dust pattern is installed. The extractor raised the HV tank from 392 to 4,712 mB, exactly 4,320 mB from the batch. The north hatch still held 496 mB before transfer.
+
+The bucket transfer raised the north hatch from 496 to 1,496 mB. That covers two 720 mB array runs.

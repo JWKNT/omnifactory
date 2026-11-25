@@ -11,3 +11,5 @@ Two Red Alloy Ingots or sixteen Fine Red Alloy Wires produce exactly 288 mB in t
 The blue-lens laser returned two base wafers. The EV reduction and phosphate line delivered three Indium Gallium Phosphide Dust, enough for the first upgrade with one dust left over. The EV saw interface was full at the survey. Expand its patterns as the first wafer arrives.
 
 The EV reactor took the two compound dust and 288 mB of molten red alloy and produced the first High-Power IC Wafer. The EV cutting saw then ran at 768 EU/t for 39 ticks. Its two HPICs were verified in workshop stock. One base Power IC Wafer and one compound dust remain for the next pair.
+
+During the repeat run the extractor produced 288 mB from sixteen fine wires. The EV chemical reactor refused to take molten red alloy with 950 mB radon still inside, despite showing two empty fluid widgets. Return the radon to ME first. The alloy remained in the portable tank after the rejected click, so the same charge can be used again. Restore the extractor output once the alloy reaches the reactor.
