@@ -15,3 +15,5 @@ The second hatch at (23,80,-27) faces south. The formed controller reported 32,7
 By 138h09m all sixteen Dragon Lair Data were ready. Seven double tungsten cables were in place from the branch to (22,83,-23). The energized IV bank is also shared by other workshop loads. Wait for the remaining seven cables, verify both hatch connections and check the stored EU again before loading the expendable ship.
 
 The first flight reached tick 938 of 1,250 before the IV bank discharged and progress fell. The machine kept the recipe. The recovery uses the soft hammer to pause the controller and exchanges two basic IV cells for two charged reinforced LuV cells. Each donor holds 90M RF. The two charged donors together provide 45M EU for the 23.44M EU recipe. Verify the eggs in the output bus before restoring the original cells.
+
+The second attempt finished and the output bus held 32 Dragon Eggs. The IV converter had 34,963,282 EU left at the first output reading. Storage received all 32. Egg Thief and Breaking Some Eggs each paid an OmniQuarter through the book. The ship and all flight inputs were spent once across the two attempts.
