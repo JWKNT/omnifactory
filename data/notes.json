@@ -443,10 +443,10 @@
     {
       "name": "chemical-fluid-storage.md",
       "first_ticks": 2367016,
-      "ticks": 10262646,
-      "sent_at": "2026-11-25T10:40:14-0500",
-      "versions": 10,
-      "bytes": 6328
+      "ticks": 10271049,
+      "sent_at": "2026-11-25T10:47:14-0500",
+      "versions": 11,
+      "bytes": 6546
     },
     {
       "name": "chlorine.md",
@@ -707,10 +707,10 @@
     {
       "name": "draconium-lens-autoclave.md",
       "first_ticks": 8864066,
-      "ticks": 10257255,
-      "sent_at": "2026-11-25T10:35:44-0500",
-      "versions": 3,
-      "bytes": 2640
+      "ticks": 10269340,
+      "sent_at": "2026-11-25T10:45:48-0500",
+      "versions": 4,
+      "bytes": 3164
     },
     {
       "name": "dragon-egg-flight.md",
@@ -783,6 +783,14 @@
       "sent_at": "2026-11-19T14:49:36-0500",
       "versions": 1,
       "bytes": 1988
+    },
+    {
+      "name": "eight-blast-controllers.md",
+      "first_ticks": 10284980,
+      "ticks": 10284980,
+      "sent_at": "2026-11-25T10:58:50-0500",
+      "versions": 1,
+      "bytes": 1031
     },
     {
       "name": "elemental-fluid-extractor.md",
@@ -1039,6 +1047,14 @@
       "sent_at": "2026-11-23T17:03:23-0500",
       "versions": 3,
       "bytes": 2473
+    },
+    {
+      "name": "fifth-furnace-elemental-alloys.md",
+      "first_ticks": 10273368,
+      "ticks": 10287218,
+      "sent_at": "2026-11-25T11:00:42-0500",
+      "versions": 2,
+      "bytes": 1673
     },
     {
       "name": "fifth-furnace-first-heat.md",
@@ -2731,10 +2747,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 10262646,
-      "sent_at": "2026-11-25T10:40:14-0500",
-      "versions": 1079,
-      "bytes": 6530
+      "ticks": 10271049,
+      "sent_at": "2026-11-25T10:47:14-0500",
+      "versions": 1082,
+      "bytes": 6559
     },
     {
       "name": "review-101h06m.md",

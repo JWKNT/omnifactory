@@ -1,0 +1,5 @@
+# Eight loose blast furnace controllers
+
+Page 580 detects eight loose controllers together, pays one 100-value coin and leaves the controllers available. The six working furnaces can keep running throughout. The JEI bench recipe uses three ordinary furnaces, three Basic circuits, two single tin cables and one heat-proof casing per controller. At 142h48m there were three spare casings and six cables. Keep four spare Basic circuits and four tin cables for the extractor and repeat miner. Use the EV SoC recipe, which returns eight Refined Circuits from a single SoC and a plastic board, for the bulk circuit stock.
+
+These controllers provide expansion stock for the first fusion ring. Its casing bill alone can reach 864 Lumium Plates with three fluid hatches. The fifth furnace can share the present alloy load through a second inlet. Before outfitting another shell, measure actual throughput and available generator output. Lumium Dust comes from recycling Lumium metal or wires, so it cannot supply that scale independently.

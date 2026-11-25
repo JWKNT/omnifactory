@@ -25,3 +25,5 @@ The first of the three loose 4k components is built. Six 1k components remain. T
 Two loose 4k components have returned. Three 1k components remain for the third. The alloy smelter returned four Quartz Glass. Six Silicon Plates and three Printed Calculation Circuits reached storage for the remaining processor orders.
 
 Four completed Calculation Processors reached storage. JEI lists one recipe for the 64k component: three 16k components, one Calculation Processor, one Quartz Glass and four lapis. The storage tender now keeps the first 16k loose and provisions the remaining two after page 123 pays. Page 124 detects the loose 64k component without consuming it.
+
+At 142h39m, the three 4k components went into the first 16k fluid storage component. Page 123 paid one OmniNickel, the component remained in hand, and page 124 unlocked. Two further 16k components remain for the 64k.
