@@ -21,3 +21,7 @@ The first 4k cell is installed in slot 7 of the third drive at (11,84,10). It sh
 At 141h40m a seven-component ME order finished. All nine 1k fluid components are ready for the 16k component. The rest of the bill is sixteen lapis, four Calculation Processors and four Quartz Glass. The MV alloy station can make two Quartz Glass from one ordinary glass and one Certus Quartz Dust. The HV mill can grind a Certus Quartz gem or crystal directly. Page 124 subsequently takes a 64k component and pays an OmniNickel, so keep the first 16k loose for that combination.
 
 The first of the three loose 4k components is built. Six 1k components remain. The shelf can order the missing Quartz Glass from the MV alloy smelter. Stage Calculation Processors alongside it.
+
+Two loose 4k components have returned. Three 1k components remain for the third. The alloy smelter returned four Quartz Glass. Six Silicon Plates and three Printed Calculation Circuits reached storage for the remaining processor orders.
+
+Four completed Calculation Processors reached storage. JEI lists one recipe for the 64k component: three 16k components, one Calculation Processor, one Quartz Glass and four lapis. The storage tender now keeps the first 16k loose and provisions the remaining two after page 123 pays. Page 124 detects the loose 64k component without consuming it.

@@ -1,0 +1,7 @@
+# Elemental fluid supply
+
+The fourth and sixth blast furnaces have separate, filtered Primal Mana export buses. The eastern freezer has a Molten Cryotheum export bus. Delivering those fluids to ME lets the installed buses supply the machines. The tin extractor at (4,80,8) still needs its original outlet for other work. Manually switching it between mana, redstone, Cryotheum and Pyrotheum delayed the roof furnaces even with 24 Mana Dust in storage.
+
+Build a Basic Fluid Extractor at (7,82,-2), immediately north of the existing ME Fluid Interface at (7,82,-1). Both neighboring cables to the west and north are four-amp, zero-loss 32 V Conductive Iron. The socket was air and the east face has working space. The LV machine processes the elemental dusts. An MV machine needs an MV supply, hull and pump. The LV grid recipe uses one LV pump, one LV piston, an LV hull, two tin cables, two Basic circuits and two glass. Two LV hulls and eight tin cables were on hand.
+
+Point its fluid output south and enable automatic output. Test the first melt against the actual ME and consumer hatch levels. Keep enough mana for the lens and at least one Manyullyn batch. Keep the old extractor available for tin and other jobs. The new extractor should accept measured batches as either mana or coolant runs low. Existing export buses handle replenishment after the liquid reaches the network.
