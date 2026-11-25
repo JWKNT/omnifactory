@@ -979,10 +979,10 @@
     {
       "name": "extended-processing-terminal.md",
       "first_ticks": 9042173,
-      "ticks": 10432107,
-      "sent_at": "2026-11-25T13:01:27-0500",
-      "versions": 2,
-      "bytes": 1822
+      "ticks": 10456749,
+      "sent_at": "2026-11-25T13:21:59-0500",
+      "versions": 3,
+      "bytes": 2205
     },
     {
       "name": "extraterrestrial-models.md",
@@ -1755,10 +1755,10 @@
     {
       "name": "large-projector-diamond-budget.md",
       "first_ticks": 7648267,
-      "ticks": 10417888,
-      "sent_at": "2026-11-25T12:49:36-0500",
-      "versions": 9,
-      "bytes": 5593
+      "ticks": 10454799,
+      "sent_at": "2026-11-25T13:20:21-0500",
+      "versions": 10,
+      "bytes": 6106
     },
     {
       "name": "lathe-order.md",
@@ -2763,10 +2763,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 10432107,
-      "sent_at": "2026-11-25T13:01:27-0500",
-      "versions": 1104,
-      "bytes": 7852
+      "ticks": 10456749,
+      "sent_at": "2026-11-25T13:21:59-0500",
+      "versions": 1108,
+      "bytes": 8205
     },
     {
       "name": "review-101h06m.md",
@@ -2943,6 +2943,14 @@
       "sent_at": "2026-11-25T11:14:59-0500",
       "versions": 1,
       "bytes": 3498
+    },
+    {
+      "name": "review-145h06m.md",
+      "first_ticks": 10448721,
+      "ticks": 10456749,
+      "sent_at": "2026-11-25T13:21:59-0500",
+      "versions": 2,
+      "bytes": 3552
     },
     {
       "name": "review-29h49m.md",
@@ -3587,10 +3595,10 @@
     {
       "name": "solder-network-source.md",
       "first_ticks": 10161113,
-      "ticks": 10162629,
-      "sent_at": "2026-11-25T09:16:53-0500",
-      "versions": 2,
-      "bytes": 1166
+      "ticks": 10434694,
+      "sent_at": "2026-11-25T13:03:36-0500",
+      "versions": 3,
+      "bytes": 1274
     },
     {
       "name": "solder.md",
@@ -4019,10 +4027,10 @@
     {
       "name": "wetware-board-capacity.md",
       "first_ticks": 8014502,
-      "ticks": 10391506,
-      "sent_at": "2026-11-25T12:27:37-0500",
-      "versions": 16,
-      "bytes": 11003
+      "ticks": 10456749,
+      "sent_at": "2026-11-25T13:21:59-0500",
+      "versions": 20,
+      "bytes": 12790
     },
     {
       "name": "wetware-camp-supplies.md",
@@ -4035,10 +4043,10 @@
     {
       "name": "wetware-naquadah-alloy.md",
       "first_ticks": 10127063,
-      "ticks": 10425427,
-      "sent_at": "2026-11-25T12:55:53-0500",
-      "versions": 14,
-      "bytes": 7065
+      "ticks": 10454799,
+      "sent_at": "2026-11-25T13:20:21-0500",
+      "versions": 17,
+      "bytes": 7861
     },
     {
       "name": "wetware-silicone-sheets.md",

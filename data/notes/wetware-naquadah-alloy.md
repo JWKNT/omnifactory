@@ -29,3 +29,9 @@ Both IV Energy Input Hatches are now in stock. Four hardened capacitors are inst
 At 144h38m one quadruple cable and the last two single tungsten cables were ready. The four hardened cells charge in slot order. Each of the first three can supply at most five million EU in 500 ticks; the fourth needs 1,384,000 EU. The tender now swaps cells through the converter GUI when one has enough for the full heat and another is empty. It will put the least charged cell last once that funds the entire burst. A reading after the first swap showed 10.00, 10.00, 0.12 and 5.24 million EU in slot order. Start the physical hatch retrofit when all fittings exist, so the hatches can charge during construction. Keep the new heat behind the measured packet check.
 
 At 144h47m both Tungsten Cable bundles were finished. The fourth-capacitor swap funded all 500 ticks of the heat in the installed slot order. The Draconium order cleared. The northmost and southmost sockets are being replaced one at a time; the first IV hatch is in place. Other sixth-furnace orders wait until commissioning is complete.
+
+Both IV hatches now face up and both tungsten cables are installed. The controller reports 32,768 V and both 131,072-EU hatch buffers filled. The spare fluid output at (45,80,-18) has been replaced with the LV input for argon. Reach it from (45,80,-16). The conduit at head height obstructs the nearer tile.
+
+The new inlet accepted 1,000 mB of argon. ME installed the blast pattern at (46,80,-17) and committed one Naquadah Ingot and one Osmiridium Ingot. At 144h58m two Hot Naquadah Alloy Ingots reached storage and the argon tank was empty. Use the east freezer's fluid-free alloy recipe, then mill each cold ingot into two single wires.
+
+Two cold alloy ingots returned through the east freezer, and all four single wires reached stock at 145h03m. The processor bill is funded on this branch.
