@@ -11,3 +11,5 @@ At 133h09m both Quantum Chests and all 19 heavy plates were complete. For the fi
 At 135h30m the first spare Numismatic Dynamo was in storage. Its two Vibrant Bimetal Gears came from a single ME order. For the first Resonant Thruster the remaining part is the Redstone Reception Coil. Each coil takes three Electrum Rods and four redstone. Rods run two per ingot on the lathe. Both installed generators stayed in service.
 
 At 135h39m I counted the first Resonant Thruster and two spare Redstone Reception Coils in storage. The spare dynamo and one coil went into the thruster. Two more dynamos are due.
+
+At 136h20m the second dynamo had its Diamond Furnace, both Vibrant Alloy plates and both coils. Neither of the two bimetal gears nor their Grains of Infinity were in storage. Budget eight grains for the four gears across the remaining two dynamos. With the tungsten ship home and 84 diamonds queued in the dynamos, use the Overworld bedrock gallery for a 24-grain batch while electrolysis runs. The reusable Fire Water farm still needs the Vat on page 511. Two Fluid Tanks and four Dark Steel Plates are already available.

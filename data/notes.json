@@ -1033,6 +1033,14 @@
       "bytes": 1492
     },
     {
+      "name": "fire-water-gallery.md",
+      "first_ticks": 9829125,
+      "ticks": 9829125,
+      "sent_at": "2026-11-25T04:38:58-0500",
+      "versions": 1,
+      "bytes": 1825
+    },
+    {
       "name": "first-argon-campaign.md",
       "first_ticks": 5335944,
       "ticks": 5568629,
@@ -1667,10 +1675,10 @@
     {
       "name": "lapotron-crystal.md",
       "first_ticks": 9788285,
-      "ticks": 9788285,
-      "sent_at": "2026-11-25T04:04:56-0500",
-      "versions": 1,
-      "bytes": 843
+      "ticks": 9816570,
+      "sent_at": "2026-11-25T04:28:30-0500",
+      "versions": 2,
+      "bytes": 1453
     },
     {
       "name": "large-projector-diamond-budget.md",
@@ -2675,10 +2683,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 9794190,
-      "sent_at": "2026-11-25T04:09:51-0500",
-      "versions": 1035,
-      "bytes": 21616
+      "ticks": 9829125,
+      "sent_at": "2026-11-25T04:38:58-0500",
+      "versions": 1037,
+      "bytes": 21746
     },
     {
       "name": "review-101h06m.md",
@@ -3619,10 +3627,10 @@
     {
       "name": "tier-six-enderium.md",
       "first_ticks": 8552099,
-      "ticks": 9738550,
-      "sent_at": "2026-11-25T03:23:29-0500",
-      "versions": 20,
-      "bytes": 11020
+      "ticks": 9829125,
+      "sent_at": "2026-11-25T04:38:58-0500",
+      "versions": 22,
+      "bytes": 11846
     },
     {
       "name": "tier-six-iv-fields.md",
@@ -3643,10 +3651,10 @@
     {
       "name": "tier-six-thruster-furnaces.md",
       "first_ticks": 9426125,
-      "ticks": 9767804,
-      "sent_at": "2026-11-25T03:47:52-0500",
-      "versions": 5,
-      "bytes": 2612
+      "ticks": 9819562,
+      "sent_at": "2026-11-25T04:31:00-0500",
+      "versions": 6,
+      "bytes": 3136
     },
     {
       "name": "tier-two-miner-order.md",
@@ -3723,10 +3731,10 @@
     {
       "name": "tungsten-from-cargo.md",
       "first_ticks": 4341114,
-      "ticks": 9794190,
-      "sent_at": "2026-11-25T04:09:51-0500",
-      "versions": 38,
-      "bytes": 20097
+      "ticks": 9816570,
+      "sent_at": "2026-11-25T04:28:30-0500",
+      "versions": 39,
+      "bytes": 20724
     },
     {
       "name": "tungsten-power-restart.md",
