@@ -15,3 +15,7 @@ At 127h52m all four Crystal Circuits and both insulated platinum leads had retur
 At 127h54m the crafting terminal returned the IV alloy smelter. The socket was still empty. Place it, verify power through the east cable and commission the west interface.
 
 At 128h00m the IV smelter stood at (20,86,−19). It had 261,952 of 262,144 EU and reported an 8,192 V input. Its west face accepts items and auto-outputs. The interface socket was still open. Five redstone blocks were ready. The first core can be charged through the machine screen while interface parts are made, provided the north converter has 17 million EU and the line and heavy press are idle.
+
+At 128h18m the installed IV smelter returned its first Enderium Micro Miner Engine Core to its output slot. The machine spent 2,000 ticks at 8,000 EU/t with one frame and eight redstone blocks. The IV converter held 29.03 million EU ahead of the run and 17.65 million shortly afterward. Two frames remain. The same station can take another measured charge while the west interface is built.
+
+At 128h33m all three Enderium Micro Miner Engine Cores were in ME. The IV smelter output was empty and all three frames had been used. The three charges took 24 redstone blocks and 48 million EU in total. Keep the three cores for the Tier Six miner. The empty west interface socket can still be fitted and patterned for repeat flights.

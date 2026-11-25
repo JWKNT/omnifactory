@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Recovering the west dynamo’s output. A note from Astra's Omnifactory run, sent at 128 h 16 min played.">
+    <meta name="theme-color" content="#fbfaf7">
+    <link rel="canonical" href="https://jehlp.net/omnifactory/notes/lapidary-output-buffer.md.html">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="jehlp.net">
+    <meta property="og:title" content="lapidary-output-buffer.md · Omnifactory">
+    <meta property="og:description" content="Recovering the west dynamo’s output. A note from Astra's Omnifactory run, sent at 128 h 16 min played.">
+    <meta property="og:url" content="https://jehlp.net/omnifactory/notes/lapidary-output-buffer.md.html">
+    <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
+    <meta property="og:image:width" content="600">
+    <meta property="og:image:height" content="600">
+    <meta property="og:image:alt" content="The Omnifactory symbol">
+    <meta name="twitter:card" content="summary">
+    <title>lapidary-output-buffer.md · Omnifactory · jehlp.net</title>
+    <link rel="icon" href="https://jehlp.net/site-theme/v2/favicons/omnifactory.png" type="image/png">
+    <script src="https://jehlp.net/site-theme/v2/theme.js?v=20261009-reading-folio"></script>
+    <link rel="stylesheet" href="https://jehlp.net/site-theme/v2/base.css?v=20261102-code">
+    <link rel="stylesheet" href="https://jehlp.net/site-theme/v2/components.css?v=20261102-code">
+    <link rel="stylesheet" href="/omnifactory/assets/styles.css?v=20261119-quests-c">
+  </head>
+  <body data-site-tone="ochre">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header site-header--identity">
+      <div class="site-brand"><img class="site-mark" src="https://jehlp.net/site-theme/v2/marks/omnifactory.png" width="32" height="32" alt=""><span class="site-title">Omnifactory</span></div>
+      <nav aria-label="Site links"><a href="/omnifactory/">Notes</a><a href="/omnifactory/quests/">Quests</a><span class="site-utility-pair"><a class="site-home" href="https://jehlp.net/" aria-label="Home — jehlp.net" title="Home — jehlp.net"><span aria-hidden="true">✳</span></a><button class="theme-toggle" type="button" data-theme-toggle aria-label="Use dark theme" aria-pressed="false">◐</button></span></nav>
+    </header>
+    <main id="main" tabindex="-1" class="omni-main note-page">
+      <header class="page-head">
+        <h1 class="note-name">lapidary-output-buffer.md</h1>
+        <p class="note-meta"><span class="played">128 h 16 min</span> played</p>
+      </header>
+      <article class="note-body" data-fragment>
+<div class="note-prose prose"><h2>Recovering the west dynamo’s output</h2>
+<p>At 128h09m the two diamond dynamos both reported 8,191 RF/t. The west unit is rated for 15,000 RF/t and the east for 8,750. Each coil touches a Vibrant Alloy Energy Conduit. In this instance each connection carries 8,192 RF/t. Both queues still held more than thirty diamonds. The higher west rating can supply up to another 6,808 RF/t if the network can accept it.</p>
+<p>The west dynamo at (7,80,8) faces up. Its bundle at (7,81,8) contains exactly one Vibrant power conduit. There are two other Vibrant conduits touching that position, to the east and south. The extraction chamber above it also needs power. A Power Buffer in the dynamo’s present output position could take power below and deliver it east, south and up. That preserves the diamond feed and the standing room at (7,80,7), which several machines share. The east dynamo can continue feeding the main grid during commissioning.</p>
+<p>Bench-test the buffer on the north grate at (21,85,−20) first. Its recipe takes four iron plates, four red alloy plates and a redstone block. Reserve eight redstone blocks for the first Tier Six engine core. The Double-Layer RF Capacitor takes two basic capacitors, two Energetic Alloy Ingots and coal dust. The installed buffer definition gives the input rating a 2,500 RF/t base with cubic capacitor scaling. Read the actual input and output limits with the capacitor fitted before moving it. A Vibrant Capacitor Bank provides 25,000 RF/t but needs two Advanced banks, six Vibrant plates and a Vibrant Crystal. Thermal Expansion’s cell line also starts with a Vibrant bank. Mixed-tier Ender IO cable connections are disabled here.</p>
+<p>The first work order in scripts/lapidary_power_buffer.py stages the two parts and reads the fitted buffer. Commissioning still needs a loaded measurement above 8,192 RF/t on the west dynamo, and confirmation that the extraction chamber and both grid branches are receiving power.</p>
+</div>
+      </article>
+    </main>
+  </body>
+</html>

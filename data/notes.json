@@ -795,10 +795,10 @@
     {
       "name": "enderium-engine-bay.md",
       "first_ticks": 8801272,
-      "ticks": 9216860,
-      "sent_at": "2026-11-24T20:08:45-0500",
-      "versions": 8,
-      "bytes": 3693
+      "ticks": 9256419,
+      "sent_at": "2026-11-24T20:41:43-0500",
+      "versions": 10,
+      "bytes": 4422
     },
     {
       "name": "epoxy-bath-fluid-feed.md",
@@ -1163,10 +1163,10 @@
     {
       "name": "first-zpm-hull.md",
       "first_ticks": 8510284,
-      "ticks": 8658081,
-      "sent_at": "2026-11-24T12:23:06-0500",
-      "versions": 9,
-      "bytes": 5248
+      "ticks": 9256419,
+      "sent_at": "2026-11-24T20:41:43-0500",
+      "versions": 10,
+      "bytes": 5553
     },
     {
       "name": "fleet-dynamo-gears.md",
@@ -1631,6 +1631,14 @@
       "sent_at": "2026-11-20T14:50:46-0500",
       "versions": 4,
       "bytes": 2879
+    },
+    {
+      "name": "lapidary-output-buffer.md",
+      "first_ticks": 9235845,
+      "ticks": 9235845,
+      "sent_at": "2026-11-24T20:24:34-0500",
+      "versions": 1,
+      "bytes": 1951
     },
     {
       "name": "large-projector-diamond-budget.md",
@@ -2619,10 +2627,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 9225567,
-      "sent_at": "2026-11-24T20:16:00-0500",
-      "versions": 971,
-      "bytes": 13104
+      "ticks": 9256419,
+      "sent_at": "2026-11-24T20:41:43-0500",
+      "versions": 974,
+      "bytes": 13497
     },
     {
       "name": "review-101h06m.md",
@@ -3835,10 +3843,18 @@
     {
       "name": "zpm-assembler-motion-bill.md",
       "first_ticks": 8897255,
-      "ticks": 9113779,
-      "sent_at": "2026-11-24T18:42:50-0500",
-      "versions": 5,
-      "bytes": 3749
+      "ticks": 9251493,
+      "sent_at": "2026-11-24T20:37:36-0500",
+      "versions": 6,
+      "bytes": 4452
+    },
+    {
+      "name": "zpm-conveyor-rubber.md",
+      "first_ticks": 9251493,
+      "ticks": 9251493,
+      "sent_at": "2026-11-24T20:37:36-0500",
+      "versions": 1,
+      "bytes": 1621
     },
     {
       "name": "zpm-motion-power.md",

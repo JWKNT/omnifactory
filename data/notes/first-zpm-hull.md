@@ -21,3 +21,5 @@ Once both chloroform buckets are available, the existing 512 V reactor at (10,82
 The EV salt order returned twelve buckets of chlorine. The fuel reactor supplied three buckets of chloroform. The shared HV reactor used two with the four buckets of hydrofluoric acid and returned 1,000 mB monomer. The spare bucket of chloroform was recovered. Two oxygen buckets in the LV cell yielded 432 mB PTFE in ME and left 712 mB monomer in the cell. The first hull needs 288 mB at 16 EU/t for 50 ticks.
 
 At 120h14m the LV casing assembler had the native hull pattern in its roof interface. The first order returned a ZPM Machine Hull and left 144 mB PTFE in the assembler. Page 536 paid an OmniDollar. The 712 mB of spare monomer is back in ME and the finishing cell has released its selector.
+
+At 128h33m ME held the ZPM hull, both single Naquadah Cables and both Crystal Processor Mainframes together. These cover the center and circuit positions in the first ZPM assembler. Its remaining four components are the two Robot Arms and two Conveyor Modules. Two of their ten motors are already in ME.
