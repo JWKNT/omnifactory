@@ -2667,10 +2667,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 9685621,
-      "sent_at": "2026-11-25T02:39:23-0500",
-      "versions": 1024,
-      "bytes": 21361
+      "ticks": 9704036,
+      "sent_at": "2026-11-25T02:54:43-0500",
+      "versions": 1025,
+      "bytes": 21376
     },
     {
       "name": "review-101h06m.md",
@@ -3315,10 +3315,10 @@
     {
       "name": "silicone-silicon-inlet.md",
       "first_ticks": 9582791,
-      "ticks": 9683149,
-      "sent_at": "2026-11-25T02:37:19-0500",
-      "versions": 2,
-      "bytes": 1612
+      "ticks": 9706699,
+      "sent_at": "2026-11-25T02:56:56-0500",
+      "versions": 3,
+      "bytes": 2001
     },
     {
       "name": "silver-reserve.md",
@@ -3339,10 +3339,10 @@
     {
       "name": "sixth-crafting-cpu.md",
       "first_ticks": 9584363,
-      "ticks": 9653643,
-      "sent_at": "2026-11-25T02:12:44-0500",
-      "versions": 4,
-      "bytes": 2037
+      "ticks": 9710798,
+      "sent_at": "2026-11-25T03:00:21-0500",
+      "versions": 5,
+      "bytes": 2603
     },
     {
       "name": "sixth-furnace-deck.md",
@@ -3603,10 +3603,10 @@
     {
       "name": "tier-six-iv-fields.md",
       "first_ticks": 9578464,
-      "ticks": 9685621,
-      "sent_at": "2026-11-25T02:39:23-0500",
-      "versions": 7,
-      "bytes": 3835
+      "ticks": 9706699,
+      "sent_at": "2026-11-25T02:56:56-0500",
+      "versions": 9,
+      "bytes": 4588
     },
     {
       "name": "tier-six-quantum-chests.md",
@@ -3699,10 +3699,10 @@
     {
       "name": "tungsten-from-cargo.md",
       "first_ticks": 4341114,
-      "ticks": 9677557,
-      "sent_at": "2026-11-25T02:32:39-0500",
-      "versions": 31,
-      "bytes": 17176
+      "ticks": 9704036,
+      "sent_at": "2026-11-25T02:54:43-0500",
+      "versions": 32,
+      "bytes": 17713
     },
     {
       "name": "tungsten-power-restart.md",
@@ -3979,10 +3979,10 @@
     {
       "name": "zpm-motion-power.md",
       "first_ticks": 8658081,
-      "ticks": 9667565,
-      "sent_at": "2026-11-25T02:24:20-0500",
-      "versions": 24,
-      "bytes": 14739
+      "ticks": 9704036,
+      "sent_at": "2026-11-25T02:54:43-0500",
+      "versions": 25,
+      "bytes": 15130
     }
   ]
 }
