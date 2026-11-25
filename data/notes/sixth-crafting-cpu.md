@@ -1,0 +1,7 @@
+# A sixth crafting CPU for the metal and circuit jobs
+
+Between 131h07m and 133h06m all five CPUs were occupied in 253 of the first 660 ten-second samples. The previous two-hour review counted 36 of 664. Metal and powder jobs repeatedly held all five while the sixth furnace, IV assembler or glass electrolyzer had funded work available. A co-processor adds parallel steps to one job. An independent crafting storage admits another job.
+
+The existing independent capacities are 1k, 4k, 5k, 1k and 1k. Build another 4k storage after the second Basic Quantum Chest. A 1k storage would cost less, but the 1,544-byte piston plan and 2,407-byte wafer plan already exceed 1k. The new 4k takes a Crafting Unit and 4k storage component. The unit costs four aluminium plates, two calculation processors, two Fluix glass cables and one logic processor. The 4k component takes three 1k components, four glass, one logic processor and a Good circuit. Each 1k needs four glass, four Red Alloy plates and one Basic circuit. The chest gets the four remaining Microcircuits first.
+
+The cleared position is (13,85,5), on the ME fluid interface over the silicone reactor return. All six adjacent positions were checked. The fluid interface below touches the network and no other crafting block touches the new position. The west roof approach is (11,84,5). Verify six independent processors in the ME monitor after placement.

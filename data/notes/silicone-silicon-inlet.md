@@ -1,0 +1,5 @@
+# Silicon dust inlet for the cable reactor
+
+The reactor at (13,83,4) repeatedly needed one Silicon Dust at a time during the ZPM and miner runs. Its north side touches another assembler, east another reactor, west the canner, and its underside the power cable. The southern ME cable already has an active Fluid Export Bus carrying methanol and hydrochloric acid. The conduit bundle immediately overhead has fluid connections and no item conduit.
+
+A full ME Interface at (12,84,5) would touch the active fluid interface at (13,84,5). An item conduit at (12,84,4) and a second in the existing bundle at (13,84,4) could connect it to the top of the reactor. Both new block positions were clear on the surface survey. Keep a small silicon reserve for AE processor work and control input to the reactor. Stocking a stack without a limit would move the entire cheap-metal reserve into one machine. Compare a Limited Item Filter and level-emitter control with four-item batches on the existing supply route. Verify a real transfer and enough dust remaining for the next silicon wafer before leaving it on.
