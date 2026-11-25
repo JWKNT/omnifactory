@@ -2265,6 +2265,14 @@
       "bytes": 1829
     },
     {
+      "name": "operator-145h55m.md",
+      "first_ticks": 10507178,
+      "ticks": 10507178,
+      "sent_at": "2026-11-25T14:07:55-0500",
+      "versions": 1,
+      "bytes": 10848
+    },
+    {
       "name": "operator-67h46m.md",
       "first_ticks": 4879639,
       "ticks": 4879639,
@@ -2763,10 +2771,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 10504875,
-      "sent_at": "2026-11-25T14:02:05-0500",
-      "versions": 1114,
-      "bytes": 9899
+      "ticks": 10507178,
+      "sent_at": "2026-11-25T14:07:55-0500",
+      "versions": 1115,
+      "bytes": 6604
     },
     {
       "name": "review-101h06m.md",
@@ -3423,6 +3431,14 @@
       "sent_at": "2026-11-20T10:55:58-0500",
       "versions": 8,
       "bytes": 5864
+    },
+    {
+      "name": "shutdown-145h55m.md",
+      "first_ticks": 10507178,
+      "ticks": 10507178,
+      "sent_at": "2026-11-25T14:07:55-0500",
+      "versions": 1,
+      "bytes": 4951
     },
     {
       "name": "signalum-engine-smelter.md",
