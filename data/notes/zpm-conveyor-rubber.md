@@ -13,3 +13,5 @@ At 128h45m the MV reactor had converted its first 16 buckets of heavy fuel into 
 At 128h51m the distillery finished the sixteen-bucket pilot on program 5. Its output tank held all 800 mB of butadiene. Use the portable tank for this transfer to the rubber reactor. The conveyor hatch had 1,008 of its required 5,760 mB of rubber.
 
 The portable tank delivered the full 800 mB from the still. The HV reactor produced 21 raw rubber dust, all collected by 128h58m. A second sixteen buckets of heavy fuel reached the MV reactor.
+
+At 129h29m the second heavy-fuel lot had passed through the still. Its butadiene reached the HV reactor, where a portable oxygen charge supported another 24 raw rubber dust. The tender collected all 24. The hatch already held 3,600 mB. Two more sulfur batches will cover the remaining 2,160 mB.
