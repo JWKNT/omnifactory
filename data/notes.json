@@ -1035,10 +1035,10 @@
     {
       "name": "fire-water-gallery.md",
       "first_ticks": 9829125,
-      "ticks": 9829125,
-      "sent_at": "2026-11-25T04:38:58-0500",
-      "versions": 1,
-      "bytes": 1825
+      "ticks": 9835993,
+      "sent_at": "2026-11-25T04:44:41-0500",
+      "versions": 2,
+      "bytes": 2307
     },
     {
       "name": "first-argon-campaign.md",
@@ -1131,10 +1131,10 @@
     {
       "name": "first-platinum.md",
       "first_ticks": 1303172,
-      "ticks": 8974519,
-      "sent_at": "2026-11-24T16:46:47-0500",
-      "versions": 6,
-      "bytes": 3556
+      "ticks": 9850385,
+      "sent_at": "2026-11-25T04:56:41-0500",
+      "versions": 7,
+      "bytes": 4650
     },
     {
       "name": "first-power.md",
@@ -2683,10 +2683,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 9829125,
-      "sent_at": "2026-11-25T04:38:58-0500",
-      "versions": 1037,
-      "bytes": 21746
+      "ticks": 9857217,
+      "sent_at": "2026-11-25T05:02:22-0500",
+      "versions": 1039,
+      "bytes": 22252
     },
     {
       "name": "review-101h06m.md",
@@ -3651,10 +3651,10 @@
     {
       "name": "tier-six-thruster-furnaces.md",
       "first_ticks": 9426125,
-      "ticks": 9819562,
-      "sent_at": "2026-11-25T04:31:00-0500",
-      "versions": 6,
-      "bytes": 3136
+      "ticks": 9857217,
+      "sent_at": "2026-11-25T05:02:22-0500",
+      "versions": 7,
+      "bytes": 3495
     },
     {
       "name": "tier-two-miner-order.md",
@@ -3739,10 +3739,10 @@
     {
       "name": "tungsten-power-restart.md",
       "first_ticks": 4726876,
-      "ticks": 9767804,
-      "sent_at": "2026-11-25T03:47:52-0500",
-      "versions": 12,
-      "bytes": 8811
+      "ticks": 9841602,
+      "sent_at": "2026-11-25T04:49:22-0500",
+      "versions": 13,
+      "bytes": 9428
     },
     {
       "name": "tungsten-throughput.md",
