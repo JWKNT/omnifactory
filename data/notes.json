@@ -979,10 +979,10 @@
     {
       "name": "extended-processing-terminal.md",
       "first_ticks": 9042173,
-      "ticks": 9042173,
-      "sent_at": "2026-11-24T17:43:10-0500",
-      "versions": 1,
-      "bytes": 1395
+      "ticks": 10432107,
+      "sent_at": "2026-11-25T13:01:27-0500",
+      "versions": 2,
+      "bytes": 1822
     },
     {
       "name": "extraterrestrial-models.md",
@@ -1219,10 +1219,10 @@
     {
       "name": "first-wetware-assembly.md",
       "first_ticks": 10367409,
-      "ticks": 10403054,
-      "sent_at": "2026-11-25T12:37:14-0500",
-      "versions": 5,
-      "bytes": 3851
+      "ticks": 10432107,
+      "sent_at": "2026-11-25T13:01:27-0500",
+      "versions": 8,
+      "bytes": 6118
     },
     {
       "name": "first-zpm-hull.md",
@@ -1755,10 +1755,10 @@
     {
       "name": "large-projector-diamond-budget.md",
       "first_ticks": 7648267,
-      "ticks": 10387101,
-      "sent_at": "2026-11-25T12:23:57-0500",
-      "versions": 8,
-      "bytes": 5398
+      "ticks": 10417888,
+      "sent_at": "2026-11-25T12:49:36-0500",
+      "versions": 9,
+      "bytes": 5593
     },
     {
       "name": "lathe-order.md",
@@ -2763,10 +2763,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 10405981,
-      "sent_at": "2026-11-25T12:39:41-0500",
-      "versions": 1101,
-      "bytes": 7879
+      "ticks": 10432107,
+      "sent_at": "2026-11-25T13:01:27-0500",
+      "versions": 1104,
+      "bytes": 7852
     },
     {
       "name": "review-101h06m.md",
@@ -4035,10 +4035,10 @@
     {
       "name": "wetware-naquadah-alloy.md",
       "first_ticks": 10127063,
-      "ticks": 10403054,
-      "sent_at": "2026-11-25T12:37:14-0500",
-      "versions": 12,
-      "bytes": 6055
+      "ticks": 10425427,
+      "sent_at": "2026-11-25T12:55:53-0500",
+      "versions": 14,
+      "bytes": 7065
     },
     {
       "name": "wetware-silicone-sheets.md",
