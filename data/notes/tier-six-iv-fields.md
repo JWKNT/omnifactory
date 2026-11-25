@@ -21,3 +21,7 @@ The second Improved Nether Star finished in the HV bath by 134h29m. The first wa
 Both Improved Nether Stars have reached stock. The next blend received its Sterling Silver Dust, and the network accepted all six outstanding Lumium wires. At tick 9,702,000 the fourth furnace was partway through the batch with two blend in the bus and 750 mB mana at the hatch.
 
 At 134h47m the fourth furnace paused 521 ticks into the first 1,837-tick heat. It draws 1,920 EU/t, so a full heat costs 3,527,040 EU. The converter has just one basic cell and holds at most 2,565,536 EU. Fit a second basic capacitor to bring it above five million EU. Its grid recipe takes two lead, one copper, three redstone and one sulfur. ME held one lead ingot and 264 lead dust, so the workshop can make the missing lead without borrowing an Assembly Line battery.
+
+The first Field Generator (IV) reached workshop stock by 135h00m. Two single Lumium wires remained. The second generator still needs two more wires. Six Crystal Circuits and one Improved Nether Star remain from the original batch after the first generator.
+
+At 135h09m storage held both Field Generators (IV) and no loose single Lumium wire. That completes this part of the Tier Six miner. The remaining ship bill includes one more laser array, one guidance system, three resonant thrusters, two fission ports and a fission controller.

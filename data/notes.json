@@ -939,10 +939,10 @@
     {
       "name": "extended-crafting-after-osmium.md",
       "first_ticks": 7201963,
-      "ticks": 9685621,
-      "sent_at": "2026-11-25T02:39:23-0500",
-      "versions": 4,
-      "bytes": 4088
+      "ticks": 9727727,
+      "sent_at": "2026-11-25T03:14:28-0500",
+      "versions": 5,
+      "bytes": 4424
     },
     {
       "name": "extended-processing-terminal.md",
@@ -2611,10 +2611,10 @@
     {
       "name": "refinery-gas-turbine.md",
       "first_ticks": 9103929,
-      "ticks": 9636550,
-      "sent_at": "2026-11-25T01:58:29-0500",
-      "versions": 8,
-      "bytes": 4676
+      "ticks": 9727727,
+      "sent_at": "2026-11-25T03:14:28-0500",
+      "versions": 9,
+      "bytes": 5285
     },
     {
       "name": "refinery-grid.md",
@@ -2667,10 +2667,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 9704036,
-      "sent_at": "2026-11-25T02:54:43-0500",
-      "versions": 1025,
-      "bytes": 21376
+      "ticks": 9731564,
+      "sent_at": "2026-11-25T03:17:40-0500",
+      "versions": 1030,
+      "bytes": 21602
     },
     {
       "name": "review-101h06m.md",
@@ -2807,6 +2807,14 @@
       "sent_at": "2026-11-25T01:15:58-0500",
       "versions": 1,
       "bytes": 2917
+    },
+    {
+      "name": "review-135h07m.md",
+      "first_ticks": 9729361,
+      "ticks": 9729361,
+      "sent_at": "2026-11-25T03:15:50-0500",
+      "versions": 1,
+      "bytes": 3669
     },
     {
       "name": "review-29h49m.md",
@@ -3361,6 +3369,14 @@
       "bytes": 1891
     },
     {
+      "name": "sixth-furnace-hsse.md",
+      "first_ticks": 9722684,
+      "ticks": 9730067,
+      "sent_at": "2026-11-25T03:16:25-0500",
+      "versions": 2,
+      "bytes": 1343
+    },
+    {
       "name": "slot-transfers.md",
       "first_ticks": 961396,
       "ticks": 1917818,
@@ -3603,10 +3619,10 @@
     {
       "name": "tier-six-iv-fields.md",
       "first_ticks": 9578464,
-      "ticks": 9706699,
-      "sent_at": "2026-11-25T02:56:56-0500",
-      "versions": 9,
-      "bytes": 4588
+      "ticks": 9731564,
+      "sent_at": "2026-11-25T03:17:40-0500",
+      "versions": 11,
+      "bytes": 5125
     },
     {
       "name": "tier-six-quantum-chests.md",
@@ -3699,10 +3715,10 @@
     {
       "name": "tungsten-from-cargo.md",
       "first_ticks": 4341114,
-      "ticks": 9704036,
-      "sent_at": "2026-11-25T02:54:43-0500",
-      "versions": 32,
-      "bytes": 17713
+      "ticks": 9720885,
+      "sent_at": "2026-11-25T03:08:46-0500",
+      "versions": 33,
+      "bytes": 18124
     },
     {
       "name": "tungsten-power-restart.md",
