@@ -2707,10 +2707,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 10047838,
-      "sent_at": "2026-11-25T07:41:13-0500",
-      "versions": 1055,
-      "bytes": 24505
+      "ticks": 10057984,
+      "sent_at": "2026-11-25T07:49:41-0500",
+      "versions": 1056,
+      "bytes": 24692
     },
     {
       "name": "review-101h06m.md",
@@ -3931,18 +3931,18 @@
     {
       "name": "wetware-board-capacity.md",
       "first_ticks": 8014502,
-      "ticks": 9992328,
-      "sent_at": "2026-11-25T06:54:58-0500",
-      "versions": 4,
-      "bytes": 4955
+      "ticks": 10057982,
+      "sent_at": "2026-11-25T07:49:41-0500",
+      "versions": 5,
+      "bytes": 5526
     },
     {
       "name": "wetware-camp-supplies.md",
       "first_ticks": 10005526,
-      "ticks": 10038491,
-      "sent_at": "2026-11-25T07:33:26-0500",
-      "versions": 3,
-      "bytes": 2483
+      "ticks": 10067146,
+      "sent_at": "2026-11-25T07:57:19-0500",
+      "versions": 4,
+      "bytes": 3155
     },
     {
       "name": "wireless-storage.md",
@@ -4047,6 +4047,14 @@
       "sent_at": "2026-11-25T06:53:31-0500",
       "versions": 8,
       "bytes": 5641
+    },
+    {
+      "name": "zpm-assembler-power.md",
+      "first_ticks": 10050837,
+      "ticks": 10050837,
+      "sent_at": "2026-11-25T07:43:43-0500",
+      "versions": 1,
+      "bytes": 2102
     },
     {
       "name": "zpm-conveyor-rubber.md",
