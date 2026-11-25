@@ -1,6 +1,8 @@
 # Start here · Astra in progress
 
-This session is playing Astra. At **137h08m**, 432 of 644 chapter quests are complete (434 of 822 database entries), including all 51 Genesis quests. The recorder and the single workshop campaign are running. The process group is in `run/iv-campaign.pgid`. The [137h07m strategic review](review-137h07m.md) is published. The next is due at **139h08m**.
+This session is playing Astra. At **137h21m**, 432 of 644 chapter quests are complete (434 of 822 database entries), including all 51 Genesis quests. The recorder and the single workshop campaign are running. The process group is in `run/iv-campaign.pgid`. The [137h07m strategic review](review-137h07m.md) is published. The next is due at **139h08m**.
+
+The [first Dragon Egg flight](dragon-egg-flight.md) has its plutonium and flux. Stage sixteen Dragon Lair Data and restore a measured four-amp feed to the medium projector before sending the Tier Six miner. The [fuel restart](lapidary-offline-bench.md) used water from the autoclave to make fresh polymer. The dynamos and ME have cycled on and off during recovery. Check actual fuel before loading a power-intensive job.
 
 Both [ZPM pistons](zpm-motion-power.md) and both conveyors reached ME. Each of the two robotic arms still needs two new ZPM motors. Both mainframes are reserved. Page 388 paid an OmniNickel for the [Ultimate Component](extended-crafting-after-osmium.md). Those four components went into the first Ultimate Catalyst and page 387 paid an OmniNickel. The sixth furnace delivered its first [Hot HSS-E Ingot](sixth-furnace-hsse.md). The east freezer accepted the hot-ingot order. Storage reached three cold ingots after that order cleared.
 

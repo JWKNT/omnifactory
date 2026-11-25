@@ -705,6 +705,14 @@
       "bytes": 1567
     },
     {
+      "name": "dragon-egg-flight.md",
+      "first_ticks": 9890499,
+      "ticks": 9899297,
+      "sent_at": "2026-11-25T05:37:26-0500",
+      "versions": 2,
+      "bytes": 2245
+    },
+    {
       "name": "drawer-network.md",
       "first_ticks": 996111,
       "ticks": 1548717,
@@ -1659,10 +1667,10 @@
     {
       "name": "lapidary-offline-bench.md",
       "first_ticks": 9540167,
-      "ticks": 9677557,
-      "sent_at": "2026-11-25T02:32:39-0500",
-      "versions": 15,
-      "bytes": 7819
+      "ticks": 9899297,
+      "sent_at": "2026-11-25T05:37:26-0500",
+      "versions": 17,
+      "bytes": 9805
     },
     {
       "name": "lapidary-output-buffer.md",
@@ -2683,10 +2691,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 9875580,
-      "sent_at": "2026-11-25T05:17:41-0500",
-      "versions": 1040,
-      "bytes": 22336
+      "ticks": 9890499,
+      "sent_at": "2026-11-25T05:30:06-0500",
+      "versions": 1041,
+      "bytes": 22758
     },
     {
       "name": "review-101h06m.md",
