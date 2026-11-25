@@ -1651,10 +1651,10 @@
     {
       "name": "lapidary-offline-bench.md",
       "first_ticks": 9540167,
-      "ticks": 9617465,
-      "sent_at": "2026-11-25T01:42:35-0500",
-      "versions": 9,
-      "bytes": 5148
+      "ticks": 9627647,
+      "sent_at": "2026-11-25T01:51:04-0500",
+      "versions": 12,
+      "bytes": 6868
     },
     {
       "name": "lapidary-output-buffer.md",
@@ -2611,10 +2611,10 @@
     {
       "name": "refinery-gas-turbine.md",
       "first_ticks": 9103929,
-      "ticks": 9616023,
-      "sent_at": "2026-11-25T01:41:23-0500",
-      "versions": 7,
-      "bytes": 4357
+      "ticks": 9636550,
+      "sent_at": "2026-11-25T01:58:29-0500",
+      "versions": 8,
+      "bytes": 4676
     },
     {
       "name": "refinery-grid.md",
@@ -2667,10 +2667,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 9603156,
-      "sent_at": "2026-11-25T01:30:39-0500",
-      "versions": 1015,
-      "bytes": 19784
+      "ticks": 9636550,
+      "sent_at": "2026-11-25T01:58:29-0500",
+      "versions": 1018,
+      "bytes": 20831
     },
     {
       "name": "review-101h06m.md",
@@ -3411,10 +3411,10 @@
     {
       "name": "snad-workshop-parts.md",
       "first_ticks": 9490522,
-      "ticks": 9605693,
-      "sent_at": "2026-11-25T01:32:46-0500",
-      "versions": 3,
-      "bytes": 1669
+      "ticks": 9621716,
+      "sent_at": "2026-11-25T01:46:07-0500",
+      "versions": 4,
+      "bytes": 1911
     },
     {
       "name": "soc-engraver.md",
@@ -3595,18 +3595,18 @@
     {
       "name": "tier-six-enderium.md",
       "first_ticks": 8552099,
-      "ticks": 9611141,
-      "sent_at": "2026-11-25T01:37:19-0500",
-      "versions": 18,
-      "bytes": 10193
+      "ticks": 9631538,
+      "sent_at": "2026-11-25T01:54:18-0500",
+      "versions": 19,
+      "bytes": 10397
     },
     {
       "name": "tier-six-iv-fields.md",
       "first_ticks": 9578464,
-      "ticks": 9609783,
-      "sent_at": "2026-11-25T01:36:11-0500",
-      "versions": 3,
-      "bytes": 2022
+      "ticks": 9636550,
+      "sent_at": "2026-11-25T01:58:29-0500",
+      "versions": 4,
+      "bytes": 2540
     },
     {
       "name": "tier-six-quantum-chests.md",
@@ -3699,10 +3699,10 @@
     {
       "name": "tungsten-from-cargo.md",
       "first_ticks": 4341114,
-      "ticks": 9601758,
-      "sent_at": "2026-11-25T01:29:29-0500",
-      "versions": 26,
-      "bytes": 14806
+      "ticks": 9636550,
+      "sent_at": "2026-11-25T01:58:29-0500",
+      "versions": 28,
+      "bytes": 15469
     },
     {
       "name": "tungsten-power-restart.md",

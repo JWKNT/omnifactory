@@ -61,3 +61,7 @@ Launch a fresh Tier Two tungsten flight. The home workshop has a formed, idle sm
 At 132h52m the new campaign had opened its own fuel-stage record and reached the dinitrogen tetroxide step. The small projector had no rocket fuel in its hatch when staging began. Check the reactor's current reagents and the hatch itself before reporting a launch.
 
 At 133h20m the MV fuel reactor was idle with three Carbon Dust from the previous chloroform recipe in its item output. The fuel tender had been yielding to that finished output on every visit. For the tungsten expedition it now collects the carbon before changing fluids and switching the circuit from 1 to 2 for dinitrogen tetroxide.
+
+The three Carbon Dust, 2,000 mB chlorine and 5,100 mB methane were removed. The reactor then took nitrogen and oxygen and returned eight buckets of nitrogen dioxide to ME. At 133h42m seven buckets remained there. The next reaction uses program 2 and two buckets of nitrogen dioxide per bucket of dinitrogen tetroxide.
+
+At 133h49m the workshop mixer held 2,000 mB dinitrogen tetroxide. The hatch remained empty. For 12,000 mB rocket fuel the other input is 2,000 mB dimethylhydrazine. ME held 76 buckets of methanol and ample hydrogen and nitrogen. Chloramine, dimethylamine and ammonia all measured zero in ME. The reactor has returned to preparing that branch.
