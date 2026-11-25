@@ -707,10 +707,10 @@
     {
       "name": "dragon-egg-flight.md",
       "first_ticks": 9890499,
-      "ticks": 9899297,
-      "sent_at": "2026-11-25T05:37:26-0500",
-      "versions": 2,
-      "bytes": 2245
+      "ticks": 9948827,
+      "sent_at": "2026-11-25T06:18:43-0500",
+      "versions": 4,
+      "bytes": 3450
     },
     {
       "name": "drawer-network.md",
@@ -1667,10 +1667,10 @@
     {
       "name": "lapidary-offline-bench.md",
       "first_ticks": 9540167,
-      "ticks": 9919276,
-      "sent_at": "2026-11-25T05:54:05-0500",
-      "versions": 18,
-      "bytes": 11029
+      "ticks": 9942749,
+      "sent_at": "2026-11-25T06:13:39-0500",
+      "versions": 19,
+      "bytes": 11455
     },
     {
       "name": "lapidary-output-buffer.md",
@@ -1863,6 +1863,14 @@
       "sent_at": "2026-11-21T01:32:08-0500",
       "versions": 2,
       "bytes": 798
+    },
+    {
+      "name": "me-controller-idle.md",
+      "first_ticks": 9948827,
+      "ticks": 9948827,
+      "sent_at": "2026-11-25T06:18:43-0500",
+      "versions": 1,
+      "bytes": 842
     },
     {
       "name": "me-energy-cell.md",
@@ -2691,10 +2699,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 9929428,
-      "sent_at": "2026-11-25T06:02:33-0500",
-      "versions": 1043,
-      "bytes": 23418
+      "ticks": 9948827,
+      "sent_at": "2026-11-25T06:18:43-0500",
+      "versions": 1045,
+      "bytes": 23482
     },
     {
       "name": "review-101h06m.md",
@@ -3907,10 +3915,10 @@
     {
       "name": "wetware-board-capacity.md",
       "first_ticks": 8014502,
-      "ticks": 8014502,
-      "sent_at": "2026-11-24T03:26:47-0500",
-      "versions": 1,
-      "bytes": 1613
+      "ticks": 9939455,
+      "sent_at": "2026-11-25T06:10:54-0500",
+      "versions": 2,
+      "bytes": 3201
     },
     {
       "name": "wireless-storage.md",
