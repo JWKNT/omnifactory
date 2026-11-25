@@ -31,3 +31,5 @@ At 131h13m five Enderium Blend were ready, but the sixth furnace's mana hatch wa
 The MV fluid solidifier cast and returned 64 snowballs from 16 buckets of water using the available ball mold. The next Enderium heats have five blend ready. They share the Primal Mana supply with the fourth furnace.
 
 At 132h06m the miner has 17 of 19 Enderium Heavy Plating. Eight new Tungstencarbide Ingots passed through the network compressor; there are nine ordinary plates including the earlier one. The IV press at (22,86,−17) already returns items through its east ME interface, which had eight open pattern positions. Install its two-plate carbide recipe for both guidance systems.
+
+At 132h15m the IV press had finished an ME order for four Tungsten Carbide Heavy Plating. Its two-plate recipe is installed on the east interface. Three heavy plates, two EV sensors and four Quantumprocessors went into the first Tier Two Guidance System for this miner. The second needs two more heavy plates in addition to the one remaining. There is also one ordinary carbide plate in storage.

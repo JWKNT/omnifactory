@@ -1649,6 +1649,14 @@
       "bytes": 2879
     },
     {
+      "name": "lapidary-offline-bench.md",
+      "first_ticks": 9540167,
+      "ticks": 9545484,
+      "sent_at": "2026-11-25T00:42:36-0500",
+      "versions": 2,
+      "bytes": 1891
+    },
+    {
       "name": "lapidary-output-buffer.md",
       "first_ticks": 9235845,
       "ticks": 9367458,
@@ -2659,10 +2667,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 9514249,
-      "sent_at": "2026-11-25T00:16:34-0500",
-      "versions": 1005,
-      "bytes": 17608
+      "ticks": 9545484,
+      "sent_at": "2026-11-25T00:42:36-0500",
+      "versions": 1008,
+      "bytes": 18978
     },
     {
       "name": "review-101h06m.md",
@@ -3563,10 +3571,18 @@
     {
       "name": "tier-six-enderium.md",
       "first_ticks": 8552099,
-      "ticks": 9512291,
-      "sent_at": "2026-11-25T00:14:56-0500",
-      "versions": 14,
-      "bytes": 8331
+      "ticks": 9522803,
+      "sent_at": "2026-11-25T00:23:42-0500",
+      "versions": 15,
+      "bytes": 8728
+    },
+    {
+      "name": "tier-six-quantum-chests.md",
+      "first_ticks": 9529307,
+      "ticks": 9529307,
+      "sent_at": "2026-11-25T00:29:07-0500",
+      "versions": 1,
+      "bytes": 1354
     },
     {
       "name": "tier-six-thruster-furnaces.md",
@@ -3651,10 +3667,10 @@
     {
       "name": "tungsten-from-cargo.md",
       "first_ticks": 4341114,
-      "ticks": 9481119,
-      "sent_at": "2026-11-24T23:48:57-0500",
-      "versions": 23,
-      "bytes": 13187
+      "ticks": 9532684,
+      "sent_at": "2026-11-25T00:31:56-0500",
+      "versions": 24,
+      "bytes": 14204
     },
     {
       "name": "tungsten-power-restart.md",
