@@ -435,10 +435,10 @@
     {
       "name": "chemical-fluid-storage.md",
       "first_ticks": 2367016,
-      "ticks": 10029131,
-      "sent_at": "2026-11-25T07:25:38-0500",
-      "versions": 5,
-      "bytes": 4750
+      "ticks": 10073884,
+      "sent_at": "2026-11-25T08:02:56-0500",
+      "versions": 6,
+      "bytes": 5066
     },
     {
       "name": "chlorine.md",
@@ -2187,10 +2187,10 @@
     {
       "name": "obsidian.md",
       "first_ticks": 298913,
-      "ticks": 949028,
-      "sent_at": "2026-11-20T01:09:52-0500",
-      "versions": 6,
-      "bytes": 4023
+      "ticks": 10079501,
+      "sent_at": "2026-11-25T08:07:37-0500",
+      "versions": 7,
+      "bytes": 4375
     },
     {
       "name": "oil-drum.md",
@@ -2707,10 +2707,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 10057984,
-      "sent_at": "2026-11-25T07:49:41-0500",
-      "versions": 1056,
-      "bytes": 24692
+      "ticks": 10079503,
+      "sent_at": "2026-11-25T08:07:37-0500",
+      "versions": 1058,
+      "bytes": 24802
     },
     {
       "name": "review-101h06m.md",
@@ -3939,10 +3939,10 @@
     {
       "name": "wetware-camp-supplies.md",
       "first_ticks": 10005526,
-      "ticks": 10067146,
-      "sent_at": "2026-11-25T07:57:19-0500",
-      "versions": 4,
-      "bytes": 3155
+      "ticks": 10079499,
+      "sent_at": "2026-11-25T08:07:36-0500",
+      "versions": 5,
+      "bytes": 3444
     },
     {
       "name": "wireless-storage.md",
@@ -4067,10 +4067,10 @@
     {
       "name": "zpm-motion-power.md",
       "first_ticks": 8658081,
-      "ticks": 10047836,
-      "sent_at": "2026-11-25T07:41:13-0500",
-      "versions": 27,
-      "bytes": 16380
+      "ticks": 10092873,
+      "sent_at": "2026-11-25T08:18:45-0500",
+      "versions": 28,
+      "bytes": 17059
     }
   ]
 }
