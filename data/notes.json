@@ -571,10 +571,10 @@
     {
       "name": "crystal-array-line.md",
       "first_ticks": 8649765,
-      "ticks": 9144345,
-      "sent_at": "2026-11-24T19:08:19-0500",
-      "versions": 9,
-      "bytes": 5071
+      "ticks": 9181289,
+      "sent_at": "2026-11-24T19:39:06-0500",
+      "versions": 10,
+      "bytes": 5506
     },
     {
       "name": "crystal-bay.md",
@@ -1403,10 +1403,10 @@
     {
       "name": "high-power-wafer.md",
       "first_ticks": 8637337,
-      "ticks": 9158474,
-      "sent_at": "2026-11-24T19:20:05-0500",
-      "versions": 4,
-      "bytes": 2707
+      "ticks": 9171390,
+      "sent_at": "2026-11-24T19:30:51-0500",
+      "versions": 6,
+      "bytes": 2996
     },
     {
       "name": "hot-ingot-transfer.md",
@@ -1915,10 +1915,10 @@
     {
       "name": "multilayer-reactor.md",
       "first_ticks": 5912675,
-      "ticks": 9147255,
-      "sent_at": "2026-11-24T19:10:44-0500",
-      "versions": 10,
-      "bytes": 6275
+      "ticks": 9176335,
+      "sent_at": "2026-11-24T19:34:58-0500",
+      "versions": 11,
+      "bytes": 6597
     },
     {
       "name": "mv-alloy-bay.md",
@@ -2563,10 +2563,10 @@
     {
       "name": "refinery-gas-turbine.md",
       "first_ticks": 9103929,
-      "ticks": 9120789,
-      "sent_at": "2026-11-24T18:48:41-0500",
-      "versions": 2,
-      "bytes": 1871
+      "ticks": 9181289,
+      "sent_at": "2026-11-24T19:39:06-0500",
+      "versions": 4,
+      "bytes": 2602
     },
     {
       "name": "refinery-grid.md",
@@ -2619,10 +2619,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 9160533,
-      "sent_at": "2026-11-24T19:21:48-0500",
-      "versions": 955,
-      "bytes": 13121
+      "ticks": 9184513,
+      "sent_at": "2026-11-24T19:41:47-0500",
+      "versions": 961,
+      "bytes": 13285
     },
     {
       "name": "review-101h06m.md",
@@ -3147,10 +3147,10 @@
     {
       "name": "shared-lapidary-fuel.md",
       "first_ticks": 9129060,
-      "ticks": 9162043,
-      "sent_at": "2026-11-24T19:23:04-0500",
-      "versions": 5,
-      "bytes": 2712
+      "ticks": 9184513,
+      "sent_at": "2026-11-24T19:41:47-0500",
+      "versions": 8,
+      "bytes": 3511
     },
     {
       "name": "sheet-return.md",
