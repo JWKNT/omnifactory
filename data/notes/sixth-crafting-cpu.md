@@ -11,3 +11,7 @@ Both Quantum Chests are built. The CPU can now use the same eight-output SoC Mic
 At 134h04m ME and the backpack contained one 1k ME Storage Component and three remaining Red Alloy plates. Two more 1k components need eight plates, so five more plates are due before assembling the 4k component.
 
 At 134h50m two Refined Circuits, three Microcircuits and 72 glass were available, but only the first 1k component was built. There were no loose Red Alloy plates or Redstone Ore and just eleven redstone dust. Five OmniPennies buy 32 Redstone Ore; smelting those yields 192 redstone. The Tier One flight also brings 64 ore, but its launch consumes a ship and uses the projector reserved for tungsten. Reuse the north furnace’s two-ingot red-alloy recipe while the compressor turns the ingots into plates. Aim for 32 plates to cover the CPU and thrusters together.
+
+At 135h39m the three small components had become one 4k ME Storage Component. The roof reactor used 125 mB from a 400 mB sulfuric acid transfer for the plastic board. Four Refined Circuits returned. The Crafting Unit now has four Aluminium Plates, two Fluix Glass Cables and a Logic Processor. Complete two Calculation Processors, then verify the installed CPU count.
+
+At 135h53m three Calculation Processors and a spare printed calculation circuit were in ME. Clearing the old Enderpearl Dust from the clay mill let it grind eight Certus Quartz Crystals for this batch. The outstanding cost of the Crafting Unit is four aluminium plates.

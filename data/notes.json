@@ -2611,10 +2611,10 @@
     {
       "name": "refinery-gas-turbine.md",
       "first_ticks": 9103929,
-      "ticks": 9727727,
-      "sent_at": "2026-11-25T03:14:28-0500",
-      "versions": 9,
-      "bytes": 5285
+      "ticks": 9785205,
+      "sent_at": "2026-11-25T04:02:22-0500",
+      "versions": 10,
+      "bytes": 6018
     },
     {
       "name": "refinery-grid.md",
@@ -2667,10 +2667,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 9757063,
-      "sent_at": "2026-11-25T03:38:55-0500",
-      "versions": 1031,
-      "bytes": 21717
+      "ticks": 9785205,
+      "sent_at": "2026-11-25T04:02:22-0500",
+      "versions": 1034,
+      "bytes": 21958
     },
     {
       "name": "review-101h06m.md",
@@ -3347,10 +3347,10 @@
     {
       "name": "sixth-crafting-cpu.md",
       "first_ticks": 9584363,
-      "ticks": 9710798,
-      "sent_at": "2026-11-25T03:00:21-0500",
-      "versions": 5,
-      "bytes": 2603
+      "ticks": 9785205,
+      "sent_at": "2026-11-25T04:02:22-0500",
+      "versions": 7,
+      "bytes": 3243
     },
     {
       "name": "sixth-furnace-deck.md",
@@ -3371,10 +3371,10 @@
     {
       "name": "sixth-furnace-hsse.md",
       "first_ticks": 9722684,
-      "ticks": 9738550,
-      "sent_at": "2026-11-25T03:23:29-0500",
-      "versions": 3,
-      "bytes": 1730
+      "ticks": 9785205,
+      "sent_at": "2026-11-25T04:02:22-0500",
+      "versions": 4,
+      "bytes": 2034
     },
     {
       "name": "slot-transfers.md",
@@ -3635,10 +3635,10 @@
     {
       "name": "tier-six-thruster-furnaces.md",
       "first_ticks": 9426125,
-      "ticks": 9757063,
-      "sent_at": "2026-11-25T03:38:55-0500",
-      "versions": 4,
-      "bytes": 2431
+      "ticks": 9767804,
+      "sent_at": "2026-11-25T03:47:52-0500",
+      "versions": 5,
+      "bytes": 2612
     },
     {
       "name": "tier-two-miner-order.md",
@@ -3715,18 +3715,18 @@
     {
       "name": "tungsten-from-cargo.md",
       "first_ticks": 4341114,
-      "ticks": 9738550,
-      "sent_at": "2026-11-25T03:23:29-0500",
-      "versions": 34,
-      "bytes": 18591
+      "ticks": 9785205,
+      "sent_at": "2026-11-25T04:02:22-0500",
+      "versions": 37,
+      "bytes": 19872
     },
     {
       "name": "tungsten-power-restart.md",
       "first_ticks": 4726876,
-      "ticks": 9613892,
-      "sent_at": "2026-11-25T01:39:36-0500",
-      "versions": 11,
-      "bytes": 8348
+      "ticks": 9767804,
+      "sent_at": "2026-11-25T03:47:52-0500",
+      "versions": 12,
+      "bytes": 8811
     },
     {
       "name": "tungsten-throughput.md",

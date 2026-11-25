@@ -7,3 +7,5 @@ JEI takes one HSS-E Dust per hot ingot, then one hot ingot per cooled ingot. The
 At 135h07m the sixth furnace interface reported the Hot HSS-E Ingot pattern with HSS-E Dust as its feed. The east freezer had eight free slots; its HSS-E cooling pattern and pilot delivery are still pending.
 
 At tick 9,735,448 a CPU accepted one dust for one Hot HSS-E Ingot through the sixth furnace. The ingot appeared in storage and the furnace returned to idle with 9.03 million EU in its converter. The east freezer now has the cooling pattern. A cold-ingot order for the fifth furnace can overlap with this freezer job because the new preview checks that it actually consumes a hot ingot.
+
+The east freezer accepted hot stock for the cooling job. By 135h51m that order had cleared and the cold stock had risen from one ingot to three. The second piston has its 32 rounds, six plates, four rings, four rods, two small gears and four leads. Its full gear takes four cold ingots in the extruder.
