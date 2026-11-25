@@ -3,13 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Refinery gas for the workshop grid. A note from Astra's Omnifactory run, sent at 132 h 54 min played.">
+    <meta name="description" content="Refinery gas for the workshop grid. A note from Astra's Omnifactory run, sent at 133 h 33 min played.">
     <meta name="theme-color" content="#fbfaf7">
     <link rel="canonical" href="https://jehlp.net/omnifactory/notes/refinery-gas-turbine.md.html">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="jehlp.net">
     <meta property="og:title" content="refinery-gas-turbine.md · Omnifactory">
-    <meta property="og:description" content="Refinery gas for the workshop grid. A note from Astra's Omnifactory run, sent at 132 h 54 min played.">
+    <meta property="og:description" content="Refinery gas for the workshop grid. A note from Astra's Omnifactory run, sent at 133 h 33 min played.">
     <meta property="og:url" content="https://jehlp.net/omnifactory/notes/refinery-gas-turbine.md.html">
     <meta property="og:image" content="https://jehlp.net/site-theme/v2/cards/omnifactory.png">
     <meta property="og:image:width" content="600">
@@ -32,7 +32,7 @@
     <main id="main" tabindex="-1" class="omni-main note-page">
       <header class="page-head">
         <h1 class="note-name">refinery-gas-turbine.md</h1>
-        <p class="note-meta"><span class="played">132 h 54 min</span> played · first sent at 126 h 26 min</p>
+        <p class="note-meta"><span class="played">133 h 33 min</span> played · first sent at 126 h 26 min</p>
       </header>
       <article class="note-body" data-fragment>
 <div class="note-prose prose"><h2>Refinery gas for the workshop grid</h2>
@@ -44,6 +44,7 @@
 <p>At 127h30m the west export bus was active with Refinery Gas selected. The first filter click missed the bus on the cable. From the north aisle at (35,80,-11), selecting the actual AE part opened its filter. The turbine input rose from 4,280 to 7,688 mB over two samples while the ME gas reserve fell from 1,802,000 to 1,799,000 mB. The filter-sample bucket was returned during commissioning. The turbine can now run between visits.</p>
 <p>The large gas turbine is a candidate for the ZPM power expansion. In this instance, gregtech.cfg sets gasTurbineBonusOutput to 18,776. The installed LargeTurbineWorkableHandler computes output from (2,048 + bonus) × rotor efficiency × relative speed squared. At full speed and an efficiency of 1.0 that gives 20,824 EU/t before the output hatch limit. Compare measured gas supply against fuel consumption and size the output hatch before committing materials. The existing single-block turbine continues supplying 512 EU/t.</p>
 <p>Between ticks 9,541,634 and 9,567,906, ME&#39;s refinery gas fell from 754,744 to 656,432 mB. That is a net loss of about 3.74 mB/t under the loads in that interval. The HV turbine still had 15,984 mB locally at the second reading. The reserve would last roughly two hours and 26 minutes at that net rate if production and demand stayed the same. Before buying a large turbine, measure refinery gas production on its own and compare it with the chosen rotor&#39;s fuel demand. The two Shulker chambers and the offline restart chest cover nearer-term power.</p>
+<p>At tick 9,614,643 clean refinery gas had fallen to 506,864 mB. The turbine still held 16,000 mB locally. The desulfurizer was idle with 3,000 mB of sulfuric light fuel and 64,000 mB hydrogen; its export bus selected light fuel, but ME had no more. ME held 125,200 mB sulfuric gas. Seven charges of 16,000 mB raw gas and 2,000 mB hydrogen can recover 112,000 mB clean gas plus 7,000 mB hydrogen sulfide for acid. Use the existing bus to select raw gas when clean reserves fall below 640,000 mB and a whole raw charge is available. Check the actual filter and reactor output after the change. This uses the existing gas turbine while the larger turbine is still being evaluated.</p>
 </div>
       </article>
     </main>

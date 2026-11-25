@@ -1651,10 +1651,10 @@
     {
       "name": "lapidary-offline-bench.md",
       "first_ticks": 9540167,
-      "ticks": 9592123,
-      "sent_at": "2026-11-25T01:21:28-0500",
-      "versions": 5,
-      "bytes": 3137
+      "ticks": 9617465,
+      "sent_at": "2026-11-25T01:42:35-0500",
+      "versions": 9,
+      "bytes": 5148
     },
     {
       "name": "lapidary-output-buffer.md",
@@ -2611,10 +2611,10 @@
     {
       "name": "refinery-gas-turbine.md",
       "first_ticks": 9103929,
-      "ticks": 9569202,
-      "sent_at": "2026-11-25T01:02:22-0500",
-      "versions": 6,
-      "bytes": 3679
+      "ticks": 9616023,
+      "sent_at": "2026-11-25T01:41:23-0500",
+      "versions": 7,
+      "bytes": 4357
     },
     {
       "name": "refinery-grid.md",
@@ -2667,10 +2667,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 9586779,
-      "sent_at": "2026-11-25T01:17:00-0500",
-      "versions": 1013,
-      "bytes": 19481
+      "ticks": 9603156,
+      "sent_at": "2026-11-25T01:30:39-0500",
+      "versions": 1015,
+      "bytes": 19784
     },
     {
       "name": "review-101h06m.md",
@@ -3339,10 +3339,10 @@
     {
       "name": "sixth-crafting-cpu.md",
       "first_ticks": 9584363,
-      "ticks": 9584685,
-      "sent_at": "2026-11-25T01:15:16-0500",
-      "versions": 2,
-      "bytes": 1407
+      "ticks": 9599511,
+      "sent_at": "2026-11-25T01:27:37-0500",
+      "versions": 3,
+      "bytes": 1823
     },
     {
       "name": "sixth-furnace-deck.md",
@@ -3411,10 +3411,10 @@
     {
       "name": "snad-workshop-parts.md",
       "first_ticks": 9490522,
-      "ticks": 9504888,
-      "sent_at": "2026-11-25T00:08:46-0500",
-      "versions": 2,
-      "bytes": 1054
+      "ticks": 9605693,
+      "sent_at": "2026-11-25T01:32:46-0500",
+      "versions": 3,
+      "bytes": 1669
     },
     {
       "name": "soc-engraver.md",
@@ -3595,18 +3595,18 @@
     {
       "name": "tier-six-enderium.md",
       "first_ticks": 8552099,
-      "ticks": 9573768,
-      "sent_at": "2026-11-25T01:06:10-0500",
-      "versions": 17,
-      "bytes": 9714
+      "ticks": 9611141,
+      "sent_at": "2026-11-25T01:37:19-0500",
+      "versions": 18,
+      "bytes": 10193
     },
     {
       "name": "tier-six-iv-fields.md",
       "first_ticks": 9578464,
-      "ticks": 9578464,
-      "sent_at": "2026-11-25T01:10:05-0500",
-      "versions": 1,
-      "bytes": 1318
+      "ticks": 9609783,
+      "sent_at": "2026-11-25T01:36:11-0500",
+      "versions": 3,
+      "bytes": 2022
     },
     {
       "name": "tier-six-quantum-chests.md",
@@ -3699,18 +3699,18 @@
     {
       "name": "tungsten-from-cargo.md",
       "first_ticks": 4341114,
-      "ticks": 9567697,
-      "sent_at": "2026-11-25T01:01:06-0500",
-      "versions": 25,
-      "bytes": 14470
+      "ticks": 9601758,
+      "sent_at": "2026-11-25T01:29:29-0500",
+      "versions": 26,
+      "bytes": 14806
     },
     {
       "name": "tungsten-power-restart.md",
       "first_ticks": 4726876,
-      "ticks": 7354759,
-      "sent_at": "2026-11-23T18:16:57-0500",
-      "versions": 10,
-      "bytes": 7674
+      "ticks": 9613892,
+      "sent_at": "2026-11-25T01:39:36-0500",
+      "versions": 11,
+      "bytes": 8348
     },
     {
       "name": "tungsten-throughput.md",
@@ -3979,10 +3979,10 @@
     {
       "name": "zpm-motion-power.md",
       "first_ticks": 8658081,
-      "ticks": 9465333,
-      "sent_at": "2026-11-24T23:35:48-0500",
-      "versions": 21,
-      "bytes": 13025
+      "ticks": 9607415,
+      "sent_at": "2026-11-25T01:34:12-0500",
+      "versions": 22,
+      "bytes": 13631
     }
   ]
 }

@@ -59,3 +59,5 @@ At 132h22m the shipment has five raw Scheelite Ore, two crushed ore, 28 clean Sc
 Launch a fresh Tier Two tungsten flight. The home workshop has a formed, idle small projector with an empty input bus. The ship, two Quantum Flux and 12,000 mB rocket fuel repeat the proven breeder ore manifest. Keep separate fuel and cargo receipts for this launch. Confirm the returned ores against their own baseline before calling the expedition home. Natural Scheelite veins have no known location in the run and neither mission ore has an OmniCoin recipe.
 
 At 132h52m the new campaign had opened its own fuel-stage record and reached the dinitrogen tetroxide step. The small projector had no rocket fuel in its hatch when staging began. Check the reactor's current reagents and the hatch itself before reporting a launch.
+
+At 133h20m the MV fuel reactor was idle with three Carbon Dust from the previous chloroform recipe in its item output. The fuel tender had been yielding to that finished output on every visit. For the tungsten expedition it now collects the carbon before changing fluids and switching the circuit from 1 to 2 for dinitrogen tetroxide.
