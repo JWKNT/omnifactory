@@ -9,3 +9,5 @@ The player has Snad, the Timer and two drawer templates. At 133h24m there were 2
 The physical stock chest at (12,80,4) still holds seven obsidian from the previous furnace project. With the player's one block this pays for the Void Upgrade immediately. Retrieve those seven before spending polymer on a fresh Blaze batch.
 
 At 134h07m the stock chest had released its seven obsidian and the workshop finished the Void Upgrade. The Timer and Snad are also ready. Only the Vacuum Chest remains. The stock interface at (7,83,6) has Pulsating Dust and the diamond queues have recovered enough to spare one diamond for the autoclave.
+
+At 134h23m page 228 completed and paid one OmniQuarter. One Pulsating Iron Ingot supplied the extractor; 144 mB moved west into the autoclave. It took one diamond at tick 9,675,949. The crystal, seven iron ingots and a chest completed the Vacuum Chest. The book confirmed the reward claimed and the quarter was visible in workshop stock. All four requested items were detected together.
