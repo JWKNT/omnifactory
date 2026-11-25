@@ -15,3 +15,5 @@ At 127h14m the flexible bay received the spare Shulker model and sixteen polymer
 At 127h21m the west generator had 48 queued diamonds, the east had 29 and the workshop still held four diamond blocks. For Crystaltine runs, count the diamonds already in each generator before breaking blocks. When both queues hold at least 24, take up to two ingots’ worth from the fuller queue and leave at least 32 there. Only withdraw once the gold, iron, lapis and star nuggets for the table are ready. This lets the workshop use surplus from either end of the fuel line while keeping the four emergency blocks.
 
 At 127h33m the flexible fabricator had processed its backlog of Shulker matter into diamonds. The west generator held 64 fuel, the east 63, and the workshop had counted 58 loose diamonds as well as the four reserve blocks. The elite table completed the sixth Crystaltine Ingot.
+
+At 127h47m the fourth furnace finished the Lumium for the west Signalum upgrade. Page 261 paid one OmniNickel before installation. The measured west dynamo rating doubled from 7,500 to 15,000 RF/t. The shared fuel feed still supplies both dynamos.
