@@ -1,0 +1,5 @@
+# Fourth simulation chamber
+
+The fourth chamber is at (13,83,7) above the existing vibrant power line. Its trained tier-four Shulker model is installed and produced ordinary and pristine matter. The additional bay keeps the copper and redstone model slot available while two chambers can supply the diamond fabricator.
+
+The new item conduit at (13,84,7) joins the existing pipe above the neighboring chamber. On brown insertion it took the fuel queue from 21 to 64 without a player load. The chamber exposes only model and polymer slots from above. The output slots are on the other faces. Seven pristine accumulated with red extraction enabled on the lid; its extraction cannot reach them. Use the lid for input only. The existing item conduit at (13,83,8) can extract from the chamber's south face on RED. Its north connector is visible from the east aisle at (17,80,8) and from the roof at (12,83,9). The diamond fabricator at (12,82,8) accepts red from above. Verify the pristine stack falls and the fabricator returns diamonds.
