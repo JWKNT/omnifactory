@@ -1,3 +1,5 @@
 # Snad workshop parts for page 228
 
 The quest checks four carried items together and pays an OmniQuarter. The factory had 2,190 sand when Genesis finished. Two Double Compressed Sand use 162 sand for one new Snad. This leaves the boiler timer, brewery crop and bedrock collection equipment in service. The timer needs four stone, four redstone torches and a clock. Four gold ingots and one redstone make the clock. The Vacuum Chest uses seven iron, a chest and one Pulsating Crystal. The workshop's dedicated autoclave can make the crystal. The Void Upgrade needs a drawer template and eight obsidian. Two templates come from eight sticks around a drawer. Reuse the shared obsidian caster after the expedition's snowballs have been collected.
+
+One Pristine Blaze Matter yields 32 Magma Blocks in the Loot Fabricator. The workshop has the Blaze Data Model. Request this output on the rotating chamber when its diamond and copper reserve permit, then cast eight obsidian from the resulting lava. The drawer carpenter can supply the missing template frame.

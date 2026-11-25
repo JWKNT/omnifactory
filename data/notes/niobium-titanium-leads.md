@@ -9,3 +9,5 @@ The mill returned eight crushed ore and three clean dust from the first four ore
 The paired metals took 893 ticks at 1,920 EU/t on the fourth furnace. At 97h25m the freezer had returned both cold niobium-titanium ingots. The combined furnace-and-freezer pattern is now installed at (34,80,−10). The cable wrapper has program 24 and 1,476 mB silicone rubber. The next step is four single wires.
 
 The wrapper returned both insulated leads, and the wiremill converted the other two single wires to eight fine wires. All eight were counted in ME by 97h52m. That covers four batches of the LuV Crystal Circuit recipe.
+
+At 132h08m the arms need two more Energy Flow Circuits. No loose fine Niobium-Titanium Wire or multilayer boards were available, but the factory has 184 Niobium Ore, eight impure dust, 24 tiny piles and two cold Titanium Ingots. Start the metal while the board line is working. Nine tiny piles make one clean dust. Prioritize fine wire for the arms over wrapping spare grid leads.
