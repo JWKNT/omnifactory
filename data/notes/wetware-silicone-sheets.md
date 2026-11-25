@@ -1,0 +1,7 @@
+# Silicone sheets for the Assembly Line
+
+The first Wetware Assembly needs 16 Thin Silicone Rubber Sheets. The array after it takes another 32 and consumes two of the assemblies. The cluster mill makes four thin sheets from one Silicone Rubber Sheet. Cast each ordinary sheet from 144 mB silicone using a plate mold. The Thermal compactor can instead flatten bars, but the stock survey found no bars or sheets. The cable wrapper held 1,680 mB of molten silicone. Use up to one bucket at a visit when the wrapper can retain at least 600 mB for the cable orders.
+
+The established polyethylene, epoxy and PVC casters all have their own mold and a fluid heel. Leave each on its regular material. Use a fourth LV caster at (4,81,-4), directly south of the ME Interface at (4,81,-5). Power it from a fourfold Conductive Iron Cable immediately above, one block west of the measured 32 V feeder. The west aisle is open. Set item output north, enable it and load a plate mold. Inspect the first sheet return through ME. The cluster mill's interface already had four free pattern slots. Add the four-output pattern there.
+
+The caster build needs two LV pumps, two Refined Circuits, two tin cables, a chest, glass and an LV hull. Keep one hull each for the unfinished gemstone engine and the sixth furnace argon inlet until those parts exist. The first mill target is 32 thin sheets. At the survey there were 20 SMD Resistors, 43 Capacitors and 36 RAM. The 16 transistors and four more diodes for the first assembly were still outstanding.
