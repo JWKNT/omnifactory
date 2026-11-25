@@ -15,3 +15,5 @@ At 128h51m the distillery finished the sixteen-bucket pilot on program 5. Its ou
 The portable tank delivered the full 800 mB from the still. The HV reactor produced 21 raw rubber dust, all collected by 128h58m. A second sixteen buckets of heavy fuel reached the MV reactor.
 
 At 129h29m the second heavy-fuel lot had passed through the still. Its butadiene reached the HV reactor, where a portable oxygen charge supported another 24 raw rubber dust. The tender collected all 24. The hatch already held 3,600 mB. Two more sulfur batches will cover the remaining 2,160 mB.
+
+Both remaining sulfur batches reached the Assembly Line fluid hatch. It now holds 6,192 mB, covering both ZPM belts with 432 mB to spare. Recover the extra heavy fuel from the spare still and restore its propene program.

@@ -9,3 +9,5 @@ Bench-test the buffer on the north grate at (21,85,−20) first. Its recipe take
 The first work order in scripts/lapidary_power_buffer.py stages the two parts and reads the fitted buffer. Commissioning still needs a loaded measurement above 8,192 RF/t on the west dynamo, and confirmation that the extraction chamber and both grid branches are receiving power.
 
 At 129h10m the Power Buffer on the north grate reported 7,500 RF/t for its input, output and maximum with a Double-Layer RF Capacitor fitted. That is below even one vibrant conduit. Leave the dynamo connected. Reuse the bench capacitor in the Octadic recipe with a second double-layer capacitor, two Vibrant Alloy Ingots and one block of glowstone, then measure again.
+
+The Octadic RF Capacitor raised measured input and output to 22,500 RF/t on the north test grate. The west dynamo is rated at 15,000. Move the tested buffer above its coil with a spare vibrant conduit available to restore the original connection. Check output above 8,192 RF/t under load after the move.
