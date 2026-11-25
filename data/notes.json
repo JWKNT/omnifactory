@@ -1665,6 +1665,14 @@
       "bytes": 3173
     },
     {
+      "name": "lapotron-crystal.md",
+      "first_ticks": 9788285,
+      "ticks": 9788285,
+      "sent_at": "2026-11-25T04:04:56-0500",
+      "versions": 1,
+      "bytes": 843
+    },
+    {
       "name": "large-projector-diamond-budget.md",
       "first_ticks": 7648267,
       "ticks": 8128482,
@@ -2667,10 +2675,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 9785205,
-      "sent_at": "2026-11-25T04:02:22-0500",
-      "versions": 1034,
-      "bytes": 21958
+      "ticks": 9794190,
+      "sent_at": "2026-11-25T04:09:51-0500",
+      "versions": 1035,
+      "bytes": 21616
     },
     {
       "name": "review-101h06m.md",
@@ -3347,10 +3355,10 @@
     {
       "name": "sixth-crafting-cpu.md",
       "first_ticks": 9584363,
-      "ticks": 9785205,
-      "sent_at": "2026-11-25T04:02:22-0500",
-      "versions": 7,
-      "bytes": 3243
+      "ticks": 9794190,
+      "sent_at": "2026-11-25T04:09:51-0500",
+      "versions": 8,
+      "bytes": 3503
     },
     {
       "name": "sixth-furnace-deck.md",
@@ -3715,10 +3723,10 @@
     {
       "name": "tungsten-from-cargo.md",
       "first_ticks": 4341114,
-      "ticks": 9785205,
-      "sent_at": "2026-11-25T04:02:22-0500",
-      "versions": 37,
-      "bytes": 19872
+      "ticks": 9794190,
+      "sent_at": "2026-11-25T04:09:51-0500",
+      "versions": 38,
+      "bytes": 20097
     },
     {
       "name": "tungsten-power-restart.md",
@@ -3995,10 +4003,10 @@
     {
       "name": "zpm-motion-power.md",
       "first_ticks": 8658081,
-      "ticks": 9704036,
-      "sent_at": "2026-11-25T02:54:43-0500",
-      "versions": 25,
-      "bytes": 15130
+      "ticks": 9794190,
+      "sent_at": "2026-11-25T04:09:51-0500",
+      "versions": 26,
+      "bytes": 15555
     }
   ]
 }

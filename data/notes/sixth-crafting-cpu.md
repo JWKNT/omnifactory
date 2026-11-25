@@ -15,3 +15,5 @@ At 134h50m two Refined Circuits, three Microcircuits and 72 glass were available
 At 135h39m the three small components had become one 4k ME Storage Component. The roof reactor used 125 mB from a 400 mB sulfuric acid transfer for the plastic board. Four Refined Circuits returned. The Crafting Unit now has four Aluminium Plates, two Fluix Glass Cables and a Logic Processor. Complete two Calculation Processors, then verify the installed CPU count.
 
 At 135h53m three Calculation Processors and a spare printed calculation circuit were in ME. Clearing the old Enderpearl Dust from the clay mill let it grind eight Certus Quartz Crystals for this batch. The outstanding cost of the Crafting Unit is four aluminium plates.
+
+At tick 9,790,962 the block above the fluid interface at (13,85,5) read 4k Crafting Storage. ME reported six separate CPUs with capacities 1k, 4k, 4k, 5k, 1k and 1k. The MV and ZPM piston orders both held independent CPUs while the chrome order used a third.

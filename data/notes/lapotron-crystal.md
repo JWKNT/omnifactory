@@ -1,0 +1,5 @@
+# The first Lapotron Crystal
+
+Page 340 pays an OmniNickel for the EV battery. The crafting bench takes six lapis plates, two advanced circuits and an Energy Crystal. Eight lapis plates and seven matching circuits were in storage. Use lapis for this crystal. Lazurite and sodalite plates also work.
+
+The MV mixer recipe works at LV. Nine Ruby Dust and nine redstone make nine Energium Dust. The MV autoclave needs all nine dust and 1,800 mB distilled water. The cargo rubies already being milled for aluminium cover this batch. The tungsten miner has all three thrusters, so its autoclave is free. Run three buckets of ordinary water through the idle MV distillery on program zero. Five cycles of 576 mB produce 2,600 mB distilled water. Return surplus water and restore program seven for propene. Keep the completed battery for later recipes.

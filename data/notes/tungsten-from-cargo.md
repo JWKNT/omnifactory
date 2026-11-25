@@ -83,3 +83,5 @@ At 135h39m five of six Titanium Heavy Plating were in storage. Copper cable held
 At 135h42m all six Titanium Heavy Plating were in stock, along with the eight electrical steel plates needed for the last two thrusters. The autoclave had 288 mB molten Pulsating Iron for the two remaining crystals. The silicone reactor also produced 1,296 mB rubber, enough for the queued copper leads.
 
 At 135h47m all three Electrical Steel Thrusters were in storage. The final ship part is the Advanced Diesel Generator. At 135h51m it had its MV hull, two motors, two full gears, a copper cable and four Microcircuits. The outstanding pair of MV pistons also consumes motors. Six ruby dust give one chrome and two aluminium dust. The gemstone flight still had 42 exquisite rubies when this batch began. Keep sixteen for later use. A 32-ore lot of bauxite costs two nickels and covers two full electrolysis charges plus a remainder.
+
+Both MV pistons returned at 136h00m. The generator now awaits its two replacement MV motors. Two nickels bought 32 bauxite ore. Both bauxite and ruby electrolysis supplied aluminium for these parts and the new crafting CPU.
