@@ -11,3 +11,7 @@ At 127h04m the IV casing and one of its two insulated tungsten cables were ready
 At 127h43m the IV hull had been assembled. Three bare platinum wires and 792 mB silicone rubber covered the two insulated leads. With both mainframe arrays complete, the LuV assembler can run another four-output batch of Crystal Circuits for the two elite circuits the engine smelter needs. Verify delivery of the leads and circuits before placing the smelter.
 
 At 127h52m all four Crystal Circuits and both insulated platinum leads had returned to stock. The complete smelter bill is funded. Its east neighbor is double tungsten cable and the west interface socket is clear. Only three redstone blocks were in stock. Teach a molecular assembler to pack nine redstone per block and request the balance of eight for one core at a time.
+
+At 127h54m the crafting terminal returned the IV alloy smelter. The socket was still empty. Place it, verify power through the east cable and commission the west interface.
+
+At 128h00m the IV smelter stood at (20,86,−19). It had 261,952 of 262,144 EU and reported an 8,192 V input. Its west face accepts items and auto-outputs. The interface socket was still open. Five redstone blocks were ready. The first core can be charged through the machine screen while interface parts are made, provided the north converter has 17 million EU and the line and heavy press are idle.
