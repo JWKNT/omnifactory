@@ -707,10 +707,10 @@
     {
       "name": "draconium-lens-autoclave.md",
       "first_ticks": 8864066,
-      "ticks": 10335293,
-      "sent_at": "2026-11-25T11:40:46-0500",
-      "versions": 6,
-      "bytes": 3723
+      "ticks": 10356492,
+      "sent_at": "2026-11-25T11:58:26-0500",
+      "versions": 8,
+      "bytes": 4599
     },
     {
       "name": "dragon-egg-flight.md",
@@ -795,10 +795,10 @@
     {
       "name": "elemental-fluid-extractor.md",
       "first_ticks": 10249065,
-      "ticks": 10329920,
-      "sent_at": "2026-11-25T11:36:18-0500",
-      "versions": 2,
-      "bytes": 1872
+      "ticks": 10348106,
+      "sent_at": "2026-11-25T11:51:27-0500",
+      "versions": 3,
+      "bytes": 2234
     },
     {
       "name": "elite-mainframe.md",
@@ -1747,10 +1747,10 @@
     {
       "name": "large-projector-diamond-budget.md",
       "first_ticks": 7648267,
-      "ticks": 10319446,
-      "sent_at": "2026-11-25T11:27:34-0500",
-      "versions": 6,
-      "bytes": 4485
+      "ticks": 10343058,
+      "sent_at": "2026-11-25T11:47:14-0500",
+      "versions": 7,
+      "bytes": 4956
     },
     {
       "name": "lathe-order.md",
@@ -2755,10 +2755,10 @@
     {
       "name": "resume.md",
       "first_ticks": 15650,
-      "ticks": 10335997,
-      "sent_at": "2026-11-25T11:41:21-0500",
-      "versions": 1087,
-      "bytes": 6492
+      "ticks": 10360613,
+      "sent_at": "2026-11-25T12:01:52-0500",
+      "versions": 1093,
+      "bytes": 6463
     },
     {
       "name": "review-101h06m.md",
@@ -4011,10 +4011,10 @@
     {
       "name": "wetware-board-capacity.md",
       "first_ticks": 8014502,
-      "ticks": 10335293,
-      "sent_at": "2026-11-25T11:40:46-0500",
-      "versions": 10,
-      "bytes": 7678
+      "ticks": 10360613,
+      "sent_at": "2026-11-25T12:01:52-0500",
+      "versions": 12,
+      "bytes": 8637
     },
     {
       "name": "wetware-camp-supplies.md",
@@ -4027,10 +4027,10 @@
     {
       "name": "wetware-naquadah-alloy.md",
       "first_ticks": 10127063,
-      "ticks": 10329920,
-      "sent_at": "2026-11-25T11:36:18-0500",
-      "versions": 6,
-      "bytes": 3612
+      "ticks": 10356492,
+      "sent_at": "2026-11-25T11:58:26-0500",
+      "versions": 8,
+      "bytes": 4416
     },
     {
       "name": "wireless-storage.md",
@@ -4139,10 +4139,10 @@
     {
       "name": "zpm-assembler-power.md",
       "first_ticks": 10050837,
-      "ticks": 10335997,
-      "sent_at": "2026-11-25T11:41:21-0500",
-      "versions": 11,
-      "bytes": 6459
+      "ticks": 10357215,
+      "sent_at": "2026-11-25T11:59:02-0500",
+      "versions": 14,
+      "bytes": 6934
     },
     {
       "name": "zpm-conveyor-rubber.md",

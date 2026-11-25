@@ -27,3 +27,5 @@ The completed arms left three fully charged reinforced capacitors and one harden
 For the assembler's ME connection, use the top of the solid roof casings at (26,86,-19) and (25,86,-19) and rise at (25,87,-19) to the neighboring live cable. The casing deck and the full interface provide accessible placement faces.
 
 At 143h32m the roof converter held 111.27 million EU. Two resonant cells and one reinforced give 148,548,576 EU capacity. The second resonant kept 90 million RF through both exact-grid upgrades. At 143h33m the fourth slot received a basic capacitor. The readout confirmed 112,788,466 of 151,048,576 EU. Use the stored reading to decide when to turn north and spend one egg.
+
+All three roof cable positions now contain Fluix ME Glass Cable. The interface above the ZPM assembler reports an active network connection. The Yeta Wrench then set delivery down. A second reading showed the interface active with the assembler as its sole target. At 143h50m the interface contained the Wetware Processor pattern with Wetware Circuit Board as a verified input. The first processor run still needs the board, four ASoCs and four single Naquadah Alloy Wires.

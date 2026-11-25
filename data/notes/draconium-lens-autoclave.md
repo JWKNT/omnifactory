@@ -15,3 +15,7 @@ The four chemical dust all reached storage. The sixth furnace and eastern freeze
 Ten more Cryotheum Dust melted into 2,500 mB in the former tin extractor. Read the extractor outlet, ME terminal and freezer inlet before counting how much of this charge is still available. Keep one Cryotheum Dust for the next Signalum capacitor. A dedicated LV extractor at the chemistry interface will remove the container trip.
 
 Seven cold ingots have returned. The freezer received another 5,250 mB and last held 3,750 mB. The final pair needs 4,000 mB total. The autoclave already holds 1,000 mB of Primal Mana. Reserve nine cold ingots for its block.
+
+The EV reactor produced four more Dragon’s Breath. ME committed all four with Manyullyn Dust, and all four dust were accounted for when three were loose and the sixth furnace was heating the fourth. The shared extractor banked the last 250 mB of Cryotheum, bringing the freezer to 4,000 mB. Its diesel neighbor held 16,000 mB. The first of the final two heats showed 1,276 ticks at 1,920 EU/t. Sixty wafers are on hand for the laser after the lens.
+
+All nine cold ingots went into one Draconium Block. The EV autoclave grew its Amethyst Lens in 1,200 ticks at 1,960 EU/t. The IV laser accepted the reusable lens and two Naquadah-doped Wafers. Both ASoC Wafers reached storage, the Emerald Lens went back into the laser, and page 795 paid an OmniNickel at 143h50m. The lubricant cut yields six ASoCs per wafer at 22 mB each. Keep four chips per board for the ZPM assembler.
